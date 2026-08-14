@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 14 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 14 Aug 2026 14:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 17:41:42 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #MINPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
@@ -15,33 +15,11 @@
       <category>Rainfall Advisory</category>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
-      <description><![CDATA[Thunderstorm Advisory No. 5 FINAL #MINPRSD<br /> Issued at 10:00 PM 14 August 2026<br /> <br /> All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
-      <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">aad51292f859cd29a059e919d2d233ae53489a00</guid>
-      <category>Thunderstorm Advisory</category>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
-      <description><![CDATA[Thunderstorm Advisory No. 4 #MINPRSD<br /> Issued at 08:00 PM 14 August 2026<br /> <br /> Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #MisamisOriental(Claveria, Villanueva, Jasaan, Tagoloan), #Bukidnon(ImpasugOng, Sumilao), #AgusanDelSur(CityOfBayugan, Esperanza), #AgusanDelNorte(LasNieves), #SurigaoDelSur(Cortes, Lanuza and CityOfTandag) within the next 1-2 hours.<br /> <br /> The above conditions are being experienced in #Bukidnon(Malitbog and ManoloFortich) which may persist within 1-2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">d6428cd848ca1e6f7e6ad9ab88258c9a6b819e1a</guid>
-      <category>Thunderstorm Advisory</category>
-    </item>
-    <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
-      <description><![CDATA[Thunderstorm Information #MINPRSD<br /> Issued at 11:12 AM 14 August 2026<br /> <br /> Thunderstorm is LESS LIKELY to develop over #MisamisOccidental, #MisamisOriental, #Bukidnon, #Camiguin and #LanaoDelNorte within 12 hours.]]></description>
-      <pubDate>Fri, 14 Aug 2026 03:12:00 +0000</pubDate>
-      <guid isPermaLink="false">ba056da1bd7bcb082884b368df7e23a6521c2cd8</guid>
+      <description><![CDATA[As of today, there is no Thunderstorm Advisory Issued.]]></description>
+      <pubDate>Thu, 13 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c46cce0b8ae4ea87a315e112f0854b2d014a793b</guid>
       <category>Thunderstorm Advisory</category>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 11:59 PM, 14 August, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-DavaoCity-08122026_1786499171.pdf</link>
-      <description><![CDATA[Issued at: 09:45 AM, 12 August, 2026<br />Valid until: 11:59 PM, 14 August, 2026]]></description>
-      <pubDate>Wed, 12 Aug 2026 01:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-DavaoCity-08122026_1786499171.pdf</guid>
-      <category>Special Forecast</category>
     </item>
   </channel>
 </rss>
