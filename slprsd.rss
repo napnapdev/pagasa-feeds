@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 15 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 14 Aug 2026 21:57:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 22:54:23 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #SLPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
@@ -15,10 +15,10 @@
       <category>Rainfall Advisory</category>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 16 #SLPRSD</title>
-      <description><![CDATA[Thunderstorm Advisory No. 16 FINAL #SLPRSD<br /> Issued at 03:50 AM 15 August 2026<br /> <br /> All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
-      <pubDate>Fri, 14 Aug 2026 19:50:00 +0000</pubDate>
-      <guid isPermaLink="false">eda7373f8e62ce5cc04dae1fd15c4abc6a67a4d4</guid>
+      <title>Thunderstorm Advisory #SLPRSD</title>
+      <description><![CDATA[As of today, there is no Thunderstorm Advisory Issued.]]></description>
+      <pubDate>Fri, 14 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f58dbc5278d09ca8d6b29216078fb0bfbc649ad8</guid>
       <category>Thunderstorm Advisory</category>
     </item>
     <item>
