@@ -6,13 +6,27 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 14 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 14 Aug 2026 11:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 14:35:49 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #MINPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
       <pubDate>Thu, 13 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">eb938ec1a5ab3148ff0d961125ba6e955f128c3a</guid>
       <category>Rainfall Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 5 FINAL #MINPRSD<br /> Issued at 10:00 PM 14 August 2026<br /> <br /> All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
+      <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">aad51292f859cd29a059e919d2d233ae53489a00</guid>
+      <category>Thunderstorm Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 4 #MINPRSD<br /> Issued at 08:00 PM 14 August 2026<br /> <br /> Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #MisamisOriental(Claveria, Villanueva, Jasaan, Tagoloan), #Bukidnon(ImpasugOng, Sumilao), #AgusanDelSur(CityOfBayugan, Esperanza), #AgusanDelNorte(LasNieves), #SurigaoDelSur(Cortes, Lanuza and CityOfTandag) within the next 1-2 hours.<br /> <br /> The above conditions are being experienced in #Bukidnon(Malitbog and ManoloFortich) which may persist within 1-2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">d6428cd848ca1e6f7e6ad9ab88258c9a6b819e1a</guid>
+      <category>Thunderstorm Advisory</category>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
