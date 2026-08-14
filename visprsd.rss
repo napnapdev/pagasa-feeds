@@ -5,21 +5,45 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/visprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
-    <pubDate>Fri, 14 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 14 Aug 2026 19:59:12 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:01:14 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #VISPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
-      <pubDate>Fri, 14 Aug 2026 09:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">cac7db7067c20e9013ed8bef3df2822d908077e5</guid>
       <category>Rainfall Advisory</category>
     </item>
     <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description><![CDATA[As of today, there is no Thunderstorm Advisory Issued.]]></description>
-      <pubDate>Fri, 14 Aug 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">b553b1a3a483eece11e2c970d6f331edaaab6a51</guid>
+      <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 4 #VISPRSD<br /> Issued at 04:17 AM 15 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #Guimaras(Jordan, SanLorenzo, Buenavista), #Iloilo(Oton and IloiloCity) within the next 30 minutes to an hour.<br /> <br /> The above conditions are being experienced in #Guimaras(Sibunag and NuevaValencia) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
+      <pubDate>Fri, 14 Aug 2026 20:17:00 +0000</pubDate>
+      <guid isPermaLink="false">abc9acc0a3f4d3e0bcbbcde8aa346fa9a234b4af</guid>
       <category>Thunderstorm Advisory</category>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 16 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SIPALAY_08152026_1786740140.pdf</link>
+      <description><![CDATA[Issued at: 05:00 AM, 15 August, 2026<br />Valid until: 05:00 AM, 16 August, 2026]]></description>
+      <pubDate>Fri, 14 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SIPALAY_08152026_1786740140.pdf</guid>
+      <category>Special Forecast</category>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 16 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08152026_1786740115.pdf</link>
+      <description><![CDATA[Issued at: 05:00 AM, 15 August, 2026<br />Valid until: 05:00 AM, 16 August, 2026]]></description>
+      <pubDate>Fri, 14 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08152026_1786740115.pdf</guid>
+      <category>Special Forecast</category>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 16 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08152026_1786740092.pdf</link>
+      <description><![CDATA[Issued at: 05:00 AM, 15 August, 2026<br />Valid until: 05:00 AM, 16 August, 2026]]></description>
+      <pubDate>Fri, 14 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08152026_1786740092.pdf</guid>
+      <category>Special Forecast</category>
     </item>
   </channel>
 </rss>
