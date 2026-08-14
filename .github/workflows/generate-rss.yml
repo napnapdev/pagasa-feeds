@@ -1,0 +1,86 @@
+name: Generate RSS Feed
+
+on:
+  schedule:
+    # Run hourly, at minute 0 (UTC)
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-rss
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        # PAGASA regional forecast slugs
+        slug:
+          - nlprsd    # Northern Luzon
+          - ncrprsd   # National Capital Region
+          - slprsd    # Southern Luzon
+          - visprsd   # Visayas
+          - minprsd   # Mindanao
+      fail-fast: false
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate feed
+        run: python generate_rss.py ${{ matrix.slug }}
+
+      - name: Upload feed artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: rss-${{ matrix.slug }}
+          path: ${{ matrix.slug }}.rss
+          retention-days: 7
+
+  publish:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout rss-feed branch
+        uses: actions/checkout@v4
+        with:
+          ref: rss-feed
+          fetch-depth: 1
+
+      - name: Download all feeds
+        uses: actions/download-artifact@v4
+        with:
+          path: _artifacts
+
+      - name: Move feeds into place
+        run: |
+          shopt -s nullglob
+          for f in _artifacts/*/*.rss; do
+            cp "$f" "./$(basename "$f")"
+          done
+          rm -rf _artifacts
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -- *.rss
+          if git diff --cached --quiet; then
+            echo "No feed changes to commit."
+          else
+            git commit -m "chore: update RSS feeds [skip ci]"
+            git push
+          fi
