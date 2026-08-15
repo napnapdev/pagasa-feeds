@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 15 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2026 09:55:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 10:50:26 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #NCRPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
@@ -15,10 +15,17 @@
       <category>Rainfall Advisory</category>
     </item>
     <item>
-      <title>Thunderstorm Advisory #NCRPRSD</title>
-      <description><![CDATA[As of today, there is no Thunderstorm Advisory Issued.]]></description>
-      <pubDate>Sat, 15 Aug 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">40763dfe374d2dde8a97c1c065c290041a90f143</guid>
+      <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 4 #NCR_PRSD<br /> Issued at: 6:25 PM, 15 August 2026(Saturday)<br /> <br /> Moderate to heavy rainshowers with lightning and strong winds are expected over Zambales(Palauig, Iba, Masinloc, Santa Cruz, Candelaria), Pampanga(San Fernando, Santo Tomas, Minalin, San Simon, Apalit) and Bulacan(Pulilan, Baliuag, Plaridel, Bustos, Calumpit, Guiguinto, Dona Remedios Trinidad, San Rafael, San Ildefonso, Pandi, Angat) within the next 2 hours.<br /> <br /> The above conditions are being experienced in Bataan(Mariveles, Bagac, Limay, Orion), Cavite(Tanza, Rosario, Cavite City, Noveleta, Kawit, Bacoor), Metro Manila(Paranaque, Manila, Quezon City, Caloocan, Malabon, Navotas, Pasay, San Juan, Valenzuela, Las Pinas), Laguna(Siniloan, Santa Maria, Famy), Rizal(Tanay) and Quezon(Real, Infanta) which may persist within 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
+      <pubDate>Sat, 15 Aug 2026 10:25:00 +0000</pubDate>
+      <guid isPermaLink="false">dbd3cb1488237842804d6faf4fa7582e031ae5b7</guid>
+      <category>Thunderstorm Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 3 #NCR_PRSD<br /> Issued at: 5:58 PM, 15 August 2026(Saturday)<br /> <br /> Moderate to heavy rainshowers with lightning and strong winds are expected over Tarlac(San Jose, Mayantoc), Zambales(Iba, Palauig, Botolan), Pampanga(Candaba, San Luis, San Simon), Bulacan(San Rafael, San Ildefonso) and Quezon(Tagkawayan) within the next 2 hours.<br /> <br /> The above conditions are being experienced in Bataan(Mariveles, Limay) which may persist within 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
+      <pubDate>Sat, 15 Aug 2026 09:58:00 +0000</pubDate>
+      <guid isPermaLink="false">4309864159f116d6845a4a21bf1597c88361e054</guid>
       <category>Thunderstorm Advisory</category>
     </item>
     <item>
