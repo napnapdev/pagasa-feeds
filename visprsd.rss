@@ -6,13 +6,20 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 15 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2026 07:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:02:35 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #VISPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
       <pubDate>Fri, 14 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">cac7db7067c20e9013ed8bef3df2822d908077e5</guid>
       <category>Rainfall Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 12 #VISPRSD<br /> Issued at 03:14 PM 15 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(SanDionisio, Sara, SanJoaquin), #Guimaras(NuevaValencia, Sibunag, Jordan), #Antique(TobiasFornier, AniniY, Hamtic), #Cebu(Moalboal, Alcantara, Ronda and Dumanjug) within the next 30 minutes to an hour.<br /> <br /> The above conditions are being experienced in #OccidentalMindoro(SanJose, Rizal, Calintaan, Sablayan), #Iloilo(Batad, Estancia, Carles, Balasan), #Capiz(PresidentRoxas, Pilar and Pontevedra) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
+      <pubDate>Sat, 15 Aug 2026 07:14:00 +0000</pubDate>
+      <guid isPermaLink="false">e5991a2cd115c546a4a8bc39996481f1e402385c</guid>
+      <category>Thunderstorm Advisory</category>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
