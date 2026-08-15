@@ -6,13 +6,20 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 16 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2026 22:01:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 22:55:38 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #NCRPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
       <pubDate>Sat, 15 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">d5bb367fe0696b91eae1d66f0476efe7946e7220</guid>
       <category>Rainfall Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 7 #NCRPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 7 #NCR_PRSD<br /> Issued at: 6:07 AM, 16 August 2026(Sunday)<br /> <br /> Moderate to heavy rainshowers with lightning and strong winds are expected over Zambales(Santa Cruz, Candelaria, Masinloc) and Bulacan(Norzagaray, San Jose del Monte) within the next 2 hours.<br /> <br /> The above conditions are being experienced in Rizal(Rodriguez, San Mateo, Antipolo, Tanay) and Quezon(General Nakar) which may persist within 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
+      <pubDate>Sat, 15 Aug 2026 22:07:00 +0000</pubDate>
+      <guid isPermaLink="false">5dc1ad53db440dca3bb79209343dc13063500f09</guid>
+      <category>Thunderstorm Advisory</category>
     </item>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
