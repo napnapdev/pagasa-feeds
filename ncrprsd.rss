@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 15 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2026 03:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 04:52:12 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #NCRPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
@@ -15,10 +15,10 @@
       <category>Rainfall Advisory</category>
     </item>
     <item>
-      <title>Thunderstorm Advisory #NCRPRSD</title>
-      <description><![CDATA[As of today, there is no Thunderstorm Advisory Issued.]]></description>
-      <pubDate>Fri, 14 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">40763dfe374d2dde8a97c1c065c290041a90f143</guid>
+      <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 1 #NCR_PRSD<br /> Issued at: 11:20 AM, 15 August 2026(Saturday)<br /> <br /> Moderate to heavy rainshowers with lightning and strong winds are being experienced in Zambales(Santa Cruz) and Quezon(Mauban) which may persist within 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
+      <pubDate>Sat, 15 Aug 2026 03:20:00 +0000</pubDate>
+      <guid isPermaLink="false">e2a6bbd02f0a059c8a006dc2cfebf06286b50b48</guid>
       <category>Thunderstorm Advisory</category>
     </item>
     <item>
