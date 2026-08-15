@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 15 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 14 Aug 2026 23:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 03:03:17 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #SLPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
@@ -16,10 +16,26 @@
     </item>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
-      <description><![CDATA[As of today, there is no Thunderstorm Advisory Issued.]]></description>
-      <pubDate>Fri, 14 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">f58dbc5278d09ca8d6b29216078fb0bfbc649ad8</guid>
+      <description><![CDATA[Thunderstorm Watch #SLPRSD<br /> Issued at 10:00 AM 15 August 2026<br /> <br /> Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.<br /> <br /> The public is advised to continue monitoring for updates.]]></description>
+      <pubDate>Sat, 15 Aug 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">60911e50c4790e7cc3e9d0769d7cd0fc0539f37d</guid>
       <category>Thunderstorm Advisory</category>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 09:00 AM, 16 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_15Aug2026_1786756654.pdf</link>
+      <description><![CDATA[Issued at: 09:00 AM, 15 August, 2026<br />Valid until: 09:00 AM, 16 August, 2026]]></description>
+      <pubDate>Sat, 15 Aug 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_15Aug2026_1786756654.pdf</guid>
+      <category>Special Forecast</category>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 09:00 AM, 16 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_15Aug2026_1786756610.pdf</link>
+      <description><![CDATA[Issued at: 09:00 AM, 15 August, 2026<br />Valid until: 09:00 AM, 16 August, 2026]]></description>
+      <pubDate>Sat, 15 Aug 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_15Aug2026_1786756610.pdf</guid>
+      <category>Special Forecast</category>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 15 August, 2026</title>
