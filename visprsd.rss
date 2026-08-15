@@ -6,13 +6,20 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 15 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2026 14:52:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 15:41:26 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #VISPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
       <pubDate>Sat, 15 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">cac7db7067c20e9013ed8bef3df2822d908077e5</guid>
       <category>Rainfall Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 16 #VISPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 16 #VISPRSD<br /> Issued at 11:10 PM 15 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #OccidentalMindoro(Mamburao, SantaCruz, Sablayan), #Palawan(Coron, Culion, Linapacan, Dumaran, Roxas and Araceli) within the next 30 minutes to an hour.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
+      <pubDate>Sat, 15 Aug 2026 15:10:00 +0000</pubDate>
+      <guid isPermaLink="false">7d8f2c3105a61e6f320d5f004879dd8521e28b0c</guid>
+      <category>Thunderstorm Advisory</category>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -26,13 +33,6 @@
       <description><![CDATA[Thunderstorm Information #VISPRSD<br /> Issued at 10:00 PM 15 August 2026<br /> <br /> Thunderstorm is LESS LIKELY to develop over #Cebu, #Bohol, #Siquijor, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.]]></description>
       <pubDate>Sat, 15 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">01acd750fccd431fe52b43660daae35e40040f02</guid>
-      <category>Thunderstorm Advisory</category>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
-      <description><![CDATA[Thunderstorm Advisory No. 15 #VISPRSD<br /> Issued at 07:51 PM 15 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(PuertoPrincesaCity, Aborlan, Culion and Coron) within the next 30 minutes to an hour.<br /> <br /> The above conditions are being experienced in #OccidentalMindoro(Looc, Lubang, Paluan) and #Palawan(Busuanga) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
-      <pubDate>Sat, 15 Aug 2026 11:51:00 +0000</pubDate>
-      <guid isPermaLink="false">d23999bffa22f10f1eadae151646c19a94b874d5</guid>
       <category>Thunderstorm Advisory</category>
     </item>
     <item>

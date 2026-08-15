@@ -6,13 +6,20 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 15 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2026 14:52:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 15:41:22 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #MINPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
       <pubDate>Sat, 15 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">eb938ec1a5ab3148ff0d961125ba6e955f128c3a</guid>
       <category>Rainfall Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 6 #MINPRSD<br /> Issued at 11:15 PM 15 August 2026<br /> <br /> Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #MisamisOriental(Alubijid, Opol, Kinoguitan, Balingoan, Talisayan, Sugbongcogon, Binuangan), #MisamisOccidental(Plaridel, Baliangao, Calamba, LopezJaena, OroquietaCity, Aloran, SapangDalaga), #SouthCotabato(Tampakan, CityOfKoronadal, Banga, Surallah, Polomolok, T'Boli), #Sarangani(Malungon), #DavaoDelSur(Kiblawan), #ZamboangaDelNorte(Rizal), #DavaoDelNorte(CityOfPanabo, CityOfTagum, Carmen), #DavaoDeOro(Maco, Mabini and Pantukan) within the next 1-2 hours.<br /> <br /> The above conditions are being experienced in #MisamisOriental(CagayanDeOroCity, CityOfElSalvador) and #SouthCotabato(Tupi) which may persist within 1-2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
+      <pubDate>Sat, 15 Aug 2026 15:15:00 +0000</pubDate>
+      <guid isPermaLink="false">adfd1df30de542b06eb707f22794b48b3c92d03c</guid>
+      <category>Thunderstorm Advisory</category>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
