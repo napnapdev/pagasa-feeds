@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 16 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2026 20:50:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 21:41:44 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #VISPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
@@ -50,30 +50,6 @@
       <description><![CDATA[Issued at: 05:00 AM, 16 August, 2026<br />Valid until: 05:00 AM, 17 August, 2026]]></description>
       <pubDate>Sat, 15 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08162026_1786825878.pdf</guid>
-      <category>Special Forecast</category>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 16 August, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SIPALAY_08152026_1786740140.pdf</link>
-      <description><![CDATA[Issued at: 05:00 AM, 15 August, 2026<br />Valid until: 05:00 AM, 16 August, 2026]]></description>
-      <pubDate>Fri, 14 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SIPALAY_08152026_1786740140.pdf</guid>
-      <category>Special Forecast</category>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 16 August, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08152026_1786740115.pdf</link>
-      <description><![CDATA[Issued at: 05:00 AM, 15 August, 2026<br />Valid until: 05:00 AM, 16 August, 2026]]></description>
-      <pubDate>Fri, 14 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08152026_1786740115.pdf</guid>
-      <category>Special Forecast</category>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 16 August, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08152026_1786740092.pdf</link>
-      <description><![CDATA[Issued at: 05:00 AM, 15 August, 2026<br />Valid until: 05:00 AM, 16 August, 2026]]></description>
-      <pubDate>Fri, 14 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08152026_1786740092.pdf</guid>
       <category>Special Forecast</category>
     </item>
   </channel>
