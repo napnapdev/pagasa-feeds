@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 15 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2026 13:45:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 14:52:06 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #MINPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
@@ -15,17 +15,17 @@
       <category>Rainfall Advisory</category>
     </item>
     <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description><![CDATA[Thunderstorm Watch #MINPRSD<br /> Issued at 10:00 PM 15 August 2026<br /> <br /> Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoOriental, #DavaoDeOro and #DavaoOccidental within 12 hours.]]></description>
+      <pubDate>Sat, 15 Aug 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">865f5160570b3ad0b4ef890b3f6d50919b827159</guid>
+      <category>Thunderstorm Advisory</category>
+    </item>
+    <item>
       <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
       <description><![CDATA[Thunderstorm Advisory No. 5 #MINPRSD<br /> Issued at 09:10 PM 15 August 2026<br /> <br /> Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(Lingig), #AgusanDelSur(Prosperidad, SanFrancisco, Rosario, Bunawan, Trento, Talacogon, LaPaz, Loreto, Veruela, SantaJosefa, SanLuis), #Bukidnon(Libona, Malitbog, ImpasugOng, CityOfMalaybalay, Cabanglasan, ManoloFortich), #LanaoDelNorte(Kolambugan, Maigo, Bacolod, Kauswagan, Linamon, SultanNagaDimaporo), #ZamboangaSibugay(Buug), #ZamboangaDelSur(Bayog, Lakewood, Dumingag, Mahayag, Molave, Josefina, Kumalarang, PagadianCity, Dumalinao, Tigbao, Labangan, Tukuran), #ZamboangaDelNorte(SergioOsmeñaSr.), #DavaoDeOro(Laak, Monkayo), #DavaoOriental(Boston), #MisamisOccidental(DonVictorianoChiongbian, Jimenez, Sinacaban, Tudela, Clarin), #LanaoDelSur(Picong), #MisamisOriental(Villanueva, Jasaan, Claveria), #Camiguin(Guinsiliban, Catarman and Sagay) within the next 1-2 hours.<br /> <br /> Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #SurigaoDelSur(Hinatuan, Tagbina, Barobo, CityOfBislig), #MisamisOriental(CagayanDeOroCity, Balingasag, Tagoloan), #LanaoDelNorte(IliganCity, Tagoloan, Baloi, Matungao) and #Bukidnon(Sumilao) which may persist within 1-2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
       <pubDate>Sat, 15 Aug 2026 13:10:00 +0000</pubDate>
       <guid isPermaLink="false">5b5a5e97f2f3c3e7030f4f43b9ba50d0a9c43c48</guid>
-      <category>Thunderstorm Advisory</category>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
-      <description><![CDATA[Thunderstorm Advisory No. 4 #MINPRSD<br /> Issued at 07:10 PM 15 August 2026<br /> <br /> Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Bukidnon(Lantapan, CityOfValencia, CityOfMalaybalay, ImpasugOng, Cabanglasan, Baungon, Sumilao, Libona, SanFernando, Malitbog, ManoloFortich), #ZamboangaDelSur(Dumingag, Molave, Josefina, Mahayag, Tambulig, Midsalip, Sominot, RamonMagsaysay, Aurora), #SurigaoDelSur(Lanuza, Barobo, CityOfTandag, Tago, Marihatag, Cagwait, Bayabas, SanAgustin, Tagbina, Hinatuan, CityOfBislig, Lingig), #DavaoDelNorte(Kapalong), #ZamboangaDelNorte(SergioOsmeñaSr., Siayan, Manukan, Pres.ManuelA.Roxas, Katipunan), #MisamisOccidental, #AgusanDelSur(SantaJosefa, Veruela, Trento, Loreto, Bunawan, LaPaz, Rosario, SanLuis, Talacogon, Prosperidad, SanFrancisco), #SouthCotabato(T'Boli), #MisamisOriental(GingoogCity and Claveria) within the next 1-2 hours.<br /> <br /> Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #SurigaoDelSur(SanMiguel, Lianga), #AgusanDelNorte(ButuanCity, LasNieves, Buenavista), #AgusanDelSur(CityOfBayugan, Sibagat, Esperanza) and #MisamisOriental(CagayanDeOroCity) which may persist within 1-2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
-      <pubDate>Sat, 15 Aug 2026 11:10:00 +0000</pubDate>
-      <guid isPermaLink="false">da28a4c65fb9fe1b1c1910975ffad12094d68e91</guid>
       <category>Thunderstorm Advisory</category>
     </item>
   </channel>
