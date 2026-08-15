@@ -6,13 +6,20 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 15 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2026 16:59:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 17:46:14 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #MINPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
       <pubDate>Sat, 15 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">eb938ec1a5ab3148ff0d961125ba6e955f128c3a</guid>
       <category>Rainfall Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 7 FINAL #MINPRSD<br /> Issued at 01:00 AM 16 August 2026<br /> <br /> All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
+      <pubDate>Sat, 15 Aug 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">28983664b98d4e003b1dc74fbbe7a54fce51befe</guid>
+      <category>Thunderstorm Advisory</category>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
