@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 16 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 16 Aug 2026 00:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 03:28:55 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #MINPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
@@ -16,9 +16,9 @@
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
-      <description><![CDATA[Thunderstorm Watch #MINPRSD<br /> Issued at 10:00 PM 15 August 2026<br /> <br /> Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoOriental, #DavaoDeOro and #DavaoOccidental within 12 hours.]]></description>
-      <pubDate>Sat, 15 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">865f5160570b3ad0b4ef890b3f6d50919b827159</guid>
+      <description><![CDATA[As of today, there is no Thunderstorm Advisory Issued.]]></description>
+      <pubDate>Sat, 15 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c46cce0b8ae4ea87a315e112f0854b2d014a793b</guid>
       <category>Thunderstorm Advisory</category>
     </item>
   </channel>
