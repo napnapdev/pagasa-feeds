@@ -6,13 +6,27 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 16 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 16 Aug 2026 07:48:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 09:01:22 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #VISPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
       <pubDate>Sat, 15 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">cac7db7067c20e9013ed8bef3df2822d908077e5</guid>
       <category>Rainfall Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 12 #VISPRSD<br /> Issued at 04:05 PM 16 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Iloilo(Carles, Balasan, Estancia and Batad) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
+      <pubDate>Sun, 16 Aug 2026 08:05:00 +0000</pubDate>
+      <guid isPermaLink="false">8aa97bb71a9a2fd904d95d8cbed33f949c622d2e</guid>
+      <category>Thunderstorm Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 11 #VISPRSD<br /> Issued at 04:03 PM 16 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Iloilo(Batad and SanDionisio) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
+      <pubDate>Sun, 16 Aug 2026 08:03:00 +0000</pubDate>
+      <guid isPermaLink="false">db2fd0dd715119a9c32856f26a7df91b41e013b0</guid>
+      <category>Thunderstorm Advisory</category>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
@@ -33,13 +47,6 @@
       <description><![CDATA[Thunderstorm Advisory No. 8 #VISPRSD<br /> Issued at 02:01 PM 16 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(Candoni, Ilog, CityOfSipalay), #NegrosOriental(CityOfTanjay, BaisCity), #Iloilo(Estancia and Balasan) within the next 30 minutes to an hour.<br /> <br /> The above conditions are being experienced in #NegrosOccidental(HinobaAn), #NegrosOriental(CityOfBayawan), #Capiz(Pilar) and #Iloilo(Carles) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
       <pubDate>Sun, 16 Aug 2026 06:01:00 +0000</pubDate>
       <guid isPermaLink="false">daabdd0312b541b6fe5a98da1a29172b0321bf2a</guid>
-      <category>Thunderstorm Advisory</category>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
-      <description><![CDATA[Thunderstorm Advisory No. 7 #VISPRSD<br /> Issued at 01:08 PM 16 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Igbaras and Guimbal) within the next 30 minutes to an hour.<br /> <br /> The above conditions are being experienced in #OccidentalMindoro(Sablayan), #Antique(Sibalom), #Iloilo(Miagao) and #Capiz(Panay) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
-      <pubDate>Sun, 16 Aug 2026 05:08:00 +0000</pubDate>
-      <guid isPermaLink="false">925e4f1855a9db95ab02d16c994b19de89c75528</guid>
       <category>Thunderstorm Advisory</category>
     </item>
     <item>
