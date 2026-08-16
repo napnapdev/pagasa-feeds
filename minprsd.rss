@@ -6,13 +6,20 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 16 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 16 Aug 2026 13:46:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 14:52:50 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #MINPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
       <pubDate>Sun, 16 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">eb938ec1a5ab3148ff0d961125ba6e955f128c3a</guid>
       <category>Rainfall Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 4 #MINPRSD<br /> Issued at 10:00 PM 16 August 2026<br /> <br /> Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Bukidnon(ManoloFortich, ImpasugOng, Baungon, Libona, Pangantucan, Maramag, Lantapan, CityOfValencia, CityOfMalaybalay), #DavaoDelNorte(CityOfPanabo, Carmen, CityOfTagum), #DavaoDeOro(Mabini, Maco, Pantukan), #DavaoCity, #MisamisOccidental(OroquietaCity, Plaridel, LopezJaena, Aloran, Panaon, Jimenez), #AgusanDelSur(LaPaz), #MisamisOriental(Balingasag, Jasaan, Claveria, Tagoloan, Villanueva, Initao, Naawan, Manticao, Libertad, Gitagum, Laguindingan and Alubijid) within the next 1-2 hours.<br /> <br /> The above conditions are being experienced in #Bukidnon(Sumilao, Malitbog) and #DavaoDelNorte(CityOfSamal) which may persist within 1-2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.<br /> <br /> Keep monitoring for updates.]]></description>
+      <pubDate>Sun, 16 Aug 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">491e1c31c1dc0ef15a881fb387eccb5a1feee2d0</guid>
+      <category>Thunderstorm Advisory</category>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>

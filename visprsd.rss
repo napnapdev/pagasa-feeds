@@ -6,13 +6,20 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 16 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 16 Aug 2026 13:46:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 14:52:53 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #VISPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
       <pubDate>Sun, 16 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">cac7db7067c20e9013ed8bef3df2822d908077e5</guid>
       <category>Rainfall Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description><![CDATA[Thunderstorm Watch #VISPRSD<br /> Issued at 10:00 PM 16 August 2026<br /> <br /> Thunderstorm is MORE LIKELY to develop over #NegrosOccidental, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #OccidentalMindoro and #Palawan within 12 hours.<br /> <br /> All are advised to continue monitoring for updates.]]></description>
+      <pubDate>Sun, 16 Aug 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">f51c967227a54031f7fdb35c0ab424a3d25f14e9</guid>
+      <category>Thunderstorm Advisory</category>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
