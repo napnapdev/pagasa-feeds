@@ -6,13 +6,34 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 16 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 16 Aug 2026 06:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:48:52 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #VISPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
       <pubDate>Sat, 15 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="false">cac7db7067c20e9013ed8bef3df2822d908077e5</guid>
       <category>Rainfall Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 10 #VISPRSD<br /> Issued at 03:13 PM 16 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #Guimaras(SanLorenzo) within the next 30 minutes to an hour.<br /> <br /> The above conditions are being experienced in #Guimaras(Sibunag) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
+      <pubDate>Sun, 16 Aug 2026 07:13:00 +0000</pubDate>
+      <guid isPermaLink="false">2239aa307ef6b5def273b877b9aa8ebb91f616bb</guid>
+      <category>Thunderstorm Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 9 #VISPRSD<br /> Issued at 02:40 PM 16 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(PresidentRoxas) and #Guimaras(NuevaValencia) within the next 30 minutes to an hour.<br /> <br /> The above conditions are being experienced in #Capiz(Pontevedra) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
+      <pubDate>Sun, 16 Aug 2026 06:40:00 +0000</pubDate>
+      <guid isPermaLink="false">416ff08de9c80d106e4172dbfb6bf887645b7f27</guid>
+      <category>Thunderstorm Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 8 #VISPRSD<br /> Issued at 02:01 PM 16 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(Candoni, Ilog, CityOfSipalay), #NegrosOriental(CityOfTanjay, BaisCity), #Iloilo(Estancia and Balasan) within the next 30 minutes to an hour.<br /> <br /> The above conditions are being experienced in #NegrosOccidental(HinobaAn), #NegrosOriental(CityOfBayawan), #Capiz(Pilar) and #Iloilo(Carles) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
+      <pubDate>Sun, 16 Aug 2026 06:01:00 +0000</pubDate>
+      <guid isPermaLink="false">daabdd0312b541b6fe5a98da1a29172b0321bf2a</guid>
+      <category>Thunderstorm Advisory</category>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
