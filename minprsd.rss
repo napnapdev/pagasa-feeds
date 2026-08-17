@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 16 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2026 00:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 03:29:30 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #MINPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
@@ -16,9 +16,16 @@
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
-      <description><![CDATA[As of today, there is no Thunderstorm Advisory Issued.]]></description>
-      <pubDate>Sun, 16 Aug 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">c46cce0b8ae4ea87a315e112f0854b2d014a793b</guid>
+      <description><![CDATA[Thunderstorm Information #MINPRSD<br /> Issued at 10:00 AM 17 August 2026<br /> <br /> Thunderstorm is LESS LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.]]></description>
+      <pubDate>Mon, 17 Aug 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">8aa1b7e07881cfadcb2db0d1a8fb74856bd4e6aa</guid>
+      <category>Thunderstorm Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description><![CDATA[Thunderstorm Watch #MINPRSD<br /> Issued at 10:00 AM 17 August 2026<br /> <br /> Thunderstorm is MORE LIKELY to develop over #MisamisOccidental, #MisamisOriental, #Bukidnon, #Camiguin and #LanaoDelNorte within 12 hours.]]></description>
+      <pubDate>Mon, 17 Aug 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">30ad9a3c707009e10ed35aea4fed2bf246fa757c</guid>
       <category>Thunderstorm Advisory</category>
     </item>
     <item>
