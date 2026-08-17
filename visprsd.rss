@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 16 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 16 Aug 2026 23:39:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 00:00:42 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #VISPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
@@ -27,37 +27,6 @@
       <pubDate>Sun, 16 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">322ae94deffd6ba9c51b0e8743d30ff6debd4c9e</guid>
       <category>Thunderstorm Advisory</category>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
-      <description><![CDATA[Thunderstorm Advisory No. 14 #VISPRSD<br /> Issued at 07:48 PM 16 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #OccidentalMindoro(Sablayan, Calintaan, Rizal, Magsaysay and SanJose) within the next 30 minutes to an hour.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
-      <pubDate>Sun, 16 Aug 2026 11:48:00 +0000</pubDate>
-      <guid isPermaLink="false">6f521b43cef9c7e5f0ac141323db3e2808b7fee8</guid>
-      <category>Thunderstorm Advisory</category>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 17 August, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SIPALAY_08162026_1786826193.pdf</link>
-      <description><![CDATA[Issued at: 05:00 AM, 16 August, 2026<br />Valid until: 05:00 AM, 17 August, 2026]]></description>
-      <pubDate>Sat, 15 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SIPALAY_08162026_1786826193.pdf</guid>
-      <category>Special Forecast</category>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 17 August, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08162026_1786826175.pdf</link>
-      <description><![CDATA[Issued at: 05:00 AM, 16 August, 2026<br />Valid until: 05:00 AM, 17 August, 2026]]></description>
-      <pubDate>Sat, 15 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08162026_1786826175.pdf</guid>
-      <category>Special Forecast</category>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 17 August, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08162026_1786825878.pdf</link>
-      <description><![CDATA[Issued at: 05:00 AM, 16 August, 2026<br />Valid until: 05:00 AM, 17 August, 2026]]></description>
-      <pubDate>Sat, 15 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08162026_1786825878.pdf</guid>
-      <category>Special Forecast</category>
     </item>
   </channel>
 </rss>
