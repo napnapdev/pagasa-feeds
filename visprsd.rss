@@ -6,13 +6,20 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 16 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2026 03:29:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 05:22:50 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory #VISPRSD</title>
       <description><![CDATA[As of today, there is no Heavy Rainfall Warning Issued.]]></description>
       <pubDate>Sun, 16 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">cac7db7067c20e9013ed8bef3df2822d908077e5</guid>
       <category>Rainfall Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 9 #VISPRSD<br /> Issued at 11:43 AM 17 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(Bugasong, LauaAn, Valderrama), #Iloilo(Maasin, Alimodian, Leon, Tubungan, Tigbauan), #NegrosOccidental(MoisesPadilla) and #Palawan(Cagayancillo) within the next 1 to 2 hours.<br /> <br /> The above conditions are being experienced in #Antique(SanRemigio), #Iloilo(Igbaras, Guimbal), #Guimaras(NuevaValencia) and #NegrosOccidental(Isabela) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
+      <pubDate>Mon, 17 Aug 2026 03:43:00 +0000</pubDate>
+      <guid isPermaLink="false">48b5bd545a1ac6c24303c5678909287badc28c64</guid>
+      <category>Thunderstorm Advisory</category>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
@@ -26,20 +33,6 @@
       <description><![CDATA[Thunderstorm Watch #VISPRSD<br /> Issued at 10:00 AM 17 August 2026<br /> <br /> Thunderstorm is MORE LIKELY to develop over #NegrosOccidental, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #OccidentalMindoro, #Palawan, #Cebu, #Bohol, #Siquijor, #NegrosOriental, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.<br /> <br /> All are advised to continue monitoring for updates.]]></description>
       <pubDate>Mon, 17 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">84901493bd0db768d00bdbf12abf4bb91541017d</guid>
-      <category>Thunderstorm Advisory</category>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
-      <description><![CDATA[Thunderstorm Advisory No. 7 #VISPRSD<br /> Issued at 09:50 AM 17 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Ajuy), #NegrosOccidental(Manapla, CityOfKabankalan, Ilog, CityOfSipalay), #OccidentalMindoro(Sablayan, Lubang, Looc, Paluan, AbraDeIlog, Mamburao and SantaCruz) within the next 30 minutes to an hour.<br /> <br /> The above conditions are being experienced in #Capiz(Tapaz), #NegrosOccidental(CityOfVictorias, EnriqueB.Magalona, Cauayan, Candoni, HinobaAn), #Palawan(Busuanga, Coron), #OccidentalMindoro(Calintaan, Rizal, SanJose and Magsaysay) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
-      <pubDate>Mon, 17 Aug 2026 01:50:00 +0000</pubDate>
-      <guid isPermaLink="false">fa91bef0311148cff97e8ab1d42324004b627a43</guid>
-      <category>Thunderstorm Advisory</category>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
-      <description><![CDATA[Thunderstorm Advisory No. 6 #VISPRSD<br /> Issued at 08:52 AM 17 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Tubungan, Pavia, SanMiguel, BarotacNuevo) and #NegrosOccidental(BagoCity) within the next 30 minutes to an hour.<br /> <br /> The above conditions are being experienced in #Antique(Barbaza, LauaAn, Bugasong, Valderrama, SanRemigio), #Guimaras(Sibunag), #Iloilo(Igbaras, Tigbauan, Oton, IloiloCity, Dumangas) and #NegrosOccidental(Pulupandan) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
-      <pubDate>Mon, 17 Aug 2026 00:52:00 +0000</pubDate>
-      <guid isPermaLink="false">93649f87fbc19791b4e685840280f413bdf124e0</guid>
       <category>Thunderstorm Advisory</category>
     </item>
   </channel>
