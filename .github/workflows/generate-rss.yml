@@ -2,7 +2,9 @@ name: Generate RSS Feed
 
 on:
   schedule:
-    # Run hourly, at minute 0 (UTC)
+    # Run every 15 minutes. NOTE: GitHub's scheduled workflows are BEST-EFFORT
+    # and can be delayed a few minutes during peak load. Offset minutes (07/22/
+    # 37/52) avoid the congested :00/:15 boundaries for better reliability.
     - cron: "7,22,37,52 * * * *"
   workflow_dispatch: {}
 
@@ -29,10 +31,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -44,7 +46,7 @@ jobs:
         run: python generate_rss.py ${{ matrix.slug }}
 
       - name: Upload feed artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: rss-${{ matrix.slug }}
           path: ${{ matrix.slug }}.rss
@@ -55,13 +57,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout rss-feed branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: rss-feed
           fetch-depth: 1
 
       - name: Download all feeds
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v6
         with:
           path: _artifacts
 
