@@ -63,7 +63,7 @@ jobs:
           fetch-depth: 1
 
       - name: Download all feeds
-        uses: actions/download-artifact@v6
+        uses: actions/download-artifact@v7
         with:
           path: _artifacts
 
