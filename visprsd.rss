@@ -6,6 +6,37 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 19 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 19 Aug 2026 21:03:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:59:25 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
+      <description><![CDATA[Thunderstorm Advisory No. 1 #VISPRSD<br /> Issued at 05:42 AM 20 August 2026<br /> <br /> Moderate to Heavy rainshowers with lightning and strong winds are expected over #OccidentalMindoro(AbraDeIlog and SantaCruz) within the next 30 minutes to an hour.<br /> <br /> The above conditions are being experienced in #OccidentalMindoro(Paluan and Mamburao) which may persist within 1 to 2 hours and may affect nearby areas.<br /> <br /> All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.]]></description>
+      <pubDate>Wed, 19 Aug 2026 21:42:01 +0000</pubDate>
+      <guid isPermaLink="false">ddadf1d04f8593f6e0417d2d19e8028f1dd33937</guid>
+      <category>Thunderstorm Advisory</category>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 21 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08202026_1787174499.pdf</link>
+      <description><![CDATA[Issued at: 05:00 AM, 20 August, 2026<br />Valid until: 05:00 AM, 21 August, 2026]]></description>
+      <pubDate>Wed, 19 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08202026_1787174499.pdf</guid>
+      <category>Special Forecast</category>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 21 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SIPALAY_08202026_1787174465.pdf</link>
+      <description><![CDATA[Issued at: 05:00 AM, 20 August, 2026<br />Valid until: 05:00 AM, 21 August, 2026]]></description>
+      <pubDate>Wed, 19 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SIPALAY_08202026_1787174465.pdf</guid>
+      <category>Special Forecast</category>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 21 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08202026_1787174451.pdf</link>
+      <description><![CDATA[Issued at: 05:00 AM, 20 August, 2026<br />Valid until: 05:00 AM, 21 August, 2026]]></description>
+      <pubDate>Wed, 19 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08202026_1787174451.pdf</guid>
+      <category>Special Forecast</category>
+    </item>
   </channel>
 </rss>
