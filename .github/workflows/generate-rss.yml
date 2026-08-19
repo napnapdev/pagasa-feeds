@@ -2,9 +2,7 @@ name: Generate RSS Feed
 
 on:
   schedule:
-    # Run every 15 minutes. NOTE: GitHub's scheduled workflows are BEST-EFFORT
-    # and can be delayed a few minutes during peak load. Offset minutes (07/22/
-    # 37/52) avoid the congested :00/:15 boundaries for better reliability.
+    # Every 15 min (off-peak minutes for reliability; GitHub cron is best-effort).
     - cron: "7,22,37,52 * * * *"
   workflow_dispatch: {}
 
@@ -20,7 +18,6 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        # PAGASA regional forecast slugs
         slug:
           - nlprsd    # Northern Luzon
           - ncrprsd   # National Capital Region
@@ -56,26 +53,47 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout rss-feed branch
+      # Scripts (generate/merge) live on the default branch.
+      - name: Checkout scripts (main)
+        uses: actions/checkout@v5
+        with:
+          path: main
+
+      # Previously-published feeds live on the rss-feed branch.
+      - name: Checkout published feeds (rss-feed)
         uses: actions/checkout@v5
         with:
           ref: rss-feed
+          path: feed
           fetch-depth: 1
 
-      - name: Download all feeds
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install lxml (for merge)
+        run: pip install "lxml>=5.0"
+
+      - name: Download freshly-scraped feeds
         uses: actions/download-artifact@v7
         with:
           path: _artifacts
 
-      - name: Move feeds into place
+      - name: Merge (retain superseded advisories for 24h)
         run: |
           shopt -s nullglob
           for f in _artifacts/*/*.rss; do
-            cp "$f" "./$(basename "$f")"
+            slug="$(basename "$f" .rss)"
+            old="feed/${slug}.rss"
+            # If no prior feed exists yet, treat empty as first run.
+            if [ ! -f "$old" ]; then old="/dev/null"; fi
+            python main/merge_feeds.py "$old" "$f" "feed/${slug}.rss" --hours 24
           done
           rm -rf _artifacts
 
       - name: Commit and push
+        working-directory: feed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -83,6 +101,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No feed changes to commit."
           else
-            git commit -m "chore: update RSS feeds [skip ci]"
+            git commit -m "chore: update RSS feeds (24h retain) [skip ci]"
             git push
           fi
