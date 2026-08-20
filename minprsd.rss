@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 20 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 19:43:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:01:32 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 9 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 9 FINAL #MINPRSD&lt;br /&gt; Issued at 04:00 AM 21 August 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 20 Aug 2026 20:00:09 +0000</pubDate>
+      <guid isPermaLink="false">697d16459361639b9273b002d8ab12bac0205954</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 21:01:43 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 8 #MINPRSD&lt;br /&gt; Issued at 01:30 AM 21 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #MisamisOccidental(OroquietaCity, LopezJaena, Aloran, Panaon, Jimenez, Sinacaban, Tudela, Clarin, OzamisCity), #SurigaoDelNorte, #AgusanDelNorte(Jabonga, Kitcharao, Santiago, Tubay, CityOfCabadbaran, Carmen, LasNieves), #MisamisOriental(Magsaysay), #NorthCotabato(Libungan, Pigkawayan, Midsayap, Alamada), #SurigaoDelSur(SanAgustin, Lianga, Marihatag, Bayabas, Cagwait, Barobo), #AgusanDelSur(Sibagat) and #MaguindanaoDelNorte(NorthernKabuntalan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #AgusanDelNorte(Nasipit, Buenavista, ButuanCity, RemediosT.Romualdez and Magallanes) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -86,7 +94,7 @@
       <pubDate>Sun, 16 Aug 2026 10:13:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LiloyZDN-08162026_1786875292.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 19:44:17 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 21:01:43 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
