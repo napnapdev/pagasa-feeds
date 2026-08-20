@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 20 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 09:18:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:57:20 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 9 #NCRPRSD</title>
       <description>Rainfall Advisory No. 9-Final #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 5:00 PM, 20 August 2026(Thursday)&lt;br /&gt; &lt;br /&gt; All Rainfall Advisory over NCR-PRSD forecast area are now TERMINATED.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Thu, 20 Aug 2026 09:00:09 +0000</pubDate>
       <guid isPermaLink="false">a11fd4e894d3e2460d6ef45931be96b7a711a108</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 10:57:34 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 9 #NCRPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Thu, 20 Aug 2026 08:53:09 +0000</pubDate>
       <guid isPermaLink="false">09fdb06845d5fa744f579c3aab1090e88abbabc6</guid>
       <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 10:57:34 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
@@ -78,7 +78,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 10:57:34 +0000</ns2:seen>
     </item>
   </channel>
 </rss>

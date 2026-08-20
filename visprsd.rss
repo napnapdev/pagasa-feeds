@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 20 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 09:18:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:57:22 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 06:47 PM 20 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #EasternSamar(Quinapondan, Hernani, GeneralMacarthur and Giporlos) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(CityOfKabankalan, Ilog, HinobaAn, Candoni, CityOfHimamaylan, Binalbagan), #EasternSamar(Guiuan, Mercedes and Salcedo) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Thu, 20 Aug 2026 10:47:13 +0000</pubDate>
+      <guid isPermaLink="false">bb7654fa74a8f02764a98350cacfc5470d281b35</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 10:57:34 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 12 #VISPRSD&lt;br /&gt; Issued at 05:07 PM 20 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Bingawan, CityOfPassi, SanRafael, BarotacViejo, Ajuy), #Antique(SanRemigio, Valderrama), #NegrosOccidental(CityOfSipalay, Cauayan) and #Palawan(Rizal) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Pilar, MaAyon, PresidentRoxas, Cuartero, Dumarao, Dumalag), #Iloilo(Balasan, Carles, Estancia, Batad, Sara, Concepcion, SanDionisio, Lemery), #Antique(LauaAn, Tibiao), #Guimaras(NuevaValencia) and #Palawan(Bataraza) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Thu, 20 Aug 2026 09:07:12 +0000</pubDate>
       <guid isPermaLink="false">f05de40a12600826bc7da22533fe4025c0580884</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 10:57:34 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Thu, 20 Aug 2026 08:04:11 +0000</pubDate>
       <guid isPermaLink="false">1302eb1116d340f610cc5627816ba18701acc353</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 10:57:34 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
@@ -93,7 +101,7 @@
       <pubDate>Thu, 20 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">503e1efc8af8f4da7b30aedc9fc1d9d7714dc5ec</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 10:57:34 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
@@ -118,7 +126,7 @@
       <pubDate>Wed, 19 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08202026_1787174499.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 10:57:34 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 21 August, 2026</title>
@@ -127,7 +135,7 @@
       <pubDate>Wed, 19 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SIPALAY_08202026_1787174465.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns6:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 10:57:34 +0000</ns5:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 21 August, 2026</title>
@@ -136,7 +144,7 @@
       <pubDate>Wed, 19 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08202026_1787174451.pdf</guid>
       <category>Special Forecast</category>
-      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns7:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 10:57:34 +0000</ns6:seen>
     </item>
   </channel>
 </rss>
