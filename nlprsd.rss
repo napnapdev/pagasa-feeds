@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 20 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 12:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:19:25 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 92 #NLPRSD</title>
+      <description>Rainfall Advisory No. 92 #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 08:00 PM 20 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Batanes(Basco, Ivana, Mahatao, Sabtang, Uyugan), #Apayao(Pudtol, Luna), #Cagayan(Pamplona, SanchezMira, Claveria, SantaPraxedes), #IlocosNorte(Pagudpud, NuevaEra, Solsona, Marcos, Dingras, Banna, Pasuquin, Burgos, Bacarra, LaoagCity, Sarrat, SanNicolas, CityOfBatac, Currimao, Paoay, Pinili, Badoc) and #Abra(Tineg) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Batanes(Itbayat), #Apayao(Calanasan, Kabugao), #IlocosNorte(Vintar, Adams, Dumalneg, Bangui, Piddig and Carasi) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 20 Aug 2026 12:01:32 +0000</pubDate>
+      <guid isPermaLink="false">d558a3ad8f9206dd996033971d9e1249e6de46f5</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 14:19:49 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 91 #NLPRSD</title>
       <description>Rainfall Advisory No. 91 #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 05:00 PM 20 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Pangasinan(Bolinao, Bani, Anda, Agno, Burgos, CityOfAlaminos, Sual, Labrador, Lingayen, Bugallon, Aguilar, Mangatarem), #Benguet(Mankayan, Bakun, Buguias, Bokod, Itogon, Tublay, Sablan, Tuba, LaTrinidad, BaguioCity), #IlocosSur(Suyo, SantaCruz, SantaLucia, Galimuyod, CityOfCandon, Tagudin, Alilem, SanEmilio, Quirino, Cervantes, CityOfVigan, Caoayan, Santa, SantoDomingo, SantaCatalina, SanVicente, SanIldefonso, Bantay, Narvacan, SantaMaria, SanEsteban, Santiago, Burgos, Lidlidda, Banayoyo, Magsingal, SanJuan, Cabugao, Sinait, Nagbukel), #Abra(SanQuintin, Langiden, Pidigan, Bangued, SanIsidro, Pilar, Peñarrubia, Villaviciosa), #Cagayan(Calayan), #IlocosNorte(Badoc, Pinili, CityOfBatac, Paoay and Currimao) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Pangasinan(Infanta, Dasol, Mabini), #Benguet(Atok, Kapangan, Kabayan, Kibungan), #IlocosSur(Sigay, GregorioDelPilar, Salcedo) and #Batanes which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -37,7 +45,7 @@
       <pubDate>Thu, 20 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">c276218daad15c4866b732eb4304137e0d327a08</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 12:02:02 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 14:19:49 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 88 #NLPRSD</title>
