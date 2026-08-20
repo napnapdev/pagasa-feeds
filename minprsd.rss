@@ -6,14 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 20 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 19 Aug 2026 22:59:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 00:12:11 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 11:59 PM, 22 August, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LiloyZDN-08162026_1786875292.pdf</link>
-      <description><![CDATA[Issued at: 06:13 PM, 16 August, 2026<br />Valid until: 11:59 PM, 22 August, 2026]]></description>
+      <description>Issued at: 06:13 PM, 16 August, 2026&lt;br /&gt;Valid until: 11:59 PM, 22 August, 2026</description>
       <pubDate>Sun, 16 Aug 2026 10:13:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LiloyZDN-08162026_1786875292.pdf</guid>
       <category>Special Forecast</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 00:12:27 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
