@@ -5,15 +5,31 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/ncrprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
-    <pubDate>Thu, 20 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 07:29:33 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:18:44 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 9 #NCRPRSD</title>
+      <description>Rainfall Advisory No. 9-Final #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 5:00 PM, 20 August 2026(Thursday)&lt;br /&gt; &lt;br /&gt; All Rainfall Advisory over NCR-PRSD forecast area are now TERMINATED.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
+      <pubDate>Thu, 20 Aug 2026 09:00:09 +0000</pubDate>
+      <guid isPermaLink="false">a11fd4e894d3e2460d6ef45931be96b7a711a108</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Rainfall Advisory No. 9 #NCRPRSD</title>
+      <description>Rainfall Advisory No. 9-Final #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 4:53 PM, 20 August 2026(Thursday)&lt;br /&gt; &lt;br /&gt; All Rainfall Advisory over NCR-PRSD forecast area are now TERMINATED.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
+      <pubDate>Thu, 20 Aug 2026 08:53:09 +0000</pubDate>
+      <guid isPermaLink="false">09fdb06845d5fa744f579c3aab1090e88abbabc6</guid>
+      <category>Rainfall Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 2:25 PM, 20 August 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Rizal(Rodriguez, Antipolo, Tanay) and Quezon(General Nakar, Panukulan, Burdeos) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in Bulacan(Dona Remedios Trinidad, San Miguel) and Nueva Ecija(General Tinio, Lupao, Carranglan, San Jose, Pantabangan) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Thu, 20 Aug 2026 06:25:03 +0000</pubDate>
       <guid isPermaLink="false">c39ae7deb75bc5e74ca025a26bf80ac2b471f11d</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 07:29:53 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 8 #NCRPRSD</title>
@@ -62,7 +78,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 07:29:53 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
