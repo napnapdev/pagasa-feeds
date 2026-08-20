@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 20 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 00:12:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:14:54 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 7 #NCRPRSD</title>
+      <description>Rainfall Advisory No. 7 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 11:00 AM, 20 August 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Bataan, Pampanga, Tarlac, Nueva Ecija, Quezon(General Nakar, Panukulan, Polillo) and Rizal(Rodriguez).&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Bulacan(Dona Remedios Trinidad, San Miguel) and Zambales(Iba, Palauig, Masinloc, Candelaria, Santa Cruz) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
+      <pubDate>Thu, 20 Aug 2026 03:00:07 +0000</pubDate>
+      <guid isPermaLink="false">433d5113bebc43c5a28bb39b8bf6284a6bbc349a</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 03:15:11 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 6 #NCRPRSD</title>
       <description>Rainfall Advisory No. 6 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 8:00 AM, 20 August 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Bulacan, Tarlac, Bataan, Laguna(San Pablo, Alaminos, Calauan, Bay, Los Banos, Rizal, Nagcarlan, Victoria, Calamba, Cabuyao, Santa Rosa, Liliw, Magdalena, Majayjay, Pila, Santa Cruz, Santa Maria, Famy, Siniloan, Mabitac), Rizal(Antipolo, San Mateo, Tanay, Baras, Rodriguez, Cainta, Taytay, Teresa, Morong, Angono, Pililla), Metro Manila(Marikina, Manila, Caloocan, Malabon, Valenzuela, Navotas, San Juan, Mandaluyong, Quezon City, Pasig, Makati, Pateros) and Cavite(Alfonso, Magallanes, General Emilio Aguinaldo, Tagaytay, Maragondon, Ternate, Mendez, Indang, Amadeo, Silang).&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Zambales(Botolan, San Marcelino), Nueva Ecija(Lupao, San Jose, Pantabangan, Munoz), Quezon(General Nakar), Pampanga(Floridablanca, Porac) and Batangas(Taal, Santa Teresita, San Nicolas, San Luis, Lemery, Agoncillo, Calaca, Balayan, Tuy, Lian, Calatagan, Tingloy) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -38,7 +46,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 00:12:27 +0000</ns3:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 03:15:11 +0000</ns1:seen>
     </item>
   </channel>
 </rss>

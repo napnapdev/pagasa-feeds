@@ -6,7 +6,25 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 20 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 00:12:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:14:57 +0000</lastBuildDate>
+    <item>
+      <title>Special Forecast: Valid until: 09:00 AM, 21 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_20Aug2026_1787190522.pdf</link>
+      <description>Issued at: 09:00 AM, 20 August, 2026&lt;br /&gt;Valid until: 09:00 AM, 21 August, 2026</description>
+      <pubDate>Thu, 20 Aug 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_20Aug2026_1787190522.pdf</guid>
+      <category>Special Forecast</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 03:15:11 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 09:00 AM, 21 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_20Aug2026_1787190477.pdf</link>
+      <description>Issued at: 09:00 AM, 20 August, 2026&lt;br /&gt;Valid until: 09:00 AM, 21 August, 2026</description>
+      <pubDate>Thu, 20 Aug 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_20Aug2026_1787190477.pdf</guid>
+      <category>Special Forecast</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 03:15:11 +0000</ns1:seen>
+    </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 20 August, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_19Aug2026_1787145832.pdf</link>
@@ -14,7 +32,7 @@
       <pubDate>Wed, 19 Aug 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_19Aug2026_1787145832.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 00:12:27 +0000</ns0:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 03:15:11 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 20 August, 2026</title>
@@ -23,7 +41,7 @@
       <pubDate>Wed, 19 Aug 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_19Aug2026_1787145740.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 00:12:27 +0000</ns1:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 03:15:11 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 20 August, 2026</title>
