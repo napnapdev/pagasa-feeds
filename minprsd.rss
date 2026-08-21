@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 21 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 12:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:09:01 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 8 #MINPRSD&lt;br /&gt; Issued at 09:30 PM 21 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #DavaoCity, #DavaoDelSur, #SouthCotabato, #DavaoOccidental, #Sarangani, #SultanKudarat(Bagumbayan, Sen.NinoyAquino, Palimbang, CityOfTacurong, Isulan, Columbio, Lutayan and Kalamansig) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 21 Aug 2026 13:30:08 +0000</pubDate>
+      <guid isPermaLink="false">5baac8f732774b0ed9d84afbadeb876e4c7b4016</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 14:09:21 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 7 #MINPRSD&lt;br /&gt; Issued at 07:30 PM 21 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #DavaoDelSur(Sulop, Hagonoy, Padada, CityOfDigos, SantaCruz, Kiblawan, Matanao, Magsaysay, Bansalan), #DavaoCity, #DavaoOriental(SanIsidro, GovernorGeneroso, Lupon, Banaybanay), #DavaoDeOro(Pantukan), #DavaoDelNorte(CityOfSamal), #SultanKudarat, #SouthCotabato, #Sarangani(Maitum, Kiamba, Maasim, Malungon, Alabel, Malapatan), #MaguindanaoDelSur(DatuPaglas, Mangudadatu, Buluan, Paglat, Pandag, Gen.S.K.Pendatun), #NorthCotabato(Tulunan), #Sulu and #TawiTawi within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DavaoOccidental(Malita, SantaMaria) and #DavaoDelSur(Malalag) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Fri, 21 Aug 2026 11:30:07 +0000</pubDate>
       <guid isPermaLink="false">db350ec06faf717530e38c3610d90255aef3b7a4</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 12:03:07 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 14:09:21 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
@@ -118,7 +126,7 @@
       <pubDate>Sun, 16 Aug 2026 10:13:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LiloyZDN-08162026_1786875292.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 12:03:07 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 14:09:21 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
