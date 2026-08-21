@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 21 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 14:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:59:39 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 8 #MINPRSD&lt;br /&gt; Issued at 09:30 PM 21 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #DavaoCity, #DavaoDelSur, #SouthCotabato, #DavaoOccidental, #Sarangani, #SultanKudarat(Bagumbayan, Sen.NinoyAquino, Palimbang, CityOfTacurong, Isulan, Columbio, Lutayan and Kalamansig) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Fri, 21 Aug 2026 13:30:08 +0000</pubDate>
       <guid isPermaLink="false">5baac8f732774b0ed9d84afbadeb876e4c7b4016</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 14:09:21 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 15:59:56 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
@@ -112,21 +112,13 @@
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 16:01:30 +0000</ns1:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #MINPRSD&lt;br /&gt; Issued at 07:30 PM 20 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Bukidnon(SanFernando, Talakag, Baungon, Libona, ManoloFortich, Sumilao, Kadingilan, Kitaotao, Dangcagan, Kibawe), #DavaoDelNorte(Kapalong, Talaingod, SanIsidro, Asuncion), #DavaoDeOro(Laak, Monkayo, Montevista), #DavaoOriental(Boston) and #LanaoDelSur(Bumbaran) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelSur(Hinatuan, Tagbina, Barobo, Lianga, CityOfBislig, Lingig), #AgusanDelSur(Prosperidad, SanFrancisco, Rosario, Bunawan, SanLuis, Talacogon, LaPaz, Loreto, Veruela, SantaJosefa, Trento, Esperanza, CityOfBayugan), #Bukidnon(Quezon, Kalilangan, Pangantucan, Maramag, DonCarlos, ImpasugOng, CityOfMalaybalay, Cabanglasan, Lantapan, CityOfValencia) and #LanaoDelSur(Wao) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 20 Aug 2026 11:30:05 +0000</pubDate>
-      <guid isPermaLink="false">599a155da0882b47b5f4c1c87790db996fdfccac</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 14:19:49 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: Valid until: 11:59 PM, 22 August, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LiloyZDN-08162026_1786875292.pdf</link>
       <description>Issued at: 06:13 PM, 16 August, 2026&lt;br /&gt;Valid until: 11:59 PM, 22 August, 2026</description>
       <pubDate>Sun, 16 Aug 2026 10:13:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LiloyZDN-08162026_1786875292.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 14:09:21 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 15:59:56 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
