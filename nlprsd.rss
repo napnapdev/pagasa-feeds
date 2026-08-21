@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 21 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 11:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:02:55 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 99 #NLPRSD</title>
       <description>Rainfall Advisory No. 99 #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 05:00 PM 21 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Benguet(Bokod, Buguias, Itogon, Kabayan, Mankayan, Tuba), #IlocosSur(Alilem, Suyo, Tagudin), #LaUnion(Bangar, Luna, Balaoan, SanGabriel, Santol, SanJuan, Bacnotan, Bagulin, CityOfSanFernando, Naguilian, Bauang, Burgos), #IlocosNorte, #Apayao(Calanasan, Luna, SantaMarcela, Pudtol, Kabugao), #Cagayan(Claveria, SantaPraxedes, SanchezMira, Pamplona, Abulug, Aparri, Ballesteros) and #Abra(Tineg) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Batanes, #Cagayan(Calayan), #Benguet(Atok, BaguioCity, Bakun, Kapangan, Kibungan, LaTrinidad, Sablan, Tublay), #IlocosSur(Sugpon) and #LaUnion(Sudipen) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -37,7 +37,7 @@
       <pubDate>Fri, 21 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">fb4b15267d53e9819c82dac37bcad174f8f08397</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 11:03:54 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 12:03:07 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
@@ -45,7 +45,7 @@
       <pubDate>Fri, 21 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">a89f7633caabf08d65e7d3cafdf81aa1bb978a80</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 11:03:54 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 12:03:07 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 95 #NLPRSD</title>
