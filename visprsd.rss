@@ -5,15 +5,42 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/visprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
-    <pubDate>Fri, 21 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 19:56:56 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:58:57 +0000</lastBuildDate>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 23 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SIPALAY_08222026_1787345209.pdf</link>
+      <description>Issued at: 05:00 AM, 22 August, 2026&lt;br /&gt;Valid until: 05:00 AM, 23 August, 2026</description>
+      <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SIPALAY_08222026_1787345209.pdf</guid>
+      <category>Special Forecast</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 20:59:11 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 23 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08222026_1787345186.pdf</link>
+      <description>Issued at: 05:00 AM, 22 August, 2026&lt;br /&gt;Valid until: 05:00 AM, 23 August, 2026</description>
+      <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08222026_1787345186.pdf</guid>
+      <category>Special Forecast</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 20:59:11 +0000</ns2:seen>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 23 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08222026_1787345160.pdf</link>
+      <description>Issued at: 05:00 AM, 22 August, 2026&lt;br /&gt;Valid until: 05:00 AM, 23 August, 2026</description>
+      <pubDate>Fri, 21 Aug 2026 21:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08222026_1787345160.pdf</guid>
+      <category>Special Forecast</category>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 20:59:11 +0000</ns3:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 21 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Palawan, #OccidentalMindoro, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #Cebu, #Bohol, #Siquijor, #NegrosOriental, #NegrosOccidental, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
       <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">cd44dec8630586f93c2859c827b0504242aea79d</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 19:57:16 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 20:59:11 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
@@ -94,7 +121,7 @@
       <pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SIPALAY_08212026_1787258722.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 19:57:16 +0000</ns1:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 20:59:11 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 22 August, 2026</title>
@@ -103,7 +130,7 @@
       <pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08212026_1787258677.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 19:57:16 +0000</ns2:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 20:59:11 +0000</ns5:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 22 August, 2026</title>
@@ -112,7 +139,7 @@
       <pubDate>Thu, 20 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08212026_1787258650.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 19:57:16 +0000</ns3:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 20:59:11 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
