@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 21 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 05:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:56:08 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #NCR_PRSD&lt;br /&gt; Issued at: 3:00 PM, 21 August 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Nueva Ecija(Pantabangan, Palayan, Cabanatuan, Llanera, Rizal, Laur, Bongabon, Talavera, San Jose, Santa Rosa, General Mamerto Natividad) within the next 3 hours.&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are being experienced in Tarlac(Tarlac City) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 21 Aug 2026 07:00:01 +0000</pubDate>
+      <guid isPermaLink="false">17e0646f72a26247eb12d1995c192d7c1bd0ac89</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 07:56:35 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 4-Final #NCR_PRSD&lt;br /&gt; Issued at: 12:40 AM, 21 August 2026(Friday)&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisory over NCR-PRSD forecast area are now TERMINATED. However, all are still advised to continue monitoring for updates.</description>
@@ -48,21 +56,13 @@
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 09:18:59 +0000</ns2:seen>
     </item>
     <item>
-      <title>Rainfall Advisory No. 8 #NCRPRSD</title>
-      <description>Rainfall Advisory No. 8 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 2:00 PM, 20 August 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Tarlac(San Jose, Capas, Bamban) and Pampanga(Porac, Angeles, Mabalacat).&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Zambales(Botolan, Cabangan, Iba) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 5:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Thu, 20 Aug 2026 06:00:08 +0000</pubDate>
-      <guid isPermaLink="false">26bc1a090b1e5afc4922e309bc3df3cc6ec992cb</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 07:29:53 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 05:17:37 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 07:56:35 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
