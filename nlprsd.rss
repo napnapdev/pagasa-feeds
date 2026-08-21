@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 21 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 15:59:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:49:11 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 101 #NLPRSD</title>
       <description>Rainfall Advisory No. 101 #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 11:00 PM 21 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #IlocosNorte, #Cagayan(Calayan), #IlocosSur, #Pangasinan(Aguilar, Alcala, Asingan, Balungao, Basista, Bautista, Bayambang, Binalonan, Binmaley, Bugallon, Calasiao, DagupanCity, Lingayen, Malasiqui, Manaoag, Mangaldan, Mangatarem, Mapandan, Natividad, Pozorrubio, Rosales, SanCarlosCity, SanFabian, SanJacinto, SanManuel, SanNicolas, SanQuintin, SantaBarbara, SantaMaria, SantoTomas, Sison, Tayug, Umingan, Urbiztondo, CityOfUrdaneta, Villasis, Laoac), #LaUnion, #Abra and #Benguet within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Batanes, #Pangasinan(Agno, CityOfAlaminos, Anda, Bani, Bolinao, Burgos, Dasol, Infanta, Labrador, Mabini and Sual) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Fri, 21 Aug 2026 15:01:41 +0000</pubDate>
       <guid isPermaLink="false">ceea93d8870c2e17e2c1817ef09188425c9ffd05</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 15:59:56 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 17:49:26 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Fri, 21 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">79daf86e88fe1069849c479784253e78bcb2294a</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 15:59:56 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 17:49:26 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 100 #NLPRSD</title>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">28dd080da67c717fdb18f1ff98e5c728f59ee5fb</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 19:44:17 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 93 #NLPRSD</title>
-      <description>Rainfall Advisory No. 93 #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 11:00 PM 20 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Batanes(Basco, Ivana, Mahatao, Sabtang, Uyugan), #Abra(Tineg, Lagayan, Danglas, Langiden, Bangued, LaPaz, SanQuintin, Pidigan), #IlocosSur(Sinait, CityOfVigan, Magsingal, SantoDomingo, SanVicente, SanIldefonso, Bantay, SantaCatalina, Caoayan, Santa), #IlocosNorte(Badoc, CityOfBatac, Currimao, Dingras, Banna, LaoagCity, Marcos, NuevaEra, Paoay, Pinili, SanNicolas, Sarrat, Solsona, Burgos, Pasuquin, Bacarra), #Cagayan(Calayan, SantaAna, Gonzaga, LalLo and SantaTeresita) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Batanes(Itbayat), #IlocosSur(SanJuan and Cabugao) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 20 Aug 2026 15:01:33 +0000</pubDate>
-      <guid isPermaLink="false">037a8ce515434e053a27bd5762ad7d897ccb4f6d</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 20 Aug 2026 17:49:06 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
