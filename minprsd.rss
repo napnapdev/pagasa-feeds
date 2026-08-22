@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 22 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 22 Aug 2026 03:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 05:01:02 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 22 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #MisamisOccidental, #MisamisOriental, #Camiguin, #Bukidnon, #LanaoDelNorte, #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
       <pubDate>Sat, 22 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">52115a48f70501ae255516989575b6d77491dc00</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 03:11:21 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 05:01:29 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
@@ -94,7 +94,7 @@
       <pubDate>Sun, 16 Aug 2026 10:13:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LiloyZDN-08162026_1786875292.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 03:11:21 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 05:01:29 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
