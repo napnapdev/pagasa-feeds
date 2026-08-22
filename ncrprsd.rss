@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 22 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 22 Aug 2026 05:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:00:31 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 1:00 PM, 22 August 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Zambales, Metro Manila(Quezon City, Caloocan, Navotas, Valenzuela, Malabon), Bataan(Bagac, Dinalupihan, Hermosa, Morong, Orani, Samal, Balanga, Abucay), Pampanga(Masantol, Macabebe, Sasmuan, Lubao, Floridablanca, Porac, Mabalacat, Angeles, Candaba), Tarlac(Concepcion, Tarlac City, San Jose, Bamban, Capas, Mayantoc, San Clemente, Camiling, Santa Ignacia), Quezon(Tayabas, Lucena, Pagbilao, Padre Burgos, Atimonan, Sariaya) and Rizal(Rodriguez) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in Bulacan(Bulakan, Obando, Meycauayan, Bocaue, Marilao) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sat, 22 Aug 2026 05:00:02 +0000</pubDate>
       <guid isPermaLink="false">f3b3a62930d7747c3ee611007f6a2f2425ad7901</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 05:01:29 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 06:00:50 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Sat, 22 Aug 2026 04:00:01 +0000</pubDate>
       <guid isPermaLink="false">155b7520a1457c4db5c5c8b904c583fcd200c41b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 05:01:29 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 06:00:50 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
@@ -54,7 +54,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 05:01:29 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 06:00:50 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
