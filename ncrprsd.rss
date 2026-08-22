@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 22 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 22 Aug 2026 09:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:55:45 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 5:05 PM, 22 August 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Tarlac(La Paz, Victoria, Tarlac City, Capas, Concepcion, San Jose), Zambales(San Antonio, Castillejos, Subic, San Marcelino, Olongapo), Bataan(Morong, Hermosa, Dinalupihan), Metro Manila(Valenzuela, Caloocan, Malabon, Navotas), Rizal(Rodriguez), Quezon(Atimonan, Unisan, Agdangan, Padre Burgos, Plaridel, Calauag, Guinayangan, Tagkawayan) and Pampanga(Apalit, San Simon, San Fernando, Bacolor, Guagua, Santa Rita, Lubao, Macabebe, Sasmuan, Masantol, Minalin, Santo Tomas, Floridablanca, Porac) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in Nueva Ecija(Carranglan, Pantabangan) and Bulacan(Dona Remedios Trinidad, Norzagaray) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 22 Aug 2026 09:05:04 +0000</pubDate>
+      <guid isPermaLink="false">014e1f7bbb37175b365d1755d4c5ca5f5cb4583a</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 09:56:00 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 2:00 PM, 22 August 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Zambales(Botolan, Cabangan, San Felipe, San Marcelino, San Narciso, Castillejos, Subic, San Antonio, Olongapo), Bataan(Morong, Bagac, Balanga, Abucay, Samal, Orani, Hermosa, Dinalupihan), Pampanga(Floridablanca, Lubao, Angeles, Mabalacat, Porac, Magalang, Macabebe, Masantol, Sasmuan), Metro Manila(Caloocan, Quezon City, Malabon, Valenzuela, Navotas), Quezon(General Nakar, Dolores, Calauag, San Antonio, Tiaong), Batangas(Santo Tomas, Lipa) and Laguna(Bay, Calauan, San Pablo, Alaminos, Victoria, Pila, Santa Cruz, Liliw, Nagcarlan, Rizal, Los Banos) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are being experienced in Tarlac(San Manuel, Moncada, Camiling, San Clemente, Anao, Ramos, Paniqui), Nueva Ecija(Cuyapo, Nampicuan), Bulacan(San Jose del Monte, Meycauayan, Marilao) and Rizal(Rodriguez) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -62,7 +70,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 09:03:25 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 09:56:00 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
