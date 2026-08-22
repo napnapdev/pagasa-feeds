@@ -6,14 +6,30 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 22 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 22 Aug 2026 07:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:02:40 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 05:00 PM 22 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Bukidnon(Cabanglasan, ImpasugOng, CityOfValencia, Maramag, DonCarlos, Dangcagan, Pangantucan), #DavaoDelNorte(Kapalong), #LanaoDelSur(Wao), #AgusanDelSur(Esperanza, SanLuis), #NorthCotabato(Banisilan, Carmen, PresidentRoxas, Arakan), #DavaoCity, #ZamboangaDelNorte(Tampilisan, Kalawit, Godod), #ZamboangaSibugay(RosellerLim and Kabasalan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #Bukidnon(SanFernando, Kitaotao, Quezon, Kibawe, Damulog, Kadingilan), #DavaoDelNorte(Talaingod), #ZamboangaSibugay(Titay, Ipil and Naga) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 22 Aug 2026 09:00:02 +0000</pubDate>
+      <guid isPermaLink="false">38527a9026bf6493696a41d8640be70facad7dff</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 09:03:25 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 03:00 PM 22 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Basilan(Lantawan, Maluso, UngkayaPukan, TipoTipo, Akbar, Tuburan, HadjiMohammadAjul, AlBarka, TabuanLasa, HadjiMuhtamad), #Bukidnon(CityOfMalaybalay, Cabanglasan, SanFernando, Kitaotao), #DavaoDelNorte(Kapalong, Talaingod), #LanaoDelSur(Wao), #ZamboangaDelSur(Tigbao and Lakewood) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #Basilan(CityOfIsabela, CityOfLamitan, Sumisip), #AgusanDelSur(Loreto and LaPaz) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 22 Aug 2026 07:00:01 +0000</pubDate>
+      <guid isPermaLink="false">4b74d9e80a29e7f47917a2257bf9480e2a9c7548</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 09:03:25 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 22 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #MisamisOccidental, #MisamisOriental, #Camiguin, #Bukidnon, #LanaoDelNorte, #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
       <pubDate>Sat, 22 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">52115a48f70501ae255516989575b6d77491dc00</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 07:49:17 +0000</ns0:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 09:03:25 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
@@ -48,22 +64,6 @@
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 09:58:44 +0000</ns1:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #MINPRSD&lt;br /&gt; Issued at 01:30 PM 21 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #DavaoDelSur(Bansalan, CityOfDigos, Magsaysay, SantaCruz, Hagonoy, Padada, Malalag), #NorthCotabato(M'Lang, Tulunan), #MaguindanaoDelSur(DatuPaglas, DatuAnggalMidtimbang), #MaguindanaoDelNorte(Buldon, Upi, DatuBlahT.Sinsuat, DatuOdinSinsuat, Talitay, Barira), #DavaoOriental(GovernorGeneroso, SanIsidro, CityOfMati, Tarragona, Banaybanay, Lupon, Cateel), #DavaoDeOro(NewBataan, Maragusan, Pantukan), #ZamboangaDelSur(PagadianCity, Labangan), #AgusanDelNorte(CityOfCabadbaran, RemediosT.Romualdez, ButuanCity, Magallanes), #SurigaoDelSur(Carmen, Lanuza, CityOfTandag, Tago, Bayabas, Marihatag, SanAgustin, Cagwait, Cortes, Barobo), #Bukidnon(Talakag, Malitbog, Sumilao, ManoloFortich, CityOfValencia, Lantapan, Kalilangan, Pangantucan), #Sulu(Jolo, Patikul, Talipao, Maimbung, Indanan, Parang), #Sarangani(Kiamba, Malungon), #ZamboangaSibugay(Kabasalan, Siay, Payao, Imelda), #LanaoDelSur(Piagapo, Balindong, Marantao, LumbaBayabao, Bumbaran) and #AgusanDelSur(SanFrancisco) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bukidnon(ImpasugOng, CityOfMalaybalay, Cabanglasan, Baungon, Libona), #NorthCotabato(Makilala, CityOfKidapawan), #DavaoOriental(Manay, Caraga, Baganga), #ZamboangaDelSur(Guipos, SanMiguel, Dinas, Dumalinao, Tigbao, Lakewood, SanPablo, Kumalarang, Lapuyan, Bayog), #ZamboangaSibugay(Buug, Malangas, Diplahan), #AgusanDelSur(Sibagat, Prosperidad, CityOfBayugan), #MaguindanaoDelSur(Talayan, SouthUpi, Guindulungan, DatuUnsay, DatuHofferAmpatuan, Ampatuan), #MisamisOriental(CagayanDeOroCity), #DavaoDelSur(Matanao, Kiblawan, Sulop), #LanaoDelSur(Maguing), #SurigaoDelSur(Lianga and SanMiguel) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 21 Aug 2026 05:30:04 +0000</pubDate>
-      <guid isPermaLink="false">94f53e3acadb4686dbf133ff11f7322f8a4b832d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 07:56:35 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #MINPRSD&lt;br /&gt; Issued at 01:00 PM 21 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Sarangani(Malungon, Kiamba), #SouthCotabato(Tupi, Polomolok, GeneralSantosCity), #DavaoDelSur(Magsaysay), #Basilan(CityOfIsabela, Maluso, HadjiMuhtamad, Sumisip, Lantawan), #NorthCotabato(M'Lang, Tulunan), #MaguindanaoDelSur(DatuPaglas, SouthUpi, DatuAnggalMidtimbang), #MaguindanaoDelNorte(Buldon, Upi, DatuBlahT.Sinsuat, DatuOdinSinsuat, Talitay), #DavaoOriental(GovernorGeneroso, SanIsidro, CityOfMati, Tarragona, Banaybanay, Lupon, Manay, Cateel, Boston), #DavaoDeOro(NewBataan, Maragusan, Pantukan), #ZamboangaDelSur(Kumalarang, Lapuyan, Bayog, Labangan), #ZamboangaSibugay(Buug), #AgusanDelNorte(CityOfCabadbaran, RemediosT.Romualdez, ButuanCity, Magallanes), #SurigaoDelSur(Carmen, Lanuza), #Bukidnon(Talakag, Malitbog, Sumilao, ManoloFortich, CityOfValencia, Lantapan, Kalilangan, Pangantucan), #LanaoDelSur(Butig), #MisamisOccidental(DonVictorianoChiongbian), #Sulu(Jolo, Patikul, Talipao, Maimbung, Indanan and Parang) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #Bukidnon(ImpasugOng, CityOfMalaybalay, Cabanglasan, Baungon, Libona), #NorthCotabato(Makilala, CityOfKidapawan), #DavaoDelSur(Bansalan, CityOfDigos, SantaCruz, Matanao, Hagonoy), #DavaoOriental(Caraga, Baganga), #Sarangani(Alabel), #ZamboangaDelSur(Guipos, SanMiguel, Dinas, Dumalinao, Tigbao, PagadianCity, Lakewood, SanPablo), #AgusanDelSur(Sibagat), #MaguindanaoDelSur(Talayan), #MisamisOriental(CagayanDeOroCity) and #LanaoDelSur(Maguing) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 21 Aug 2026 05:00:03 +0000</pubDate>
-      <guid isPermaLink="false">4c97104280f140ba5f42c9a9a9b8906013aaddf8</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 21 Aug 2026 07:56:35 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 21 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #MisamisOccidental, #MisamisOriental, #Camiguin, #Bukidnon and #LanaoDelNorte within 12 hours.</description>
       <pubDate>Fri, 21 Aug 2026 02:00:00 +0000</pubDate>
@@ -78,7 +78,7 @@
       <pubDate>Sun, 16 Aug 2026 10:13:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LiloyZDN-08162026_1786875292.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 07:49:17 +0000</ns1:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 09:03:25 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
