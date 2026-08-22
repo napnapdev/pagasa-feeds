@@ -5,15 +5,23 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/minprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sat, 22 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 22 Aug 2026 19:55:28 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:57:27 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #MINPRSD&lt;br /&gt; Issued at 04:30 AM 23 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #CotabatoCity, #LanaoDelSur(Balabagan, Kapatagan) and #MaguindanaoDelNorte(DatuOdinSinsuat) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NorthCotabato(Pigkawayan), #MaguindanaoDelNorte(Buldon, Barira, Parang, Matanog, SultanMastura and SultanKudarat) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 22 Aug 2026 20:30:03 +0000</pubDate>
+      <guid isPermaLink="false">774c5fd41c153d308a37ffeedb71d362fc789993</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 20:57:41 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 02:30 AM 23 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #MaguindanaoDelNorte(Barira, Buldon, DatuOdinSinsuat), #CotabatoCity, #NorthCotabato(Pigkawayan), #LanaoDelSur(Marogong, Picong), #SurigaoDelNorte(SiargaoIsland, SurigaoCity, SanFrancisco, Malimono, Sison, Mainit), #LanaoDelNorte(SultanNagaDimaporo) and #DinagatIslands within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MaguindanaoDelNorte(SultanMastura, Parang, SultanKudarat, Matanog), #LanaoDelSur(Malabang, Balabagan and Kapatagan) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sat, 22 Aug 2026 18:30:02 +0000</pubDate>
       <guid isPermaLink="false">539fe70ddd99f52fb5ba8249238a2371f491c6bc</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 19:55:43 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 20:57:41 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Sat, 22 Aug 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="false">797fb22a1a39a484741e4e86ea5888dae394e715</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 19:55:43 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 20:57:41 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
