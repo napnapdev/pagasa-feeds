@@ -6,14 +6,30 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 23 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 23 Aug 2026 05:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:02:15 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 15 #VISPRSD&lt;br /&gt; Issued at 01:55 PM 23 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Tabontabon, Dagami and Pastrana) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(Tanauan and Tolosa) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sun, 23 Aug 2026 05:55:15 +0000</pubDate>
+      <guid isPermaLink="false">97045ce8e074fe9f5ee9427dbc217f42deb55c4e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 06:02:27 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 14 #VISPRSD&lt;br /&gt; Issued at 12:57 PM 23 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Bingawan), #Capiz(Tapaz, Jamindan, Mambusao, SapiAn, Ivisan) and #Cebu(Tuburan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Sigma, RoxasCity, Panay), #Bohol(Ubay, Pres.CarlosP.Garcia) and #NegrosOriental(Tayasan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sun, 23 Aug 2026 04:57:14 +0000</pubDate>
+      <guid isPermaLink="false">9f65256e296d971ff650ccd92a0a568aa60f2176</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 06:02:27 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 11:31 AM 23 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Lemery, Balasan), #Capiz(Pilar, PresidentRoxas, Pontevedra, Dao, Panitan, Cuartero, Dumalag), #NegrosOccidental(SagayCity, CityOfEscalante and Toboso) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Carles, Estancia, Batad, SanDionisio, Sara) and #Capiz(MaAyon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Sun, 23 Aug 2026 03:31:13 +0000</pubDate>
       <guid isPermaLink="false">86647bd88bcb4a942491af88f03412daee8b1d32</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 05:05:35 +0000</ns0:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 06:02:27 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -21,7 +37,7 @@
       <pubDate>Sun, 23 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">a215bcfd7dace4177569a192d113a0e0b10ef790</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 05:05:35 +0000</ns1:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 06:02:27 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
@@ -38,7 +54,7 @@
       <pubDate>Sat, 22 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_AKLAN_KALIBO_08232026_1787434094.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 05:05:35 +0000</ns2:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 06:02:27 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 24 August, 2026</title>
@@ -47,7 +63,7 @@
       <pubDate>Sat, 22 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08232026_1787434072.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 05:05:35 +0000</ns3:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 06:02:27 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
