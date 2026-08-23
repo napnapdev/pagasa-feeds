@@ -5,8 +5,16 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/ncrprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sun, 23 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 23 Aug 2026 07:50:56 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:02:00 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 4:00 PM, 23 August 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Pampanga, Quezon(Infanta, Real, General Nakar, Perez, Alabat, Mauban, Calauag, Quezon, Sampaloc), Bulacan(Dona Remedios Trinidad, San Miguel, San Ildefonso, San Rafael), Bataan(Samal, Abucay, Orani, Hermosa, Dinalupihan, Morong, Balanga, Bagac) and Batangas(Tanauan, Santo Tomas, Talisay) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in Zambales(Cabangan, Botolan, Candelaria, Masinloc, Palauig, Iba, San Marcelino), Nueva Ecija(Gabaldon), Tarlac(San Jose, Capas), Rizal(Binangonan, Cardona, Jala-Jala, Pililla) and Laguna(Mabitac, Pakil, Famy, Siniloan, Santa Maria, Pangil) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 23 Aug 2026 08:00:04 +0000</pubDate>
+      <guid isPermaLink="false">6f5b174ae841081a46cd04b6fbc9be9629cb35ff</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 09:02:16 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 12:55 PM, 23 August 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Zambales(Cabangan, Botolan, Palauig, Iba, Masinloc, Candelaria, Santa Cruz, San Narciso, San Felipe), Bulacan(Dona Remedios Trinidad, San Miguel), Rizal(Cardona, Jala-Jala, Tanay, Pililla, Binangonan, Morong, Baras), Laguna(Santa Maria, Mabitac, Pakil, Pangil, Siniloan, Famy) and Quezon(Infanta, Real, General Nakar) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are being experienced in Nueva Ecija(Guimba, Quezon, Licab, Cuyapo, Nampicuan, Santo Domingo) and Tarlac(Victoria, San Manuel, Moncada, Anao, Pura) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -37,7 +45,7 @@
       <pubDate>Sun, 23 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">043f546e7eab14bd78b0f39a5ce482b380a38e46</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 07:51:12 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 09:02:16 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #NCRPRSD</title>
@@ -94,7 +102,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 07:51:12 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 09:02:16 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
