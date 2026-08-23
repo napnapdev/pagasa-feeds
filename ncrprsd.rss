@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 24 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 23 Aug 2026 22:49:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:42:01 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 9 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 9 #NCR_PRSD&lt;br /&gt; Issued at: 5:55 AM, 24 August 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan(Morong, Bagac, Mariveles, Limay, Orion) and Pampanga(Porac, Floridablanca, Angeles, Mabalacat) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are being experienced in Zambales(Botolan, Iba, Palauig, Masinloc, Candelaria, Santa Cruz) and Tarlac(Mayantoc, San Jose, Capas) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 23 Aug 2026 21:55:09 +0000</pubDate>
       <guid isPermaLink="false">327b6cb8113d3b8f9e5b66f4e211ea26d2a3c1f9</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 22:50:14 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 23:42:18 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #NCRPRSD</title>
@@ -37,7 +37,7 @@
       <pubDate>Sun, 23 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">338cbb66619f4d950dcdc8d10c8022423d3a5f38</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 22:50:14 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 23:42:18 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #NCRPRSD</title>
@@ -110,7 +110,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 22:50:14 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 23:42:18 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
