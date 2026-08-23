@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 23 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 23 Aug 2026 09:57:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:57:03 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 5 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 5 #NCR_PRSD&lt;br /&gt; Issued at: 6:09 PM, 23 August 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are being experienced in Zambales(Santa Cruz, Candelaria, Masinloc, Palauig, Iba, Subic, San Antonio, Olongapo), Nueva Ecija(Pantabangan, Rizal, Bongabon), Tarlac(Mayantoc, San Clemente, San Jose), Bataan(Morong, Dinalupihan, Hermosa) and Pampanga(Floridablanca, Lubao) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 23 Aug 2026 10:09:05 +0000</pubDate>
+      <guid isPermaLink="false">8c5af95e60cfe1158d3ec2487b24c78c4c2dbde8</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 10:57:21 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 4:00 PM, 23 August 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Pampanga, Quezon(Infanta, Real, General Nakar, Perez, Alabat, Mauban, Calauag, Quezon, Sampaloc), Bulacan(Dona Remedios Trinidad, San Miguel, San Ildefonso, San Rafael), Bataan(Samal, Abucay, Orani, Hermosa, Dinalupihan, Morong, Balanga, Bagac) and Batangas(Tanauan, Santo Tomas, Talisay) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in Zambales(Cabangan, Botolan, Candelaria, Masinloc, Palauig, Iba, San Marcelino), Nueva Ecija(Gabaldon), Tarlac(San Jose, Capas), Rizal(Binangonan, Cardona, Jala-Jala, Pililla) and Laguna(Mabitac, Pakil, Famy, Siniloan, Santa Maria, Pangil) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 23 Aug 2026 08:00:04 +0000</pubDate>
       <guid isPermaLink="false">6f5b174ae841081a46cd04b6fbc9be9629cb35ff</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 09:57:52 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 10:57:21 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
@@ -45,7 +53,7 @@
       <pubDate>Sun, 23 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">043f546e7eab14bd78b0f39a5ce482b380a38e46</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 09:57:52 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 10:57:21 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #NCRPRSD</title>
@@ -102,7 +110,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 09:57:52 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 10:57:21 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
