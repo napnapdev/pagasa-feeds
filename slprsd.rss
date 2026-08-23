@@ -5,8 +5,34 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/slprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sun, 23 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 23 Aug 2026 19:49:04 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 20:51:51 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #SLPRSD</title>
+      <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 PM 23 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
+      <pubDate>Sun, 23 Aug 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">b9d6a2c908a866415777cfdf160674007a805d6f</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 20:52:07 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 09:00 PM, 24 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_23Aug2026_1787517803.pdf</link>
+      <description>Issued at: 09:00 PM, 23 August, 2026&lt;br /&gt;Valid until: 09:00 PM, 24 August, 2026</description>
+      <pubDate>Sun, 23 Aug 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_23Aug2026_1787517803.pdf</guid>
+      <category>Special Forecast</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 20:52:07 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 09:00 PM, 24 August, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_23Aug2026_1787517774.pdf</link>
+      <description>Issued at: 09:00 PM, 23 August, 2026&lt;br /&gt;Valid until: 09:00 PM, 24 August, 2026</description>
+      <pubDate>Sun, 23 Aug 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_23Aug2026_1787517774.pdf</guid>
+      <category>Special Forecast</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 20:52:07 +0000</ns2:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 1 #SLPRSD&lt;br /&gt; Issued at 02:10 PM 23 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over #NorthernSamar(Catubig, LasNavas and SilvinoLobos) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NorthernSamar(Mapanas, Gamay and Lapinig) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -30,7 +56,7 @@
       <pubDate>Sun, 23 Aug 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_23Aug2026_1787446522.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 19:49:23 +0000</ns0:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 20:52:07 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 24 August, 2026</title>
@@ -39,7 +65,7 @@
       <pubDate>Sun, 23 Aug 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_23Aug2026_1787446466.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 19:49:23 +0000</ns1:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 20:52:07 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
