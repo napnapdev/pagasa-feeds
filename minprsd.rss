@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 23 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 23 Aug 2026 14:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:54:39 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 5 FINAL #MINPRSD&lt;br /&gt; Issued at 11:00 PM 23 August 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 23 Aug 2026 15:00:05 +0000</pubDate>
+      <guid isPermaLink="false">75d9216d5fb7c793dc70f0fed1a309b172d70d71</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 15:54:54 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 4 #MINPRSD&lt;br /&gt; Issued at 09:00 PM 23 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #DavaoDelNorte(Kapalong, Talaingod, SanIsidro), #Bukidnon(Quezon, Kitaotao, Kibawe, DonCarlos, Kadingilan, Dangcagan, Damulog, ImpasugOng, Kalilangan, Pangantucan, Maramag, SanFernando), #DavaoOriental(SanIsidro, GovernorGeneroso) and #LanaoDelSur(Wao) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DavaoOriental(CityOfMati) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 23 Aug 2026 13:00:04 +0000</pubDate>
       <guid isPermaLink="false">4e96ca3781b1bebdcd5b5c94c7721f2d4e4c9dc3</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 14:53:29 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 15:54:54 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
@@ -86,15 +94,6 @@
       <guid isPermaLink="false">797fb22a1a39a484741e4e86ea5888dae394e715</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 23:53:02 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 11:59 PM, 22 August, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LiloyZDN-08162026_1786875292.pdf</link>
-      <description>Issued at: 06:13 PM, 16 August, 2026&lt;br /&gt;Valid until: 11:59 PM, 22 August, 2026</description>
-      <pubDate>Sun, 16 Aug 2026 10:13:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LiloyZDN-08162026_1786875292.pdf</guid>
-      <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 22 Aug 2026 15:44:23 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
