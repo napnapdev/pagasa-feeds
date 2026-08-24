@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 24 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 16:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:57:30 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 1 #NCRPRSD</title>
+      <description>Rainfall Advisory No. 1 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 12:28 AM, 25 August 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Nueva Ecija(Cabiao, Gapan, San Antonio, San Isidro, Aliaga, Cabanatuan, Carranglan, Cuyapo, General Mamerto Natividad, Guimba, Jaen, Laur, Licab, Llanera, Lupao, Nampicuan, Palayan, Pantabangan, Penaranda, Quezon, Rizal, San Jose, San Leonardo, Santa Rosa, Santo Domingo, Munoz, Talavera, Talugtug, Zaragoza, Bongabon) and Bulacan(Angat, Balagtas, Baliuag, Bocaue, Bulakan, Bustos, Calumpit, Malolos, Meycauayan, Guiguinto, Hagonoy, Marilao, Obando, Pandi, Paombong, Plaridel, Pulilan, San Ildefonso, San Miguel, San Rafael, Santa Maria).&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Zambales, Pampanga, Tarlac and Bataan(Dinalupihan, Hermosa, Morong, Bagac, Orani, Abucay, Balanga, Pilar, Samal) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
+      <pubDate>Mon, 24 Aug 2026 16:28:01 +0000</pubDate>
+      <guid isPermaLink="false">49c4c6cc99350e71b63f9dfd620328761be2df7d</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 17:57:45 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 7 #NCR_PRSD&lt;br /&gt; Issued at: 10:30 PM, 24 August 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Pampanga(Floridablanca, Lubao, Porac), Tarlac(Mayantoc, San Jose, Capas, Bamban, San Clemente, Camiling), Bulacan(Obando, Meycauayan, Bulakan, Marilao), Metro Manila(Valenzuela, Navotas, Malabon, Caloocan) and Nueva Ecija(Carranglan, Pantabangan, Bongabon) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in Bataan(Morong) and Zambales(Santa Cruz, Candelaria, Subic, San Antonio, Castillejos, Olongapo) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -88,14 +96,6 @@
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 22:50:14 +0000</ns1:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 7 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #NCR_PRSD&lt;br /&gt; Issued at: 10:32 PM, 23 August 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Metro Manila(Valenzuela, Caloocan, Malabon, Navotas, Manila, Pasay), Quezon(General Nakar) and Rizal(Rodriguez, San Mateo) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in Zambales(San Antonio, Subic, Castillejos, Olongapo), Bataan(Dinalupihan, Hermosa, Morong, Balanga, Abucay, Samal, Orani), Pampanga(Macabebe, Lubao, Sasmuan, Floridablanca, Masantol) and Bulacan(Norzagaray, San Jose del Monte, Santa Maria) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 23 Aug 2026 14:32:07 +0000</pubDate>
-      <guid isPermaLink="false">db6b4ba44ceaa4b01e8d8fb6c615d58ea301e82a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 17:01:05 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 PM, 23 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
       <pubDate>Sun, 23 Aug 2026 14:00:00 +0000</pubDate>
@@ -110,7 +110,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 16:17:02 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 17:57:45 +0000</ns1:seen>
     </item>
   </channel>
 </rss>

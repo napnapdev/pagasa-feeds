@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 24 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 16:16:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:57:34 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 7 #MINPRSD&lt;br /&gt; Issued at 12:00 AM 25 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(Hinatuan, Tagbina, CityOfBislig, Lingig), #AgusanDelSur(Bunawan, Rosario, LaPaz, Loreto, Veruela, Trento, SantaJosefa), #DavaoOriental(Boston, Cateel), #DavaoDeOro(Monkayo, Laak) and #DavaoDelNorte(Kapalong) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 24 Aug 2026 16:00:07 +0000</pubDate>
+      <guid isPermaLink="false">125afd33c209166ee38034f6423381151fee4a83</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 17:57:45 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 PM 24 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
       <pubDate>Mon, 24 Aug 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="false">f29c241d3d2b0211c8cdb613055d40ac419bf341</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 16:17:01 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 17:57:45 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
@@ -78,14 +86,6 @@
       <guid isPermaLink="false">70bfa2b73d1484084fbe065a82f15f7d3f7bc2c8</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 11:56:31 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 5 FINAL #MINPRSD&lt;br /&gt; Issued at 11:00 PM 23 August 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 23 Aug 2026 15:00:05 +0000</pubDate>
-      <guid isPermaLink="false">75d9216d5fb7c793dc70f0fed1a309b172d70d71</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 17:52:07 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
