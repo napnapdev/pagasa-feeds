@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 24 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 11:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:27:29 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 PM 24 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
+      <pubDate>Mon, 24 Aug 2026 13:30:00 +0000</pubDate>
+      <guid isPermaLink="false">f29c241d3d2b0211c8cdb613055d40ac419bf341</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 14:27:41 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 6 #MINPRSD&lt;br /&gt; Issued at 09:00 PM 24 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(Lingig, Lianga, SanAgustin), #AgusanDelSur(Trento, SantaJosefa, Veruela, Loreto, LaPaz, SanLuis, Prosperidad), #DavaoDelNorte(Kapalong, Talaingod, CityOfSamal), #Bukidnon(ImpasugOng, CityOfMalaybalay, Cabanglasan, SanFernando), #DavaoDeOro(Laak), #NorthCotabato(Tulunan) and #MaguindanaoDelSur(Gen.S.K.Pendatun) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #SurigaoDelSur(Barobo, Tagbina, Hinatuan, CityOfBislig), #AgusanDelSur(SanFrancisco, Rosario, Bunawan and Talacogon) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 24 Aug 2026 13:00:06 +0000</pubDate>
+      <guid isPermaLink="false">7f4626fce65c4fb2402e1585aa1b3545019e6643</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 14:27:41 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 5 #MINPRSD&lt;br /&gt; Issued at 06:40 PM 24 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #LanaoDelSur(Bumbaran, Wao, LumbaBayabao, Maguing, TagoloanII, Bubong, Kapai, MarawiCity, DitsaanRamain), #ZamboangaDelNorte(DipologCity, Polanco, Piñan, Mutia, SergioOsmeñaSr., Siayan, Katipunan), #DavaoDelNorte(Kapalong, Talaingod), #LanaoDelNorte(IliganCity, Tagoloan, Baloi, Pantar), #NorthCotabato(Alamada), #Sarangani(Maitum), #SouthCotabato(LakeSebu, Norala, SantoNiño, Tantangan, Banga, Surallah), #SurigaoDelSur(CityOfBislig, Hinatuan, Lingig, SanMiguel, SanAgustin), #SultanKudarat(Bagumbayan, Sen.NinoyAquino, Palimbang), #AgusanDelSur(SantaJosefa, Veruela, Trento, CityOfBayugan, Sibagat), #MisamisOriental(Opol, Manticao, Lugait, CagayanDeOroCity), #DavaoDeOro(Laak), #DavaoOriental(Boston), #Bukidnon(CityOfMalaybalay, ImpasugOng, Cabanglasan, Lantapan, SanFernando, Quezon, CityOfValencia, Maramag, Pangantucan, Kalilangan, Kadingilan, Damulog, DonCarlos, Kitaotao, Dangcagan, Kibawe) and #MaguindanaoDelNorte(Buldon) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #SurigaoDelSur(Barobo, Lianga, Tagbina), #AgusanDelSur(Loreto, Bunawan, LaPaz, Rosario, Esperanza, SanLuis, Talacogon, Prosperidad, SanFrancisco), #Bukidnon(Baungon, Libona and Talakag) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -78,14 +94,6 @@
       <guid isPermaLink="false">4e96ca3781b1bebdcd5b5c94c7721f2d4e4c9dc3</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 15:54:54 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #MINPRSD&lt;br /&gt; Issued at 07:00 PM 23 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Bukidnon(Lantapan, Maramag, Pangantucan, DonCarlos, CityOfValencia, Baungon, CityOfMalaybalay, Cabanglasan, SanFernando, Quezon), #LanaoDelNorte(Baloi, Pantar, Matungao, PoonaPiagapo, Linamon, PantaoRagat, SultanNagaDimaporo, Kapatagan, Sapad), #DavaoDeOro(Monkayo, Laak, Montevista), #DavaoDelNorte(Kapalong, SanIsidro, Talaingod, Asuncion), #AgusanDelSur(Veruela, SantaJosefa, Loreto), #LanaoDelSur(Kapai, MarawiCity, Saguiaran, Piagapo, Marantao, Balindong, Butig, Lumbayanague, Lumbatan, SultanDumalondong, Wao), #ZamboangaDelSur(Dumalinao, SanPablo, Tukuran), #DavaoDelSur, #DavaoOriental(Tarragona, CityOfMati, Manay, Caraga, Baganga) and #ZamboangaCity within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bukidnon(Talakag, Kalilangan), #LanaoDelNorte(IliganCity, Tagoloan), #LanaoDelSur(TagoloanII, Bubong, DitsaanRamain, Maguing, BuadiposoBuntong, Mulondo, Taraka, Tamparan, PoonaBayabao, Masiu, Bumbaran and LumbaBayabao) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 23 Aug 2026 11:00:03 +0000</pubDate>
-      <guid isPermaLink="false">5c29cad2a916851a9e19897d83ceeeeb65d8783e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 23 Aug 2026 13:48:23 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
