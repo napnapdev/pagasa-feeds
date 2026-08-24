@@ -5,8 +5,16 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/ncrprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
-    <pubDate>Mon, 24 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 19:47:43 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:04:24 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 3 #NCRPRSD</title>
+      <description>Rainfall Advisory No. 3 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 5:00 AM, 25 August 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Batangas(Lian, Calatagan, Nasugbu) and Cavite(Ternate, Naic, Tanza, Maragondon).&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Zambales, Bataan(Dinalupihan, Morong, Hermosa), Pampanga(Lubao, Floridablanca, Porac, Guagua, Santa Rita, Angeles, Mabalacat, Bacolor, Magalang, Arayat, Mexico, San Fernando, Santa Ana, Sasmuan, Minalin, Santo Tomas, San Simon, Candaba, San Luis), Tarlac(Bamban, Capas, San Jose, San Clemente, Mayantoc, Camiling), Bulacan(Dona Remedios Trinidad, San Miguel, San Ildefonso) and Nueva Ecija(Gabaldon, General Tinio) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 8:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
+      <pubDate>Mon, 24 Aug 2026 21:00:03 +0000</pubDate>
+      <guid isPermaLink="false">24ed8e94149e95999dccf82cafed775440a3f315</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 21:04:40 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 2 #NCRPRSD</title>
       <description>Rainfall Advisory No. 2 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 2:00 AM, 25 August 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Nueva Ecija(Nampicuan, Guimba, Lupao, Talugtug, Cuyapo, Carranglan, Licab, Zaragoza, San Antonio, Cabiao), Bulacan(Calumpit, Hagonoy, Paombong, Pulilan, Baliuag, San Rafael, Plaridel, Malolos, Bulakan), Batangas(Nasugbu, Lian, Calatagan) and Cavite(Ternate, Naic).&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Zambales, Bataan(Morong, Hermosa, Dinalupihan), Tarlac(San Jose, Capas, Bamban, Mayantoc, San Clemente, Camiling) and Pampanga(Porac, Floridablanca, Lubao, Macabebe, Sasmuan, Guagua, Santa Rita, Bacolor, Angeles, Mabalacat, San Fernando, Mexico, Minalin, Masantol, Santo Tomas) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 5:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -118,7 +126,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 19:48:05 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 21:04:40 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
