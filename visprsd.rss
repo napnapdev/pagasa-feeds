@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 25 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 21:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:01:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 05:46 AM 25 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Tigbauan and Guimbal) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Guimaras(Jordan, Buenavista), #Iloilo(Dumangas, Zarraga, Leganes, IloiloCity, Oton and Pavia) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Mon, 24 Aug 2026 21:46:03 +0000</pubDate>
+      <guid isPermaLink="false">131fef0b993ab4076d591345c151c3299bedd906</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 22:01:38 +0000</ns0:seen>
+    </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 26 August, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08252026_1787604028.pdf</link>
@@ -14,7 +22,7 @@
       <pubDate>Mon, 24 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08252026_1787604028.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 21:04:40 +0000</ns3:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 22:01:38 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
@@ -46,7 +54,7 @@
       <pubDate>Mon, 24 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">a47ae0080523ddbd703ff22b9ed409d38bb8b0d0</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 21:04:40 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 22:01:38 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -54,7 +62,7 @@
       <pubDate>Mon, 24 Aug 2026 13:40:00 +0000</pubDate>
       <guid isPermaLink="false">80c033aaec01f44919c08c6afbeb83a915ae4466</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 21:04:40 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 22:01:38 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
