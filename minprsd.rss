@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 24 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 03:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:54:05 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 01:00 PM 24 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #TawiTawi(Tandubas, SapaSapa, Sibutu), #ZamboangaDelSur(PagadianCity), #Bukidnon(Baungon), #LanaoDelSur(Wao, LumbaBayabao, Butig), #MaguindanaoDelNorte(Buldon), #NorthCotabato(Banisilan), #Camiguin(Catarman and Sagay) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #TawiTawi(Languyan, PanglimaSugala, Bongao, Simunul), #NorthCotabato(Alamada) and #LanaoDelSur(Bumbaran) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 24 Aug 2026 05:00:01 +0000</pubDate>
+      <guid isPermaLink="false">07140be8e91d2f2fdbae5da118533423a6f1cf9b</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 05:54:24 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 24 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #MisamisOccidental, #MisamisOriental, #Bukidnon, #Camiguin and #LanaoDelNorte within 12 hours.</description>
       <pubDate>Mon, 24 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">6e4451618bd7dff74382b4acac422cc87c3e3b7a</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 03:33:00 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 05:54:24 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Mon, 24 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">70bfa2b73d1484084fbe065a82f15f7d3f7bc2c8</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 03:33:00 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 05:54:24 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
