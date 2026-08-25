@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 25 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 25 Aug 2026 21:58:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:03:51 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 06:30 AM 26 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #DavaoOriental(Lupon), #DavaoDeOro(Pantukan), #Sarangani(Glan, Kiamba), #ZamboangaDelSur(Tukuran, Aurora, Labangan, PagadianCity, Dumalinao), #LanaoDelNorte(Nunungan), #LanaoDelSur(Picong), #ZamboangaSibugay(Ipil, Titay), #Basilan(AlBarka, TipoTipo and UngkayaPukan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sarangani(Maasim), #LanaoDelNorte(Kapatagan, SultanNagaDimaporo and Sapad) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 25 Aug 2026 22:30:01 +0000</pubDate>
+      <guid isPermaLink="false">78ab97882a5162898d48c5c6451b5e9e77fab68c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 23:04:05 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 5 #MINPRSD&lt;br /&gt; Issued at 09:30 PM 25 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #TawiTawi(Mapun), #MisamisOriental(Opol, Claveria, Jasaan, Villanueva, Tagoloan, Manticao, Lugait, CityOfElSalvador, Sugbongcogon, Binuangan), #LanaoDelNorte(SultanNagaDimaporo, Kapatagan, Pantar, IliganCity, Tagoloan), #ZamboangaDelSur(Tukuran, Labangan, Aurora, PagadianCity, Dumalinao), #Bukidnon(Sumilao, ManoloFortich, Malitbog), #LanaoDelSur(MarawiCity, Saguiaran, TagoloanII, Kapai, DitsaanRamain, Bubong, Malabang, Picong), #Camiguin(Mahinog, Guinsiliban, Sagay, Catarman), #AgusanDelSur(LaPaz, SanLuis and Esperanza) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #MisamisOriental(CagayanDeOroCity, Talisayan, Balingoan, Kinoguitan), #Bukidnon(Talakag, Baungon and Libona) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">4051975a44ebd4a7e5ed71c16eca7f68469bf92e</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 11:14:02 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 9 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 9 FINAL #MINPRSD&lt;br /&gt; Issued at 04:00 AM 25 August 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 24 Aug 2026 20:00:09 +0000</pubDate>
-      <guid isPermaLink="false">f7290071d6505e16ffcc3c4d315cfca557404dfe</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 22:01:38 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
