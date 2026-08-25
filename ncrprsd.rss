@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 25 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 25 Aug 2026 09:58:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:13:47 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 4 #NCRPRSD</title>
       <description>Heavy Rainfall Warning No. 4-Final #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 5:00 PM, 25 August 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains was observed over Zambales and Bataan for the past 1 hour. With this development all RAINFALL WARNING in these areas are now terminated.Meanwhile, expect light to moderate with occasional heavy rains over Zambales and Bataan within the next 3 hours.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Tue, 25 Aug 2026 09:00:04 +0000</pubDate>
       <guid isPermaLink="false">e2a8ee340c7683af5bdd7f61d9b0c6ac8dc56e5e</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 09:59:08 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 11:14:02 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 3 #NCRPRSD</title>
@@ -96,14 +96,6 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 11:56:31 +0000</ns0:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 4:20 PM, 24 August 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Metro Manila(Quezon City, Manila, Caloocan, Navotas, Malabon, Valenzuela, Makati, Mandaluyong, San Juan, Pasay, Pasig, Marikina, Paranaque, Las Pinas), Rizal(Rodriguez, San Mateo, Cainta, Antipolo), Quezon(General Nakar), Cavite(Ternate, Naic, Tanza, Rosario, Noveleta, Cavite City, Bacoor, General Trias, Imus, Kawit, Maragondon) and Batangas(Nasugbu) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are being experienced in Bataan(Orani, Hermosa, Dinalupihan, Samal, Abucay, Morong, Bagac), Pampanga(Lubao, Sasmuan, Macabebe, Masantol, Minalin, San Fernando, Mexico, Santa Ana, Candaba, San Luis, San Simon, Apalit, Santo Tomas, Santa Rita, Guagua, Bacolor, Arayat), Bulacan(Hagonoy, Calumpit, Pulilan, Baliuag, Dona Remedios Trinidad, Norzagaray), Nueva Ecija(Cabiao), Zambales(Olongapo, Subic, San Marcelino, Botolan, Santa Cruz) and Tarlac(San Jose, Capas, Bamban) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 24 Aug 2026 08:20:04 +0000</pubDate>
-      <guid isPermaLink="false">0e53036ccc9929e4ad6b7e8681b8ba4a57cd6d68</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 10:24:29 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 AM, 24 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
       <pubDate>Mon, 24 Aug 2026 02:00:00 +0000</pubDate>
@@ -118,7 +110,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 09:59:08 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 11:14:02 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
