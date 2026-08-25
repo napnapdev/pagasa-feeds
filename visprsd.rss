@@ -6,7 +6,31 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 25 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 23:53:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 03:27:32 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 10:49 AM 25 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Palawan(Brooke'sPoint) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Tue, 25 Aug 2026 02:49:08 +0000</pubDate>
+      <guid isPermaLink="false">c0e6d7db7d83ef858d17e96e177a739636734ca0</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 03:27:48 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 10:46 AM 25 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(CadizCity, Manapla, CityOfVictorias, SilayCity, CityOfTalisay, BacolodCity, Murcia, BagoCity, Valladolid and Pulupandan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(EnriqueB.Magalona) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Tue, 25 Aug 2026 02:46:07 +0000</pubDate>
+      <guid isPermaLink="false">14b496fa537f0e055d85131593354f8873170521</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 03:27:48 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 6 #VISPRSD&lt;br /&gt; Issued at 09:52 AM 25 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Banate, BarotacViejo, Ajuy, Concepcion), #Antique(Hamtic), #Guimaras(Buenavista, NuevaValencia, Jordan), #NegrosOccidental(EnriqueB.Magalona, CityOfKabankalan, Ilog, Cauayan, Candoni and CityOfSipalay) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(TobiasFornier, AniniY), #Iloilo(SanJoaquin, Miagao, Igbaras, Tubungan, Leon, Alimodian, Maasin, Cabatuan, Mina, Pototan, Anilao, Guimbal, Tigbauan, SanMiguel, Oton, SantaBarbara, NewLucena, Zarraga, BarotacNuevo, Dumangas, Leganes, Pavia, IloiloCity), #Guimaras(Sibunag, SanLorenzo) and #NegrosOccidental(HinobaAn) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Tue, 25 Aug 2026 01:52:06 +0000</pubDate>
+      <guid isPermaLink="false">c09c5b392fb893f5cdb5bd516d5b8ec1cbe417cc</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 03:27:48 +0000</ns2:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 07:28 AM 25 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(Barbaza, LauaAn, Bugasong, Valderrama, Patnongon, SanRemigio, Belison, Sibalom), #Iloilo(Miagao and SanJoaquin) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(SanJose, Hamtic, TobiasFornier and AniniY) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -30,7 +54,7 @@
       <pubDate>Mon, 24 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08252026_1787604028.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 24 Aug 2026 23:54:10 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 03:27:48 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
