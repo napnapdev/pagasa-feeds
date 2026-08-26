@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 26 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2026 05:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:03:36 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #NLPRSD&lt;br /&gt; Issued at 03:17 PM 26 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(Baggao, Gattaran, SantaTeresita, LalLo, Gonzaga, Buguey, SantaAna, Alcala, Amulung, Peñablanca and Iguig) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 26 Aug 2026 07:17:01 +0000</pubDate>
+      <guid isPermaLink="false">d349d687e601b61afe398a8509d08b431589f012</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 08:03:51 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 126 #NLPRSD</title>
       <description>Rainfall Advisory No. 126 FINAL #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 11:00 AM 26 August 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">359bbf926a4d04202924e08190d1391112a91f97</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 11:14:03 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 120 #NLPRSD</title>
-      <description>Rainfall Advisory No. 120 #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 02:00 PM 25 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Pangasinan(Alcala, Asingan, Balungao, Basista, Bautista, Binalonan, Binmaley, Calasiao, DagupanCity, Malasiqui, Manaoag, Mangaldan, Mapandan, Natividad, Pozorrubio, SanCarlosCity, SanFabian, SanJacinto, SanManuel, SanNicolas, SanQuintin, SantaBarbara, SantaMaria, SantoTomas, Sison, Tayug, Umingan, Urbiztondo, CityOfUrdaneta, Villasis, Laoac, Rosales, Bayambang), #LaUnion, #IlocosSur(Alilem, Banayoyo, Burgos, CityOfCandon, Cervantes, Galimuyod, GregorioDelPilar, Lidlidda, Nagbukel, Narvacan, Quirino, Salcedo, SanEmilio, SanEsteban, SantaCruz, SantaLucia, SantaMaria, Santiago, Sigay, Sugpon, Suyo, Tagudin), #Benguet, #NuevaVizcaya(SantaFe, AlfonsoCastaneda, DupaxDelSur, Aritao, Kayapa) and #Aurora within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Pangasinan(Aguilar, Bugallon, Infanta, Lingayen, Mabini, Mangatarem, Sual, CityOfAlaminos, Labrador, Bolinao, Bani, Agno, Burgos, Dasol and Anda) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 25 Aug 2026 06:02:00 +0000</pubDate>
-      <guid isPermaLink="false">e3192a2814530a9b8284349f34a9f6507442f63b</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 08:00:26 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
