@@ -6,14 +6,30 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 26 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2026 03:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 05:20:11 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 1:10 PM, 26 August 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are being experienced in Zambales(Subic, Castillejos, San Marcelino, San Antonio, San Narciso, San Felipe, Cabangan, Botolan, Olongapo), Bataan(Abucay, Samal, Orani, Hermosa, Dinalupihan, Morong), Tarlac(Concepcion, Bamban, Capas), Pampanga(Magalang, Angeles, Mabalacat, Porac, Floridablanca) and Nueva Ecija(Lupao, San Jose, Pantabangan, Talugtug, Munoz) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 26 Aug 2026 05:10:03 +0000</pubDate>
+      <guid isPermaLink="false">0a88fa218708e7e0e2138189949198fe15f2dea4</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 05:20:25 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 1:00 PM, 26 August 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are being experienced in Zambales(Subic, Castillejos, San Marcelino, San Antonio, San Narciso, San Felipe, Cabangan, Botolan, Olongapo), Bataan(Abucay, Samal, Orani, Hermosa, Dinalupihan, Morong), Tarlac(Concepcion, Bamban, Capas), Pampanga(Magalang, Angeles, Mabalacat, Porac, Floridablanca) and Nueva Ecija(Lupao, San Jose, Pantabangan, Talugtug, Munoz) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 26 Aug 2026 05:00:03 +0000</pubDate>
+      <guid isPermaLink="false">6cfefc12fef5b490ca2e7d198c04ae5121121c54</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 05:20:25 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 11:15 AM, 26 August 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Nueva Ecija(Gabaldon, Laur, Bongabon, General Mamerto Natividad, Palayan, Rizal, General Tinio), Pampanga(Porac, Floridablanca, Mabalacat, Angeles, Bacolor, Santa Rita, Sasmuan, Lubao, Guagua, San Fernando, Magalang) and Tarlac(San Jose, Capas, Bamban, Concepcion, Tarlac City) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in Zambales(Subic, Iba, Olongapo, San Antonio, Castillejos, Botolan, Cabangan) and Bataan(Abucay, Samal, Orani, Hermosa, Dinalupihan, Morong) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Wed, 26 Aug 2026 03:15:02 +0000</pubDate>
       <guid isPermaLink="false">5001a767c85ccb733d405a76f1defb1b33b24065</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 03:37:36 +0000</ns0:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 05:20:25 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
@@ -72,29 +88,13 @@
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 09:59:08 +0000</ns1:seen>
     </item>
     <item>
-      <title>Rainfall Advisory No. 2 #NCRPRSD</title>
-      <description>Heavy Rainfall Warning No. 2 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 11:00 AM, 25 August 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Zambales(Olongapo, Subic, Botolan, San Marcelino, Cabangan, Iba, Palauig, Castillejos, San Antonio, San Felipe, San Narciso) and Bataan(Dinalupihan, Hermosa, Orani, Samal, Morong, Bagac, Abucay, Balanga).&lt;br /&gt; ASSOCIATED HAZARD: Possible FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, expect light to moderate with occasional heavy rains over Nueva Ecija(San Antonio, Cabiao, San Isidro, Gapan, San Leonardo, Jaen, Zaragoza, Penaranda, General Tinio, Santa Rosa, Cabanatuan, Aliaga, Quezon, Licab, Guimba, Cuyapo, Nampicuan), Rizal(Rodriguez, San Mateo), Cavite(Bacoor, Kawit, Cavite City, Noveleta, Rosario, Imus, General Trias, Naic, Tanza, Ternate, Maragondon, Magallanes, Trece Martires, General Emilio Aguinaldo) and Batangas(Nasugbu, Lian, Tuy) within the next 3 hours.&lt;br /&gt; Light to moderate with occasional heavy rains affecting Bataan(Limay, Mariveles, Orion, Pilar), Pampanga(Angeles, Porac, Floridablanca, Lubao, Mabalacat, Sasmuan, Macabebe, Masantol, Santa Rita, Guagua, Bacolor, Minalin, Apalit, San Simon, Santo Tomas, San Fernando, Mexico, San Luis, Santa Ana), Tarlac(Bamban, Capas, San Jose, Mayantoc, San Clemente, Camiling, Santa Ignacia), Zambales(Candelaria, Masinloc, Santa Cruz), Bulacan(Hagonoy, Paombong, Bulakan, Malolos, Obando, Meycauayan, Calumpit, Pulilan, Plaridel, Guiguinto, Balagtas, Bocaue, Marilao, Baliuag, Bustos, Pandi, Santa Maria) and Metro Manila(Navotas, Malabon, Valenzuela, Caloocan) which may persist within 3 hours and may affect nearby areas.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Tue, 25 Aug 2026 03:00:02 +0000</pubDate>
-      <guid isPermaLink="false">300ca941d7dbe2c2787618cabed0e0e9ff30a7f0</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 05:18:43 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 2 #NCRPRSD</title>
-      <description>Heavy Rainfall Warning No. 2 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 10:50 AM, 25 August 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Zambales(Olongapo, Subic, Botolan, San Marcelino, Cabangan, Iba, Palauig, Castillejos, San Antonio, San Felipe, San Narciso) and Bataan(Dinalupihan, Hermosa, Orani, Samal, Morong, Bagac, Abucay, Balanga).&lt;br /&gt; ASSOCIATED HAZARD: Possible FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, expect light to moderate with occasional heavy rains over Nueva Ecija(San Antonio, Cabiao, San Isidro, Gapan, San Leonardo, Jaen, Zaragoza, Penaranda, General Tinio, Santa Rosa, Cabanatuan, Aliaga, Quezon, Licab, Guimba, Cuyapo, Nampicuan), Rizal(Rodriguez, San Mateo), Cavite(Bacoor, Kawit, Cavite City, Noveleta, Rosario, Imus, General Trias, Naic, Tanza, Ternate, Maragondon, Magallanes, Trece Martires, General Emilio Aguinaldo) and Batangas(Nasugbu, Lian, Tuy) within the next 3 hours.&lt;br /&gt; Light to moderate with occasional heavy rains affecting Bataan(Limay, Mariveles, Orion, Pilar), Pampanga(Angeles, Porac, Floridablanca, Lubao, Mabalacat, Sasmuan, Macabebe, Masantol, Santa Rita, Guagua, Bacolor, Minalin, Apalit, San Simon, Santo Tomas, San Fernando, Mexico, San Luis, Santa Ana), Tarlac(Bamban, Capas, San Jose, Mayantoc, San Clemente, Camiling, Santa Ignacia), Zambales(Candelaria, Masinloc, Santa Cruz), Bulacan(Hagonoy, Paombong, Bulakan, Malolos, Obando, Meycauayan, Calumpit, Pulilan, Plaridel, Guiguinto, Balagtas, Bocaue, Marilao, Baliuag, Bustos, Pandi, Santa Maria) and Metro Manila(Navotas, Malabon, Valenzuela, Caloocan) which may persist within 3 hours and may affect nearby areas.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Tue, 25 Aug 2026 02:50:02 +0000</pubDate>
-      <guid isPermaLink="false">48dc4e4a6554acf98636a5153388075f77aebf2d</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 05:18:43 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 03:37:36 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 05:20:25 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
