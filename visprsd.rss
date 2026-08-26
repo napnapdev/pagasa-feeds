@@ -5,8 +5,16 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/visprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
-    <pubDate>Wed, 26 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2026 08:03:34 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:08:15 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 15 #VISPRSD&lt;br /&gt; Issued at 04:00 PM 26 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #OccidentalMindoro(SanJose, Magsaysay), #Palawan(ElNido, Linapacan, Bataraza), #Iloilo(Estancia, Balasan), #Capiz(Pilar, PresidentRoxas, Pontevedra, Panitan, Sigma, SapiAn, Mambusao), #Leyte(Jaro, Carigara, Dagami, Pastrana and Capoocan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OccidentalMindoro(Sablayan, Calintaan, Rizal, SantaCruz, Mamburao), #Palawan(PuertoPrincesaCity, Aborlan, Narra, Quezon, SofronioEspanola, Rizal, Brooke'sPoint, Roxas, SanVicente, Dumaran, Araceli, Taytay), #Capiz(RoxasCity, Panay, Ivisan), #Iloilo(Carles), #Leyte(Kananga and OrmocCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Wed, 26 Aug 2026 08:00:15 +0000</pubDate>
+      <guid isPermaLink="false">b9b09a58451b3c12560d86eb5d08e31d48556c89</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 10:08:31 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 14 #VISPRSD&lt;br /&gt; Issued at 02:24 PM 26 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #SouthernLeyte(Libagon, Liloan, SaintBernard, Sogod, SanFrancisco), #Bohol(Maribojoc, Baclayon, TagbilaranCity, Alburquerque, Loay, Lila, Dauis, Panglao, Clarin, Sagbayan, Getafe, Talibon, BienUnido), #Samar(Marabut), #EasternSamar(Lawaan, Balangiga), #Cebu(DanaoCity, ToledoCity, Balamban, CityOfNaga, SanFrancisco, Poro, Tudela, Pilar), #Leyte(Isabel, Merida, Palompon, MatagOb, Villaba), #Palawan(ElNido, Araceli), #OccidentalMindoro(Looc and Lubang) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(CebuCity, CityOfTalisay, Minglanilla, MandaueCity, Liloan, Consolacion, Compostela, LapuLapuCity, Cordova), #Bohol(Balilihan, Sikatuna, Loboc, Bilar, Sevilla, Batuan, Catigbian, Tubigon, Calape, Loon, SanIsidro, Antequera, Corella, Cortes), #Samar(Basey), #EasternSamar(Balangkayan, Llorente, Hernani, GeneralMacarthur), #Palawan(Taytay, Dumaran, Roxas, SanVicente, Aborlan, Narra, Quezon, SofronioEspanola, Rizal, Bataraza), #OccidentalMindoro(Mamburao, AbraDeIlog and Paluan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -61,7 +69,7 @@
       <pubDate>Wed, 26 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">0d87964e93a47fa346c803b17703bad8c24c88f3</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 08:03:52 +0000</ns4:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 10:08:31 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
@@ -102,7 +110,7 @@
       <pubDate>Tue, 25 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08262026_1787691245.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 08:03:52 +0000</ns5:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 10:08:31 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
@@ -167,30 +175,6 @@
       <guid isPermaLink="false">9928879928eb235338e8c8f4764e62a071f3fa4b</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 11:14:03 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 14 #VISPRSD&lt;br /&gt; Issued at 03:55 PM 25 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(Vallehermoso, CityOfGuihulngan), #Bohol(BienUnido), #Cebu(SanFrancisco, Poro, Tudela, Pilar, MandaueCity, Consolacion, Cordova, LapuLapuCity), #NegrosOccidental(SanCarlosCity, SalvadorBenedicto, CadizCity, SagayCity, Calatrava) and #OccidentalMindoro(Magsaysay) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(LaCastellana, Murcia, Toboso, CityOfEscalante), #NegrosOriental(CanlaonCity), #Bohol(Talibon), #Cebu(CebuCity, CityOfTalisay, Minglanilla, CityOfNaga), #Palawan(Bataraza, Brooke'sPoint, SofronioEspanola, Quezon, Narra, Taytay), #OccidentalMindoro(Calintaan, Rizal and SanJose) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 25 Aug 2026 07:55:14 +0000</pubDate>
-      <guid isPermaLink="false">cacb47109ae980a6baad3f3d4d417ecaa82b3a35</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 09:59:08 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 03:07 PM 25 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(CebuCity, Compostela, Liloan, Consolacion, MandaueCity, CityOfTalisay, Minglanilla), #NegrosOccidental(CityOfEscalante, SanEnrique, Valladolid, LaCarlotaCity, BagoCity, SanCarlosCity, SalvadorBenedicto, Murcia, BacolodCity and CityOfTalisay) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Catmon), #NegrosOccidental(Pulupandan, Toboso and Calatrava) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 25 Aug 2026 07:07:13 +0000</pubDate>
-      <guid isPermaLink="false">dbd430b3db1aa4c09661c2828c51642b4455b3c8</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 09:59:08 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #VISPRSD&lt;br /&gt; Issued at 03:02 PM 25 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Pinamungajan, CityOfNaga), #Bohol(Pres.CarlosP.Garcia) and #SouthernLeyte(Libagon) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(SanFernando, CityOfCarcar, Carmen), #Bohol(Ubay and SanMiguel) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 25 Aug 2026 07:02:12 +0000</pubDate>
-      <guid isPermaLink="false">2226b179a63beba34ca9cf10ed028518c5db62a2</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 09:59:08 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 26 August, 2026</title>

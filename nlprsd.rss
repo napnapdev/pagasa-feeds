@@ -5,15 +5,23 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/nlprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
-    <pubDate>Wed, 26 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2026 08:03:36 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:08:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #NLPRSD&lt;br /&gt; Issued at 04:02 PM 26 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(Gonzaga, SantaAna, Alcala, Amulung, Peñablanca, Iguig, Tuao, Piat, SantoNiño, Aparri, Ballesteros, Abulug, Pamplona, SanchezMira, Claveria, SantaPraxedes), #Apayao(Kabugao, Calanasan, SantaMarcela, Luna, Pudtol), #Abra(Tineg, Lacub, Malibcong), #Kalinga(Balbalan and Pinukpuk) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Baggao, Gattaran, SantaTeresita, LalLo, Buguey, Rizal, Lasam, Allacapan, Camalaniugan), #Apayao(Conner and Flora) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 26 Aug 2026 08:02:02 +0000</pubDate>
+      <guid isPermaLink="false">8ff8a690481ed4d313b52df78d7b0afe3661dcc7</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 10:08:31 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 1 #NLPRSD&lt;br /&gt; Issued at 03:17 PM 26 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(Baggao, Gattaran, SantaTeresita, LalLo, Gonzaga, Buguey, SantaAna, Alcala, Amulung, Peñablanca and Iguig) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Wed, 26 Aug 2026 07:17:01 +0000</pubDate>
       <guid isPermaLink="false">d349d687e601b61afe398a8509d08b431589f012</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 08:03:51 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 10:08:31 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 126 #NLPRSD</title>
