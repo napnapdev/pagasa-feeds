@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 26 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2026 10:08:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:54:08 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 7 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 7 #NCR_PRSD&lt;br /&gt; Issued at: 7:20 PM, 26 August 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Zambales(Iba, Palauig, Masinloc, Candelaria, Santa Cruz, Botolan, Cabangan, San Marcelino, San Felipe, San Narciso) and Cavite(Dasmarinas, Imus, General Trias, Bacoor) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are being experienced in Quezon(Atimonan, Plaridel, Gumaca, Lopez, Calauag, Quezon, Catanauan, General Luna) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 26 Aug 2026 11:20:07 +0000</pubDate>
+      <guid isPermaLink="false">69420d5017ee2b3db2be35d3a5b82287423559ff</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 11:54:25 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 6 #NCR_PRSD&lt;br /&gt; Issued at: 5:54 PM, 26 August 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are expected over Bataan, Metro Manila(Malabon, Navotas, Caloocan, Manila, Valenzuela, Quezon City, San Juan, Mandaluyong, Makati, Pasay, Paranaque, Las Pinas), Cavite(Cavite City, Bacoor, Kawit, Noveleta, Rosario, Imus), Zambales(Palauig, Masinloc, Iba, Subic, Castillejos, San Antonio, Olongapo, Candelaria), Bulacan(Obando, Bulakan, Meycauayan, Marilao, Bocaue, Malolos, Paombong, Balagtas, Guiguinto), Tarlac(La Paz, Victoria, Tarlac City, Concepcion, San Jose, Capas, Bamban, Mayantoc, Santa Ignacia, Gerona, Pura) and Batangas(Calatagan, Lian, Balayan, Nasugbu, Tuy) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in Nueva Ecija(Jaen, San Leonardo, Zaragoza, Gabaldon, Santa Rosa) which may persist within 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Wed, 26 Aug 2026 09:54:06 +0000</pubDate>
       <guid isPermaLink="false">620fd4248cff8517d983a5e63fc691980c2417fc</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 10:08:31 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 11:54:25 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #NCRPRSD</title>
@@ -104,21 +112,13 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 14:10:20 +0000</ns0:seen>
     </item>
     <item>
-      <title>Rainfall Advisory No. 4 #NCRPRSD</title>
-      <description>Heavy Rainfall Warning No. 4-Final #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 5:00 PM, 25 August 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains was observed over Zambales and Bataan for the past 1 hour. With this development all RAINFALL WARNING in these areas are now terminated.Meanwhile, expect light to moderate with occasional heavy rains over Zambales and Bataan within the next 3 hours.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Tue, 25 Aug 2026 09:00:04 +0000</pubDate>
-      <guid isPermaLink="false">e2a8ee340c7683af5bdd7f61d9b0c6ac8dc56e5e</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 25 Aug 2026 11:14:02 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 10:08:31 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 26 Aug 2026 11:54:25 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
