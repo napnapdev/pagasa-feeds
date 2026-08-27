@@ -1,16 +1,5 @@
 #!/usr/bin/env python3
-"""Generate an RSS feed for PAGASA regional advisories.
 
-v3 — reliable pubDates for RSS-trigger consumers (e.g. Power Automate):
-- Real advisories get UNIQUE, monotonic pubDates (advisory number added as a
-  seconds offset) so No. 19 and No. 20 can never collide.
-- Undated items (special forecasts) are pinned to a STABLE past date so they
-  never float to "newest" and hijack the trigger's watermark.
-- "As of today, there is no ... Issued." placeholders are dropped.
-
-Usage:
-    python generate_rss.py <slug>        e.g.  python generate_rss.py ncrprsd
-"""
 
 import argparse
 import hashlib
