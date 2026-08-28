@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 28 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 28 Aug 2026 12:15:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 12:30:31 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 06:30 PM 28 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(Carmen, Madrid, Cantilan, Carrascal, Tagbina, Hinatuan), #AgusanDelNorte(Tubay, Santiago, Buenavista, Nasipit, Carmen), #MisamisOriental(GingoogCity, Magsaysay, Claveria, Tagoloan, CagayanDeOroCity), #ZamboangaCity, #ZamboangaDelNorte(Sibuco, Sirawai, Tampilisan, Godod, Kalawit, Siocon), #ZamboangaSibugay(Diplahan), #Bukidnon(ImpasugOng, Malitbog, ManoloFortich, Libona, Baungon, Talakag, Sumilao, Pangantucan, CityOfValencia, Lantapan, CityOfMalaybalay, Maramag, Cabanglasan), #AgusanDelSur(LaPaz, Loreto, Bunawan and Rosario) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #AgusanDelSur(Sibagat, CityOfBayugan, Prosperidad, SanFrancisco, Talacogon, SanLuis, Esperanza), #AgusanDelNorte(ButuanCity, LasNieves, RemediosT.Romualdez, Magallanes, CityOfCabadbaran), #SurigaoDelSur(SanMiguel, Lanuza, CityOfTandag, Tago, Lianga, Marihatag, Barobo, Cagwait, Bayabas, SanAgustin, Cortes), #ZamboangaSibugay(Tungawan, RosellerLim, Ipil, Titay, Naga, Kabasalan, Siay, Payao and Imelda) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 28 Aug 2026 10:30:02 +0000</pubDate>
+      <guid isPermaLink="false">a384356dc21c2035e4f445544f166f6e49df0f07</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 12:30:45 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 04:30 PM 28 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #MisamisOriental(CityOfElSalvador, Claveria, CagayanDeOroCity), #ZamboangaSibugay(Naga), #ZamboangaDelNorte(Tampilisan, Kalawit, Gutalac, Baliguian, Siocon, Sirawai), #AgusanDelSur(Esperanza, SanLuis), #Bukidnon(ImpasugOng and CityOfMalaybalay) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MisamisOriental(Opol), #ZamboangaSibugay(Tungawan, RosellerLim, Titay and Ipil) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -45,7 +53,7 @@
       <pubDate>Fri, 28 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">79425327f9164d5b17db81cf357128556c1337a9</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 12:15:40 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 12:30:45 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 30 #MINPRSD</title>
