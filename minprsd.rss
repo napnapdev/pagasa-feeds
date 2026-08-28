@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 28 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 28 Aug 2026 03:30:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:03:16 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 33 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 33 FINAL #MINPRSD&lt;br /&gt; Issued at 01:45 PM 28 August 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 28 Aug 2026 05:45:33 +0000</pubDate>
+      <guid isPermaLink="false">7ecdbb8d6710dfd5510729fd3bec0de665232ed1</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 06:03:31 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 32 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 32 #MINPRSD&lt;br /&gt; Issued at 12:00 PM 28 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelSur(Dimataling, Tabina, Lapuyan, Margosatubig, VincenzoA.Sagun, Pitogo, Kumalarang, Dumalinao, Guipos, SanMiguel), #ZamboangaSibugay(Malangas, Alicia, Tungawan and Buug) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaDelSur(SanPablo and Dinas) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 28 Aug 2026 04:00:32 +0000</pubDate>
+      <guid isPermaLink="false">cc3db9a85772d74c16e3e6d69269dc000f234d67</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 06:03:31 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 31 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 31 #MINPRSD&lt;br /&gt; Issued at 10:00 AM 28 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Camiguin(Mahinog, Mambajao), #LanaoDelNorte(Kapatagan, SultanNagaDimaporo, Lala), #SurigaoDelNorte(SurigaoCity, TaganaAn, Placer, Bacuag, Sison, SanFrancisco, Malimono, Mainit, Tubod), #Basilan(CityOfIsabela, Lantawan), #ZamboangaSibugay(Talusan, Olutanga, Payao), #MisamisOccidental(Bonifacio, TangubCity), #ZamboangaDelSur(Tambulig and PagadianCity) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaCity, #ZamboangaDelSur(Labangan, Aurora, Tukuran, Dimataling, Tabina, Pitogo, VincenzoA.Sagun), #ZamboangaSibugay(Alicia and Mabuhay) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -21,7 +37,7 @@
       <pubDate>Fri, 28 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">79425327f9164d5b17db81cf357128556c1337a9</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 03:30:47 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 06:03:31 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 30 #MINPRSD</title>
