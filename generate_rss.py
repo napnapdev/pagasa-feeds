@@ -1,9 +1,26 @@
 #!/usr/bin/env python3
+"""Generate an RSS feed for PAGASA regional advisories.
 
+v3.1 — adds CACHE-BUSTING so the scraper always gets the LIVE page, not a
+stale CDN-cached copy. PAGASA's www. host sits behind a CDN that can serve a
+few-minutes-old HTML; that caused newly-issued advisories to be missed until a
+later run. We now:
+  - send no-cache request headers, and
+  - append a unique ?_=<timestamp> query param each run (unique URL -> cache miss).
+
+Retains v3 reliability fixes:
+- unique/monotonic pubDates (advisory number as seconds offset)
+- undated items pinned to a stable past date (no watermark hijacking)
+- "no advisory" placeholders dropped
+
+Usage:
+    python generate_rss.py <slug>        e.g.  python generate_rss.py ncrprsd
+"""
 
 import argparse
 import hashlib
 import re
+import time
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime
 from html import unescape
@@ -14,8 +31,6 @@ from bs4 import BeautifulSoup
 from lxml import etree as ET
 
 PH_TZ = ZoneInfo("Asia/Manila")
-
-# Fixed epoch for undated items so they NEVER look "new" to an RSS trigger.
 _STABLE_EPOCH = datetime(2000, 1, 1, tzinfo=timezone.utc)
 
 _ISSUED_RE = re.compile(
@@ -164,7 +179,6 @@ def add_items(soup, channel, div_id, category, slug):
             if pub_dt is None:
                 pub_dt = stable_date_for(title, html)
             elif number is not None:
-                # Advisory number as seconds -> strictly unique/monotonic.
                 pub_dt = pub_dt + timedelta(seconds=int(number))
             add_pubdate(item, pub_dt)
 
@@ -178,14 +192,23 @@ def find_page_issued_date(soup):
 
 
 def main(slug: str) -> None:
-    url = f"https://www.pagasa.dost.gov.ph/regional-forecast/{slug}"
+    base = f"https://www.pagasa.dost.gov.ph/regional-forecast/{slug}"
     try:
+        # Cache-busting: no-cache headers + unique query param each run so the
+        # CDN can't serve a stale copy that's missing the newest advisory.
         response = requests.get(
-            url, timeout=30, headers={"User-Agent": "Mozilla/5.0"}
+            base,
+            timeout=30,
+            headers={
+                "User-Agent": "Mozilla/5.0",
+                "Cache-Control": "no-cache, no-store, max-age=0",
+                "Pragma": "no-cache",
+            },
+            params={"_": int(time.time())},
         )
         response.raise_for_status()
     except requests.RequestException as e:
-        print(f"Error fetching data from {url}: {e}")
+        print(f"Error fetching data from {base}: {e}")
         return
 
     soup = BeautifulSoup(response.content, "html.parser")
@@ -195,7 +218,8 @@ def main(slug: str) -> None:
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = f"PAGASA {slug.upper()} Advisories"
-    ET.SubElement(channel, "link").text = url
+    # Keep the clean canonical link in the feed (no cache-buster param).
+    ET.SubElement(channel, "link").text = base
     ET.SubElement(channel, "description").text = (
         f"Aggregated rainfall, thunderstorm, and special forecasts from "
         f"PAGASA {slug.upper()}"
