@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 29 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 29 Aug 2026 03:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 03:03:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Information #MINPRSD&lt;br /&gt; Issued at 10:03 AM 29 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
       <pubDate>Sat, 29 Aug 2026 02:03:00 +0000</pubDate>
       <guid isPermaLink="false">35c81661a2b5fa2008616b76648b7476388644dc</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 03:00:43 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 03:03:36 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Sat, 29 Aug 2026 02:02:00 +0000</pubDate>
       <guid isPermaLink="false">56233218a83757d9a7aea82efd0bd8ef95049b32</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 03:00:43 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 03:03:36 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
@@ -78,14 +78,6 @@
       <guid isPermaLink="false">79425327f9164d5b17db81cf357128556c1337a9</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 12:30:45 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 30 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 30 #MINPRSD&lt;br /&gt; Issued at 08:00 AM 28 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #DinagatIslands, #Camiguin, #ZamboangaCity, #LanaoDelNorte(Baroy, SultanNagaDimaporo), #MisamisOccidental(Bonifacio, TangubCity, OzamisCity), #ZamboangaDelSur(Labangan, PagadianCity, Dumalinao, SanPablo, Aurora, Tambulig, Tukuran, Dinas), #SurigaoDelNorte(SurigaoCity, TaganaAn, Placer, Bacuag and Sison) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #LanaoDelNorte(Kapatagan and Lala) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 28 Aug 2026 00:00:30 +0000</pubDate>
-      <guid isPermaLink="false">466505b245e058423b80112b45afe9a42e19b51d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 03:00:52 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
