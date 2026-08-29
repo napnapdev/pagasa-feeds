@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 29 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 29 Aug 2026 00:16:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 00:30:28 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 14 #NCRPRSD</title>
       <description>Heavy Rainfall Warning No. 14 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 8:00 AM, 29 August 2026(Saturday)&lt;br /&gt; &lt;br /&gt; RED WARNING LEVEL: Zambales, Bataan, Pampanga, Bulacan(Pulilan, Baliuag, Calumpit, Hagonoy, Paombong, Malolos, Bulakan, Guiguinto, Plaridel, Balagtas, Bocaue, Santa Maria, Pandi, Bustos, Marilao, Meycauayan, Obando) and Batangas(Nasugbu, Tuy, Lian, Balayan, Calatagan).&lt;br /&gt; ASSOCIATED HAZARD: Serious FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; ORANGE WARNING LEVEL: Metro Manila, Rizal, Cavite, Laguna(Alaminos, Calauan, Bay, Los Banos, Calamba, Cabuyao, Santa Rosa, Binan, San Pedro, Victoria, Pakil, Mabitac, Pangil, Santa Maria, Siniloan, Famy, Pila, Santa Cruz, Paete, Kalayaan, Lumban, Pagsanjan), Batangas(Batangas City, Ibaan, Lipa, San Jose, Mabini, Bauan, San Pascual, Tingloy, Mataasnakahoy, Balete, Malvar, Santo Tomas, San Luis, Cuenca, Alitagtag, Tanauan, Santa Teresita, Taal, San Nicolas, Talisay, Agoncillo, Calaca, Laurel, Lemery, Lobo), Bulacan(Angat, San Jose del Monte, Dona Remedios Trinidad, Norzagaray, San Ildefonso, San Miguel, San Rafael) and Tarlac(Mayantoc, Santa Ignacia, San Jose, Capas, Bamban, San Clemente, Camiling).&lt;br /&gt; ASSOCIATED HAZARD: FLOODING is still THREATENING.&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Quezon(Candelaria, Dolores, Tiaong, Lucban, Sariaya, Tayabas, Lucena, San Antonio), Laguna(Liliw, Luisiana, Magdalena, Majayjay, Cavinti, Rizal, Nagcarlan, San Pablo), Tarlac(Concepcion, Anao, Tarlac City, Gerona, La Paz, Paniqui, Pura, Ramos, San Manuel, Victoria, Moncada) and Batangas(Rosario, Padre Garcia, Taysan, San Juan).&lt;br /&gt; ASSOCIATED HAZARD: Possible FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, light to moderate with occasional heavy rains affecting Nueva Ecija and Quezon(General Nakar, Infanta, Mauban, Pagbilao, Real, Sampaloc, Agdangan, Alabat, Atimonan, Buenavista, Burdeos, Calauag, Catanauan, General Luna, Guinayangan, Gumaca, Jomalig, Lopez, Macalelon, Mulanay, Padre Burgos, Panukulan, Patnanungan, Perez, Pitogo, Plaridel, Polillo, Quezon, San Andres, San Francisco, San Narciso, Tagkawayan, Unisan) which may persist within 3 hours.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Sat, 29 Aug 2026 00:00:14 +0000</pubDate>
       <guid isPermaLink="false">6707bbb95afd731fd74fdd4f481970091b5df51c</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 00:16:22 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 00:30:47 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 13 #NCRPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Fri, 28 Aug 2026 21:00:13 +0000</pubDate>
       <guid isPermaLink="false">f5ff7f806ce212b2b395977bcaac002838ddd153</guid>
       <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 00:16:22 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 00:30:47 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 12 #NCRPRSD</title>
@@ -102,7 +102,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 00:16:22 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 00:30:47 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
