@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 29 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 29 Aug 2026 15:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:30:55 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 3 #MINPRSD&lt;br /&gt; Issued at 10:00 PM 29 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelNorte(Sirawai, Siocon, Baliguian, Kalawit), #ZamboangaSibugay(Tungawan, Titay, Ipil), #AgusanDelSur(Loreto, LaPaz, SanLuis), #Bukidnon(CityOfMalaybalay, Cabanglasan, SanFernando, Quezon, DonCarlos, Kadingilan, Dangcagan, Kibawe, Kitaotao, Damulog, Pangantucan, Kalilangan) and #DavaoDelNorte(Kapalong) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #ZamboangaSibugay(RosellerLim), #Bukidnon(CityOfValencia, Maramag and Lantapan) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sat, 29 Aug 2026 14:00:03 +0000</pubDate>
       <guid isPermaLink="false">062324f5115035f7bec2491bce41d75e27b39f57</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 15:30:37 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 15:31:14 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Sat, 29 Aug 2026 13:30:00 +0000</pubDate>
       <guid isPermaLink="false">14ef2acac3e8d48a8080c2b5a30718185e1646aa</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 15:30:37 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 15:31:14 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
@@ -54,14 +54,6 @@
       <guid isPermaLink="false">56233218a83757d9a7aea82efd0bd8ef95049b32</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 14:02:08 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #MINPRSD&lt;br /&gt; Issued at 08:30 PM 28 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(Tago, Cagwait, Marihatag, Bayabas, SanAgustin, Lianga, SanMiguel, Carmen, Madrid, Cantilan, Carrascal), #AgusanDelSur(Rosario, SanFrancisco, Prosperidad, CityOfBayugan, Sibagat), #ZamboangaDelNorte(Siocon, Sirawai, Baliguian), #ZamboangaSibugay(Titay and Naga) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelSur(CityOfTandag, Cortes, Lanuza, Hinatuan, Barobo, Tagbina), #ZamboangaSibugay(RosellerLim, Tungawan and Ipil) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 28 Aug 2026 12:30:03 +0000</pubDate>
-      <guid isPermaLink="false">b43fd24af3cbb0474635a14df50704b995d78c0b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 15:30:48 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
