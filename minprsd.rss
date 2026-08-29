@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 29 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 29 Aug 2026 06:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 06:31:05 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Information #MINPRSD&lt;br /&gt; Issued at 10:03 AM 29 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
       <pubDate>Sat, 29 Aug 2026 02:03:00 +0000</pubDate>
       <guid isPermaLink="false">35c81661a2b5fa2008616b76648b7476388644dc</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 06:30:49 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 06:31:23 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Sat, 29 Aug 2026 02:02:00 +0000</pubDate>
       <guid isPermaLink="false">56233218a83757d9a7aea82efd0bd8ef95049b32</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 06:30:49 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 06:31:23 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
@@ -46,22 +46,6 @@
       <guid isPermaLink="false">0467fbe9bc97cdf0131926a36a9a38077ff77e9a</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 09:30:44 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 33 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 33 FINAL #MINPRSD&lt;br /&gt; Issued at 01:45 PM 28 August 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 28 Aug 2026 05:45:33 +0000</pubDate>
-      <guid isPermaLink="false">7ecdbb8d6710dfd5510729fd3bec0de665232ed1</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 06:31:19 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 32 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 32 #MINPRSD&lt;br /&gt; Issued at 12:00 PM 28 August 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelSur(Dimataling, Tabina, Lapuyan, Margosatubig, VincenzoA.Sagun, Pitogo, Kumalarang, Dumalinao, Guipos, SanMiguel), #ZamboangaSibugay(Malangas, Alicia, Tungawan and Buug) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaDelSur(SanPablo and Dinas) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 28 Aug 2026 04:00:32 +0000</pubDate>
-      <guid isPermaLink="false">cc3db9a85772d74c16e3e6d69269dc000f234d67</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 06:31:19 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
