@@ -5,15 +5,15 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/ncrprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
-    <pubDate>Fri, 28 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 29 Aug 2026 09:30:53 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:45:17 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 17 #NCRPRSD</title>
       <description>Heavy Rainfall Warning No. 17 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 5:10 PM, 29 August 2026(Saturday)&lt;br /&gt; &lt;br /&gt; RED WARNING LEVEL: Zambales, Tarlac, Pampanga, Bataan, Bulacan, Metro Manila, Rizal, Cavite and Batangas(Nasugbu, Lian, Tuy, Balayan, Calatagan).&lt;br /&gt; ASSOCIATED HAZARD: Serious FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; ORANGE WARNING LEVEL: Nueva Ecija, Laguna and Batangas(Agoncillo, Alitagtag, Balete, Batangas City, Bauan, Calaca, Tanauan, Cuenca, Ibaan, Laurel, Lemery, Lipa, Mabini, Malvar, Mataasnakahoy, San Jose, San Luis, San Nicolas, San Pascual, Santa Teresita, Santo Tomas, Taal, Talisay, Tingloy).&lt;br /&gt; ASSOCIATED HAZARD: FLOODING is still THREATENING.&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Quezon(San Antonio, Candelaria, Dolores, Sariaya, Tiaong, General Nakar, Tayabas, Infanta, Lucban, Lucena, Mauban, Pagbilao, Real, Sampaloc, Burdeos, Panukulan, Polillo) and Batangas(Rosario, Padre Garcia, San Juan, Taysan, Lobo).&lt;br /&gt; ASSOCIATED HAZARD: Possible FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, light to moderate with occasional heavy rains affecting Quezon(Agdangan, Alabat, Atimonan, Buenavista, Calauag, Catanauan, General Luna, Guinayangan, Gumaca, Lopez, Macalelon, Mulanay, Padre Burgos, Perez, Pitogo, Plaridel, Quezon, San Andres, San Francisco, San Narciso, Tagkawayan, Unisan, Patnanungan, Jomalig) which may persist within 3 hours.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 8:02 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Sat, 29 Aug 2026 09:10:17 +0000</pubDate>
       <guid isPermaLink="false">34277ed6c48b57a98024d7d1ac0181ed79b6cd5d</guid>
       <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 09:31:07 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 09:45:32 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 17 #NCRPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Sat, 29 Aug 2026 09:00:17 +0000</pubDate>
       <guid isPermaLink="false">e092a4b6caca1f6e0e4b3421d67d41e73a88d3a6</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 09:31:07 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 09:45:32 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 16 #NCRPRSD</title>
@@ -29,7 +29,7 @@
       <pubDate>Sat, 29 Aug 2026 06:00:16 +0000</pubDate>
       <guid isPermaLink="false">a93daa410fd56386558ae398162932b84beebaa1</guid>
       <category>Rainfall Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 09:31:07 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 09:45:32 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 15 #NCRPRSD</title>
@@ -102,7 +102,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 09:31:07 +0000</ns3:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 09:45:32 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
