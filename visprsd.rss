@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 29 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 29 Aug 2026 18:30:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:31:04 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 11 #VISPRSD</title>
       <description>Heavy Rainfall Warning No. 11 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 02:00 AM 30 August 2026&lt;br /&gt; &lt;br /&gt; Orange Warning: #OccidentalMindoro(Looc and Lubang)&lt;br /&gt; Associated Hazard: FLOODING IS THREATENING in low-lying areas and LANDSLIDES in mountainous areas.&lt;br /&gt; &lt;br /&gt; Yellow Warning: #OccidentalMindoro(Mamburao, AbraDeIlog, SantaCruz and Paluan)&lt;br /&gt; Associated Hazard: FLOODING IS POSSIBLE in low-lying areas and LANDSLIDES in mountainous areas.&lt;br /&gt; &lt;br /&gt; Meanwhile, Light to Moderate with occasionally Heavy rains are being experienced in #OccidentalMindoro(Calintaan, Rizal, SanJose, Magsaysay, Sablayan), #Palawan(Roxas, Dumaran, Araceli, Taytay and SanVicente) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.</description>
       <pubDate>Sat, 29 Aug 2026 18:00:11 +0000</pubDate>
       <guid isPermaLink="false">fe4201b71e76e3f0afdbbab6f3577d161accd935</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:30:46 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:31:22 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
@@ -29,7 +29,7 @@
       <pubDate>Sat, 29 Aug 2026 15:00:10 +0000</pubDate>
       <guid isPermaLink="false">736a97f281c3305a7f08e2a02f853818abd20fe7</guid>
       <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:30:46 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:31:22 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -37,7 +37,7 @@
       <pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">1f839a78aa3365eba10354d1d36d9307d7860ec2</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:30:46 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:31:22 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -45,7 +45,7 @@
       <pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">b88c3c1e9584617c9e5bdf2c74f3762d300dd870</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:30:46 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:31:22 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
@@ -206,7 +206,7 @@
       <pubDate>Fri, 28 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_PANGLAO_BOHOL INTERNATIONAL MARATHON_08292026_1787950768.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:30:46 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:31:22 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 30 August, 2026</title>
@@ -215,7 +215,7 @@
       <pubDate>Fri, 28 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_CEBU_08292026_1787950751.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:30:46 +0000</ns6:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:31:22 +0000</ns5:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 30 August, 2026</title>
@@ -224,7 +224,7 @@
       <pubDate>Fri, 28 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08292026_1787950735.pdf</guid>
       <category>Special Forecast</category>
-      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:30:46 +0000</ns7:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 18:31:22 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
@@ -243,63 +243,12 @@
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 21:53:48 +0000</ns1:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 01:45 AM 29 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(Manapla) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(CityOfVictorias, EnriqueB.Magalona) and #Iloilo(Dumangas) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 28 Aug 2026 17:45:01 +0000</pubDate>
-      <guid isPermaLink="false">cf71cb021eaeacbdafb356d6e6d5a2cf69632743</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 18:30:52 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 17 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 17 #VISPRSD&lt;br /&gt; Issued at 11:59 PM 28 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Leon, SanMiguel, Pavia, SantaBarbara, Leganes, Dumangas, Zarraga and Alimodian) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Miagao, Igbaras, Tigbauan, Guimbal, Oton, Tubungan, IloiloCity) and #Guimaras which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 28 Aug 2026 15:59:17 +0000</pubDate>
-      <guid isPermaLink="false">53b543d006a5da7b8de7d758b7be260019b07875</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 18:30:52 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 2 #VISPRSD</title>
-      <description>Heavy Rainfall Warning No. 2 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 11:00 PM 28 August 2026&lt;br /&gt; &lt;br /&gt; Orange Warning: #Antique(TobiasFornier, AniniY), #Iloilo(SanJoaquin) and #Guimaras&lt;br /&gt; Associated Hazard: FLOODING IS THREATENING in low-lying areas and LANDSLIDES in mountainous areas.&lt;br /&gt; &lt;br /&gt; Yellow Warning: #Antique(Hamtic), #NegrosOccidental(Valladolid, Pulupandan, BagoCity, BacolodCity, CityOfTalisay, EnriqueB.Magalona, SilayCity), #OccidentalMindoro(Lubang, Looc and Paluan)&lt;br /&gt; Associated Hazard: FLOODING IS POSSIBLE in low-lying areas and LANDSLIDES in mountainous areas.&lt;br /&gt; &lt;br /&gt; Meanwhile, Light to Moderate with occasionally Heavy rains are expected over #Iloilo(Guimbal, Igbaras, Tigbauan, Oton, IloiloCity, SanMiguel, Pavia, Leganes, SantaBarbara, Zarraga, Dumangas), #Antique(Sibalom, Caluya), #NegrosOccidental(Binalbagan, Hinigaran, Isabela, MoisesPadilla, LaCastellana, Pontevedra, Manapla, CadizCity, SagayCity, CityOfEscalante, Toboso, Calatrava, SalvadorBenedicto), #Palawan(Linapacan, ElNido, Taytay, Dumaran and Araceli) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Miagao), #NegrosOccidental(SanEnrique, LaCarlotaCity, Murcia, CityOfVictorias), #OccidentalMindoro(Mamburao, SantaCruz, Sablayan, Calintaan, Rizal, SanJose, Magsaysay, AbraDeIlog), #Palawan(Busuanga, Coron and Culion) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
-      <pubDate>Fri, 28 Aug 2026 15:00:02 +0000</pubDate>
-      <guid isPermaLink="false">7ab5b5f1be72da3fa8fa783d1e8a3e178a7b0a3e</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 18:30:52 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 28 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #NegrosOccidental, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #Cebu, #Bohol, #Siquijor, #NegrosOriental, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
       <pubDate>Fri, 28 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">a07f92787de2f3c8ddaff372725ee110304ea722</guid>
       <category>Thunderstorm Advisory</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 01:30:22 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 29 August, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_PANGLAO_BOHOL INTERNATIONAL MARATHON_08282026_1787863335.pdf</link>
-      <description>Issued at: 05:00 AM, 28 August, 2026&lt;br /&gt;Valid until: 05:00 AM, 29 August, 2026</description>
-      <pubDate>Thu, 27 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_PANGLAO_BOHOL INTERNATIONAL MARATHON_08282026_1787863335.pdf</guid>
-      <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 18:30:52 +0000</ns5:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 29 August, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_CEBU_08282026_1787863314.pdf</link>
-      <description>Issued at: 05:00 AM, 28 August, 2026&lt;br /&gt;Valid until: 05:00 AM, 29 August, 2026</description>
-      <pubDate>Thu, 27 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_CEBU_08282026_1787863314.pdf</guid>
-      <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 18:30:52 +0000</ns6:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 29 August, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08282026_1787863285.pdf</link>
-      <description>Issued at: 05:00 AM, 28 August, 2026&lt;br /&gt;Valid until: 05:00 AM, 29 August, 2026</description>
-      <pubDate>Thu, 27 Aug 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08282026_1787863285.pdf</guid>
-      <category>Special Forecast</category>
-      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Fri, 28 Aug 2026 18:30:52 +0000</ns7:seen>
     </item>
   </channel>
 </rss>
