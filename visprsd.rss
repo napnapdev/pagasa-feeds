@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 30 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 30 Aug 2026 02:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:45:22 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 AM 30 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Bohol, #Siquijor, #NegrosOriental and #SouthernLeyte within 12 hours.</description>
       <pubDate>Sun, 30 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">09774d293f3515087793854a23aed37ac0230060</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:30:51 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:45:35 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Sun, 30 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">bbe65e5a01663dd56516cc036d09c6383e23402c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:30:51 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:45:35 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
@@ -29,7 +29,7 @@
       <pubDate>Sun, 30 Aug 2026 01:48:06 +0000</pubDate>
       <guid isPermaLink="false">115b1d9a8cfdea2bcc49a5774526c168b95b32b5</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:30:51 +0000</ns3:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:45:35 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
@@ -37,7 +37,7 @@
       <pubDate>Sun, 30 Aug 2026 00:58:05 +0000</pubDate>
       <guid isPermaLink="false">06676e982b8888c3adac249401683fc9c1fdacf3</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:30:51 +0000</ns4:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:45:35 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
@@ -45,7 +45,7 @@
       <pubDate>Sun, 30 Aug 2026 00:17:04 +0000</pubDate>
       <guid isPermaLink="false">69652d3eae35cd705db9e0a7337a925fe834df36</guid>
       <category>Thunderstorm Advisory</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:30:51 +0000</ns5:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:45:35 +0000</ns5:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 13 #VISPRSD</title>
@@ -53,7 +53,7 @@
       <pubDate>Sun, 30 Aug 2026 00:00:13 +0000</pubDate>
       <guid isPermaLink="false">8c3f69a564b50edb8ea3b808c6fcfc1a39514634</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:30:51 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:45:35 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
@@ -86,7 +86,7 @@
       <pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_PANGLAO_BOHOL INTERNATIONAL MARATHON_08302026_1788037399.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:30:51 +0000</ns6:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:45:35 +0000</ns6:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 31 August, 2026</title>
@@ -95,7 +95,7 @@
       <pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_CEBU_08302026_1788037381.pdf</guid>
       <category>Special Forecast</category>
-      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:30:51 +0000</ns7:seen>
+      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:45:35 +0000</ns7:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 31 August, 2026</title>
@@ -104,7 +104,7 @@
       <pubDate>Sat, 29 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08302026_1788037356.pdf</guid>
       <category>Special Forecast</category>
-      <ns8:seen xmlns:ns8="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:30:51 +0000</ns8:seen>
+      <ns8:seen xmlns:ns8="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 02:45:35 +0000</ns8:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
