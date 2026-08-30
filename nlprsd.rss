@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 30 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 30 Aug 2026 09:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 10:00:20 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 15 #NLPRSD</title>
       <description>Heavy Rainfall Warning No. 15 #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 05:00 PM 30 August 2026&lt;br /&gt; &lt;br /&gt; Red Warning: #Pangasinan&lt;br /&gt; Associated Hazard: SERIOUS FLOODING and LANDSLIDE in flood-prone and landslide-prone areas&lt;br /&gt; &lt;br /&gt; Orange Warning: #Benguet, #IlocosSur and #LaUnion&lt;br /&gt; Associated Hazard: FLOODING and LANDSLIDE is still THREATENING in flood-prone and landslide-prone areas&lt;br /&gt; &lt;br /&gt; Yellow Warning: #NuevaVizcaya(Ambaguio, Aritao, Bambang, DupaxDelSur, Kayapa, SantaFe), #Ifugao(Hungduan, Tinoc), #MountainProvince(Bauko, Besao, Sabangan, Sagada, Tadian), #Abra and #IlocosNorte&lt;br /&gt; Associated Hazard: POSSIBLE FLOODING and LANDSLIDE in flood-prone and landslide-prone areas&lt;br /&gt; &lt;br /&gt; Meanwhile, Light to Moderate to at times Heavy rains are being experienced in #NuevaVizcaya(Bagabag, Bayombong, Diadi, DupaxDelNorte, Kasibu, Quezon, Solano, Villaverde, AlfonsoCastaneda), #Aurora, #Quirino, #Ifugao(Banaue, Kiangan, Lagawe, Lamut, Mayoyao, AlfonsoLista, Aguinaldo, Hingyon, Asipulo), #MountainProvince(Barlig, Bontoc, Natonin, Sadanga, Paracelis), #Apayao, #Kalinga, #Isabela, #Cagayan and #Batanes which may persist within 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 30 Aug 2026 09:00:15 +0000</pubDate>
       <guid isPermaLink="false">86e2917286c3cdcbc9ceba2e721fa1c3b0077d07</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 09:45:43 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 10:00:40 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 14 #NLPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Sun, 30 Aug 2026 06:00:14 +0000</pubDate>
       <guid isPermaLink="false">3a6cd3d9a335133049cea6f413851878e2f5d1df</guid>
       <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 09:45:43 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 10:00:40 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 13 #NLPRSD</title>
@@ -37,7 +37,7 @@
       <pubDate>Sun, 30 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">befac987b2e6ef29b418ad565637ea3393ba83eb</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 09:45:43 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 10:00:40 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 12 #NLPRSD</title>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">4ff4915933bddb9a47c22fe1114ba62e7732d817</guid>
       <category>Rainfall Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 13:00:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 6 #NLPRSD</title>
-      <description>Heavy Rainfall Warning No. 6 #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 02:00 PM 29 August 2026&lt;br /&gt; &lt;br /&gt; Yellow Warning: #Pangasinan&lt;br /&gt; Associated Hazard: FLOODING and LANDSLIDE in flood-prone and landslide-prone areas&lt;br /&gt; &lt;br /&gt; Meanwhile, Light to Moderate to at times Heavy rains are expected over #IlocosSur(Lidlidda, Burgos, SanEsteban, SantaMaria, Narvacan, Santa, Caoayan, SantaCatalina, Sinait, Cabugao, SanJuan, Magsingal, SantoDomingo, SanVicente, Bantay, CityOfVigan, SanIldefonso, Nagbukel, SanEmilio, GregorioDelPilar, Sigay, Cervantes, Quirino), #Abra(Bangued, Boliney, Bucay, Bucloc, Daguioman, Danglas, Dolores, LaPaz, Lacub, Lagangilang, Lagayan, Langiden, LicuanBaay, Luba, Malibcong, Manabo, Peñarrubia, Pidigan, Pilar, Sallapadan, SanIsidro, SanJuan, SanQuintin, Tayum, Tineg, Villaviciosa), #IlocosNorte(Adams, Bacarra, Badoc, Bangui, CityOfBatac, Carasi, Dingras, Dumalneg, Banna, Marcos, NuevaEra, Pagudpud, Pasuquin, Piddig, Pinili, Sarrat, Solsona, Vintar, Burgos), #MountainProvince(Sadanga, Bontoc, Besao, Tadian, Bauko, Natonin, Barlig), #Ifugao(Hungduan, Banaue, Hingyon), #Isabela(Jones, SanAgustin, Echague, SanIsidro, Dinapigue, SanGuillermo, Alicia, Angadanan), #NuevaVizcaya(Quezon, Kasibu), #Quirino(Diffun, Cabarroguis, Aglipay, Saguday), #Kalinga(Balbalan, Pasil, Lubuagan, Tanudan, Tinglayan, Rizal), #Cagayan(Tuao, Rizal) and #Apayao(Kabugao) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NuevaVizcaya(SantaFe, Kayapa, AlfonsoCastaneda, DupaxDelSur, Aritao, DupaxDelNorte, Ambaguio, Villaverde, Solano, Bambang, Bayombong, Bagabag, Diadi), #Benguet, #LaUnion, #IlocosSur(Sugpon, Alilem, Suyo, Tagudin, SantaCruz, CityOfCandon, SantaLucia, Galimuyod, Salcedo, Banayoyo, Santiago), #Abra(Tubo), #IlocosNorte(Currimao, LaoagCity, Paoay, SanNicolas), #MountainProvince(Sagada, Sabangan, Paracelis), #Ifugao(Asipulo, Tinoc, Aguinaldo, Mayoyao, Lagawe, Lamut, Kiangan, AlfonsoLista), #Quirino(Nagtipunan, Maddela), #Aurora, #Isabela(SanMateo, CityOfSantiago, Cordon, Ramon), #Kalinga(CityOfTabuk, Pinukpuk) and #Apayao(Conner) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 29 Aug 2026 06:00:06 +0000</pubDate>
-      <guid isPermaLink="false">62c2592c9c4435819a5a9f0cbe26123a4c429a2c</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 10:00:26 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
