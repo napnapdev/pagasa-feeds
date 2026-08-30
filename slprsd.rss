@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 30 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 30 Aug 2026 03:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 03:03:24 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 6 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 6 #SLPRSD&lt;br /&gt; Issued at 09:00 AM 30 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(SanTeodoro and Baco) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon(SanJose, SantaFe, Looc, Alcantara, Ferrol, Odiongan and SantaMaria) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 30 Aug 2026 01:00:06 +0000</pubDate>
       <guid isPermaLink="false">f2e740f98250b8a42c77386eb19fc9d71e15578e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 03:00:39 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 03:03:40 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 31 August, 2026</title>
@@ -22,7 +22,7 @@
       <pubDate>Sun, 30 Aug 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_30Aug2026_1788052075.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 03:00:39 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 03:03:40 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 31 August, 2026</title>
@@ -31,7 +31,7 @@
       <pubDate>Sun, 30 Aug 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_30Aug2026_1788052042.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 03:00:39 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 03:03:40 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #SLPRSD</title>
@@ -80,7 +80,7 @@
       <pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_29Aug2026_1788007152.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 03:00:39 +0000</ns3:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 03:03:40 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 30 August, 2026</title>
@@ -89,7 +89,7 @@
       <pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_29Aug2026_1788007094.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 03:00:39 +0000</ns4:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 03:03:40 +0000</ns4:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 3 #SLPRSD</title>
@@ -132,14 +132,6 @@
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_29Aug2026_1787974441.pdf</guid>
       <category>Special Forecast</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 01:00:31 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 6 #SLPRSD</title>
-      <description>Rainfall Advisory No. 6 #SLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 08:00 AM 29 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are expected over #Albay(Oas, CityOfLigao, PioDuran, Polangui), #CamarinesSur(IrigaCity, Sagñay, Goa, Tigaon) and #Marinduque(Torrijos) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro, #Romblon, #Marinduque(Gasan, Buenavista, Boac, SantaCruz, Mogpog), #Masbate(SanPascual, Claveria), #CamarinesSur(Libmanan, Pasacao, Pamplona, Canaman, Magarao, Bombon, Gainza, SanFernando, Minalabac, Milaor, Camaligan, NagaCity, Balatan, Bato, Tinambac, Calabanga, Pili, Bula, Baao, Nabua, Ocampo) and #Albay(Libon) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.</description>
-      <pubDate>Sat, 29 Aug 2026 00:00:06 +0000</pubDate>
-      <guid isPermaLink="false">da4866687894dd7f8eedddfdbb5b09310e4914be</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 03:00:44 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 29 August, 2026</title>
