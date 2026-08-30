@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 30 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 30 Aug 2026 18:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 19:00:27 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 30 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
       <pubDate>Sun, 30 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">a1f7d13f1be4b893d7ec95ee28e4f5209cc940b4</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 18:45:16 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 19:00:41 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
@@ -30,14 +30,6 @@
       <guid isPermaLink="false">3f401370367607f83acd1f4fecb8880ac18bbc2d</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 14:45:37 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 4 FINAL #MINPRSD&lt;br /&gt; Issued at 12:00 AM 30 August 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 29 Aug 2026 16:00:04 +0000</pubDate>
-      <guid isPermaLink="false">d7a146211c87df9d64797a67bfdca7d696e6490b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 29 Aug 2026 19:00:41 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
