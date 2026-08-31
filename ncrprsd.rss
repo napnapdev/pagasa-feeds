@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 31 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 06:15:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:15:58 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 32 #NCRPRSD</title>
       <description>Heavy Rainfall Warning No. 32 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 2:00 PM, 31 August 2026(Monday)&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Zambales(Botolan, Cabangan, Candelaria, Iba, Masinloc, Palauig, Santa Cruz, San Felipe, San Narciso) and Tarlac(Camiling, Mayantoc, San Clemente, San Jose, Santa Ignacia, Capas).&lt;br /&gt; ASSOCIATED HAZARD: FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, expect light to moderate with occasional heavy rains over Bataan and Bulacan(Angat, Balagtas, Bocaue, Bustos, Malolos, Guiguinto, Norzagaray, Pandi, Paombong, Plaridel, Santa Maria, Calumpit, Hagonoy, Bulakan, Baliuag, Dona Remedios Trinidad, Pulilan, San Ildefonso, San Rafael, San Miguel) within the next 3 hours.&lt;br /&gt; Light to moderate with occasional heavy rains affecting Nueva Ecija, Tarlac(Concepcion, Tarlac City, Gerona, La Paz, Paniqui, Pura, Ramos, Victoria, Bamban, Anao, San Manuel, Moncada), Pampanga(Arayat, Bacolor, Candaba, San Fernando, Magalang, Mexico, San Luis, San Simon, Santa Ana, Santo Tomas, Angeles, Mabalacat, Guagua, Porac, Santa Rita) and Zambales(Castillejos, San Antonio, San Marcelino) which may persist within 3 hours and may affect nearby areas.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 5:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Mon, 31 Aug 2026 06:00:32 +0000</pubDate>
       <guid isPermaLink="false">854fd4160107edc96cecff7c363c2edf90091f67</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 06:15:31 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 06:16:16 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 31 #NCRPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Mon, 31 Aug 2026 03:00:31 +0000</pubDate>
       <guid isPermaLink="false">ede0d5937ffcb97e046ecb819888de9594dde613</guid>
       <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 06:15:31 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 06:16:16 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 30 #NCRPRSD</title>
@@ -102,7 +102,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 06:15:31 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 06:16:16 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
