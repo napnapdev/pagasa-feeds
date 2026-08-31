@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 31 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 15:45:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:00:29 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 6 #NCRPRSD</title>
       <description>Rainfall Advisory No. 6 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 11:00 PM, 31 August 2026(Monday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Tarlac(San Clemente, Camiling, Mayantoc, San Jose, Santa Ignacia, Capas, Bamban) and Pampanga(Lubao, Floridablanca, Porac).&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Zambales(Santa Cruz, Candelaria, Masinloc, Palauig, Iba, Botolan) and Bataan(Abucay, Samal, Orani) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 AM tomorrow.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Mon, 31 Aug 2026 15:00:06 +0000</pubDate>
       <guid isPermaLink="false">12e5e1affcc6e0d48c226c21499a365fcf365c24</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 15:45:42 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 16:00:55 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 5 #NCRPRSD</title>
@@ -88,21 +88,13 @@
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 19:00:41 +0000</ns1:seen>
     </item>
     <item>
-      <title>Rainfall Advisory No. 26 #NCRPRSD</title>
-      <description>Heavy Rainfall Warning No. 26 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 8:00 PM, 30 August 2026(Sunday)&lt;br /&gt; &lt;br /&gt; ORANGE WARNING LEVEL: Zambales, Bataan(Abucay, Bagac, Balanga, Dinalupihan, Hermosa, Morong, Orani, Orion, Pilar, Samal), Tarlac(Mayantoc, San Jose, Capas, Bamban, San Clemente, Camiling, Santa Ignacia), Pampanga(Porac, Floridablanca, Lubao, Sasmuan, Apalit, Bacolor, San Fernando, Macabebe, Masantol, Mexico, Minalin, San Luis, San Simon, Santa Ana, Santo Tomas, Angeles, Mabalacat, Guagua, Santa Rita) and Bulacan(Hagonoy, Calumpit, Paombong, Malolos).&lt;br /&gt; ASSOCIATED HAZARD: FLOODING is still THREATENING.&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Nueva Ecija, Metro Manila, Tarlac(Concepcion, Anao, Tarlac City, Gerona, La Paz, Paniqui, Pura, Ramos, San Manuel, Victoria, Moncada), Pampanga(Arayat, Candaba, Magalang), Bulacan(Angat, Balagtas, Baliuag, Bocaue, Bulakan, Bustos, Meycauayan, San Jose del Monte, Dona Remedios Trinidad, Guiguinto, Marilao, Norzagaray, Obando, Pandi, Plaridel, Pulilan, San Ildefonso, San Miguel, San Rafael, Santa Maria), Rizal(Antipolo, Rodriguez, San Mateo, Cainta, Taytay), Cavite(General Trias, General Emilio Aguinaldo, Magallanes, Maragondon, Ternate, Trece Martires, Bacoor, Cavite City, Imus, Kawit, Naic, Noveleta, Rosario, Tanza), Batangas(Nasugbu) and Bataan(Limay, Mariveles).&lt;br /&gt; ASSOCIATED HAZARD: FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, expect light to moderate rains over Batangas(Tuy, Lian, Balayan, Calatagan, Laurel, Calaca, Lemery, Talisay, Tanauan, Agoncillo, Malvar, Santo Tomas, Mabini, Bauan, San Luis, Taal) within the next 3 hours.&lt;br /&gt; Light to moderate rains affecting Quezon(General Nakar), Rizal(Tanay, Angono, Baras, Binangonan, Cardona, Jala-Jala, Morong, Pililla, Teresa), Laguna(San Pedro, Binan) and Cavite(Carmona, Gen. Mariano Alvarez, Dasmarinas) which may persist within 3 hours and may affect nearby areas.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Sun, 30 Aug 2026 12:00:26 +0000</pubDate>
-      <guid isPermaLink="false">cb1aaa02689553f4d739f2659c12973e5f795f02</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 16:00:34 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 15:45:42 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 16:00:55 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
