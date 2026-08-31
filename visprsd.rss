@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 31 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 14:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:30:32 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 PM 31 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cebu, #Bohol, #Siquijor, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.</description>
       <pubDate>Mon, 31 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">218eaf75111078ee5e8eb4128e48dbc63acbda98</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:15:38 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:30:50 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Mon, 31 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">c71d7bb087db455003783d45eacbd635b11d376c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:15:38 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:30:50 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
@@ -29,7 +29,7 @@
       <pubDate>Mon, 31 Aug 2026 11:35:08 +0000</pubDate>
       <guid isPermaLink="false">dde256a3e0ea4ee9776a84841b3b4048093495ef</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:15:38 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:30:50 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
@@ -37,7 +37,7 @@
       <pubDate>Mon, 31 Aug 2026 11:33:07 +0000</pubDate>
       <guid isPermaLink="false">3064a37ede08db808b00ddd852364c51a2067903</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:15:38 +0000</ns3:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:30:50 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 PM, 1 September, 2026</title>
@@ -46,7 +46,7 @@
       <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Tagbilaran_Bohol_Walk_for_a_cause_08312026_1788165601.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:15:38 +0000</ns4:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:30:50 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
@@ -119,7 +119,7 @@
       <pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_CEBU_08312026_1788124932.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:15:38 +0000</ns5:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:30:50 +0000</ns5:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 1 September, 2026</title>
@@ -128,7 +128,7 @@
       <pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08312026_1788124904.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:15:38 +0000</ns6:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 14:30:50 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
@@ -161,22 +161,6 @@
       <guid isPermaLink="false">ded9e1b13c50483453bc532ed9a781c960176dfc</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 14:45:38 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 AM 30 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Bohol, #Siquijor, #NegrosOriental and #SouthernLeyte within 12 hours.</description>
-      <pubDate>Sun, 30 Aug 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">09774d293f3515087793854a23aed37ac0230060</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 14:15:40 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 AM 30 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #NegrosOccidental, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #Leyte, #Biliran, #EasternSamar, #Samar and #Cebu within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
-      <pubDate>Sun, 30 Aug 2026 02:00:00 +0000</pubDate>
-      <guid isPermaLink="false">bbe65e5a01663dd56516cc036d09c6383e23402c</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 14:15:40 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 31 August, 2026</title>
