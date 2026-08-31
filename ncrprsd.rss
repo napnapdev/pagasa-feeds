@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 31 Aug 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 16:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:15:27 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 6 #NCRPRSD</title>
       <description>Rainfall Advisory No. 6 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 11:00 PM, 31 August 2026(Monday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Tarlac(San Clemente, Camiling, Mayantoc, San Jose, Santa Ignacia, Capas, Bamban) and Pampanga(Lubao, Floridablanca, Porac).&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Zambales(Santa Cruz, Candelaria, Masinloc, Palauig, Iba, Botolan) and Bataan(Abucay, Samal, Orani) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 AM tomorrow.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Mon, 31 Aug 2026 15:00:06 +0000</pubDate>
       <guid isPermaLink="false">12e5e1affcc6e0d48c226c21499a365fcf365c24</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 16:00:55 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 16:15:43 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 5 #NCRPRSD</title>
@@ -94,7 +94,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 16:00:55 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 16:15:43 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
