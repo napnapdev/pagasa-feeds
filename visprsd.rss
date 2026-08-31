@@ -6,14 +6,38 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 31 Aug 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 01:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:00:33 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 AM 31 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cebu, #Bohol, #Siquijor, #NegrosOriental, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.</description>
+      <pubDate>Mon, 31 Aug 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">844d312eff61c4abee7aa02bc4776d94451117fd</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 02:00:49 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 AM 31 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan and #NegrosOccidental within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
+      <pubDate>Mon, 31 Aug 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">c62d7b2d77268760b15d5fe25fbca2b382f548a1</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 02:00:49 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 09:38 AM 31 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Brooke'sPoint, Rizal), #Antique(Libertad), #Aklan(Ibajay, Tangalan, Makato, Lezo, Numancia, Banga, Kalibo, NewWashington), #Iloilo(Alimodian, SanMiguel, Oton, Guimbal, Igbaras, Janiuay, Maasin, BarotacViejo and Banate) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Bataraza, Balabac), #Antique(Sebaste, Pandan, SanRemigio), #Aklan(Malinao), #Iloilo(Leon, Tigbauan, Miagao, SantaBarbara, Zarraga, Dumangas, Concepcion, Ajuy and BarotacNuevo) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Mon, 31 Aug 2026 01:38:03 +0000</pubDate>
+      <guid isPermaLink="false">ee94049c131015e8584e7f01f7635d1d3e022d0c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 02:00:49 +0000</ns2:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 07:48 AM 31 August 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(IloiloCity and Leganes) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Guimbal, Tigbauan, Oton, SantaBarbara, SanMiguel, Pavia, Zarraga, Dumangas, BarotacNuevo) and #Palawan(Balabac) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Sun, 30 Aug 2026 23:48:02 +0000</pubDate>
       <guid isPermaLink="false">5a674cd85d7166c3dbbb32a4a46b491ee631c205</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 01:45:36 +0000</ns0:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 02:00:49 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
@@ -30,7 +54,7 @@
       <pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_CEBU_08312026_1788124932.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 01:45:36 +0000</ns1:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 02:00:49 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 1 September, 2026</title>
@@ -39,7 +63,7 @@
       <pubDate>Sun, 30 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08312026_1788124904.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 01:45:36 +0000</ns2:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 31 Aug 2026 02:00:49 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
@@ -227,22 +251,6 @@
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08302026_1788037356.pdf</guid>
       <category>Special Forecast</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 21:00:17 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 PM 29 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cebu, #Bohol and #Siquijor within 12 hours.</description>
-      <pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">1f839a78aa3365eba10354d1d36d9307d7860ec2</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 01:45:38 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 29 August 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #NegrosOccidental, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #NegrosOriental, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
-      <pubDate>Sat, 29 Aug 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">b88c3c1e9584617c9e5bdf2c74f3762d300dd870</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sun, 30 Aug 2026 01:45:38 +0000</ns5:seen>
     </item>
   </channel>
 </rss>
