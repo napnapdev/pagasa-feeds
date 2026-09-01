@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 01 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2026 03:30:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:48:13 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 10:18 AM 01 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Tigbauan, SanMiguel, Pavia and IloiloCity) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(Cauayan), #Iloilo(Oton and Dumangas) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Tue, 01 Sep 2026 02:18:03 +0000</pubDate>
       <guid isPermaLink="false">92fce612e77917be50fef0768007e50fbf6a8b30</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:30:49 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:48:28 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Tue, 01 Sep 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">6188e07183a038a111590b8fd8d48872c5c0580b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:30:49 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:48:28 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
@@ -46,7 +46,7 @@
       <pubDate>Mon, 31 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_CEBU_09012026_1788209287.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:30:49 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:48:28 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 2 September, 2026</title>
@@ -55,7 +55,7 @@
       <pubDate>Mon, 31 Aug 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09012026_1788209265.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:30:49 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:48:28 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
@@ -112,7 +112,7 @@
       <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Tagbilaran_Bohol_Walk_for_a_cause_08312026_1788165601.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:30:49 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:48:28 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
