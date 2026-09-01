@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 01 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2026 11:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:22:55 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 12 #NCRPRSD</title>
       <description>Rainfall Advisory No. 12 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 5:00 PM, 01 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Bataan, Nueva Ecija and Bulacan(Angat, Balagtas, Baliuag, Bustos, Calumpit, Malolos, Dona Remedios Trinidad, Guiguinto, Hagonoy, Pandi, Paombong, Plaridel, Pulilan, San Ildefonso, San Miguel, San Rafael).&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Tarlac(Capas, Bamban, San Jose), Zambales(Botolan, San Felipe, San Marcelino, Cabangan) and Pampanga(Porac, Floridablanca, Mabalacat, Angeles) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 8:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Tue, 01 Sep 2026 09:00:12 +0000</pubDate>
       <guid isPermaLink="false">5e6703e9f3c5868b0c01043174705951868602ff</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 11:03:59 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 11:23:15 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 11 #NCRPRSD</title>
@@ -110,7 +110,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 11:03:59 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 11:23:15 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
