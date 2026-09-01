@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 01 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2026 12:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:27:22 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 13 #NCRPRSD</title>
       <description>Rainfall Advisory No. 13 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 8:00 PM, 01 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Bulacan(Hagonoy, Calumpit, Pulilan, Paombong) and Nueva Ecija(San Antonio, Zaragoza, Licab, Cabiao).&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Bataan(Limay, Balanga, Pilar, Orion, Abucay, Samal, Orani), Zambales(Botolan, San Marcelino, Subic), Pampanga(Porac, Floridablanca) and Tarlac(Bamban, Capas) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Tue, 01 Sep 2026 12:00:13 +0000</pubDate>
       <guid isPermaLink="false">ee74c9725e3a158c1dbb2b37c65727c5e30348f6</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 12:15:50 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 12:27:38 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 12 #NCRPRSD</title>
@@ -110,7 +110,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 12:15:50 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 12:27:38 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
