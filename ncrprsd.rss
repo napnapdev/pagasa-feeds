@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 01 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2026 03:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:03:23 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 10 #NCRPRSD</title>
+      <description>Rainfall Advisory No. 10 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 11:00 AM, 01 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Bulacan, Cavite(Ternate, Naic, Maragondon, Magallanes, General Emilio Aguinaldo, Alfonso, Indang, Mendez, Amadeo), Rizal(Rodriguez, San Mateo), Batangas(Nasugbu) and Metro Manila(Valenzuela, Quezon City, Caloocan).&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Bataan(Dinalupihan, Hermosa), Pampanga(Lubao, Floridablanca, Guagua, Santa Rita, Bacolor, San Fernando, Porac, Arayat, Santa Ana, Santo Tomas, Angeles, Mabalacat, Magalang, Mexico), Tarlac(San Jose, Mayantoc, Bamban, Capas), Zambales(Palauig, Iba, Botolan, Cabangan, San Marcelino) and Nueva Ecija(Cabiao, Aliaga, Cabanatuan, Talavera, Santo Domingo) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
+      <pubDate>Tue, 01 Sep 2026 03:00:10 +0000</pubDate>
+      <guid isPermaLink="false">ff0f9c008c3b5fc2fbdc0eaecdb96f6e0727c3f1</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:03:37 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 9 #NCRPRSD</title>
       <description>Rainfall Advisory No. 9-A #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 9:45 AM, 01 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Nueva Ecija, Quezon(General Nakar) and Batangas(Nasugbu).&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Zambales, Metro Manila(Valenzuela, Caloocan), Bulacan(San Jose del Monte, Norzagaray), Rizal(Rodriguez), Cavite(Maragondon, Ternate, Naic, Tanza), Bataan(Dinalupihan, Hermosa, Orani, Samal, Abucay, Balanga), Pampanga(Lubao, Sasmuan, Floridablanca, Porac, Guagua, Santa Rita) and Tarlac(San Jose, Mayantoc, Capas, Bamban) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Tue, 01 Sep 2026 01:45:09 +0000</pubDate>
       <guid isPermaLink="false">62e15f423484bd076522f3b6011334a9dca940f2</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:00:50 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:03:37 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 9 #NCRPRSD</title>
@@ -110,7 +118,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:00:50 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 03:03:37 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
