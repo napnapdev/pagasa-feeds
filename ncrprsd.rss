@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 02 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 02 Sep 2026 15:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:30:37 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 2 #NCRPRSD</title>
       <description>Heavy Rainfall Warning No. 2 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 11:00 PM, 02 September 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Bataan, Zambales(Olongapo, Masinloc, Candelaria, Palauig, Iba, Botolan, Subic, San Antonio) and Pampanga(Lubao, Floridablanca, Sasmuan).&lt;br /&gt; ASSOCIATED HAZARD: FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, expect light to moderate with occasional heavy rains over Cavite(Bacoor, Imus, Kawit, Noveleta, Cavite City, Rosario, Tanza, General Trias, Naic, Maragondon, Ternate, Trece Martires, Dasmarinas, Magallanes, General Emilio Aguinaldo), Batangas(Nasugbu, Lian), Quezon(General Nakar) and Nueva Ecija(Cuyapo, Nampicuan, Guimba, Licab, Zaragoza, Cabiao, San Antonio, Gapan, San Isidro, General Tinio, Jaen, San Leonardo, Penaranda, Santa Rosa, Cabanatuan, Aliaga, Quezon) within the next 3 hours.&lt;br /&gt; Light to moderate with occasional heavy rains affecting Tarlac(San Clemente, Mayantoc, Camiling, San Jose, Capas, Bamban), Metro Manila(Valenzuela, Malabon, Quezon City, Navotas, Caloocan, Manila), Bulacan(Meycauayan, Obando, Bulakan, Marilao, San Jose del Monte, Norzagaray, Santa Maria, Bocaue, Dona Remedios Trinidad, Malolos, Paombong, Hagonoy, Guiguinto, Calumpit, Pulilan, Plaridel, Baliuag, San Rafael, Angat, Pandi, Balagtas, Bustos), Rizal(Rodriguez, San Mateo), Zambales(San Marcelino, Santa Cruz, Castillejos, Cabangan, San Felipe, San Narciso) and Pampanga(Masantol, Apalit, Macabebe, Minalin, San Simon, San Luis, Candaba, Arayat, Bacolor, San Fernando, Magalang, Mexico, Santa Ana, Santo Tomas, Angeles, Mabalacat, Guagua, Porac, Santa Rita) which may persist within 3 hours and may affect nearby areas.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 AM tomorrow.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Wed, 02 Sep 2026 15:00:02 +0000</pubDate>
       <guid isPermaLink="false">fd5471ba97044272079aae238145b6f8d29438dc</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 15:15:54 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 15:31:17 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 1 #NCRPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Wed, 02 Sep 2026 12:00:01 +0000</pubDate>
       <guid isPermaLink="false">9f273126a9b03ec4ae29a1c95c735d2d39dff149</guid>
       <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 15:15:54 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 15:31:17 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 20 #NCRPRSD</title>
@@ -110,7 +110,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 15:15:54 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 15:31:17 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
