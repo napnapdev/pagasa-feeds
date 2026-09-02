@@ -6,7 +6,25 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 02 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 02 Sep 2026 00:50:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 01:05:14 +0000</lastBuildDate>
+    <item>
+      <title>Special Forecast: Valid until: 09:00 AM, 3 September, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_02Sept2026_1788310304.pdf</link>
+      <description>Issued at: 09:00 AM, 2 September, 2026&lt;br /&gt;Valid until: 09:00 AM, 3 September, 2026</description>
+      <pubDate>Wed, 02 Sep 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_02Sept2026_1788310304.pdf</guid>
+      <category>Special Forecast</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 01:05:27 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 09:00 AM, 3 September, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_02Sept2026_1788310262.pdf</link>
+      <description>Issued at: 09:00 AM, 2 September, 2026&lt;br /&gt;Valid until: 09:00 AM, 3 September, 2026</description>
+      <pubDate>Wed, 02 Sep 2026 01:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_02Sept2026_1788310262.pdf</guid>
+      <category>Special Forecast</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 01:05:27 +0000</ns1:seen>
+    </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 2 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_01Sept2026_1788267810.pdf</link>
@@ -14,7 +32,7 @@
       <pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_01Sept2026_1788267810.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 00:50:26 +0000</ns0:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 01:05:27 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 2 September, 2026</title>
@@ -23,7 +41,7 @@
       <pubDate>Tue, 01 Sep 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_01Sept2026_1788267738.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 00:50:26 +0000</ns1:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 01:05:27 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
@@ -76,24 +94,6 @@
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_31Aug2026_1788211808.pdf</guid>
       <category>Special Forecast</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 12:51:43 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 AM, 1 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_31Aug2026_1788137302.pdf</link>
-      <description>Issued at: 09:00 AM, 31 August, 2026&lt;br /&gt;Valid until: 09:00 AM, 1 September, 2026</description>
-      <pubDate>Mon, 31 Aug 2026 01:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_31Aug2026_1788137302.pdf</guid>
-      <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 00:52:46 +0000</ns5:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 AM, 1 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_31Aug2026_1788137273.pdf</link>
-      <description>Issued at: 09:00 AM, 31 August, 2026&lt;br /&gt;Valid until: 09:00 AM, 1 September, 2026</description>
-      <pubDate>Mon, 31 Aug 2026 01:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_31Aug2026_1788137273.pdf</guid>
-      <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 00:52:46 +0000</ns6:seen>
     </item>
   </channel>
 </rss>
