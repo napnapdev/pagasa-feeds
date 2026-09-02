@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 02 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 02 Sep 2026 16:49:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:03:26 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 02 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDeOro, #DavaoDelNorte, #DavaoDelSur, #DavaoOccidental and #DavaoOriental within 12 hours.</description>
       <pubDate>Wed, 02 Sep 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">b92e36ebfbb857244c5263c28f826ffe1dc9715c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 16:49:18 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 17:03:45 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
@@ -62,14 +62,6 @@
       <guid isPermaLink="false">5a21d7253355ab15b59aec008e64443fb7fede01</guid>
       <category>Thunderstorm Advisory</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 13:51:06 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #MINPRSD&lt;br /&gt; Issued at 10:00 PM 01 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(Lianga, CityOfBislig), #AgusanDelSur(Prosperidad, SanLuis, LaPaz, Bunawan), #Bukidnon(Talakag, Baungon, ImpasugOng, CityOfMalaybalay, Sumilao, ManoloFortich and Libona) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are being experienced in #SurigaoDelSur(Barobo, Tagbina, Hinatuan), #AgusanDelSur(SanFrancisco, Rosario and Talacogon) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 01 Sep 2026 14:00:05 +0000</pubDate>
-      <guid isPermaLink="false">01e6a39811c027ffe226fffc62f4e92bcd24d908</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 01 Sep 2026 16:54:25 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
