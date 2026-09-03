@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 03 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2026 15:27:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:30:34 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 2 #NCRPRSD</title>
       <description>Heavy Rainfall Warning No. 2 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 11:00 PM, 03 September 2026(Thursday)&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Zambales, Bataan, Tarlac(Bamban, Capas), Pampanga(Mabalacat, Angeles, Porac, Floridablanca, Lubao, Guagua, Santa Rita, Bacolor, San Fernando), Batangas(Calatagan, Lian, Nasugbu) and Cavite(Ternate, Maragondon, Magallanes, General Emilio Aguinaldo, Alfonso).&lt;br /&gt; ASSOCIATED HAZARD: FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, light to moderate with occasional heavy rains affecting Metro Manila, Cavite(Naic, Amadeo, General Trias, Indang, Mendez, Silang, Tagaytay, Trece Martires, Bacoor, Carmona, Cavite City, Dasmarinas, Gen. Mariano Alvarez, Imus, Kawit, Noveleta, Rosario, Tanza), Batangas(Tuy, Calaca, Balayan, Lemery, Laurel, Talisay, Agoncillo, San Nicolas, Taal, Tanauan), Laguna(Binan, San Pedro, Santa Rosa, Cabuyao, Calamba), Rizal(Rodriguez, Taytay, Cainta, Binangonan, Angono, Cardona), Bulacan(San Jose del Monte, Norzagaray, Marilao, Hagonoy, Paombong, Malolos, Bulakan, Plaridel, Guiguinto, Bocaue, Obando, Meycauayan, Santa Maria, Balagtas, Pandi, Angat, Dona Remedios Trinidad), Pampanga(Sasmuan, Minalin, Santo Tomas, Magalang, Mexico, Santa Ana, Arayat, Macabebe, Masantol), Tarlac(Concepcion, Anao, Tarlac City, Gerona, La Paz, Paniqui, Pura, Ramos, San Manuel, Victoria, Camiling, Mayantoc, Moncada, San Clemente, San Jose, Santa Ignacia), Nueva Ecija(Cabiao, San Antonio, Zaragoza, Licab, Jaen) and Quezon(General Nakar, Panukulan, Burdeos, Infanta, Real) which may persist within 3 hours and may affect nearby areas.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 AM tomorrow.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Thu, 03 Sep 2026 15:00:02 +0000</pubDate>
       <guid isPermaLink="false">ad955632f94860d062ca5819dc83da8d6596a802</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 15:28:02 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 15:31:10 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 1 #NCRPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Thu, 03 Sep 2026 12:00:01 +0000</pubDate>
       <guid isPermaLink="false">c7de4e027fa36b84461ad2ae7ac9148d1394dc63</guid>
       <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 15:28:02 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 15:31:10 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 21 #NCRPRSD</title>
@@ -94,7 +94,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 15:28:02 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 15:31:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
