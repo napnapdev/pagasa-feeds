@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 03 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2026 18:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:15:26 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 3 #NCRPRSD</title>
       <description>Heavy Rainfall Warning No. 3 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 2:00 AM, 04 September 2026(Friday)&lt;br /&gt; &lt;br /&gt; ORANGE WARNING LEVEL: Bataan and Zambales.&lt;br /&gt; ASSOCIATED HAZARD: FLOODING is still THREATENING.&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Pampanga, Metro Manila, Cavite, Bulacan(Hagonoy, Calumpit, Paombong, Bulakan, Malolos, Obando, Baliuag, Pulilan, Meycauayan, Santa Maria, San Jose del Monte, Marilao, Bocaue, Guiguinto, Balagtas, Plaridel), Tarlac(Bamban, Capas, San Jose), Batangas(Nasugbu, Lian, Calatagan, Balayan, Tuy) and Rizal(Cainta, Taytay, San Mateo).&lt;br /&gt; ASSOCIATED HAZARD: FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, light to moderate with occasional heavy rains affecting Rizal(Rodriguez, Angono, Binangonan, Cardona, Morong, Baras, Tanay, Teresa, Antipolo), Laguna(Binan, San Pedro, Santa Rosa, Cabuyao, Calamba), Batangas(Calaca, Laurel, Agoncillo, Lemery, San Nicolas, Taal, Talisay, Tanauan), Tarlac(Mayantoc, Concepcion, Anao, Tarlac City, Gerona, La Paz, Paniqui, Pura, Ramos, San Manuel, Victoria, Camiling, Moncada, San Clemente, Santa Ignacia), Nueva Ecija(Cabiao, Zaragoza, San Isidro, Licab, San Antonio), Bulacan(Angat, San Ildefonso, San Miguel, San Rafael, Norzagaray, Bustos, Pandi) and Quezon(Panukulan, Burdeos, Polillo, Patnanungan) which may persist within 3 hours and may affect nearby areas.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 5:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Thu, 03 Sep 2026 18:00:03 +0000</pubDate>
       <guid isPermaLink="false">e1adb2bd55c2fe674a4f2dbbd4d519b66b01bb91</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 18:07:43 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 18:15:47 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 3 #NCRPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Thu, 03 Sep 2026 18:00:03 +0000</pubDate>
       <guid isPermaLink="false">69383f3f85963653bb6d750ff662416d0b420b40</guid>
       <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 18:07:43 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 18:15:47 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 2 #NCRPRSD</title>
@@ -29,7 +29,7 @@
       <pubDate>Thu, 03 Sep 2026 16:50:02 +0000</pubDate>
       <guid isPermaLink="false">045001c7ddc86c9d1a753071b6970cd6e2b7c0e9</guid>
       <category>Rainfall Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 18:07:43 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 18:15:47 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 2 #NCRPRSD</title>
@@ -37,7 +37,7 @@
       <pubDate>Thu, 03 Sep 2026 15:00:02 +0000</pubDate>
       <guid isPermaLink="false">ad955632f94860d062ca5819dc83da8d6596a802</guid>
       <category>Rainfall Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 18:07:43 +0000</ns3:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 18:15:47 +0000</ns3:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 1 #NCRPRSD</title>
@@ -110,7 +110,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 18:07:43 +0000</ns4:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 18:15:47 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
