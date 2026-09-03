@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 03 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2026 01:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:34:43 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 5 #NCRPRSD</title>
       <description>Heavy Rainfall Warning No. 5 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 8:00 AM, 03 September 2026(Thursday)&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Zambales.&lt;br /&gt; ASSOCIATED HAZARD: FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, expect light to moderate with occasional heavy rains over Rizal, Nueva Ecija, Laguna(Mabitac, Pakil, Pangil, Santa Maria, Famy, Siniloan, Paete, Kalayaan), Cavite(Bacoor, Imus, Kawit, Cavite City, Noveleta, Rosario, Tanza, General Trias, Naic, Maragondon, Ternate, General Emilio Aguinaldo, Magallanes, Trece Martires, Alfonso, Tagaytay, Indang, Mendez, Amadeo) and Batangas(Nasugbu, Balayan, Tuy, Lian, Laurel) within the next 3 hours.&lt;br /&gt; Light to moderate with occasional heavy rains affecting Bataan, Tarlac(San Jose, Capas, Bamban), Pampanga(Mabalacat, Angeles, Santa Rita, Bacolor, San Fernando, Minalin, Guagua, Santo Tomas, Porac), Metro Manila(Pasay, Paranaque, Manila, Quezon City, Caloocan, Malabon, Valenzuela, Navotas), Bulacan(San Miguel) and Quezon(Panukulan, Burdeos, Patnanungan, Polillo) which may persist within 3 hours and may affect nearby areas.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Thu, 03 Sep 2026 00:00:05 +0000</pubDate>
       <guid isPermaLink="false">b45b64da434a28b2542dd1d00b4ffa8b8e4c5a4d</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 01:09:13 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 01:34:59 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 4 #NCRPRSD</title>
@@ -88,21 +88,13 @@
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 03:00:52 +0000</ns2:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory #NCRPRSD</title>
-      <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 PM, 01 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
-      <pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">756b0d3388bc1e1b85a144dc71237e3bfc3de75f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 02 Sep 2026 01:22:07 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 01:09:13 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 01:34:59 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
