@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 03 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2026 03:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:15:24 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 03 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Aurora and #Cagayan within 12 hours.</description>
       <pubDate>Thu, 03 Sep 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">02457f3d9c6008b78cef3527b95f51d5fe45e2de</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 03:08:05 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 03:15:48 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 3 #NLPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Thu, 03 Sep 2026 00:00:03 +0000</pubDate>
       <guid isPermaLink="false">83b5c6adbd24e45114831d5b20b02a80ed0d22b4</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 03:08:05 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 03:15:48 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 2 #NLPRSD</title>
