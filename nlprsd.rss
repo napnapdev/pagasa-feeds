@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 03 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 03 Sep 2026 03:15:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:30:36 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 4 #NLPRSD</title>
+      <description>Heavy Rainfall Warning No. 4 #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 11:00 AM 03 September 2026&lt;br /&gt; &lt;br /&gt; Orange Warning: #Benguet(Atok, BaguioCity, Bakun, Kapangan, Kibungan, LaTrinidad, Sablan, Tuba, Tublay), #LaUnion, #Abra(Bangued, Danglas, Dolores, LaPaz, Lagayan, Langiden, Luba, Peñarrubia, Pidigan, Pilar, SanIsidro, SanJuan, SanQuintin, Tayum, Villaviciosa) and #IlocosSur&lt;br /&gt; Associated Hazard: FLOODING and LANDSLIDE is still THREATENING in flood-prone and landslide-prone areas&lt;br /&gt; &lt;br /&gt; Yellow Warning: #Benguet(Bokod, Buguias, Itogon, Kabayan, Mankayan), #Abra(Boliney, Bucay, Bucloc, Daguioman, Lacub, Lagangilang, LicuanBaay, Malibcong, Manabo, Sallapadan, Tineg, Tubo), #IlocosNorte, #Pangasinan(Agno, Aguilar, CityOfAlaminos, Anda, Bani, Bolinao, Bugallon, Burgos, Dasol, Infanta, Labrador, Mabini, Mangatarem and Sual)&lt;br /&gt; Associated Hazard: FLOODING and LANDSLIDE in flood-prone and landslide-prone areas may still prevail over this/these area/s&lt;br /&gt; &lt;br /&gt; Meanwhile, Light to Moderate to at times Heavy rains are expected over #Ifugao(Tinoc, Hungduan, Lamut, Kiangan, Banaue, Hingyon, Mayoyao, Lagawe, Asipulo), #NuevaVizcaya(DupaxDelNorte, DupaxDelSur, Aritao, SantaFe, Kayapa, Ambaguio, Bambang, Bayombong, Villaverde, Solano, AlfonsoCastaneda), #Cagayan(SanchezMira, Pamplona, Rizal, Abulug, Tuao), #Apayao(Luna, Pudtol, Flora, SantaMarcela), #Kalinga(Pinukpuk, Tanudan, CityOfTabuk), #MountainProvince(Natonin, Barlig), #Aurora(MariaAurora, Dingalan, SanLuis and Baler) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MountainProvince(Sabangan, Bauko, Besao, Sagada, Bontoc, Sadanga, Tadian), #Apayao(Calanasan, Kabugao, Conner), #Kalinga(Balbalan, Pasil, Lubuagan, Tinglayan), #Cagayan(SantaPraxedes, Claveria), #Pangasinan(Alcala, Asingan, Balungao, Basista, Bautista, Bayambang, Binalonan, Binmaley, Calasiao, DagupanCity, Lingayen, Malasiqui, Manaoag, Mangaldan, Mapandan, Natividad, Pozorrubio, Rosales, SanCarlosCity, SanFabian, SanJacinto, SanManuel, SanNicolas, SanQuintin, SantaBarbara, SantaMaria, SantoTomas, Sison, Tayug, Umingan, Urbiztondo, CityOfUrdaneta, Villasis and Laoac) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 03 Sep 2026 03:00:04 +0000</pubDate>
+      <guid isPermaLink="false">81d8aef568b857ea788d2dce66aef2b81613e2de</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 03:30:52 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 03 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Aurora and #Cagayan within 12 hours.</description>
       <pubDate>Thu, 03 Sep 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">02457f3d9c6008b78cef3527b95f51d5fe45e2de</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 03:15:48 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 03:30:52 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 3 #NLPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Thu, 03 Sep 2026 00:00:03 +0000</pubDate>
       <guid isPermaLink="false">83b5c6adbd24e45114831d5b20b02a80ed0d22b4</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 03:15:48 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 03 Sep 2026 03:30:52 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 2 #NLPRSD</title>
