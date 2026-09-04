@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 04 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 04 Sep 2026 01:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 01:50:04 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 09:30 AM 04 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #LanaoDelSur(Calanogas, Pualas) and #LanaoDelNorte(Nunungan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 04 Sep 2026 01:30:02 +0000</pubDate>
+      <guid isPermaLink="false">e5f9e1ec2258ea1601fcfc60f501277a9b7a48d9</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 01:50:19 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 07:25 AM 04 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #LanaoDelSur(Picong, Malabang, Balabagan, Marogong, Kapatagan) and #Sarangani(Maasim) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #LanaoDelSur(Calanogas), #Sarangani(Glan), #DavaoOriental(Lupon and Banaybanay) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Thu, 03 Sep 2026 23:25:01 +0000</pubDate>
       <guid isPermaLink="false">5f677999dafa246a07820749fa53d908bf3a19ef</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 01:35:51 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 01:50:19 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
