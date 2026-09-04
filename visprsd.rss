@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 04 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 04 Sep 2026 13:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:34:14 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 1 #VISPRSD</title>
+      <description>Heavy Rainfall Warning No. 1 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 09:00 PM 04 September 2026&lt;br /&gt; &lt;br /&gt; Yellow Warning: #Antique(AniniY, Barbaza, Belison, Bugasong, Culasi, TobiasFornier, Hamtic, LauaAn, Patnongon, SanJose, SanRemigio, Sebaste, Sibalom, Tibiao, Valderrama), #Iloilo(SanJoaquin, Miagao, Igbaras, Tubungan, Leon, Alimodian, Maasin, Cabatuan, NewLucena, Zarraga, Dumangas, SantaBarbara, Leganes, Pavia, IloiloCity, SanMiguel, Oton, Tigbauan, Guimbal) and #Guimaras&lt;br /&gt; Associated Hazard: FLOODING IS POSSIBLE in low-lying areas and LANDSLIDES in mountainous areas.&lt;br /&gt; &lt;br /&gt; Meanwhile, Light to Moderate with occasionally Heavy rains are expected over #Palawan(Busuanga, Coron, Culion and Linapacan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OccidentalMindoro, #Palawan(Cuyo, Magsaysay, Agutaya, Roxas, Dumaran, Araceli, Taytay, ElNido and SanVicente) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.</description>
+      <pubDate>Fri, 04 Sep 2026 13:00:01 +0000</pubDate>
+      <guid isPermaLink="false">04ea4757bd7600d67e7a309df9c16225c2a5e28e</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:34:29 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 20 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 20 #VISPRSD&lt;br /&gt; Issued at 05:52 PM 04 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(AniniY, Caluya, Culasi, TobiasFornier, Hamtic, Libertad, Pandan, SanJose, Sebaste, Sibalom, Tibiao), #Capiz(Cuartero, Dao, Dumalag, Dumarao, MaAyon, Panay, Panitan, Pilar, Pontevedra, PresidentRoxas, RoxasCity, Sigma), #Aklan(Buruanga, Ibajay, Malay, Malinao, Nabas, Tangalan), #Iloilo(Alimodian, Badiangan, BarotacNuevo, Bingawan, Cabatuan, Calinog, Dingle, Dueñas, Dumangas, Janiuay, Lambunao, Leganes, Leon, Maasin, Mina, NewLucena, CityOfPassi and Zarraga) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(Barbaza, Belison, Bugasong, LauaAn, Patnongon, SanRemigio, Valderrama), #Capiz(Ivisan, Jamindan, Mambusao, SapiAn, Tapaz), #Aklan(Altavas, Balete, Banga, Batan, Kalibo, Lezo, Libacao, Madalag, Makato, NewWashington, Numancia), #Iloilo(Guimbal, Igbaras, IloiloCity, Miagao, Oton, Pavia, Pototan, SanJoaquin, SanMiguel, SantaBarbara, Tigbauan and Tubungan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -125,7 +133,7 @@
       <pubDate>Fri, 04 Sep 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">c70ae7ead650d1cbda2b0a92834f0960758a42f7</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:09:10 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:34:29 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -133,7 +141,7 @@
       <pubDate>Fri, 04 Sep 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">7435490816832f8e88c827a4bb1660fab25d73d9</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:09:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:34:29 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
@@ -190,7 +198,7 @@
       <pubDate>Thu, 03 Sep 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_TALISAY_NegOcc_27thMinuluan_Festival_09042026_1788468962.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:09:10 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:34:29 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 5 September, 2026</title>
@@ -199,7 +207,7 @@
       <pubDate>Thu, 03 Sep 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_CEBU_09042026_1788468941.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:09:10 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:34:29 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 5 September, 2026</title>
@@ -208,7 +216,7 @@
       <pubDate>Thu, 03 Sep 2026 21:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09042026_1788468919.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:09:10 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:34:29 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
