@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 04 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 04 Sep 2026 12:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:08:43 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 5 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 5 #SLPRSD&lt;br /&gt; Issued at 06:45 PM 04 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(Balud, Mandaon, Placer), #Romblon(Banton, Concepcion, Corcuera, Calatrava, SanAndres, SanAgustin, Romblon), #OrientalMindoro(Bansud, Gloria, Pinamalayan, Pola and Socorro) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(Milagros and Cawayan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Fri, 04 Sep 2026 10:45:05 +0000</pubDate>
       <guid isPermaLink="false">dd89705769286063ae067b774ac2ad042807381e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 12:52:11 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:09:10 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #SLPRSD</title>
@@ -54,7 +54,7 @@
       <pubDate>Fri, 04 Sep 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_04Sept2026_1788481871.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 12:52:11 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:09:10 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 5 September, 2026</title>
@@ -63,7 +63,7 @@
       <pubDate>Fri, 04 Sep 2026 01:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_04Sept2026_1788481848.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 12:52:11 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 13:09:10 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
