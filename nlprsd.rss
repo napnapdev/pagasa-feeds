@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 05 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 05 Sep 2026 12:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:03:21 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 41 #NLPRSD</title>
       <description>Rainfall Advisory No. 41 #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 05:00 PM 05 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Benguet(LaTrinidad, Sablan, Tublay), #NuevaVizcaya(Villaverde, Ambaguio, Bagabag, Diadi), #LaUnion(Aringay, Bacnotan, Bagulin, Balaoan, Bangar, Bauang, Burgos, Caba, Luna, Naguilian, CityOfSanFernando, SanGabriel, SanJuan, Santol, Sudipen), #Cagayan(Baggao, Gonzaga, Amulung, Rizal, Piat, Ballesteros, Abulug), #Ifugao(Hungduan, Tinoc, Asipulo, Aguinaldo, Mayoyao, Banaue, Hingyon, Lagawe, Lamut, Kiangan), #MountainProvince(Sabangan, Bauko, Tadian), #IlocosSur, #Apayao(Pudtol, Luna, Calanasan, Kabugao, Conner), #Isabela(Roxas, SanManuel, Burgos, ReinaMercedes, CityOfCauayan, Luna, Angadanan and SanGuillermo) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Apayao(Flora, SantaMarcela), #Cagayan(Allacapan, Aparri, Camalaniugan, LalLo, Buguey, SantaTeresita, Gattaran, Lasam, SantoNiño, Alcala), #Isabela(SanAgustin, Echague, SanIsidro, CityOfSantiago, SanMateo, Ramon, Dinapigue, Jones, Cordon, Cabatuan, Aurora, Alicia), #Ifugao(AlfonsoLista), #Aurora, #NuevaVizcaya(AlfonsoCastaneda, DupaxDelNorte, DupaxDelSur, Bambang, Aritao, SantaFe, Kayapa, Kasibu, Quezon, Solano, Bayombong), #Quirino, #Pangasinan, #Benguet(Atok, BaguioCity, Bakun, Bokod, Buguias, Itogon, Kabayan, Kapangan, Kibungan, Mankayan, Tuba), #LaUnion(Agoo, Pugo, Rosario, SantoTomas and Tubao) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -37,7 +37,7 @@
       <pubDate>Sat, 05 Sep 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">1fb2e0d4561b5b94bfeaf5b87cc7e1c7af1857d9</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 05 Sep 2026 12:00:18 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 05 Sep 2026 12:03:44 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 38 #NLPRSD</title>
@@ -79,14 +79,6 @@
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/northern-luzon/special-forecasts/Special Forecast Bar Exams 2026_Tuguegarao No1_1788514724.pdf</guid>
       <category>Special Forecast</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 05 Sep 2026 09:48:29 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 33 #NLPRSD</title>
-      <description>Rainfall Advisory No. 33 #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 05:00 PM 04 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Pangasinan(Agno, CityOfAlaminos, Alcala, Anda, Balungao, Bani, Basista, Bautista, Bayambang, Binmaley, Bolinao, Burgos, Calasiao, DagupanCity, Labrador, Lingayen, Malasiqui, Mangaldan, Pozorrubio, Rosales, SanCarlosCity, SanFabian, SanJacinto, SanManuel, SanNicolas, SantaBarbara, SantoTomas, Sison, Sual, Umingan, Urbiztondo, Villasis), #Aurora(SanLuis, Dingalan, Baler, Dipaculao), #Quirino(Nagtipunan), #NuevaVizcaya(DupaxDelNorte, Aritao, SantaFe, Diadi, Kayapa), #Ifugao(AlfonsoLista, Banaue, Lagawe, Hingyon), #MountainProvince, #Isabela(SanMateo, Ramon, Cordon), #Benguet(Itogon, Tuba), #LaUnion(Tubao, Pugo, Rosario, SantoTomas, Agoo), #IlocosSur(Sinait, Cabugao, SanJuan and Magsingal) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Pangasinan(Aguilar, Binalonan, Bugallon, Dasol, Infanta, Mabini, Manaoag, Mangatarem, Mapandan, Natividad, SanQuintin, SantaMaria, Tayug, Laoac, Asingan, CityOfUrdaneta), #NuevaVizcaya(AlfonsoCastaneda, DupaxDelSur), #Aurora(MariaAurora), #Ifugao(Aguinaldo and Mayoyao) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 04 Sep 2026 09:00:33 +0000</pubDate>
-      <guid isPermaLink="false">2fba7a7e530094fe5b1922aa2da17ba3ffc38176</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 04 Sep 2026 12:00:38 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
