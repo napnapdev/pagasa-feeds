@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 06 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 06 Sep 2026 11:05:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 11:22:25 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 24 #NCRPRSD</title>
       <description>Heavy Rainfall Warning No. 24 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 5:00 PM, 06 September 2026(Sunday)&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Zambales(Santa Cruz, Candelaria, Masinloc, Iba, Botolan, San Narciso, Cabangan, San Felipe, San Marcelino, San Antonio, Palauig), Nueva Ecija(Aliaga, Santa Rosa, Jaen, Zaragoza, Cabiao, San Antonio, San Isidro, San Leonardo, Gapan, Penaranda, General Tinio, Palayan, Cabanatuan, Talavera, Santo Domingo, Quezon, Licab), Tarlac(Victoria, La Paz, Tarlac City, Concepcion, Gerona, Paniqui, Camiling, San Clemente, Mayantoc, Santa Ignacia, San Jose, Capas, Bamban), Cavite(Naic, Ternate, Maragondon, General Emilio Aguinaldo, Magallanes, Alfonso, Indang, Tagaytay, Mendez) and Batangas(Nasugbu, Tuy, Lian, Calatagan, Balayan, Calaca, Lemery, Agoncillo, San Luis, Bauan, Mabini, Tingloy, Santa Teresita, San Nicolas, Taal, Laurel, Alitagtag, San Jose, Cuenca, San Pascual, Batangas City, Ibaan, Taysan, Lobo).&lt;br /&gt; ASSOCIATED HAZARD: Possible FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, expect light to moderate with occasional heavy rains over Metro Manila and Batangas(Balete, Tanauan, Lipa, Malvar, Mataasnakahoy, Padre Garcia, Rosario, San Juan, Santo Tomas, Talisay) within the next 3 hours.&lt;br /&gt; Light to moderate with occasional heavy rains affecting Pampanga(Magalang, Porac, Angeles, Mabalacat, Floridablanca, Lubao), Tarlac(Anao, Pura, Ramos, San Manuel, Moncada), Nueva Ecija(Guimba, Cuyapo, Nampicuan, Talugtug, Munoz, Gabaldon, Laur, General Mamerto Natividad, Llanera), Zambales(Olongapo, Subic, Castillejos), Bataan(Morong, Hermosa, Dinalupihan), Quezon(Candelaria, Dolores, San Antonio, Sariaya, Tiaong, General Nakar, Tayabas, Infanta, Lucena, Pagbilao, Real, Sampaloc, Agdangan, Buenavista, Calauag, Catanauan, General Luna, Guinayangan, Jomalig, Lopez, Macalelon, Mulanay, Padre Burgos, Patnanungan, Pitogo, Quezon, San Andres, San Francisco, San Narciso, Tagkawayan, Unisan, Lucban), Laguna(San Pablo, Rizal, Nagcarlan, Liliw, Majayjay, Luisiana, Magdalena), Rizal(Tanay), Bulacan(San Miguel, Dona Remedios Trinidad) and Cavite(Tanza, Trece Martires, General Trias, Rosario, Amadeo) which may persist within 3 hours and may affect nearby areas.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 8:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Sun, 06 Sep 2026 09:00:24 +0000</pubDate>
       <guid isPermaLink="false">71900d0576ed111cc5bd58b69d6cca34419332af</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 06 Sep 2026 11:05:23 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 06 Sep 2026 11:22:41 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 24 #NCRPRSD</title>
@@ -21,7 +21,7 @@
       <pubDate>Sun, 06 Sep 2026 09:00:24 +0000</pubDate>
       <guid isPermaLink="false">5801a77cb3200d4a6e0cca0c85d1dfeb5eec59e2</guid>
       <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 06 Sep 2026 11:05:23 +0000</ns1:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 06 Sep 2026 11:22:41 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 23 #NCRPRSD</title>
@@ -102,7 +102,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 06 Sep 2026 11:05:23 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 06 Sep 2026 11:22:41 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
