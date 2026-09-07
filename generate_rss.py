@@ -1,16 +1,22 @@
 #!/usr/bin/env python3
 """Generate an RSS feed for PAGASA regional advisories.
 
-v3.1 — adds CACHE-BUSTING so the scraper always gets the LIVE page, not a
-stale CDN-cached copy. PAGASA's www. host sits behind a CDN that can serve a
-few-minutes-old HTML; that caused newly-issued advisories to be missed until a
-later run. We now:
-  - send no-cache request headers, and
-  - append a unique ?_=<timestamp> query param each run (unique URL -> cache miss).
+v3.2 — drops FUTURE-DATED items (AM/PM misparses).
 
-Retains v3 reliability fixes:
+Problem found: PAGASA occasionally shows a mistyped time (e.g. "11:50 PM"
+instead of "11:50 AM"). Parsed as 11:50 PM, that item got a pubDate ~8h in the
+FUTURE relative to when it was scraped. Because the RSS trigger only fires for
+items with pubDate greater than the highest seen, this phantom "future" item
+jumped the watermark, causing the genuine later-but-earlier-timestamped
+advisory (e.g. the real 2:00 PM one) to be treated as old and SKIPPED.
+
+Fix: if an item's parsed issued time is in the future (beyond a small grace
+window vs. the scrape time), we treat it as a misparse and SKIP the item.
+
+Retains:
+- cache-busting fetch (always get live page, not stale CDN copy)
 - unique/monotonic pubDates (advisory number as seconds offset)
-- undated items pinned to a stable past date (no watermark hijacking)
+- undated items pinned to a stable past date
 - "no advisory" placeholders dropped
 
 Usage:
@@ -32,6 +38,10 @@ from lxml import etree as ET
 
 PH_TZ = ZoneInfo("Asia/Manila")
 _STABLE_EPOCH = datetime(2000, 1, 1, tzinfo=timezone.utc)
+
+# Grace window: an issued time more than this far in the FUTURE vs. scrape time
+# is treated as a misparse (e.g. AM read as PM) and the item is skipped.
+_FUTURE_GRACE = timedelta(hours=2)
 
 _ISSUED_RE = re.compile(
     r"Issued\s*at\s*:?\s*(?P<body>.+?)(?:<|$)", re.IGNORECASE | re.DOTALL
@@ -108,7 +118,7 @@ def add_pubdate(item, pub_dt):
     )
 
 
-def add_items(soup, channel, div_id, category, slug):
+def add_items(soup, channel, div_id, category, slug, now):
     div = soup.find("div", id=div_id)
     if not div:
         return
@@ -131,6 +141,11 @@ def add_items(soup, channel, div_id, category, slug):
             if is_placeholder(html):
                 continue
 
+            parsed = parse_issued_date(link.get_text(" ", strip=True))
+            # Skip future-dated (misparsed) items.
+            if parsed is not None and parsed.astimezone(timezone.utc) > now + _FUTURE_GRACE:
+                continue
+
             item = ET.SubElement(channel, "item")
             item_title = f"{category}: {title}" if title else category
             ET.SubElement(item, "title").text = item_title
@@ -143,9 +158,7 @@ def add_items(soup, channel, div_id, category, slug):
                 desc = ET.SubElement(item, "description")
                 desc.text = ET.CDATA(html)
 
-            pub_dt = parse_issued_date(link.get_text(" ", strip=True))
-            if pub_dt is None:
-                pub_dt = stable_date_for(item_title, html)
+            pub_dt = parsed if parsed is not None else stable_date_for(item_title, html)
             add_pubdate(item, pub_dt)
 
             guid = ET.SubElement(
@@ -162,6 +175,12 @@ def add_items(soup, channel, div_id, category, slug):
             if is_placeholder(html):
                 continue
 
+            parsed = parse_issued_date(entry.get_text(" ", strip=True))
+            # Skip future-dated (misparsed) items so they can't jump the
+            # RSS trigger's watermark and hide genuine advisories.
+            if parsed is not None and parsed.astimezone(timezone.utc) > now + _FUTURE_GRACE:
+                continue
+
             match = _NUMBER_RE.search(html)
             number = match.group(1) if match else None
             title = (
@@ -175,11 +194,12 @@ def add_items(soup, channel, div_id, category, slug):
             desc = ET.SubElement(item, "description")
             desc.text = ET.CDATA(html)
 
-            pub_dt = parse_issued_date(entry.get_text(" ", strip=True))
-            if pub_dt is None:
+            if parsed is None:
                 pub_dt = stable_date_for(title, html)
-            elif number is not None:
-                pub_dt = pub_dt + timedelta(seconds=int(number))
+            else:
+                pub_dt = parsed
+                if number is not None:
+                    pub_dt = pub_dt + timedelta(seconds=int(number))
             add_pubdate(item, pub_dt)
 
             guid = ET.SubElement(item, "guid", isPermaLink="false")
@@ -194,8 +214,6 @@ def find_page_issued_date(soup):
 def main(slug: str) -> None:
     base = f"https://www.pagasa.dost.gov.ph/regional-forecast/{slug}"
     try:
-        # Cache-busting: no-cache headers + unique query param each run so the
-        # CDN can't serve a stale copy that's missing the newest advisory.
         response = requests.get(
             base,
             timeout=30,
@@ -218,7 +236,6 @@ def main(slug: str) -> None:
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = f"PAGASA {slug.upper()} Advisories"
-    # Keep the clean canonical link in the feed (no cache-buster param).
     ET.SubElement(channel, "link").text = base
     ET.SubElement(channel, "description").text = (
         f"Aggregated rainfall, thunderstorm, and special forecasts from "
@@ -228,9 +245,9 @@ def main(slug: str) -> None:
     ET.SubElement(channel, "pubDate").text = format_datetime(page_dt)
     ET.SubElement(channel, "lastBuildDate").text = format_datetime(now)
 
-    add_items(soup, channel, "rainfalls", "Rainfall Advisory", slug)
-    add_items(soup, channel, "thunderstorms", "Thunderstorm Advisory", slug)
-    add_items(soup, channel, "special-forecasts", "Special Forecast", slug)
+    add_items(soup, channel, "rainfalls", "Rainfall Advisory", slug, now)
+    add_items(soup, channel, "thunderstorms", "Thunderstorm Advisory", slug, now)
+    add_items(soup, channel, "special-forecasts", "Special Forecast", slug, now)
 
     try:
         ET.indent(rss, space="  ")
