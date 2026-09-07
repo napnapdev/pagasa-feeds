@@ -1,14 +1,28 @@
 #!/usr/bin/env python3
 """Merge a freshly-scraped PAGASA feed with the previously-published one.
 
-Retain-for-24h safety net + STRICTLY-UNIQUE pubDates.
+v3 — SCRAPE-ORDER pubDates (definitive fix for skipped/blocked advisories).
 
-PAGASA reissues advisories (e.g. two "No. 23" with the same issued time), which
-produced DUPLICATE pubDates in the merged feed. Microsoft's RSS connector
-requires each item's pubDate to be strictly greater than the previous one --
-duplicates cause it to stop detecting new items. After merging we now enforce
-strictly-decreasing (hence unique) pubDates by nudging any collision down by a
-second, without changing the newest item.
+Why: PAGASA's "Issued at" time is unreliable for ordering. We hit three
+failures in a row -- AM/PM misparses (an 11:50 AM read as 11:50 PM), same-number
+reissues, and duplicate timestamps. Any ordering based on the issued time can be
+jumped by a bad timestamp, which sticks the RSS trigger's watermark and hides
+genuine new advisories.
+
+Fix: order and de-duplicate by FIRST-SEEN scrape time (the moment WE first
+captured the item), not by PAGASA's issued time. Genuinely new advisories are
+always scraped later, so they always get the newest pubDate and are detected.
+A misparsed/phantom item settles at its own first-seen time and can never block
+new items again. The real issued time is still shown in the item description /
+card, so nothing user-visible is lost.
+
+Undated items (e.g. the Taal special forecast) stay pinned to a stable past date
+so they never float to "newest".
+
+Also keeps:
+- 24h retention safety net
+- future-dated item drop (belt-and-suspenders for 12h misparses)
+- strictly-unique pubDates (RSS connector requirement)
 
 Usage:
     python merge_feeds.py OLD.rss NEW.rss OUTPUT.rss [--hours 24]
@@ -26,11 +40,11 @@ PF_NS = "https://pagasa-feeds.local/ns"
 PF = "{%s}" % PF_NS
 SEEN_TAG = PF + "seen"
 
-# Items whose pubDate is more than this far in the FUTURE are misparses
-# (e.g. AM read as PM). They must be dropped so they can't jump the RSS
-# trigger's watermark and hide genuine advisories -- even if a previously
-# published feed still contains them within the 24h retention window.
+# Items whose pubDate is more than this far in the FUTURE are misparses.
 _FUTURE_GRACE = timedelta(hours=2)
+# Items with a pubDate at/older than this are "undated" (pinned to stable past);
+# their ordering must NOT be overridden with scrape time.
+_PINNED_BEFORE = datetime(2001, 1, 1, tzinfo=timezone.utc)
 
 
 def load_items(path):
@@ -56,14 +70,14 @@ def load_items(path):
     return root, channel, items
 
 
-def get_seen(item, default):
+def get_seen(item):
     el = item.find(SEEN_TAG)
     if el is not None and el.text:
         try:
             return parsedate_to_datetime(el.text)
         except (TypeError, ValueError):
             pass
-    return default
+    return None
 
 
 def set_seen(item, dt):
@@ -100,6 +114,7 @@ def main():
 
     now = datetime.now(timezone.utc)
     cutoff = now.timestamp() - args.hours * 3600
+    future_limit = now + _FUTURE_GRACE
 
     new_root, new_channel, new_items = load_items(args.new)
     if new_channel is None:
@@ -107,37 +122,44 @@ def main():
         sys.exit(1)
 
     _, _, old_items = load_items(args.old)
+    old_seen = {k: get_seen(v) for k, v in old_items.items()}
 
     for item in list(new_channel.findall("item")):
         new_channel.remove(item)
 
-    future_limit = now + _FUTURE_GRACE
     merged = {}
 
-    # 1) NEW items -> seen = now. Drop any future-dated (misparsed) item.
+    # 1) NEW items. Preserve FIRST-seen time if we saw it before; else now.
+    #    Drop future-dated (misparsed) items.
     for key, item in new_items.items():
         if get_pub(item) > future_limit:
             continue
-        set_seen(item, now)
+        prior = old_seen.get(key)
+        set_seen(item, prior if prior else now)
         merged[key] = item
 
-    # 2) OLD items not in NEW -> retain if within window AND not future-dated.
-    #    The future check is what finally purges an already-published phantom.
+    # 2) OLD items not in NEW -> retain if within window and not future-dated.
     for key, item in old_items.items():
         if key in merged:
             continue
         if get_pub(item) > future_limit:
             continue
-        seen = get_seen(item, default=get_pub(item))
+        seen = old_seen.get(key) or get_pub(item)
         if seen.timestamp() >= cutoff:
             merged[key] = item
 
-    # Sort newest first by pubDate.
-    ordered = sorted(merged.values(), key=get_pub, reverse=True)
+    # 3) Re-base pubDate on FIRST-SEEN scrape time for dated advisories, so
+    #    ordering/detection follows when WE captured each item (reliable),
+    #    not PAGASA's issued time (unreliable). Leave pinned/undated items
+    #    (year <= 2000, e.g. Taal) untouched so they never float to newest.
+    for item in merged.values():
+        if get_pub(item) < _PINNED_BEFORE:
+            continue
+        seen = get_seen(item) or now
+        set_pub(item, seen)
 
-    # 3) Enforce STRICTLY-DECREASING (unique) pubDates so the RSS connector can
-    #    always distinguish items. Never raises the top item; only nudges
-    #    duplicates/inversions downward by 1 second.
+    # 4) Sort newest-first, then enforce strictly-decreasing (unique) pubDates.
+    ordered = sorted(merged.values(), key=get_pub, reverse=True)
     for i in range(1, len(ordered)):
         above = get_pub(ordered[i - 1])
         cur = get_pub(ordered[i])
@@ -154,7 +176,7 @@ def main():
     print(
         f"Merged {len(new_items)} new + retained "
         f"{len(merged) - len(new_items)} old = {len(merged)} items "
-        f"(pubDates made strictly unique) -> {args.output}"
+        f"(scrape-order pubDates) -> {args.output}"
     )
 
 
