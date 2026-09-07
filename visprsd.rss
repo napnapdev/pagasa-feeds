@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 07 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2026 22:41:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 22:54:12 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 8 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_TALISAY_NegOcc_27thMinuluan_Festival_09072026_1788727978.pdf</link>
@@ -168,14 +168,6 @@
       <guid isPermaLink="false">3e8beadf580bb0ef63d0d7ac89f8ce9af8aba26c</guid>
       <category>Thunderstorm Advisory</category>
       <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 00:33:59 +0000</ns5:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 03:58 AM 07 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Aklan(Nabas, Ibajay, Tangalan, Makato, Malinao), #Guimaras(SanLorenzo, NuevaValencia, Sibunag), #NegrosOccidental(SilayCity, CityOfVictorias, CityOfTalisay and BacolodCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Linapacan, Culion, Cuyo, Magsaysay, Agutaya), #Aklan(Buruanga, Malay), #Antique(Libertad, Pandan, Sebaste), #Guimaras(Buenavista, Jordan) and #NegrosOccidental(EnriqueB.Magalona) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sun, 06 Sep 2026 22:48:37 +0000</pubDate>
-      <guid isPermaLink="false">ebbf09ba77cc2fa0b8f92a6cd2ca4730881c4b66</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 06 Sep 2026 22:48:37 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
