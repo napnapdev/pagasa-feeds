@@ -1,25 +1,23 @@
 #!/usr/bin/env python3
 """Merge a freshly-scraped PAGASA feed with the previously-published one.
 
-Retain-for-24h safety net: PAGASA only shows *currently active* advisories, so
-one issued and superseded between RSS polls could be missed. This merges the new
-feed with the old published feed, keeping any item seen within the retention
-window (default 24h) and dropping older ones.
+Retain-for-24h safety net + STRICTLY-UNIQUE pubDates.
 
-Each item carries a namespaced <pf:seen> timestamp (ignored by RSS readers/Power
-Automate) that records when we last saw it. Items present in the NEW feed get
-seen=now; items only in the OLD feed keep their previous seen time.
+PAGASA reissues advisories (e.g. two "No. 23" with the same issued time), which
+produced DUPLICATE pubDates in the merged feed. Microsoft's RSS connector
+requires each item's pubDate to be strictly greater than the previous one --
+duplicates cause it to stop detecting new items. After merging we now enforce
+strictly-decreasing (hence unique) pubDates by nudging any collision down by a
+second, without changing the newest item.
 
 Usage:
     python merge_feeds.py OLD.rss NEW.rss OUTPUT.rss [--hours 24]
-
-If OLD.rss is missing/empty (first run), NEW.rss is used as-is (with seen stamps).
 """
 
 import argparse
 import os
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime, parsedate_to_datetime
 
 from lxml import etree as ET
@@ -30,7 +28,6 @@ SEEN_TAG = PF + "seen"
 
 
 def load_items(path):
-    """Return (root, channel, {guid: item_element}) or (None, None, {})."""
     if not path or not os.path.exists(path):
         return None, None, {}
     try:
@@ -70,7 +67,7 @@ def set_seen(item, dt):
     el.text = format_datetime(dt.astimezone(timezone.utc))
 
 
-def item_sort_key(item):
+def get_pub(item):
     pub = item.find("pubDate")
     if pub is not None and pub.text:
         try:
@@ -78,6 +75,13 @@ def item_sort_key(item):
         except (TypeError, ValueError):
             pass
     return datetime.min.replace(tzinfo=timezone.utc)
+
+
+def set_pub(item, dt):
+    pub = item.find("pubDate")
+    if pub is None:
+        pub = ET.SubElement(item, "pubDate")
+    pub.text = format_datetime(dt.astimezone(timezone.utc))
 
 
 def main():
@@ -98,29 +102,37 @@ def main():
 
     _, _, old_items = load_items(args.old)
 
-    # Start from the NEW feed's root/channel (fresh channel metadata),
-    # then rebuild its item list as a merge.
     for item in list(new_channel.findall("item")):
         new_channel.remove(item)
 
     merged = {}
 
-    # 1) All NEW items -> seen = now (they are currently active).
+    # 1) NEW items -> seen = now.
     for key, item in new_items.items():
         set_seen(item, now)
         merged[key] = item
 
-    # 2) OLD items not in NEW -> keep if within retention window.
+    # 2) OLD items not in NEW -> retain if within window.
     for key, item in old_items.items():
         if key in merged:
             continue
-        seen = get_seen(item, default=item_sort_key(item))
+        seen = get_seen(item, default=get_pub(item))
         if seen.timestamp() >= cutoff:
-            merged[key] = item  # retain (still fresh)
-        # else: too old -> drop
+            merged[key] = item
 
-    # Sort newest first by pubDate and re-attach.
-    for item in sorted(merged.values(), key=item_sort_key, reverse=True):
+    # Sort newest first by pubDate.
+    ordered = sorted(merged.values(), key=get_pub, reverse=True)
+
+    # 3) Enforce STRICTLY-DECREASING (unique) pubDates so the RSS connector can
+    #    always distinguish items. Never raises the top item; only nudges
+    #    duplicates/inversions downward by 1 second.
+    for i in range(1, len(ordered)):
+        above = get_pub(ordered[i - 1])
+        cur = get_pub(ordered[i])
+        if cur >= above:
+            set_pub(ordered[i], above - timedelta(seconds=1))
+
+    for item in ordered:
         new_channel.append(item)
 
     ET.indent(new_root, space="  ")
@@ -129,7 +141,8 @@ def main():
     )
     print(
         f"Merged {len(new_items)} new + retained "
-        f"{len(merged) - len(new_items)} old = {len(merged)} items -> {args.output}"
+        f"{len(merged) - len(new_items)} old = {len(merged)} items "
+        f"(pubDates made strictly unique) -> {args.output}"
     )
 
 
