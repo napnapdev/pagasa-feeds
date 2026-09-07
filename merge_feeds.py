@@ -26,6 +26,12 @@ PF_NS = "https://pagasa-feeds.local/ns"
 PF = "{%s}" % PF_NS
 SEEN_TAG = PF + "seen"
 
+# Items whose pubDate is more than this far in the FUTURE are misparses
+# (e.g. AM read as PM). They must be dropped so they can't jump the RSS
+# trigger's watermark and hide genuine advisories -- even if a previously
+# published feed still contains them within the 24h retention window.
+_FUTURE_GRACE = timedelta(hours=2)
+
 
 def load_items(path):
     if not path or not os.path.exists(path):
@@ -105,16 +111,22 @@ def main():
     for item in list(new_channel.findall("item")):
         new_channel.remove(item)
 
+    future_limit = now + _FUTURE_GRACE
     merged = {}
 
-    # 1) NEW items -> seen = now.
+    # 1) NEW items -> seen = now. Drop any future-dated (misparsed) item.
     for key, item in new_items.items():
+        if get_pub(item) > future_limit:
+            continue
         set_seen(item, now)
         merged[key] = item
 
-    # 2) OLD items not in NEW -> retain if within window.
+    # 2) OLD items not in NEW -> retain if within window AND not future-dated.
+    #    The future check is what finally purges an already-published phantom.
     for key, item in old_items.items():
         if key in merged:
+            continue
+        if get_pub(item) > future_limit:
             continue
         seen = get_seen(item, default=get_pub(item))
         if seen.timestamp() >= cutoff:
