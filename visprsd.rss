@@ -5,8 +5,8 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/visprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
-    <pubDate>Mon, 07 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 00:49:51 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2026 01:00:17 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 8 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_TALISAY_NegOcc_27thMinuluan_Festival_09072026_1788727978.pdf</link>
@@ -144,14 +144,6 @@
       <guid isPermaLink="false">2501132349edc6ed7e01199f5f0056897b6a085e</guid>
       <category>Thunderstorm Advisory</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 01:37:45 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 7 #VISPRSD</title>
-      <description>Heavy Rainfall Warning No. 7 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 05:00 AM 07 September 2026&lt;br /&gt; &lt;br /&gt; Orange Warning: #Palawan(Coron, Culion and Busuanga)&lt;br /&gt; Associated Hazard: FLOODING IS THREATENING in low-lying areas and LANDSLIDES in mountainous areas.&lt;br /&gt; &lt;br /&gt; Yellow Warning: #Palawan(Linapacan), #OccidentalMindoro and #Antique(Caluya)&lt;br /&gt; Associated Hazard: FLOODING IS POSSIBLE in low-lying areas and LANDSLIDES in mountainous areas.&lt;br /&gt; &lt;br /&gt; Meanwhile, Light to Moderate with occasionally Heavy rains are being experienced in #Palawan(Cuyo, Magsaysay and Agutaya) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
-      <pubDate>Mon, 07 Sep 2026 00:54:27 +0000</pubDate>
-      <guid isPermaLink="false">9f1d0ed7da1c30f1ecefef74e6b024aebb027922</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 00:54:27 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
