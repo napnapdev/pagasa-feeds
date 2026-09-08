@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 08 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 17:43:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:54:42 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 12:54 AM 09 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(DanaoCity, Carmen, Compostela), #NegrosOccidental(CityOfTalisay) and #Guimaras(NuevaValencia) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(CityOfBaybay, Macarthur, Javier, Abuyog, Mahaplag, Inopacan), #NegrosOccidental(BacolodCity), #OccidentalMindoro(Mamburao, AbraDeIlog, Paluan), #Antique(Culasi, Hamtic) and #Iloilo(SanJoaquin) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -37,7 +37,7 @@
       <pubDate>Tue, 08 Sep 2026 13:48:10 +0000</pubDate>
       <guid isPermaLink="false">70faf85b0fba1c54e433b2942b867f281b5894a7</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 13:48:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 13:48:10 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
