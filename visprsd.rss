@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 07 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 05:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 05:29:38 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 11:26 AM 08 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(Tayasan and Jimalalud) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Taytay, ElNido, Linapacan) and #NegrosOccidental(CityOfHimamaylan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -37,7 +37,7 @@
       <pubDate>Tue, 08 Sep 2026 01:56:53 +0000</pubDate>
       <guid isPermaLink="false">51246d35295f57fd093383680a8fb5d557aa0c62</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 01:56:53 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 01:56:53 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 8 September, 2026</title>
