@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 08 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 07:56:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:19:51 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
       <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 AM 08 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
@@ -142,14 +142,6 @@
       <guid isPermaLink="false">ad9e35958c4a17f81980dd320ad81571090c67fc</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 10:55:49 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #SLPRSD&lt;br /&gt; Issued at 01:00 PM 07 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #CamarinesNorte(Talisay, SanVicente, Daet, SanLorenzoRuiz) and #CamarinesSur(DelGallego) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #CamarinesNorte(Paracale, Vinzons, Capalonga, SantaElena, JosePanganiban, Labo), #OrientalMindoro(Bansud, Bongabong and Gloria) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 07 Sep 2026 07:59:31 +0000</pubDate>
-      <guid isPermaLink="false">9de75a4d82e34d267912ade4379c76092dff8a93</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 07:59:31 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
