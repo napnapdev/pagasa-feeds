@@ -5,8 +5,8 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/visprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
-    <pubDate>Mon, 07 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 08:19:53 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:34:26 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 10 #VISPRSD&lt;br /&gt; Issued at 03:50 PM 08 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Quezon and PuertoPrincesaCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Aborlan, Narra) and #Iloilo(Carles) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -104,22 +104,6 @@
       <guid isPermaLink="false">5d05a1b3938b4487c9f79e5c37da2ea2444ba5bf</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 09:32:59 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 02:27 PM 07 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(AniniY, Hamtic, Sibalom, Bugasong, LauaAn, Barbaza, Tibiao, Libertad, Pandan), #Aklan(Buruanga, Nabas, Ibajay), #Guimaras(Buenavista), #NegrosOccidental(CityOfTalisay, SilayCity, Valladolid), #Palawan(Kalayaan, Quezon and Rizal) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(Caluya, Valderrama, SanRemigio, TobiasFornier), #Aklan(Malay), #Iloilo(SanJoaquin), #Guimaras(Jordan, SanLorenzo, Sibunag, NuevaValencia), #NegrosOccidental(BagoCity, Murcia, BacolodCity, Pulupandan, Binalbagan and CityOfHimamaylan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Mon, 07 Sep 2026 08:30:16 +0000</pubDate>
-      <guid isPermaLink="false">f4e7f8e49dd9387a036d941b70ee98f3e7d1c1f5</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 08:30:16 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #VISPRSD&lt;br /&gt; Issued at 01:55 PM 07 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Daanbantayan, Medellin, SantaFe, Bantayan, Madridejos), #Leyte(Kananga), #NegrosOriental(Tayasan, Jimalalud, LaLibertad and CityOfGuihulngan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(OrmocCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Mon, 07 Sep 2026 08:30:15 +0000</pubDate>
-      <guid isPermaLink="false">18c25fd962fcb0841e910436279b2e365a675187</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 08:30:16 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
