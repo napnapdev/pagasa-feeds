@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 08 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 15:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:19:35 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 08 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
@@ -70,14 +70,6 @@
       <guid isPermaLink="false">d2d2c543277139cbf09ce68f0e6d5a4b9ffe4a36</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 16:55:51 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #MINPRSD&lt;br /&gt; Issued at 08:20 PM 07 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Bukidnon(Pangantucan, Quezon, Dangcagan, Kitaotao, SanFernando, DonCarlos, Kalilangan), #LanaoDelSur(Maguing, Bumbaran, LumbaBayabao, Kapai, BuadiposoBuntong, DitsaanRamain, Taraka, Mulondo, Tamparan, PoonaBayabao, Masiu, Piagapo, Marantao, Balindong, Tugaya, Madalum, MarawiCity, Saguiaran, BacolodKalawi, Wao), #DavaoDelNorte(Talaingod, Kapalong), #MisamisOriental(GingoogCity, Magsaysay, CagayanDeOroCity, Lugait, Opol, Manticao, Libertad, Alubijid, CityOfElSalvador, Laguindingan, Gitagum), #AgusanDelSur(SantaJosefa, Veruela, Trento, Loreto, Bunawan, LaPaz, Rosario), #MisamisOccidental(Jimenez, Sinacaban, Tudela, Panaon, Aloran, Clarin, Bonifacio), #AgusanDelNorte(Nasipit, ButuanCity, Magallanes, RemediosT.Romualdez, Carmen, CityOfCabadbaran, Santiago, Tubay, Jabonga, Kitcharao), #ZamboangaDelSur(Aurora, Tambulig, Tukuran), #LanaoDelNorte(Nunungan, Sapad, Salvador, Lala, Baroy, Magsaysay, Tangcal, Tubod, PantaoRagat, Munai, Pantar, Kolambugan, PoonaPiagapo, Matungao, Maigo, Baloi, Linamon, Kauswagan, Bacolod, Tagoloan, SultanNagaDimaporo, Kapatagan) and #SurigaoDelSur within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are being experienced in #Bukidnon(Talakag, Lantapan, CityOfValencia, Maramag, Baungon, Libona, ManoloFortich, Sumilao, ImpasugOng, CityOfMalaybalay, Cabanglasan, Malitbog), #LanaoDelSur(Bubong, TagoloanII), #MisamisOriental(Claveria, Naawan, Initao), #AgusanDelSur(CityOfBayugan, Sibagat, Esperanza, SanLuis, Talacogon, Prosperidad, SanFrancisco), #AgusanDelNorte(LasNieves, Buenavista) and #LanaoDelNorte(IliganCity) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 07 Sep 2026 15:17:45 +0000</pubDate>
-      <guid isPermaLink="false">30581e7c805becb047e298d7081cd79a6291242c</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 15:17:45 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
