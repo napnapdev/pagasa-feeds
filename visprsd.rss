@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 07 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 07:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 07:32:50 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 9 #VISPRSD&lt;br /&gt; Issued at 02:43 PM 08 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Narra) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(SofronioEspanola and Brooke'sPoint) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -112,14 +112,6 @@
       <guid isPermaLink="false">18c25fd962fcb0841e910436279b2e365a675187</guid>
       <category>Thunderstorm Advisory</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 08:30:16 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 12:43 PM 07 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Guimaras(NuevaValencia), #NegrosOccidental(Valladolid, CityOfTalisay, Murcia), #OccidentalMindoro(Calintaan, Magsaysay, Rizal, Sablayan, SanJose and SantaCruz) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Guimaras(Sibunag, SanLorenzo, Jordan), #NegrosOccidental(Pulupandan, BagoCity, BacolodCity), #OccidentalMindoro(AbraDeIlog, Looc, Lubang, Mamburao and Paluan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Mon, 07 Sep 2026 07:24:29 +0000</pubDate>
-      <guid isPermaLink="false">729429841e5ed2a0294b2d414240245c0d95094b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 07:24:29 +0000</ns5:seen>
     </item>
   </channel>
 </rss>
