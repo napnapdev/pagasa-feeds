@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 08 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 13:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:34:45 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 08 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
+      <pubDate>Tue, 08 Sep 2026 13:35:00 +0000</pubDate>
+      <guid isPermaLink="false">55c4a507d978a3fc6cdd01c71e9214d3c486dc60</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 13:35:00 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 4 FINAL #MINPRSD&lt;br /&gt; Issued at 08:00 PM 08 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 08 Sep 2026 12:07:39 +0000</pubDate>
       <guid isPermaLink="false">35ae262a936df91a90c4d07a4a2ed907eed57032</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 12:07:39 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 12:07:39 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
