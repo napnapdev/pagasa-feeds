@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 08 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 09:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:19:01 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 10 #VISPRSD&lt;br /&gt; Issued at 03:50 PM 08 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Quezon and PuertoPrincesaCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Aborlan, Narra) and #Iloilo(Carles) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -80,22 +80,6 @@
       <guid isPermaLink="false">6bcf3e702d82bbcad77ca7e67793652167aea194</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 13:56:35 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 15 #VISPRSD&lt;br /&gt; Issued at 03:14 PM 07 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Tabuelan, Sogod, Aloguinsan, CityOfCarcar, Moalboal, Alcantara and Ronda) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Barili, Dumanjug and Tuburan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Mon, 07 Sep 2026 09:57:08 +0000</pubDate>
-      <guid isPermaLink="false">f21164bf8baa62c515631ce59a947f6b6dbeed45</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 09:57:08 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 10 #VISPRSD</title>
-      <description>Heavy Rainfall Warning No. 10 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 02:00 PM 07 September 2026&lt;br /&gt; &lt;br /&gt; Yellow Warning: #OccidentalMindoro(AbraDeIlog, Looc, Lubang, Mamburao and Paluan)&lt;br /&gt; Associated Hazard: FLOODING IS POSSIBLE in low-lying areas and LANDSLIDES in mountainous areas.&lt;br /&gt; &lt;br /&gt; Meanwhile, Light to Moderate with occasionally Heavy rains are expected over #Palawan(Culion, Busuanga and Coron) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OccidentalMindoro(Calintaan, Magsaysay, Rizal, Sablayan, SanJose and SantaCruz) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.</description>
-      <pubDate>Mon, 07 Sep 2026 09:57:07 +0000</pubDate>
-      <guid isPermaLink="false">5d818774ab9bc2baaa397722242a2629a8cde569</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 09:57:08 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
