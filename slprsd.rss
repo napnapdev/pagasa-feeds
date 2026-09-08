@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 08 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 16:46:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:55:58 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 9 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_08Sept2026_1788872938.pdf</link>
@@ -112,14 +112,6 @@
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_07Sept2026_1788742126.pdf</guid>
       <category>Special Forecast</category>
       <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns7:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #SLPRSD&lt;br /&gt; Issued at 10:00 PM 07 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Romblon(SanJose, Banton, Corcuera), #Masbate(Claveria, SanPascual), #OrientalMindoro(Naujan, CityOfCalapan, Baco, SanTeodoro, PuertoGalera, Victoria), #Albay(Oas and CityOfLigao) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon(Looc, Ferrol, Odiongan, Alcantara, SantaFe, SantaMaria), #Albay(Libon), #CamarinesSur(Bato, Balatan and Nabua) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 07 Sep 2026 16:55:52 +0000</pubDate>
-      <guid isPermaLink="false">4b77376b98242c2ff9271dd607a47a750c8f0817</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 16:55:52 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
