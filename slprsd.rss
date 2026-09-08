@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 08 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 02:56:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 03:03:55 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 9 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_08Sept2026_1788828310.pdf</link>
@@ -150,14 +150,6 @@
       <guid isPermaLink="false">3ddf1db685c2a98ea4f6175013582d79b6aa36d4</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 07:24:28 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #SLPRSD</title>
-      <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 PM 06 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
-      <pubDate>Mon, 07 Sep 2026 03:00:38 +0000</pubDate>
-      <guid isPermaLink="false">78f9f5751f5efe87a439d33405a5c2550726f9ae</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 03:00:38 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
