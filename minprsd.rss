@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 10 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 23:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 23:41:51 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 10 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 10 #MINPRSD&lt;br /&gt; Issued at 07:30 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelSur(Lapuyan, Guipos, SanMiguel, Tigbao, Kumalarang, Aurora), #ZamboangaSibugay(Olutanga, Talusan, Mabuhay, Payao, Imelda, Diplahan, Buug, Siay, Ipil, Naga, Kabasalan, RosellerLim, Tungawan), #ZamboangaCity, #Basilan(CityOfIsabela, CityOfLamitan, Tuburan, HadjiMohammadAjul, Akbar, Sumisip, UngkayaPukan, AlBarka, TipoTipo, TabuanLasa), #TawiTawi(Bongao, Simunul, PanglimaSugala, Languyan, SapaSapa), #Sulu(Pangutaran, Banguingui, HadjiPanglimaTahil), #LanaoDelNorte(Kapatagan, Sapad, Nunungan), #LanaoDelSur(Picong), #DavaoOriental(GovernorGeneroso, CityOfMati, SanIsidro), #ZamboangaDelNorte(Sibuco, Siocon and Sirawai) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #ZamboangaDelSur(Tabina, Pitogo, PagadianCity, Margosatubig, VincenzoA.Sagun, Dimataling, Dinas, SanPablo, Tukuran, Labangan, Dumalinao), #ZamboangaSibugay(Alicia, Malangas), #LanaoDelNorte(SultanNagaDimaporo), #TawiTawi(Sibutu and Sitangkai) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 09 Sep 2026 23:42:04 +0000</pubDate>
+      <guid isPermaLink="false">f9b9f4d93fa1971167127fa68f0f2fef650f412c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 23:42:04 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 9 #MINPRSD&lt;br /&gt; Issued at 05:30 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelSur(Pitogo, Tabina, Dimataling, Dinas, Dumalinao, SanPablo, Guipos, SanMiguel, PagadianCity, Labangan, Tigbao), #Sulu(Indanan, Parang, Maimbung, Patikul, OldPanamao, Talipao, PanglimaEstino, Luuk, KalingalanCaluang), #SurigaoDelNorte(SiargaoIsland, Socorro), #SurigaoDelSur(Cortes, CityOfTandag, Tago, Bayabas, Cagwait and Marihatag) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Wed, 09 Sep 2026 21:43:10 +0000</pubDate>
       <guid isPermaLink="false">fc2a7e310870c6e0dbef48e2c61139b2b61880f4</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 21:43:10 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 21:43:10 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
@@ -53,7 +61,7 @@
       <pubDate>Wed, 09 Sep 2026 13:19:32 +0000</pubDate>
       <guid isPermaLink="false">afb5b6aa5f28fdfb9d77eb99ce47b6e71ddfe880</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 13:19:32 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 13:19:32 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
