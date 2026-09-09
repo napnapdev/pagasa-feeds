@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 09 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 02:30:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 02:44:32 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 AM 09 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #NegrosOccidental, #NegrosOriental, #Cebu, #Bohol, #Siquijor, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -184,14 +184,6 @@
       <guid isPermaLink="false">c5a43559467dbc7b26dd8d352554ca7834913456</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 03:04:07 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 10:25 AM 08 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(Hamtic, Sibalom, SanJose, Belison, SanRemigio), #Iloilo(Oton, IloiloCity), #Guimaras(Buenavista, SanLorenzo and Jordan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Igbaras, Tubungan, Leon, Maasin, Alimodian, Cabatuan, SantaBarbara and SanMiguel) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 08 Sep 2026 02:31:28 +0000</pubDate>
-      <guid isPermaLink="false">425a15d595c8c5b033f3d6d4c98127cd9c1d33fe</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 02:31:28 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
