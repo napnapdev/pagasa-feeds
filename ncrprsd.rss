@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 09 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 03:56:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:18:22 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 18 #NCRPRSD</title>
       <description>Heavy Rainfall Warning No. 18 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 11:00 AM, 09 September 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Bataan, Metro Manila(Caloocan, Malabon, Navotas, Valenzuela, Quezon City, Makati, Mandaluyong, San Juan, Pasay, Marikina, Manila), Rizal(Rodriguez, San Mateo), Zambales(Olongapo, Subic, Castillejos, San Marcelino, San Narciso, San Antonio, Iba, Botolan, Cabangan, Palauig, San Felipe, Masinloc, Candelaria), Bulacan(Meycauayan, Obando) and Pampanga(Floridablanca, Lubao).&lt;br /&gt; ASSOCIATED HAZARD: FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, expect light to moderate with occasional heavy rains over Laguna, Rizal(Antipolo, Tanay, Angono, Baras, Binangonan, Cainta, Cardona, Jala-Jala, Morong, Pililla, Taytay, Teresa), Bulacan(Norzagaray, San Jose del Monte, Guiguinto, Angat, Baliuag, Bustos, Calumpit, Dona Remedios Trinidad, Pandi, Plaridel, Pulilan, San Ildefonso, San Miguel, San Rafael, Balagtas, Bocaue, Santa Maria, Bulakan, Malolos, Hagonoy, Paombong, Marilao), Tarlac(Concepcion, Bamban, Capas, Tarlac City, Gerona, La Paz, Pura, Victoria, Camiling, Mayantoc, San Clemente, San Jose, Santa Ignacia, Moncada, Anao, Ramos, Paniqui), Batangas(Agoncillo, Alitagtag, Balayan, Balete, Batangas City, Calaca, Calatagan, Tanauan, Cuenca, Ibaan, Laurel, Lemery, Lian, Lobo, Malvar, Mataasnakahoy, Nasugbu, Padre Garcia, Rosario, San Jose, San Nicolas, San Pascual, Santa Teresita, Santo Tomas, Taal, Talisay, Taysan, Tingloy, Tuy, Lipa, Mabini, Bauan, San Luis) and Quezon(Dolores, San Antonio, General Nakar, Infanta, Real, Tiaong) within the next 3 hours.&lt;br /&gt; Light to moderate with occasional heavy rains affecting Nueva Ecija(General Tinio, Palayan, Bongabon, Laur, Rizal, Gabaldon), Zambales(Santa Cruz), Pampanga(Angeles, Porac, Sasmuan, Guagua), Cavite(Bacoor, Cavite City, Imus, Kawit, Noveleta) and Metro Manila(Las Pinas, Paranaque) which may persist within 3 hours and may affect nearby areas.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -102,7 +102,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
