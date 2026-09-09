@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 10 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 21:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:07:17 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 4 #VISPRSD</title>
       <description>Heavy Rainfall Warning No. 4 FINAL #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 05:00 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; All RAINFALL WARNING over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
@@ -256,24 +256,6 @@
       <guid isPermaLink="false">9f427c89fe952d5895c100d97c08729124201762</guid>
       <category>Thunderstorm Advisory</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 21:17:19 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 10 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_TALISAY_NegOcc_27thMinuluan_Festival_09092026_1788900782.pdf</link>
-      <description>Issued at: 05:00 AM, 9 September, 2026&lt;br /&gt;Valid until: 05:00 AM, 10 September, 2026</description>
-      <pubDate>Tue, 08 Sep 2026 21:03:41 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_TALISAY_NegOcc_27thMinuluan_Festival_09092026_1788900782.pdf</guid>
-      <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 21:03:41 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 10 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09092026_1788900757.pdf</link>
-      <description>Issued at: 05:00 AM, 9 September, 2026&lt;br /&gt;Valid until: 05:00 AM, 10 September, 2026</description>
-      <pubDate>Tue, 08 Sep 2026 21:03:40 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09092026_1788900757.pdf</guid>
-      <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 21:03:41 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
