@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 09 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 03:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 03:31:28 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 11:07 AM 09 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(BaisCity), #NegrosOccidental(SanCarlosCity, Pontevedra, Hinigaran, SalvadorBenedicto), #Iloilo(Igbaras, Tubungan, Leon, Tigbauan), #Leyte(TaclobanCity, Babatngon) and #Palawan(Brooke'sPoint) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOriental(Ayungon, Tayasan, Jimalalud, LaLibertad, CityOfGuihulngan, Mabinay, Bindoy, Manjuyod, CityOfBayawan, Basay), #NegrosOccidental(BacolodCity, Murcia, BagoCity, Pulupandan, Valladolid, SanEnrique, LaCarlotaCity, Isabela, CityOfHimamaylan, Binalbagan, CityOfKabankalan, Ilog, Candoni, HinobaAn), #Iloilo(Miagao, Guimbal), #Palawan(Rizal, Bataraza, Balabac, ElNido, Linapacan, Busuanga, Coron, Culion and Taytay) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -184,14 +184,6 @@
       <guid isPermaLink="false">8c08e62ebd439031c2a350b13053b21a4b55997b</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 06:49:52 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 11:26 AM 08 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(Tayasan and Jimalalud) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Taytay, ElNido, Linapacan) and #NegrosOccidental(CityOfHimamaylan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 08 Sep 2026 03:31:47 +0000</pubDate>
-      <guid isPermaLink="false">e4537680535eaf24080b502801b307b2375a7bdd</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 03:31:47 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
