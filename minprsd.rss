@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 09 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 16:46:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:56:04 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 6 #MINPRSD&lt;br /&gt; Issued at 11:30 PM 09 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #TawiTawi(Mapun, TurtleIslands), #DavaoCity, #NorthCotabato(Magpet and Arakan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -110,14 +110,6 @@
       <guid isPermaLink="false">2acd1b9cb4073c10a1f452b1ff18c0769016294e</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 19:43:42 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 12:30 AM 09 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #MisamisOriental(Balingasag), #ZamboangaSibugay(RosellerLim, Tungawan, Titay), #ZamboangaDelNorte(Siocon, Sirawai and Tampilisan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #MisamisOriental(Lagonglong, Claveria, Salay), #ZamboangaSibugay(Ipil, Naga, Kabasalan and Siay) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 08 Sep 2026 16:47:16 +0000</pubDate>
-      <guid isPermaLink="false">9c4ae0847a115cb4a8624d192cb8d076b4a5080d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 16:47:16 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
