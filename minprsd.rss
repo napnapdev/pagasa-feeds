@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 09 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 13:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:47:39 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 5 #MINPRSD&lt;br /&gt; Issued at 09:30 PM 09 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #TawiTawi(Mapun), #Sulu(Pangutaran, HadjiPanglimaTahil), #AgusanDelSur(CityOfBayugan, Prosperidad, Sibagat), #SurigaoDelSur(SanMiguel, Lianga, Hinatuan, CityOfBislig, Lingig), #MisamisOccidental(OzamisCity, TangubCity, Clarin), #LanaoDelNorte(SultanNagaDimaporo, Kapatagan, Sapad, Nunungan, Salvador, Tubod, Lala, Baroy, Magsaysay, Kolambugan, Tangcal, Munai, IliganCity, Maigo, Bacolod), #LanaoDelSur(Madamba, Madalum), #MisamisOriental(Initao, Naawan, Manticao and Lugait) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 09 Sep 2026 13:47:55 +0000</pubDate>
+      <guid isPermaLink="false">b35397e4c1502abd6f165076a13221959421e00e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 13:47:55 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 09 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
       <pubDate>Wed, 09 Sep 2026 13:19:32 +0000</pubDate>
       <guid isPermaLink="false">afb5b6aa5f28fdfb9d77eb99ce47b6e71ddfe880</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 13:19:32 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 13:19:32 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Wed, 09 Sep 2026 11:44:21 +0000</pubDate>
       <guid isPermaLink="false">7ce5940cfd55c0f834bfd0b02608ab00a7105dfe</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 11:44:21 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 11:44:21 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
@@ -61,7 +69,7 @@
       <pubDate>Wed, 09 Sep 2026 02:31:07 +0000</pubDate>
       <guid isPermaLink="false">a5af7ae5bb311b7f17247d3bbd17d062594f5bbd</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 02:31:07 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 02:31:07 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -69,7 +77,7 @@
       <pubDate>Wed, 09 Sep 2026 02:31:06 +0000</pubDate>
       <guid isPermaLink="false">b8497674c2e385d185842fa563c09c31725f8cee</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 02:31:07 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 02:31:07 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">9c4ae0847a115cb4a8624d192cb8d076b4a5080d</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 16:47:16 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 08 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
-      <pubDate>Tue, 08 Sep 2026 13:35:00 +0000</pubDate>
-      <guid isPermaLink="false">55c4a507d978a3fc6cdd01c71e9214d3c486dc60</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 13:35:00 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
