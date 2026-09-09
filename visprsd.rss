@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 09 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 03:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 03:07:23 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 2 #VISPRSD</title>
       <description>Rainfall Advisory No. 2 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 11:00 AM 09 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Palawan(Roxas, Dumaran, Araceli, Magsaysay, Cuyo, Agutaya, PuertoPrincesaCity) and #OccidentalMindoro within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(ElNido, Linapacan, Culion, Busuanga, Coron, Taytay and SanVicente) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
@@ -184,14 +184,6 @@
       <guid isPermaLink="false">e4537680535eaf24080b502801b307b2375a7bdd</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 03:31:47 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 17 #VISPRSD</title>
-      <description>Heavy Rainfall Warning No. 17 FINAL #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 11:00 AM 08 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains was observed over #OccidentalMindoro for the past 3 hours. With this development, all RAINFALL WARNING in this area is now terminated.&lt;br /&gt; &lt;br /&gt; Meanwhile, Light to Moderate with occasionally Heavy rains are expected over #Palawan(Araceli, Dumaran, Busuanga, Cuyo, Magsaysay and Agutaya) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Taytay, ElNido, Linapacan, Culion, Coron), #OccidentalMindoro(SanJose, Magsaysay, Rizal and Calintaan) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
-      <pubDate>Tue, 08 Sep 2026 03:04:07 +0000</pubDate>
-      <guid isPermaLink="false">c5a43559467dbc7b26dd8d352554ca7834913456</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 03:04:07 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
