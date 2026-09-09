@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 09 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 01:56:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 02:18:04 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 09 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #IlocosNorte within 12 hours.</description>
+      <pubDate>Wed, 09 Sep 2026 02:18:30 +0000</pubDate>
+      <guid isPermaLink="false">01b8852e92a09cef1e9b35501b31e07649466e37</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 02:18:30 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 09 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Aurora and #Cagayan within 12 hours.</description>
+      <pubDate>Wed, 09 Sep 2026 02:18:29 +0000</pubDate>
+      <guid isPermaLink="false">313f47a340d27ebe01a22b6c651b5c710ec6f03b</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 02:18:30 +0000</ns2:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 70 #NLPRSD</title>
       <description>Rainfall Advisory No. 70 #NLPRSD&lt;br /&gt; Weather System: Trough of TD "KROVANH" &lt;br /&gt; Issued at 08:00 AM 09 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Pangasinan(Agno, Bani, Mabini, Bolinao, Anda, CityOfAlaminos, Bugallon, Sual, Labrador, Bayambang, Urbiztondo, SanCarlosCity, Bautista, Alcala, SantoTomas, Malasiqui, Basista), #Aurora(Dingalan, SanLuis, MariaAurora and Baler) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Pangasinan(Burgos, Infanta, Mangatarem, Aguilar and Dasol) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -54,7 +70,7 @@
       <pubDate>Tue, 08 Sep 2026 10:19:14 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/northern-luzon/special-forecasts/Special Forecast Araw ng Quirino_1788861677.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 10:19:14 +0000</ns1:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 10:19:14 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 06:00 PM, 9 September, 2026</title>
@@ -63,7 +79,7 @@
       <pubDate>Tue, 08 Sep 2026 10:19:13 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/northern-luzon/special-forecasts/Special Forecast Bar Exams 2026_Tuguegarao No.4_1788861645.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 10:19:14 +0000</ns2:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 10:19:14 +0000</ns4:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 65 #NLPRSD</title>
