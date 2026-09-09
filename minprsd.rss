@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 10 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 20:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:44:10 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 8 #MINPRSD&lt;br /&gt; Issued at 03:30 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelSur(Pitogo, Tabina, Dimataling, Dinas, Dumalinao, SanPablo, Guipos, SanMiguel, PagadianCity, Labangan and Tigbao) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -110,14 +110,6 @@
       <guid isPermaLink="false">130990420990b6d6e71e745c626ac1a9db337141</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 23:16:14 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #MINPRSD&lt;br /&gt; Issued at 03:30 AM 09 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #LanaoDelNorte(SultanNagaDimaporo, Sapad), #ZamboangaDelSur(VincenzoA.Sagun, Lapuyan, SanMiguel, Dinas, Margosatubig, Dumalinao, Guipos, SanPablo), #ZamboangaSibugay(Mabuhay, Olutanga, Talusan), #MisamisOriental(Salay, Lagonglong, Balingasag, Jasaan), #LanaoDelSur(Marogong, Calanogas, Malabang and Balabagan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #MisamisOriental(GingoogCity, Claveria, Binuangan, Kinoguitan, Sugbongcogon, Balingoan, Talisayan, Medina), #LanaoDelNorte(Nunungan) and #LanaoDelSur(Picong) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 08 Sep 2026 20:44:23 +0000</pubDate>
-      <guid isPermaLink="false">cda6439911b171597f733b1955cb99562f30e6f3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 20:44:23 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
