@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 10 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 22:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:28:31 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 05:52 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Guimaras(Sibunag, SanLorenzo, Buenavista, Jordan), #NegrosOccidental(BagoCity, LaCarlotaCity, LaCastellana, MoisesPadilla, Murcia, SanCarlosCity, BacolodCity), #NegrosOriental(Vallehermoso, CanlaonCity, CityOfGuihulngan), #Iloilo(Miagao, Igbaras, Guimbal, Tigbauan, Oton, Pavia, IloiloCity), #Cebu(Ginatilan, Samboan, Santander, Oslob, Malabuyoc and Boljoon) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(Hinigaran, Binalbagan, Isabela, Pontevedra, SanEnrique, Valladolid, Pulupandan), #Guimaras(NuevaValencia), #NegrosOriental(LaLibertad, Tayasan, Jimalalud), #Iloilo(SanJoaquin), #Antique(Hamtic, TobiasFornier, AniniY), #Samar(SantaMargarita, Tarangnan, Gandara, Pagsanghan, SanJorge and CityOfCatbalogan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -248,14 +248,6 @@
       <guid isPermaLink="false">2a7bf439e38433e6d666c3b9e2f71f76ae494d03</guid>
       <category>Thunderstorm Advisory</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 22:54:38 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 6 #VISPRSD&lt;br /&gt; Issued at 05:57 AM 09 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(PuertoPrincesaCity and Rizal) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Aborlan, Quezon and Narra) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 08 Sep 2026 22:17:05 +0000</pubDate>
-      <guid isPermaLink="false">e98c2d5324d31942fe19766797230479e1a8e0ab</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 08 Sep 2026 22:17:05 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
