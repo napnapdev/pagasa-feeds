@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 10 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 17:42:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:54:30 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 20 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 20 #MINPRSD&lt;br /&gt; Issued at 01:30 AM 11 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #TawiTawi(Mapun), #SurigaoDelSur(Tago, Lianga, SanMiguel, CityOfTandag, Barobo, Carrascal), #AgusanDelSur(SanFrancisco, Prosperidad, CityOfBayugan, Talacogon, SanLuis, Esperanza), #SurigaoDelNorte(Claver, Socorro, SiargaoIsland, SurigaoCity, Placer, TaganaAn) and #DinagatIslands(Cagdianao) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelSur(Cagwait, Bayabas, Marihatag and SanAgustin) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">49b08022e333182da736415f24387079b769ad06</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 19:28:14 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #MINPRSD&lt;br /&gt; Issued at 01:30 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaSibugay(Ipil, RosellerLim, Tungawan, Naga), #TawiTawi(Mapun and TurtleIslands) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 09 Sep 2026 17:43:43 +0000</pubDate>
-      <guid isPermaLink="false">db776ae4211a03abb2f00f3599731540d19a0927</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 17:43:43 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
