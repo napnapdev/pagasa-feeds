@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 11 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 20:54:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 13 #VISPRSD</title>
+      <description>Rainfall Advisory No. 13 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 05:00 AM 11 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #OccidentalMindoro(SantaCruz, Sablayan), #Palawan(ElNido, Linapacan and Taytay) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OccidentalMindoro(Lubang, Looc, Paluan, AbraDeIlog, Mamburao), #Palawan(Coron, Busuanga and Culion) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
+      <pubDate>Thu, 10 Sep 2026 21:03:37 +0000</pubDate>
+      <guid isPermaLink="false">56fd763cfbd8c7d7283c4ad014ffdefffe092919</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 21:03:37 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 04:46 AM 11 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Biliran(Cabucgayan, Kawayan, Almeria), #Leyte(Leyte, Tabango), #Samar(Jiabong, Motiong and SantaMargarita) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Samar(Tarangnan, Gandara, Pagsanghan, Daram, CityOfCatbalogan, SanJorge, Zumarraga), #Leyte(Calubian, SanIsidro), #Biliran(Caibiran, Naval, Culaba and Biliran) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -184,40 +192,6 @@
       <guid isPermaLink="false">034476a3f51d8f6ab2dceec9d1ba8fbd39e1c02e</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 22:16:35 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 4 #VISPRSD</title>
-      <description>Heavy Rainfall Warning No. 4 FINAL #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 05:00 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; All RAINFALL WARNING over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
-      <pubDate>Wed, 09 Sep 2026 21:03:35 +0000</pubDate>
-      <guid isPermaLink="false">69f7c8bc1877e70ecead24ab2b1620e6b8ad17f6</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 21:03:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 04:51 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(Zamboanguita, Dauin, Bacong, Valencia, DumagueteCity, Sibulan, SanJose, Amlan, CityOfTanjay, Pamplona, BaisCity, Mabinay, Ayungon, Manjuyod, Bindoy, Tayasan), #Cebu(Dalaguete, Alcoy), #Leyte(Villaba, Kananga, Barugo, Tunga, Carigara, Palompon, MatagOb, Babatngon, SanMiguel), #Samar(Matuguinao, SanJoseDeBuan, Paranas, Hinabangan, Marabut, Basey, SantaRita), #Biliran(Kawayan, Almeria, Naval and Culaba) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(Candoni, Cauayan, CityOfSipalay, HinobaAn, CityOfKabankalan, Ilog, CityOfHimamaylan), #NegrosOriental(Basay, CityOfBayawan, SantaCatalina, Siaton), #Cebu(Badian, Alegria, Medellin, Daanbantayan), #Leyte(SanIsidro, Tabango, Leyte, Calubian, Capoocan, OrmocCity, Burauen, Albuera, Dagami, Alangalang, Pastrana, Jaro), #EasternSamar, #Samar(Calbiga, Pinabacdao, Villareal, Zumarraga, Daram, CityOfCatbalogan, Motiong, Jiabong), #Biliran(Caibiran, Cabucgayan and Biliran) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 09 Sep 2026 21:03:34 +0000</pubDate>
-      <guid isPermaLink="false">b4a6dcbb02c2528e175509f234e6a50efad3c244</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 21:03:35 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 11 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_TALISAY_NegOcc_27thMinuluan_Festival_09102026_1788986942.pdf</link>
-      <description>Issued at: 05:00 AM, 10 September, 2026&lt;br /&gt;Valid until: 05:00 AM, 11 September, 2026</description>
-      <pubDate>Wed, 09 Sep 2026 20:54:38 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_TALISAY_NegOcc_27thMinuluan_Festival_09102026_1788986942.pdf</guid>
-      <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 20:54:38 +0000</ns5:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 11 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09102026_1788986920.pdf</link>
-      <description>Issued at: 05:00 AM, 10 September, 2026&lt;br /&gt;Valid until: 05:00 AM, 11 September, 2026</description>
-      <pubDate>Wed, 09 Sep 2026 20:54:37 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09102026_1788986920.pdf</guid>
-      <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 20:54:38 +0000</ns6:seen>
     </item>
   </channel>
 </rss>
