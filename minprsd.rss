@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 10 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 17:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:42:39 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 20 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 20 #MINPRSD&lt;br /&gt; Issued at 01:30 AM 11 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #TawiTawi(Mapun), #SurigaoDelSur(Tago, Lianga, SanMiguel, CityOfTandag, Barobo, Carrascal), #AgusanDelSur(SanFrancisco, Prosperidad, CityOfBayugan, Talacogon, SanLuis, Esperanza), #SurigaoDelNorte(Claver, Socorro, SiargaoIsland, SurigaoCity, Placer, TaganaAn) and #DinagatIslands(Cagdianao) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelSur(Cagwait, Bayabas, Marihatag and SanAgustin) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 10 Sep 2026 17:42:57 +0000</pubDate>
+      <guid isPermaLink="false">409f7ebb2c7784d5595ee7f995a6561d94b0a037</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 17:42:57 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 19 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 19 #MINPRSD&lt;br /&gt; Issued at 12:30 AM 11 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #MaguindanaoDelNorte(Barira, Matanog, Parang, SultanMastura, SultanKudarat, DatuOdinSinsuat, Upi, DatuBlahT.Sinsuat), #CotabatoCity, #MaguindanaoDelSur(SouthUpi, Talayan), #SultanKudarat(Lebak, Kalamansig, Palimbang), #SouthCotabato(GeneralSantosCity, Polomolok), #Sarangani(Alabel), #SurigaoDelSur(Marihatag, SanAgustin, Lianga) and #TawiTawi(TurtleIslands) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Thu, 10 Sep 2026 16:44:47 +0000</pubDate>
       <guid isPermaLink="false">38654d566b21317a0c8516ce2efd53584efcc1fe</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 16:44:47 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 16:44:47 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 18 #MINPRSD</title>
