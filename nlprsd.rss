@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 10 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 01:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 02:18:20 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 78 #NLPRSD</title>
       <description>Rainfall Advisory No. 78 #NLPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 08:00 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Aurora(Baler, Dinalungan, Dingalan, Dipaculao, MariaAurora, SanLuis), #Isabela(SanAgustin, Jones, Echague, SanGuillermo, BenitoSoliven, Angadanan, CityOfCauayan, Naguilian, Gamu, ReinaMercedes), #Cagayan(Calayan), #NuevaVizcaya(AlfonsoCastaneda), #Quirino(Aglipay, Maddela, Nagtipunan), #Batanes, #Pangasinan(Aguilar, Mangatarem, Infanta, Agno, Burgos, Dasol, Bugallon and Bayambang) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aurora(Casiguran, Dilasag), #Isabela(Dinapigue, Palanan, Divilacan, SanMariano and IlaganCity) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -70,22 +70,6 @@
       <guid isPermaLink="false">f5f17c563c8e8e42a3710706af82916e8e49dcd9</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 03:07:37 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 09 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #IlocosNorte within 12 hours.</description>
-      <pubDate>Wed, 09 Sep 2026 02:18:30 +0000</pubDate>
-      <guid isPermaLink="false">01b8852e92a09cef1e9b35501b31e07649466e37</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 02:18:30 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 09 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Aurora and #Cagayan within 12 hours.</description>
-      <pubDate>Wed, 09 Sep 2026 02:18:29 +0000</pubDate>
-      <guid isPermaLink="false">313f47a340d27ebe01a22b6c651b5c710ec6f03b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 02:18:30 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
