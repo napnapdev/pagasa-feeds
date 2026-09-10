@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 11 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 23:40:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:54:05 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 22 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 22 FINAL #MINPRSD&lt;br /&gt; Issued at 05:30 AM 11 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -78,14 +78,6 @@
       <guid isPermaLink="false">8c3b7391c98a0e171542489d83d80208e641122c</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 03:04:16 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 10 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 10 #MINPRSD&lt;br /&gt; Issued at 07:30 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelSur(Lapuyan, Guipos, SanMiguel, Tigbao, Kumalarang, Aurora), #ZamboangaSibugay(Olutanga, Talusan, Mabuhay, Payao, Imelda, Diplahan, Buug, Siay, Ipil, Naga, Kabasalan, RosellerLim, Tungawan), #ZamboangaCity, #Basilan(CityOfIsabela, CityOfLamitan, Tuburan, HadjiMohammadAjul, Akbar, Sumisip, UngkayaPukan, AlBarka, TipoTipo, TabuanLasa), #TawiTawi(Bongao, Simunul, PanglimaSugala, Languyan, SapaSapa), #Sulu(Pangutaran, Banguingui, HadjiPanglimaTahil), #LanaoDelNorte(Kapatagan, Sapad, Nunungan), #LanaoDelSur(Picong), #DavaoOriental(GovernorGeneroso, CityOfMati, SanIsidro), #ZamboangaDelNorte(Sibuco, Siocon and Sirawai) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #ZamboangaDelSur(Tabina, Pitogo, PagadianCity, Margosatubig, VincenzoA.Sagun, Dimataling, Dinas, SanPablo, Tukuran, Labangan, Dumalinao), #ZamboangaSibugay(Alicia, Malangas), #LanaoDelNorte(SultanNagaDimaporo), #TawiTawi(Sibutu and Sitangkai) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 09 Sep 2026 23:42:04 +0000</pubDate>
-      <guid isPermaLink="false">f9b9f4d93fa1971167127fa68f0f2fef650f412c</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 23:42:04 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
