@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 10 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 06:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:07:20 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 27 #NCRPRSD</title>
+      <description>Heavy Rainfall Warning No. 27 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 2:00 PM, 10 September 2026(Thursday)&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Zambales and Bataan.&lt;br /&gt; ASSOCIATED HAZARD: FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, expect light to moderate with occasional heavy rains over Tarlac, Rizal and Nueva Ecija within the next 3 hours.&lt;br /&gt; Light to moderate with occasional heavy rains affecting Bulacan(Hagonoy, Norzagaray), Pampanga(Masantol), Metro Manila(Las Pinas), Cavite(Bacoor, Cavite City, Kawit, Indang), Quezon(Mauban, Sampaloc, Dolores, Candelaria), Laguna(Cavinti, Calauan, San Pablo) and Batangas(Taysan) which may persist within 3 hours and may affect nearby areas.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 5:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
+      <pubDate>Thu, 10 Sep 2026 06:07:35 +0000</pubDate>
+      <guid isPermaLink="false">367927f118413045df711725c10b09e60559d937</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 06:07:35 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 26 #NCRPRSD</title>
       <description>Heavy Rainfall Warning No. 26 #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 11:00 AM, 10 September 2026(Thursday)&lt;br /&gt; &lt;br /&gt; YELLOW WARNING LEVEL: Zambales(Botolan, Cabangan, Iba, Masinloc, Palauig, Candelaria, Santa Cruz, San Felipe, San Narciso, San Marcelino).&lt;br /&gt; ASSOCIATED HAZARD: FLOODING in flood-prone areas.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Meanwhile, expect light to moderate with occasional heavy rains over Bulacan, Metro Manila, Rizal, Quezon, Laguna, Cavite, Batangas and Zambales(Olongapo, Subic, Castillejos, San Antonio) within the next 3 hours.&lt;br /&gt; Light to moderate with occasional heavy rains affecting Pampanga(Lubao, Mabalacat, Angeles, Porac, Floridablanca), Bataan(Orani, Samal, Hermosa, Dinalupihan), Tarlac(San Clemente, Mayantoc, Bamban) and Nueva Ecija(General Tinio) which may persist within 3 hours and may affect nearby areas.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
       <pubDate>Thu, 10 Sep 2026 03:04:16 +0000</pubDate>
       <guid isPermaLink="false">e1c99df7c7fa7ea8e2342447a4fc25ee077245c4</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 03:04:16 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 03:04:16 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 25 #NCRPRSD</title>
@@ -70,7 +78,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
