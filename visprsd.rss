@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 10 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 00:48:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:58:58 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 5 #VISPRSD&lt;br /&gt; Issued at 08:46 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Brooke'sPoint) and #Guimaras(Buenavista) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Rizal), #Guimaras(NuevaValencia, Sibunag, SanLorenzo, Jordan), #Iloilo(IloiloCity, Pavia, Leganes, Zarraga, Dumangas, SantaBarbara, NewLucena, Pototan, BarotacNuevo and Mina) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Thu, 10 Sep 2026 00:59:14 +0000</pubDate>
+      <guid isPermaLink="false">0e5291ca5aa6daf17c92eb3a4b467b1af2a56d14</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 00:59:14 +0000</ns2:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 6 #VISPRSD</title>
       <description>Rainfall Advisory No. 6 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 08:00 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Antique(Culasi, Sebaste), #Aklan(Madalag, Libacao), #Capiz(Jamindan, Tapaz), #Iloilo(Lambunao, Janiuay, Maasin, Cabatuan, SanMiguel, Pavia, IloiloCity, Leganes, Zarraga, NewLucena, SantaBarbara), #Guimaras(Buenavista, SanLorenzo), #NegrosOccidental(BacolodCity, CadizCity, Calatrava, EnriqueB.Magalona, CityOfEscalante, Manapla, SagayCity, SilayCity, CityOfTalisay, Toboso, CityOfVictorias, SalvadorBenedicto), #Cebu, #Biliran, #Palawan(Coron, Busuanga, Culion, Cuyo, Magsaysay, Agutaya and Cagayancillo) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(AniniY, Barbaza, Belison, Bugasong, TobiasFornier, Hamtic, LauaAn, Patnongon, SanJose, SanRemigio, Sibalom, Tibiao, Valderrama), #Iloilo(Leon, Tubungan, Igbaras, Miagao, SanJoaquin, Tigbauan, Guimbal, Alimodian, Oton), #Guimaras(Jordan, Sibunag, NuevaValencia), #NegrosOccidental(BagoCity, Binalbagan, Candoni, Cauayan, CityOfHimamaylan, Hinigaran, HinobaAn, Ilog, Isabela, CityOfKabankalan, LaCarlotaCity, LaCastellana, MoisesPadilla, Murcia, Pontevedra, Pulupandan, SanCarlosCity, SanEnrique, CityOfSipalay, Valladolid), #NegrosOriental, #Samar, #Leyte and #OccidentalMindoro which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.</description>
@@ -21,7 +29,7 @@
       <pubDate>Wed, 09 Sep 2026 22:54:12 +0000</pubDate>
       <guid isPermaLink="false">efb8d2aed86c56dfdc7ce49693ee752913dd217d</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 22:54:12 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 22:54:12 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
