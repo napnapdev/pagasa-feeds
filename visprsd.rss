@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 10 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 04:18:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:31:42 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 12:03 PM 10 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Narra), #Leyte(Kananga, OrmocCity, MatagOb, Villaba and Leyte) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Brooke'sPoint, SofronioEspanola, Aborlan, PuertoPrincesaCity, Coron, Busuanga), #Bohol(Pres.CarlosP.Garcia, Ubay), #EasternSamar(Sulat, SanJulian, CityOfBorongan), #Samar(Hinabangan, Calbiga), #OccidentalMindoro(Magsaysay and SanJose) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -224,14 +224,6 @@
       <guid isPermaLink="false">423f4ed87b06df6d16e893f2eba8ef35c226fdd2</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 04:44:59 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 14 #VISPRSD&lt;br /&gt; Issued at 12:22 PM 09 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Samar(Basey), #Antique(Sebaste), #Aklan(Makato, Lezo, Malinao), #Iloilo(Calinog, Bingawan, Dingle), #Cebu(Minglanilla and CityOfTalisay) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(Babatngon, TaclobanCity), #Samar(SantaRita), #Bohol(Talibon), #Iloilo(CityOfPassi), #Palawan(Kalayaan, Narra, SofronioEspanola, Aborlan, Quezon and PuertoPrincesaCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 09 Sep 2026 04:31:47 +0000</pubDate>
-      <guid isPermaLink="false">05099c72012fb8faa8f957a338a47f2ea7d1d40b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 04:31:47 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
