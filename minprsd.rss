@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 11 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 21:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:54:17 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 22 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 22 FINAL #MINPRSD&lt;br /&gt; Issued at 05:30 AM 11 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">f9b9f4d93fa1971167127fa68f0f2fef650f412c</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 23:42:04 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 9 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 9 #MINPRSD&lt;br /&gt; Issued at 05:30 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelSur(Pitogo, Tabina, Dimataling, Dinas, Dumalinao, SanPablo, Guipos, SanMiguel, PagadianCity, Labangan, Tigbao), #Sulu(Indanan, Parang, Maimbung, Patikul, OldPanamao, Talipao, PanglimaEstino, Luuk, KalingalanCaluang), #SurigaoDelNorte(SiargaoIsland, Socorro), #SurigaoDelSur(Cortes, CityOfTandag, Tago, Bayabas, Cagwait and Marihatag) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 09 Sep 2026 21:43:10 +0000</pubDate>
-      <guid isPermaLink="false">fc2a7e310870c6e0dbef48e2c61139b2b61880f4</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 21:43:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
