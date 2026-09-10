@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 10 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 13:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:29:55 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 10 #VISPRSD</title>
       <description>Rainfall Advisory No. 10 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 08:00 PM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #OccidentalMindoro(Looc, Lubang), #Palawan(Kalayaan, Cagayancillo), #Iloilo(Igbaras, Guimbal, Tigbauan, Leon, Tubungan, Alimodian, Oton, Maasin, SanMiguel, Cabatuan, Janiuay, Lambunao), #Capiz(Jamindan, Tapaz), #Aklan(Libacao, Madalag, Numancia, Makato, Tangalan, Lezo, Kalibo and Banga) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OccidentalMindoro(AbraDeIlog, Calintaan, Magsaysay, Mamburao, Paluan, Rizal, Sablayan, SanJose, SantaCruz), #Palawan(Coron, Busuanga, Culion, Linapacan, ElNido, Taytay, Araceli, Dumaran, Cuyo, Magsaysay, Agutaya, SanVicente, Roxas, PuertoPrincesaCity, Aborlan, SofronioEspanola, Quezon, Brooke'sPoint, Bataraza, Balabac, Rizal, Narra), #Antique, #Aklan(Malinao, Ibajay, Nabas, Malay, Buruanga), #Iloilo(SanJoaquin and Miagao) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.</description>
@@ -176,14 +176,6 @@
       <guid isPermaLink="false">9aaeeb67e566dc7e1800a6a6a0c66ccdd0293437</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 13:57:05 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 1 #VISPRSD</title>
-      <description>Heavy Rainfall Warning No. 1 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 09:00 PM 09 September 2026&lt;br /&gt; &lt;br /&gt; Yellow Warning: #Antique(Sibalom, SanJose, Hamtic, TobiasFornier, AniniY), #Iloilo(Igbaras, Miagao and SanJoaquin)&lt;br /&gt; Associated Hazard: FLOODING IS POSSIBLE in low-lying areas and LANDSLIDES in mountainous areas.&lt;br /&gt; &lt;br /&gt; Meanwhile, Light to Moderate with occasionally Heavy rains are expected over #Iloilo(Maasin, Cabatuan, SantaBarbara, Leganes, IloiloCity, Pavia, SanMiguel, Leon and Alimodian) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(Belison, SanRemigio, Patnongon, Valderrama, Bugasong, LauaAn, Barbaza, Tibiao, Culasi), #Iloilo(Tubungan, Guimbal, Tigbauan, Oton) and #Guimaras which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.</description>
-      <pubDate>Wed, 09 Sep 2026 13:19:32 +0000</pubDate>
-      <guid isPermaLink="false">628ab880bb672dbdc3ae18e20b4164a9003c49c5</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 13:19:32 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
