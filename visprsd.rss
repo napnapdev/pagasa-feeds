@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 10 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Sep 2026 14:30:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:46:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 10 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #NegrosOccidental, #NegrosOriental, #Cebu, #Bohol, #Siquijor, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -176,14 +176,6 @@
       <guid isPermaLink="false">037d203319750b890891bcb6e955a3622e232877</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 15:07:37 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 26 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 26 #VISPRSD&lt;br /&gt; Issued at 10:29 PM 09 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(CadizCity, Manapla, Murcia, SalvadorBenedicto, SagayCity, BagoCity, Pulupandan, Valladolid, LaCarlotaCity, SanEnrique, Pontevedra), #Palawan(Rizal, Quezon, Bataraza, Narra, SanVicente, Roxas, Aborlan and PuertoPrincesaCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(CityOfVictorias, EnriqueB.Magalona, SilayCity, CityOfTalisay, BacolodCity), #Guimaras, #Palawan(Brooke'sPoint and SofronioEspanola) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 09 Sep 2026 14:32:29 +0000</pubDate>
-      <guid isPermaLink="false">55c7b5c949db6f2bcc1fac7448432261631ddd21</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 09 Sep 2026 14:32:29 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
