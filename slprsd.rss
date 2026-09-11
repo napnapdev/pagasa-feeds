@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 11 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2026 00:56:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 01:15:39 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 8 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 8 #SLPRSD&lt;br /&gt; Issued at 05:25 AM 11 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(PuertoGalera, SanTeodoro and Baco) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NorthernSamar(Palapag, Mapanas, Gamay, Lapinig, Catubig, Laoang, LasNavas, Pambujan, SanRoque, SilvinoLobos, Mondragon, Catarman and LopeDeVega) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -72,24 +72,6 @@
       <guid isPermaLink="false">9aadb5104b6871cb7c00bdde176ab4165aca12a8</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 03:45:14 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 AM, 11 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_10Sept2026_1789001272.pdf</link>
-      <description>Issued at: 09:00 AM, 10 September, 2026&lt;br /&gt;Valid until: 09:00 AM, 11 September, 2026</description>
-      <pubDate>Thu, 10 Sep 2026 00:59:13 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_10Sept2026_1789001272.pdf</guid>
-      <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 00:59:13 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 AM, 11 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_10Sept2026_1789001229.pdf</link>
-      <description>Issued at: 09:00 AM, 10 September, 2026&lt;br /&gt;Valid until: 09:00 AM, 11 September, 2026</description>
-      <pubDate>Thu, 10 Sep 2026 00:59:12 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_10Sept2026_1789001229.pdf</guid>
-      <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 00:59:13 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
