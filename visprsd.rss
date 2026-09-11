@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 11 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2026 12:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 12:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 06:26 PM 11 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #EasternSamar(Sulat, Taft, CanAvid, Giporlos, Quinapondan, Salcedo), #Leyte(Barugo, Carigara, Capoocan, Kananga, Tunga, Albuera, CityOfBaybay, LaPaz, Mayorga, Macarthur, Javier, Leyte, Merida, Palompon, Isabel, MatagOb, Villaba) and #Biliran within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Samar(Calbiga, Basey, Paranas, Hinabangan, Pinabacdao, SantaRita, Marabut, Villareal, SanSebastian, Jiabong, SanJorge, Motiong, SanJoseDeBuan, Matuguinao, Gandara, Pagsanghan, SantaMargarita, Tarangnan, CityOfCatbalogan, Zumarraga, Daram, Talalora, SantoNiño), #EasternSamar(CityOfBorongan, Llorente, Balangkayan, GeneralMacarthur, Maydolong, Hernani, SanJulian, Lawaan, Balangiga), #Leyte(Julita, Pastrana, Dagami, Dulag, Tolosa, Tanauan, Tabontabon, Palo, TaclobanCity, SanMiguel, Alangalang, SantaFe, Babatngon, Jaro, OrmocCity, Burauen), #Palawan(ElNido, Taytay and Linapacan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -184,14 +184,6 @@
       <guid isPermaLink="false">7294541e129dd75fa92eed6773ae5608351db228</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 13:56:58 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 10 #VISPRSD</title>
-      <description>Rainfall Advisory No. 10 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 08:00 PM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #OccidentalMindoro(Looc, Lubang), #Palawan(Kalayaan, Cagayancillo), #Iloilo(Igbaras, Guimbal, Tigbauan, Leon, Tubungan, Alimodian, Oton, Maasin, SanMiguel, Cabatuan, Janiuay, Lambunao), #Capiz(Jamindan, Tapaz), #Aklan(Libacao, Madalag, Numancia, Makato, Tangalan, Lezo, Kalibo and Banga) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OccidentalMindoro(AbraDeIlog, Calintaan, Magsaysay, Mamburao, Paluan, Rizal, Sablayan, SanJose, SantaCruz), #Palawan(Coron, Busuanga, Culion, Linapacan, ElNido, Taytay, Araceli, Dumaran, Cuyo, Magsaysay, Agutaya, SanVicente, Roxas, PuertoPrincesaCity, Aborlan, SofronioEspanola, Quezon, Brooke'sPoint, Bataraza, Balabac, Rizal, Narra), #Antique, #Aklan(Malinao, Ibajay, Nabas, Malay, Buruanga), #Iloilo(SanJoaquin and Miagao) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.</description>
-      <pubDate>Thu, 10 Sep 2026 12:03:58 +0000</pubDate>
-      <guid isPermaLink="false">2faf4d2f022d948bd50d5e2d8e095c773f6eee25</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 12:03:58 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
