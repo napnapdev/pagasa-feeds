@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 12 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2026 21:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:07:22 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 5:04 AM, 12 September 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over &lt;strong&gt;Bulacan (Obando, Meycauayan, Bocaue, Marilao, Balagtas, Guiguinto, Calumpit, Plaridel, San Jose del Monte, and Santa Maria), Laguna (Famy, Siniloan, Mabitac, Pangil, and Pakil), Metro Manila (Navotas, Valenzuela, Malabon, Caloocan, Quezon City, and Manila), Quezon (General Nakar, Infanta, Atimonan, Agdangan, Unisan, Catanauan, General Luna, and Buenavista), and Rizal (Rodriguez and Tanay)&lt;/strong&gt; within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting &lt;strong&gt;Bulacan (Paombong, Malolos, Bulakan, Hagonoy, Norzagaray, and Dona Remedios Trinidad), Laguna (Santa Maria), and Quezon (San Francisco, San Andres, San Narciso, and Mulanay)&lt;/strong&gt; which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 11 Sep 2026 21:07:32 +0000</pubDate>
+      <guid isPermaLink="false">56d4fa6e64a65be530cdb25da125ce5f3bf634ad</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 11 Sep 2026 21:07:32 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 12:49 AM, 12 September 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over &lt;strong&gt;Bulacan (Dona Remedios Trinidad, Hagonoy, Paombong, Malolos, Guiguinto, San Rafael, Angat, Pandi, Santa Maria, Meycauayan, Marilao, Balagtas, Bocaue, Bulakan, and Obando), Metro Manila (Valenzuela, Pasig, San Juan, Manila, Malabon, and Mandaluyong), Pampanga (Macabebe, Masantol, Candaba, Santa Ana, Mexico, San Fernando, Bacolor, Guagua, Santa Rita, and Sasmuan), Quezon (Infanta, Atimonan, Padre Burgos, Pagbilao, Pitogo, Gumaca, Plaridel, Agdangan, and Unisan), Rizal (Tanay, Cainta, Baras, Morong, Teresa, and Taytay), and Tarlac (San Jose and Capas)&lt;/strong&gt; within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting &lt;strong&gt;Bulacan (Calumpit, Pulilan, Baliuag, Bustos, Plaridel, San Jose del Monte, and Norzagaray), Metro Manila (Quezon City, Marikina, and Caloocan), Pampanga (Santo Tomas, Minalin, San Simon, Apalit, and San Luis), Quezon (General Nakar), and Rizal (Rodriguez, San Mateo, and Antipolo)&lt;/strong&gt; which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -21,7 +29,7 @@
       <pubDate>Fri, 11 Sep 2026 13:56:19 +0000</pubDate>
       <guid isPermaLink="false">f603454c51f0b417090f6e872ba1b9265cf26a2b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 11 Sep 2026 13:56:19 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 11 Sep 2026 13:56:19 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
@@ -94,7 +102,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
