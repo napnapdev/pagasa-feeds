@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 11 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2026 03:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 03:30:43 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 10:01 AM 11 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Brooke'sPoint, SofronioEspanola and Aborlan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Narra and Kalayaan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -168,14 +168,6 @@
       <guid isPermaLink="false">d1f013d86f7e0a70892db78250e668f027cb4a34</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 04:18:24 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 7 #VISPRSD</title>
-      <description>Rainfall Advisory No. 7 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 11:00 AM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #NegrosOccidental(Calatrava, CityOfEscalante, LaCarlotaCity, Murcia, SagayCity, SanCarlosCity, SanEnrique, Toboso, SalvadorBenedicto), #Iloilo(Badiangan, Bingawan, Concepcion, Dueñas, Janiuay, Leon, Maasin, CityOfPassi, SanDionisio, SanEnrique, Sara, Tubungan), #Antique(AniniY, TobiasFornier, Hamtic, Sibalom, SanJose, Belison, Patnongon, SanRemigio), #Capiz(Jamindan, Dumarao, Cuartero, Dumalag, MaAyon), #NegrosOriental(Amlan, Bacong, Dauin, DumagueteCity, Pamplona, SanJose, Siaton, Sibulan, Valencia, Zamboanguita), #Cebu(ToledoCity, Minglanilla, CityOfNaga, Pinamungajan, SanFernando, CityOfCarcar, Aloguinsan, Barili, Sibonga, Dumanjug, Argao, Ronda, Alcantara, Moalboal, Dalaguete), #OccidentalMindoro, #Palawan(Busuanga, Coron and Culion) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(BacolodCity, BagoCity, Binalbagan, CadizCity, Candoni, Cauayan, EnriqueB.Magalona, CityOfHimamaylan, Hinigaran, HinobaAn, Ilog, Isabela, CityOfKabankalan, LaCastellana, Manapla, MoisesPadilla, Pontevedra, Pulupandan, SilayCity, CityOfSipalay, CityOfTalisay, Valladolid, CityOfVictorias), #Guimaras, #Iloilo(Ajuy, Alimodian, Anilao, Banate, BarotacNuevo, BarotacViejo, Cabatuan, Calinog, Dingle, Dumangas, Guimbal, Igbaras, IloiloCity, Lambunao, Leganes, Lemery, Miagao, Mina, NewLucena, Oton, Pavia, Pototan, SanJoaquin, SanMiguel, SanRafael, SantaBarbara, Tigbauan, Zarraga), #Capiz(Tapaz), #NegrosOriental(Ayungon, BaisCity, Basay, CityOfBayawan, Bindoy, CanlaonCity, CityOfGuihulngan, Jimalalud, LaLibertad, Mabinay, Manjuyod, SantaCatalina, CityOfTanjay, Tayasan, Vallehermoso), #Cebu(Santander, Oslob, Samboan, Ginatilan, Malabuyoc, Alegria, Boljoon, Alcoy and Badian) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
-      <pubDate>Thu, 10 Sep 2026 03:30:51 +0000</pubDate>
-      <guid isPermaLink="false">829921f84656c743b93de1163a81bad76c458226</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 03:30:51 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
