@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 11 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2026 06:07:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:15:31 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 01:34 PM 11 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(ElNido, Taytay, Araceli, Dumaran, SanVicente, Roxas), #Cebu(Asturias, Balamban, Tuburan), #EasternSamar(Giporlos, Balangiga, Lawaan, GeneralMacarthur, Llorente, Balangkayan, Maslog, CanAvid), #Samar(Marabut, Basey, SanJoseDeBuan, Paranas), #SouthernLeyte(Hinundayan, Anahawan, Hinunangan, SanJuan, SaintBernard), #Bohol(Antequera and Maribojoc) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Balabac, Bataraza, Rizal and Quezon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -168,14 +168,6 @@
       <guid isPermaLink="false">dce689742a0e5e3b82bf1d000554e68280e1ec04</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 08:19:58 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 8 #VISPRSD</title>
-      <description>Rainfall Advisory No. 8 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 02:00 PM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are being experienced in #OccidentalMindoro, #Palawan(Coron, Busuanga, Culion, Linapacan, ElNido, Taytay, Araceli and Dumaran) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.</description>
-      <pubDate>Thu, 10 Sep 2026 06:15:41 +0000</pubDate>
-      <guid isPermaLink="false">bad27c985ff88ad116f3a5d3edf35dda3ae8706b</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 06:15:41 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
