@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 11 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2026 15:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:07:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 16 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 16 #VISPRSD&lt;br /&gt; Issued at 10:53 PM 11 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Brooke'sPoint, Rizal and Bataraza) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(SofronioEspanola, Narra and Quezon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -192,14 +192,6 @@
       <guid isPermaLink="false">ac599ac8abdeb7a773b959bbed8c8832f38bc61c</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 17:55:00 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 11 #VISPRSD</title>
-      <description>Rainfall Advisory No. 11 #VISPRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat) &lt;br /&gt; Issued at 11:00 PM 10 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Palawan(Cagayancillo), #Antique(AniniY, Belison, TobiasFornier, Hamtic, Patnongon, SanJose, Sibalom, SanRemigio), #Aklan(Ibajay, Numancia, Makato, Tangalan, Lezo, Kalibo, Banga, Madalag), #Iloilo(SanJoaquin), #OccidentalMindoro(Rizal, Calintaan and Sablayan) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Coron, Busuanga, Culion, Linapacan, ElNido, Taytay, Araceli, Dumaran, Cuyo, Magsaysay, Agutaya, SofronioEspanola, Brooke'sPoint, Bataraza, Balabac, Rizal), #Antique(Barbaza, Bugasong, Caluya, Culasi, LauaAn, Libertad, Pandan, Sebaste, Tibiao, Valderrama), #Aklan(Malinao, Nabas, Malay, Buruanga), #OccidentalMindoro(Magsaysay and SanJose) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
-      <pubDate>Thu, 10 Sep 2026 15:03:36 +0000</pubDate>
-      <guid isPermaLink="false">e259941bf540d813f83110792bf343d15dcf526e</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 10 Sep 2026 15:03:36 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
