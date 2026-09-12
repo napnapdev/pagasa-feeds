@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 12 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2026 17:54:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:03:17 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 01:53 AM 13 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Bohol(Alicia, Pres.CarlosP.Garcia, Duero, Danao, Dagohoy, Pilar, Talibon), #SouthernLeyte(CityOfMaasin, Macrohon) and #Leyte(Matalom) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Tudela, Poro), #Bohol(Trinidad, SanMiguel, BienUnido, Ubay, Mabini, Candijay and Anda) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sat, 12 Sep 2026 18:03:35 +0000</pubDate>
+      <guid isPermaLink="false">a6d4aa696d8fd62363c305887eb17d322f923cc2</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 18:03:35 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 17 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 17 #VISPRSD&lt;br /&gt; Issued at 10:15 PM 12 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(CityOfSipalay), #Cebu(Sogod, Catmon and CityOfBogo) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(Cauayan, HinobaAn), #Cebu(SanRemigio, Tabuelan, Tabogon, Borbon and Tuburan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -21,7 +29,7 @@
       <pubDate>Sat, 12 Sep 2026 12:56:26 +0000</pubDate>
       <guid isPermaLink="false">949fc25056f6a1fb4c7689f1796575ca30e3d49c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 12:56:26 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 12:56:26 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 16 #VISPRSD</title>
