@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 12 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2026 05:42:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 05:53:56 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 13 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_12Sept2026_1789177888.pdf</link>
@@ -90,14 +90,6 @@
       <guid isPermaLink="false">ddc52756fba9f23c7985356a75fb288f61a85767</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 11 Sep 2026 07:31:26 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #SLPRSD&lt;br /&gt; Issued at 01:30 PM 11 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Sorsogon(Pilar, Castilla), #Catanduanes(Panganiban, Viga, Gigmoto, SanMiguel, SanAndres), #CamarinesSur(Calabanga and SanJose) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Catanduanes(Pandan, Caramoran, Bagamanoc), #CamarinesSur(Siruma, Caramoan, Tinambac, Garchitorena, Lagonoy, Presentacion, Goa), #Albay(LegazpiCity, SantoDomingo, Bacacay, Malilipot, Daraga), #NorthernSamar(SanIsidro, Bobon and Victoria) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 11 Sep 2026 05:44:19 +0000</pubDate>
-      <guid isPermaLink="false">dd2758e95b6815df18d7ebcdb3f089fbfb5b604c</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 11 Sep 2026 05:44:19 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
