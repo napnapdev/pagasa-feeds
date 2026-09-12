@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 12 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2026 06:56:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 07:15:10 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 03:02 PM 12 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Cabatuan, NewLucena, SantaBarbara, Zarraga, Dumangas), #Cebu(Moalboal, Alcantara, Ronda, Dumanjug), #Samar(CalbayogCity, SantaMargarita, Jiabong, SanJorge, CityOfCatbalogan) and #EasternSamar(CanAvid) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(Pandan), #Aklan(Madalag, Libacao), #Capiz(Jamindan, Tapaz), #Iloilo(Lambunao, Janiuay, Maasin, BarotacNuevo, Pototan, Mina, Badiangan, CityOfPassi, Bingawan, Calinog, Dueñas, Dingle, SanEnrique, Anilao, Banate, BarotacViejo, SanRafael, Ajuy, Lemery), #Guimaras(Jordan, SanLorenzo, Sibunag), #NegrosOccidental(Hinigaran, Isabela, Binalbagan, CityOfHimamaylan, CityOfKabankalan, Ilog, HinobaAn), #NegrosOriental(Basay, Tayasan, LaLibertad, Jimalalud, CityOfGuihulngan), #Cebu(Badian, Barili, Borbon, Tabogon), #Bohol(Loon, Maribojoc, Antequera, Danao), #Samar(Paranas, Hinabangan, Motiong) and #Palawan(Dumaran) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sat, 12 Sep 2026 07:15:29 +0000</pubDate>
+      <guid isPermaLink="false">3389ff9b13c0084c097f95a202a6b4b82000f4ce</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 07:15:29 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 10 #VISPRSD&lt;br /&gt; Issued at 02:21 PM 12 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Narra, Roxas, Taytay, ElNido), #EasternSamar(Taft, Sulat, SanJulian, GeneralMacarthur, Hernani and Quinapondan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(SofronioEspanola, Rizal, Quezon, Aborlan, SanVicente, Coron, Busuanga), #OccidentalMindoro(Sablayan), #Cebu(Argao, Sibonga), #NegrosOriental(CityOfBayawan), #EasternSamar(CityOfBorongan, Maydolong, Balangkayan, Llorente, Balangiga, Giporlos), #Samar(Basey and Hinabangan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Sat, 12 Sep 2026 06:36:21 +0000</pubDate>
       <guid isPermaLink="false">98c0a5388d62d89b35857de7a38702f82445865f</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 06:36:21 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 06:36:21 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Sat, 12 Sep 2026 06:21:40 +0000</pubDate>
       <guid isPermaLink="false">b11fdce5105ac392b2bc78f595b43c2b1918d6d7</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 06:21:40 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 06:21:40 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Sat, 12 Sep 2026 05:42:43 +0000</pubDate>
       <guid isPermaLink="false">094633727a1f1b98e7280df5bcb1f4f47ce88d58</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 05:42:43 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 05:42:43 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
@@ -37,7 +45,7 @@
       <pubDate>Sat, 12 Sep 2026 05:15:58 +0000</pubDate>
       <guid isPermaLink="false">c7681f3c48af04831b819b3b7bbc7925693283b8</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 05:15:58 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 05:15:58 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
@@ -45,7 +53,7 @@
       <pubDate>Sat, 12 Sep 2026 04:44:08 +0000</pubDate>
       <guid isPermaLink="false">9b93e06457add8ff3404f590789d31fa765bdd2b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 04:44:08 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 04:44:08 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
@@ -69,7 +77,7 @@
       <pubDate>Sat, 12 Sep 2026 02:17:55 +0000</pubDate>
       <guid isPermaLink="false">8b75373a57acbac0d2bd8dade4bb5be3613fc880</guid>
       <category>Thunderstorm Advisory</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 02:17:55 +0000</ns5:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 02:17:55 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
