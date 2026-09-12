@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 12 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2026 12:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:15:37 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 5 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 5 FINAL #SLPRSD&lt;br /&gt; Issued at 08:40 PM 12 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -54,7 +54,7 @@
       <pubDate>Sat, 12 Sep 2026 02:17:55 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_12Sept2026_1789177888.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 02:17:55 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 02:17:55 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 13 September, 2026</title>
@@ -63,7 +63,7 @@
       <pubDate>Sat, 12 Sep 2026 02:17:54 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_12Sept2026_1789177847.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 02:17:55 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 02:17:55 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #SLPRSD</title>
