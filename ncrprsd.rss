@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 12 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2026 03:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 03:15:28 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 AM, 12 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -62,14 +62,6 @@
       <guid isPermaLink="false">e13832a187f85403459d733d23b3a5fc8e700d70</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 11 Sep 2026 06:03:40 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 34 #NCRPRSD</title>
-      <description>Heavy Rainfall Warning No. 34-Final #NCR_PRSD&lt;br /&gt; Weather System: Southwest Monsoon (Habagat)&lt;br /&gt; Issued at: 11:00 AM, 11 September 2026(Friday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains was observed over Bataan, Zambales, Pampanga and Bulacan for the past 3 hours. With this development all RAINFALL WARNING in these areas are now terminated.Meanwhile, expect light to moderate with occasional heavy rains over Zambales, Bulacan, Rizal, Tarlac(San Jose, Capas, Mayantoc, Bamban, Camiling, San Clemente, Santa Ignacia, Concepcion), Metro Manila(Quezon City, Valenzuela, Caloocan, Malabon, Manila, Navotas, Marikina), Laguna(Santa Maria, Siniloan, Famy, Mabitac, Pakil, Pangil, Paete), Cavite(Cavite City, Kawit, Noveleta, Rosario, Tanza, Naic, Maragondon, Ternate, Magallanes) and Batangas(Nasugbu, Lian, Calatagan, Balayan, Tuy) within the next 3 hours.&lt;br /&gt; Light to moderate with occasional heavy rains affecting Pampanga(Angeles, San Fernando, Bacolor), Bataan(Limay, Orion, Pilar, Balanga, Abucay, Samal), Nueva Ecija(Pantabangan, Bongabon, San Jose) and Quezon(San Andres, San Francisco, Tagkawayan) which may persist within 3 hours.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Fri, 11 Sep 2026 03:07:37 +0000</pubDate>
-      <guid isPermaLink="false">f08eb955866435b0ac1ed7d661890c30de6d485a</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 11 Sep 2026 03:07:37 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
