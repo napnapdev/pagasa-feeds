@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 12 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 12 Sep 2026 04:54:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 05:15:45 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 14 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 14 #MINPRSD&lt;br /&gt; Issued at 01:00 PM 12 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Bukidnon(Baungon, ManoloFortich, Sumilao, Maramag, DonCarlos, Kitaotao, Cabanglasan, Quezon, SanFernando), #MisamisOriental(CagayanDeOroCity, Tagoloan, Villanueva, Jasaan, GingoogCity, Medina, Talisayan, Balingoan, Sugbongcogon, Kinoguitan, Binuangan), #LanaoDelSur(Masiu, PoonaBayabao, Wao, Marogong, Kapatagan, Lumbatan, SultanDumalondong, Lumbayanague, LumbacaUnayan, Bayang), #MaguindanaoDelNorte(Parang, Matanog, SultanKudarat, SultanMastura), #NorthCotabato(Banisilan, Pigkawayan, Libungan, Arakan), #SultanKudarat(Lebak, Kalamansig, Palimbang, Sen.NinoyAquino), #ZamboangaDelSur(Bayog, PagadianCity, Dumalinao, SanPablo, Dinas, Dimataling, VincenzoA.Sagun, Tambulig), #ZamboangaSibugay(Kabasalan, RosellerLim, Buug, Siay, Diplahan, Malangas, Imelda), #ZamboangaDelNorte(Godod, Salug, Gutalac, Baliguian), #MisamisOccidental(OzamisCity, DonVictorianoChiongbian, Bonifacio, Concepcion, TangubCity, Clarin, Tudela, Sinacaban, Panaon, Jimenez), #DinagatIslands, #SurigaoDelNorte(SiargaoIsland, Socorro, SurigaoCity, Sison, TaganaAn, SanFrancisco), #AgusanDelNorte(ButuanCity, LasNieves), #AgusanDelSur(Sibagat, CityOfBayugan, Prosperidad, Esperanza, SanLuis, LaPaz, Loreto, Talacogon, SanFrancisco), #Basilan(UngkayaPukan, CityOfIsabela, Sumisip), #Sulu(Parang, Indanan and Maimbung) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #MisamisOriental(Lagonglong, Salay, Claveria, Balingasag), #Bukidnon(ImpasugOng, CityOfMalaybalay, Lantapan, Pangantucan, Kalilangan, Talakag, CityOfValencia, Malitbog, Libona), #LanaoDelSur(Butig, Bumbaran, LumbaBayabao, Maguing), #MaguindanaoDelNorte(Buldon, Barira), #NorthCotabato(Alamada), #ZamboangaSibugay(Titay, Ipil, Naga), #ZamboangaDelNorte(Kalawit, Labason, Tampilisan, Liloy), #ZamboangaDelSur(Lapuyan, SanMiguel, Margosatubig, Lakewood, Kumalarang, Tigbao, Guipos), #Basilan(Lantawan and Maluso) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 12 Sep 2026 05:15:57 +0000</pubDate>
+      <guid isPermaLink="false">eedadbf158538358dd93a1c45ee2de68263eaafa</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 05:15:57 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 11:31 AM 12 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #MisamisOccidental, #MisamisOriental, #Camiguin, #LanaoDelNorte and #Bukidnon within 12 hours.</description>
       <pubDate>Sat, 12 Sep 2026 03:43:56 +0000</pubDate>
       <guid isPermaLink="false">d7fe353c68e85505095492f83442cdc87855a07c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 03:43:56 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 03:43:56 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #MINPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Sat, 12 Sep 2026 03:15:44 +0000</pubDate>
       <guid isPermaLink="false">f6ca6e0167ab7a2ed50224320174b4fb0446ea06</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 03:15:44 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 03:15:44 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #MINPRSD</title>
