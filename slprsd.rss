@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 13 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 13 Sep 2026 04:29:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:42:58 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 4 #SLPRSD&lt;br /&gt; Issued at 12:35 PM 13 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(Placer, Cataingan, Palanas, Cawayan, Dimasalang, Uson), #Sorsogon(Pilar, Castilla, Magallanes, Juban, Casiguran), #Catanduanes(Bato, Baras, Gigmoto, Viga, Caramoran, SanAndres, Bagamanoc, Pandan, Panganiban), #CamarinesSur(Caramoan, Presentacion, Garchitorena, Goa, Tinambac, Siruma, Lagonoy and SanJose) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(PioV.Corpuz, Esperanza), #Sorsogon(Matnog, SantaMagdalena, Bulan, Irosin, Bulusan), #Catanduanes(Virac and SanMiguel) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 13 Sep 2026 04:43:15 +0000</pubDate>
+      <guid isPermaLink="false">53464079aaea0e4b7c9c2bc1830dec9bb9db578d</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 04:43:15 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 3 #SLPRSD&lt;br /&gt; Issued at 12:10 PM 13 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Sorsogon(Bulan, Bulusan, Magallanes, Juban, Casiguran, Barcelona, Donsol, Pilar, Castilla), #Catanduanes, #CamarinesSur(Caramoan, Presentacion, Garchitorena, Lagonoy, Tinambac, Goa, SanJose, Siruma), #CamarinesNorte(SantaElena, Capalonga and JosePanganiban) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sorsogon(SantaMagdalena, Matnog and Irosin) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 13 Sep 2026 04:17:42 +0000</pubDate>
       <guid isPermaLink="false">3fb7cb517e973c2bc1e69773aede01dae537501d</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 04:17:42 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 04:17:42 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Sun, 13 Sep 2026 02:17:38 +0000</pubDate>
       <guid isPermaLink="false">40e8db7627812d6d3bce1945f025cedaf64df95b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 02:17:38 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 02:17:38 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 14 September, 2026</title>
@@ -30,7 +38,7 @@
       <pubDate>Sun, 13 Sep 2026 00:57:42 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_13Sept2026_1789260571.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 00:57:42 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 00:57:42 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 14 September, 2026</title>
@@ -39,7 +47,7 @@
       <pubDate>Sun, 13 Sep 2026 00:57:41 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_13Sept2026_1789260532.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 00:57:42 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 00:57:42 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
@@ -64,7 +72,7 @@
       <pubDate>Sat, 12 Sep 2026 13:41:34 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_12Sept2026_1789219825.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 13:41:34 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 13:41:34 +0000</ns5:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 13 September, 2026</title>
@@ -73,7 +81,7 @@
       <pubDate>Sat, 12 Sep 2026 13:41:33 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_12Sept2026_1789219767.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 13:41:34 +0000</ns5:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 13:41:34 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #SLPRSD</title>
