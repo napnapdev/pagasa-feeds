@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 13 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 13 Sep 2026 04:53:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 05:15:51 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 12:00 PM, 13 September 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over &lt;strong&gt;Batangas (San Juan), Quezon (Candelaria, Sariaya, Tayabas, Lucena, Mauban, Lucban, Pagbilao, Atimonan, Lopez, General Luna, Buenavista, San Francisco, San Narciso, San Andres, Mulanay, Catanauan, Perez, Alabat, Quezon, Agdangan, Padre Burgos, Jomalig, Patnanungan, Burdeos, and Polillo), and Rizal (Binangonan, Morong, Cardona, Antipolo, Teresa, Angono, Taytay, Baras, Tanay, and Pililla)&lt;/strong&gt; within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting &lt;strong&gt;Quezon (Tagkawayan, Guinayangan, Calauag, Plaridel, Unisan, Pitogo, Macalelon, and Gumaca)&lt;/strong&gt; which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -94,14 +94,6 @@
       <guid isPermaLink="false">0bf9a0906804727f0383626c6ce668e0e40d91f2</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 06:07:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #NCR_PRSD&lt;br /&gt; Issued at: 12:40 PM, 12 September 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over &lt;strong&gt;Bataan (Samal, Orani, Hermosa, and Dinalupihan), Bulacan (Hagonoy, Paombong, and Calumpit), Nueva Ecija (General Tinio, Palayan, Penaranda, Santa Rosa, Cabanatuan, Laur, Gabaldon, Talavera, Santo Domingo, Llanera, General Mamerto Natividad, Rizal, Bongabon, San Jose, Munoz, Pantabangan, Carranglan, and Lupao), Pampanga (Porac, Floridablanca, Angeles, Mabalacat, Masantol, Minalin, Macabebe, Sasmuan, Guagua, Lubao, Santa Rita, Bacolor, San Fernando, and Santo Tomas), Tarlac (Bamban, Capas, San Jose, and Mayantoc), and Zambales (Botolan, Iba, Palauig, Cabangan, San Marcelino, Subic, Castillejos, Masinloc, San Felipe, San Narciso, San Antonio, and Olongapo)&lt;/strong&gt; within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 12 Sep 2026 04:55:08 +0000</pubDate>
-      <guid isPermaLink="false">418c7beff52f7a2117a501d7c46a6382156a999f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 12 Sep 2026 04:55:08 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
