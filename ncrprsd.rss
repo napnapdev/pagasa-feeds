@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 13 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 13 Sep 2026 03:54:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:17:22 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 12:00 PM, 13 September 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over &lt;strong&gt;Batangas (San Juan), Quezon (Candelaria, Sariaya, Tayabas, Lucena, Mauban, Lucban, Pagbilao, Atimonan, Lopez, General Luna, Buenavista, San Francisco, San Narciso, San Andres, Mulanay, Catanauan, Perez, Alabat, Quezon, Agdangan, Padre Burgos, Jomalig, Patnanungan, Burdeos, and Polillo), and Rizal (Binangonan, Morong, Cardona, Antipolo, Teresa, Angono, Taytay, Baras, Tanay, and Pililla)&lt;/strong&gt; within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting &lt;strong&gt;Quezon (Tagkawayan, Guinayangan, Calauag, Plaridel, Unisan, Pitogo, Macalelon, and Gumaca)&lt;/strong&gt; which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 13 Sep 2026 04:17:42 +0000</pubDate>
+      <guid isPermaLink="false">1fff602b4f92e6613bacec9786294b6990f3381f</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 04:17:42 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 9:50 AM, 13 September 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over &lt;strong&gt;Quezon (Calauag, Lopez, Buenavista, Perez, Quezon, and Alabat)&lt;/strong&gt; within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting &lt;strong&gt;Quezon (Tagkawayan and Guinayangan)&lt;/strong&gt; which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 13 Sep 2026 02:17:38 +0000</pubDate>
       <guid isPermaLink="false">60b25cc4102bfee36e1586d0f70ebd282d4a1af2</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 02:17:38 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 02:17:38 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
@@ -102,7 +110,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
