@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 14 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 13 Sep 2026 21:45:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 23:36:31 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 11 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 11-Final #NCR_PRSD&lt;br /&gt; Issued at: 5:57 AM, 14 September 2026(Monday)&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisory over NCR-PRSD forecast area are now TERMINATED. However, all are still advised to continue monitoring for updates.</description>
+      <pubDate>Sun, 13 Sep 2026 23:36:42 +0000</pubDate>
+      <guid isPermaLink="false">f6180c6ea5e8a0fdce0850ae57664d0372060011</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 23:36:42 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 10 #NCR_PRSD&lt;br /&gt; Issued at: 1:48 AM, 14 September 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over &lt;strong&gt;Bataan (Bagac, Orion, and Pilar), Cavite (Naic, Maragondon, Ternate, Tanza, General Trias, and Rosario), Nueva Ecija (Jaen, Santa Rosa, Aliaga, Zaragoza, and Guimba), Quezon (Mauban), Tarlac (Mayantoc, San Clemente, and San Jose), and Zambales (Santa Cruz)&lt;/strong&gt; within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting &lt;strong&gt;Bataan (Limay and Mariveles)&lt;/strong&gt; which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -94,7 +102,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
