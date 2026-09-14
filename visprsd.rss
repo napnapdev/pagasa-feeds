@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 14 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2026 06:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:15:25 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 02:01 PM 14 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(Siaton, SantaCatalina) and #OccidentalMindoro(AbraDeIlog) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOriental(CityOfGuihulngan, LaLibertad, Jimalalud, Basay, BaisCity, Manjuyod, Amlan, CityOfTanjay, Pamplona, SanJose, Sibulan, DumagueteCity, Valencia, Bacong, Dauin, Zamboanguita), #OccidentalMindoro(Paluan and Mamburao) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -69,7 +69,7 @@
       <pubDate>Mon, 14 Sep 2026 03:03:34 +0000</pubDate>
       <guid isPermaLink="false">f12f193f97d63b540c06198b5d601ec0ded2cd64</guid>
       <category>Thunderstorm Advisory</category>
-      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 03:03:34 +0000</ns7:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 03:03:34 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
@@ -94,7 +94,7 @@
       <pubDate>Sun, 13 Sep 2026 21:03:39 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09142026_1789331028.pdf</guid>
       <category>Special Forecast</category>
-      <ns8:seen xmlns:ns8="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 21:03:39 +0000</ns8:seen>
+      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 21:03:39 +0000</ns7:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
