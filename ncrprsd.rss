@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 14 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2026 12:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:52:10 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 6 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 6 #NCR_PRSD&lt;br /&gt; Issued at: 9:28 PM, 14 September 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over &lt;strong&gt;Nueva Ecija (San Antonio, Cabiao, San Isidro, Zaragoza, Jaen, San Leonardo, and Gapan), Pampanga (Candaba, Santa Ana, Mexico, Mabalacat, and San Luis), and Tarlac (Concepcion and La Paz)&lt;/strong&gt; within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting &lt;strong&gt;Pampanga (Arayat and Magalang)&lt;/strong&gt; which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 14 Sep 2026 13:52:38 +0000</pubDate>
+      <guid isPermaLink="false">e53510efe1adc37687bd13c892afc91991f20b9a</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 13:52:38 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 5 #NCR_PRSD&lt;br /&gt; Issued at: 7:10 PM, 14 September 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over &lt;strong&gt;Batangas (San Luis, Alitagtag, Santa Teresita, Taal, Bauan, San Pascual, Agoncillo, San Nicolas, Cuenca, Lipa, Mataasnakahoy, San Jose, Balete, Tanauan, Talisay, Laurel, Malvar, and Santo Tomas), Bulacan (Dona Remedios Trinidad, San Miguel, and San Ildefonso), Cavite (Tagaytay and Silang), Laguna (Pakil, Mabitac, Santa Maria, Famy, Siniloan, Pangil, Paete, Kalayaan, Lumban, Santa Cruz, Cavinti, Pagsanjan, Calamba, Los Banos, Bay, Alaminos, Victoria, Calauan, Cabuyao, and Santa Rosa), Nueva Ecija (Carranglan, San Jose, Pantabangan, Lupao, Palayan, Bongabon, Rizal, Gabaldon, Laur, San Antonio, Cabiao, Santa Rosa, Jaen, Aliaga, Zaragoza, Licab, Quezon, General Tinio, Gapan, San Isidro, San Leonardo, and Penaranda), Pampanga (Angeles, Arayat, Mexico, San Fernando, Bacolor, and Santa Ana), Quezon (Real, Infanta, and General Nakar), Rizal (Jala-Jala, Pililla, and Tanay), and Tarlac (Capas, La Paz, Tarlac City, and San Jose)&lt;/strong&gt; within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting &lt;strong&gt;Nueva Ecija (Munoz, Santo Domingo, Talavera, Cabanatuan, General Mamerto Natividad, and Llanera), Pampanga (Porac, Mabalacat, and Magalang), and Tarlac (Bamban and Concepcion)&lt;/strong&gt; which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Mon, 14 Sep 2026 12:03:39 +0000</pubDate>
       <guid isPermaLink="false">6fa34e60ece598957ad81588647eb1fb7df6af0b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 12:03:39 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 12:03:39 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
@@ -53,7 +61,7 @@
       <pubDate>Mon, 14 Sep 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="false">38a7cb3b9e35f945c0cbe8962f50d90b68e11b75</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 03:03:33 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 03:03:33 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #NCRPRSD</title>
@@ -86,7 +94,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
