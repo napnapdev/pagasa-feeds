@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 14 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2026 13:52:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:03:26 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 15 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_14Sept2026_1789392110.pdf</link>
@@ -14,7 +14,7 @@
       <pubDate>Mon, 14 Sep 2026 13:52:38 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_14Sept2026_1789392110.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 13:52:38 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 13:52:38 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 15 September, 2026</title>
@@ -23,7 +23,7 @@
       <pubDate>Mon, 14 Sep 2026 13:52:37 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_14Sept2026_1789392089.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 13:52:38 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 13:52:38 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #SLPRSD</title>
@@ -72,7 +72,7 @@
       <pubDate>Mon, 14 Sep 2026 01:34:58 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_14Sept2026_1789346146.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 01:34:58 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 01:34:58 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 15 September, 2026</title>
@@ -81,33 +81,7 @@
       <pubDate>Mon, 14 Sep 2026 01:34:57 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_14Sept2026_1789346106.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 01:34:58 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 PM, 14 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_13Sept2026_1789305633.pdf</link>
-      <description>Issued at: 09:00 PM, 13 September, 2026&lt;br /&gt;Valid until: 09:00 PM, 14 September, 2026</description>
-      <pubDate>Sun, 13 Sep 2026 14:28:40 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_13Sept2026_1789305633.pdf</guid>
-      <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 14:28:40 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 PM, 14 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_13Sept2026_1789305571.pdf</link>
-      <description>Issued at: 09:00 PM, 13 September, 2026&lt;br /&gt;Valid until: 09:00 PM, 14 September, 2026</description>
-      <pubDate>Sun, 13 Sep 2026 14:28:39 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_13Sept2026_1789305571.pdf</guid>
-      <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 14:28:40 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 9 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 9 #SLPRSD&lt;br /&gt; Issued at 09:20 PM 13 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Catanduanes(SanMiguel, Virac, Bato, Pandan, Bagamanoc, Viga, Panganiban), #CamarinesSur(Tinambac, Calabanga, NagaCity, Pili, Ocampo, Buhi, IrigaCity, Baao, Siruma), #Albay(Tiwi, SantoDomingo, LegazpiCity, Manito, Daraga, Jovellar, Camalig), #OrientalMindoro(Baco, CityOfCalapan, Bongabong, Bansud, Gloria, Socorro, Pola, Pinamalayan, Naujan, Victoria), #Sorsogon, #NorthernSamar(Allen, Lavezares, Rosario, Biri, SanJose, Bobon, Victoria, Mondragon, SanRoque), #Marinduque(Mogpog, Boac, Gasan, Buenavista), #Romblon(SanFernando, Concepcion, Banton, Corcuera, SanJose, Alcantara and SantaFe) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #CamarinesSur(Garchitorena, Caramoan, Presentacion, Lagonoy, Goa, SanJose, Tigaon, Sagñay), #Catanduanes(SanAndres, Caramoran), #OrientalMindoro(PuertoGalera, SanTeodoro), #Albay(Malinao, Malilipot, Bacacay, RapuRapu, CityOfTabaco), #Masbate(Balud, Mandaon, Milagros, Cawayan, Placer, Esperanza and PioV.Corpuz) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 13 Sep 2026 14:28:38 +0000</pubDate>
-      <guid isPermaLink="false">e90f6084024a65b6a242f3a4c677ffc00b8e38ea</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 14:28:40 +0000</ns0:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 01:34:58 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
