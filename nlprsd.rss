@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 14 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2026 06:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:30:37 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 22 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 22 #NLPRSD&lt;br /&gt; Issued at 02:19 PM 14 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(SantaAna, SantaTeresita, LalLo, Gattaran and Peñablanca) within the next 30 mins to 1 hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Gonzaga and Baggao) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 14 Sep 2026 06:31:04 +0000</pubDate>
+      <guid isPermaLink="false">1dfdfba922d50999caa15ee3f44189f3f848903c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 06:31:04 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 14 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
       <pubDate>Mon, 14 Sep 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="false">56c6b1f62b4cc895918695cc7ca55d8dc386d951</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 03:03:33 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 03:03:33 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 21 #NLPRSD</title>
