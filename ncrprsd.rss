@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 15 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 06:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:30:36 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 1:22 PM, 15 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are expected over &lt;strong&gt;Bataan (Mariveles and Limay), Batangas (Alitagtag, Balete, Bauan, Tanauan, Cuenca, Lipa, Mabini, Malvar, Mataasnakahoy, Padre Garcia, San Jose, San Luis, San Nicolas, San Pascual, Santa Teresita, Santo Tomas, Taal, Talisay, and Tingloy), Bulacan (San Jose del Monte, Norzagaray, Angat, Balagtas, Baliuag, Bocaue, Bulakan, Bustos, Calumpit, Malolos, Dona Remedios Trinidad, Guiguinto, Hagonoy, Pandi, Paombong, Plaridel, Pulilan, San Ildefonso, San Rafael, and San Miguel), Laguna (Alaminos, Bay, Cabuyao, Calauan, Calamba, Santa Rosa, Liliw, Los Banos, Luisiana, Magdalena, Majayjay, Nagcarlan, Pagsanjan, Pila, Rizal, San Pablo, Santa Cruz, Victoria, Cavinti, Famy, Kalayaan, Lumban, Mabitac, Paete, Pakil, Pangil, Santa Maria, and Siniloan), Nueva Ecija (Lupao, Pantabangan, Talugtug, Cuyapo, Guimba, Nampicuan, Santo Domingo, Talavera, Llanera, Rizal, Quezon, Bongabon, General Mamerto Natividad, Licab, and Aliaga), Pampanga (Porac, Mabalacat, Angeles, Candaba, San Luis, San Simon, and Apalit), Quezon (Candelaria, Dolores, San Antonio, Sariaya, Tiaong, General Nakar, Tayabas, Infanta, Lucban, Lucena, Mauban, Pagbilao, Real, Sampaloc, Buenavista, Burdeos, Calauag, Catanauan, General Luna, Macalelon, Mulanay, Panukulan, Pitogo, Polillo, San Francisco, Tagkawayan, Quezon, Gumaca, and Lopez), Rizal (Antipolo, Rodriguez, San Mateo, Tanay, Angono, Baras, Binangonan, Cardona, Jala-Jala, Morong, Pililla, and Teresa), Tarlac (Bamban, Victoria, and Pura), and Zambales (Masinloc, Palauig, San Marcelino, Iba, Botolan, and Cabangan)&lt;/strong&gt; within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting &lt;strong&gt;Batangas (Nasugbu, Lian, Tuy, Balayan, Calatagan, Calaca, Lobo, Batangas City, Rosario, Ibaan, Taysan, Agoncillo, Laurel, Lemery, and San Juan), Bulacan (Meycauayan, Marilao, Obando, and Santa Maria), Laguna (Binan and San Pedro), Nueva Ecija (San Jose, Munoz, and Carranglan), Quezon (Guinayangan), Rizal (Cainta and Taytay), Zambales (Santa Cruz and Candelaria), Cavite, and Metro Manila&lt;/strong&gt; which may persist within 2-3 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -37,7 +37,7 @@
       <pubDate>Tue, 15 Sep 2026 03:03:36 +0000</pubDate>
       <guid isPermaLink="false">d544c304e2bd76484a226651a2472d52022fd432</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 03:03:36 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 03:03:36 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
@@ -94,7 +94,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
