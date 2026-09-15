@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 15 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2026 22:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:03:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 7 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 7-Final #NCR_PRSD&lt;br /&gt; Issued at: 3:00 AM, 15 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisory over NCR-PRSD forecast area are now TERMINATED. However, all are still advised to continue monitoring for updates.</description>
@@ -70,14 +70,6 @@
       <guid isPermaLink="false">38a7cb3b9e35f945c0cbe8962f50d90b68e11b75</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 03:03:33 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 11 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 11-Final #NCR_PRSD&lt;br /&gt; Issued at: 5:57 AM, 14 September 2026(Monday)&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisory over NCR-PRSD forecast area are now TERMINATED. However, all are still advised to continue monitoring for updates.</description>
-      <pubDate>Sun, 13 Sep 2026 23:36:42 +0000</pubDate>
-      <guid isPermaLink="false">f6180c6ea5e8a0fdce0850ae57664d0372060011</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 13 Sep 2026 23:36:42 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
