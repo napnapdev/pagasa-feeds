@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 15 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 05:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 5 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 5 #SLPRSD&lt;br /&gt; Issued at 01:45 PM 15 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(CityOfCalapan, Naujan), #NorthernSamar(Catarman, LopeDeVega, Mondragon, LasNavas and SilvinoLobos) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Marinduque(Boac, Mogpog, Gasan, Buenavista), #Albay(CityOfLigao, Oas, PioDuran), #OrientalMindoro(Bulalacao, Mansalay, Roxas and Bongabong) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 15 Sep 2026 06:03:40 +0000</pubDate>
+      <guid isPermaLink="false">7ad26697038ff63c1616fda71823653aa537d65a</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 06:03:40 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 4 #SLPRSD&lt;br /&gt; Issued at 12:45 PM 15 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over #Sorsogon(Donsol), #Albay(PioDuran, Jovellar, Oas, CityOfLigao), #OrientalMindoro(Pinamalayan, Gloria, Bansud, Bongabong, Mansalay, Roxas), #Catanduanes(Caramoran), #CamarinesSur(Tinambac, Goa, Lagonoy, Calabanga, Ragay and Lupi) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(SanJacinto, SanFernando, Batuan, Baleno, CityOfMasbate, Mobo, Uson, Dimasalang), #Sorsogon(Barcelona, Casiguran, Juban, Irosin, Bulusan and Magallanes) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 15 Sep 2026 05:29:14 +0000</pubDate>
       <guid isPermaLink="false">86da2838dda44d09ddb60a504419ac54cdf19c70</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 05:29:14 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 05:29:14 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Tue, 15 Sep 2026 05:29:13 +0000</pubDate>
       <guid isPermaLink="false">854dacf822ac492885049b00e74708c4d1b0a16a</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 05:29:14 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 05:29:14 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Tue, 15 Sep 2026 05:29:12 +0000</pubDate>
       <guid isPermaLink="false">568272a7ec39c552ba7d452aaee8d9a0b7735d95</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 05:29:14 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 05:29:14 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
@@ -106,30 +114,6 @@
       <guid isPermaLink="false">bebc67c4682e311a75a88993dea4d91cd27004e8</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 09:03:42 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #SLPRSD&lt;br /&gt; Issued at 01:30 PM 14 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Mansalay, Roxas, Bongabong, Bulalacao), #Catanduanes(Bagamanoc, Pandan, Bato, Baras, SanMiguel), #Albay(Libon), #CamarinesSur(Baao, Nabua and Bato) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(PioV.Corpuz, Cataingan, Placer, Esperanza), #Albay(CityOfLigao, PioDuran, Guinobatan) and #Sorsogon(Bulan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 14 Sep 2026 06:03:34 +0000</pubDate>
-      <guid isPermaLink="false">1e1c285bb1f0a8495e02d87ecd957d10d6d5ab6b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 06:03:34 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #SLPRSD&lt;br /&gt; Issued at 12:30 PM 14 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are being experienced in #Masbate(Placer, Esperanza, PioV.Corpuz and Cataingan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 14 Sep 2026 06:03:33 +0000</pubDate>
-      <guid isPermaLink="false">a2da25cc80e43d614f0ce938c0a77adb35116b9a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 06:03:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #SLPRSD&lt;br /&gt; Issued at 12:00 PM 14 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are being experienced in #NorthernSamar(Laoang) and #Catanduanes(Caramoran) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 14 Sep 2026 06:03:32 +0000</pubDate>
-      <guid isPermaLink="false">ca7a84ceac1d1adf104ec5ae189c9b06f2a28f7d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 06:03:34 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
