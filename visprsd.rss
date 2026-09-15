@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 15 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 03:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:30:40 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 10:38 AM 15 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Aklan(Malay, Nabas, Ibajay, Tangalan, Malinao, Madalag, Banga, Balete, Libacao), #Capiz(Tapaz, Dumalag, Cuartero, Dumarao), #Iloilo(Bingawan, Ajuy, Sara, Balasan, Estancia, Carles, Batad), #NegrosOccidental(CityOfEscalante, Toboso, SalvadorBenedicto, Murcia, BagoCity, BacolodCity, LaCarlotaCity, Pontevedra, Hinigaran, LaCastellana, MoisesPadilla, Isabela, Binalbagan, CityOfSipalay, Candoni, HinobaAn), #Biliran(Kawayan, Culaba, Cabucgayan, Caibiran, Almeria, Naval and Biliran) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(Libertad, Pandan), #Iloilo(SanDionisio, Concepcion), #NegrosOccidental(CadizCity, SagayCity, Calatrava, SanCarlosCity, Cauayan, Ilog, CityOfKabankalan) and #Cebu(Madridejos) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -135,14 +135,6 @@
       <guid isPermaLink="false">c0e189e3e21a347b062bdf27458425786e60146f</guid>
       <category>Thunderstorm Advisory</category>
       <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 06:03:35 +0000</ns5:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #VISPRSD&lt;br /&gt; Issued at 11:10 AM 14 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(Pilar), #Iloilo(Concepcion, SanDionisio, Batad), #NegrosOccidental(Murcia, SanCarlosCity, Cauayan and Candoni) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Balasan, Estancia, Carles), #NegrosOccidental(Toboso, Calatrava, SalvadorBenedicto and CityOfSipalay) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Mon, 14 Sep 2026 03:30:50 +0000</pubDate>
-      <guid isPermaLink="false">9099b920e91da7a549c14745ff1c1d578f69a15b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 03:30:50 +0000</ns6:seen>
     </item>
   </channel>
 </rss>
