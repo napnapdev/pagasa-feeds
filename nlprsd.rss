@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 15 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 00:51:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 15 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
+      <pubDate>Tue, 15 Sep 2026 03:03:36 +0000</pubDate>
+      <guid isPermaLink="false">5b1900a9da9137708503d9d9b6f0bc5afc4ed354</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 03:03:36 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 27 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 27 FINAL #NLPRSD&lt;br /&gt; Issued at 06:05 AM 15 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">1dfdfba922d50999caa15ee3f44189f3f848903c</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 06:31:04 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 14 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
-      <pubDate>Mon, 14 Sep 2026 03:03:33 +0000</pubDate>
-      <guid isPermaLink="false">56c6b1f62b4cc895918695cc7ca55d8dc386d951</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 03:03:33 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
