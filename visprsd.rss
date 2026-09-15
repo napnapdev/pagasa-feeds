@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 15 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 06:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:07:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 01:37 PM 15 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(Sebaste, Valderrama, SanRemigio), #Aklan(Banga, Balete), #Iloilo(Miagao, Guimbal, Tubungan, Leon, Cabatuan, Janiuay, Badiangan, Bingawan, Dueñas), #Capiz(Dumalag), #NegrosOccidental(BagoCity and LaCarlotaCity) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(Libertad, Pandan, Sibalom), #Aklan(Malinao), #Iloilo(Igbaras, Alimodian, Maasin, Lambunao and Calinog) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -119,14 +119,6 @@
       <guid isPermaLink="false">02e3f502833232d0abdc924faec8a51445c177d3</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 09:03:42 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 02:01 PM 14 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(Siaton, SantaCatalina) and #OccidentalMindoro(AbraDeIlog) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOriental(CityOfGuihulngan, LaLibertad, Jimalalud, Basay, BaisCity, Manjuyod, Amlan, CityOfTanjay, Pamplona, SanJose, Sibulan, DumagueteCity, Valencia, Bacong, Dauin, Zamboanguita), #OccidentalMindoro(Paluan and Mamburao) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Mon, 14 Sep 2026 06:07:31 +0000</pubDate>
-      <guid isPermaLink="false">517b91d1d30dec31e8a6991c1121d9557e9cb14f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 06:07:31 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
