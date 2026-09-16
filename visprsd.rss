@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 17 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 16 Sep 2026 21:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:07:19 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 4 #VISPRSD</title>
       <description>Heavy Rainfall Warning No. 4 FINAL #VISPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 05:00 AM 17 September 2026&lt;br /&gt; &lt;br /&gt; All RAINFALL WARNING over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
@@ -295,15 +295,6 @@
       <guid isPermaLink="false">4150c6ff779352d184ecfa557e522a79b19938e2</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 22:05:53 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 17 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09162026_1789506128.pdf</link>
-      <description>Issued at: 05:00 AM, 16 September, 2026&lt;br /&gt;Valid until: 05:00 AM, 17 September, 2026</description>
-      <pubDate>Tue, 15 Sep 2026 21:07:32 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09162026_1789506128.pdf</guid>
-      <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 21:07:32 +0000</ns6:seen>
     </item>
   </channel>
 </rss>
