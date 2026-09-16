@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 16 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 15 Sep 2026 22:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:03:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 11 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 11 #NLPRSD&lt;br /&gt; Issued at 06:30 AM 16 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Apayao(Calanasan, Flora, Pudtol), #Cagayan(Pamplona, SanchezMira, Aparri, Allacapan and Camalaniugan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Apayao(Luna, SantaMarcela), #Cagayan(Abulug and Ballesteros) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 16 Sep 2026 00:03:33 +0000</pubDate>
+      <guid isPermaLink="false">8063f960ca125b0b5eb3b13d6bb4a10d94c0ae54</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 00:03:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 10 #NLPRSD&lt;br /&gt; Issued at 05:18 AM 16 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(Baggao, Peñablanca, Gattaran, SantaPraxedes, Claveria, SanchezMira, Pamplona), #Apayao(Calanasan and Luna) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 15 Sep 2026 21:30:46 +0000</pubDate>
       <guid isPermaLink="false">65f2fa054c153f2d7af155497fbc9bdf8ddb501b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 21:30:46 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 21:30:46 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #NLPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Tue, 15 Sep 2026 15:30:59 +0000</pubDate>
       <guid isPermaLink="false">553bd04d9339d7102886c057ffc5a8748b972f47</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 15:30:59 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 15:30:59 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #NLPRSD</title>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">5b1900a9da9137708503d9d9b6f0bc5afc4ed354</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 03:03:36 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 27 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 27 FINAL #NLPRSD&lt;br /&gt; Issued at 06:05 AM 15 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 14 Sep 2026 22:24:55 +0000</pubDate>
-      <guid isPermaLink="false">2e87613df8376b05b9eecda2433b41ec220f1826</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 14 Sep 2026 22:24:55 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
