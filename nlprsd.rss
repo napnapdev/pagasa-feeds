@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 16 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 16 Sep 2026 18:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:07:24 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 24 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 24 #NLPRSD&lt;br /&gt; Issued at 01:53 AM 17 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #MountainProvince(Paracelis, Natonin, Barlig), #Ifugao(Mayoyao, Lagawe, Banaue, Hingyon), #NuevaVizcaya(Diadi, SantaFe, Kayapa, Aritao, DupaxDelNorte, Bambang, Kasibu, Ambaguio, Bayombong, Quezon, DupaxDelSur, Bagabag, Villaverde, Solano), #Isabela(Ramon, CityOfSantiago, Roxas, SanManuel, Aurora, SanMateo, Cabatuan, Alicia, SanIsidro, Angadanan, SanGuillermo, Echague, Jones, SanAgustin, Dinapigue), #Benguet(Kabayan, Bokod, Itogon), #Aurora(Dilasag, Casiguran, Dinalungan), #Quirino(Maddela, Aglipay, Saguday, Diffun and Cabarroguis) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Ifugao(Aguinaldo, AlfonsoLista), #Isabela(Cordon), #Aurora(Dingalan, SanLuis, MariaAurora, Baler, Dipaculao), #NuevaVizcaya(AlfonsoCastaneda) and #Quirino(Nagtipunan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -142,14 +142,6 @@
       <guid isPermaLink="false">65f2fa054c153f2d7af155497fbc9bdf8ddb501b</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 21:30:46 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 9 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 9 #NLPRSD&lt;br /&gt; Issued at 11:34 PM 15 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Pangasinan(CityOfAlaminos, Bani, Agno, Infanta, Bolinao), #Apayao(Luna, Kabugao, Pudtol, SantaMarcela), #Isabela(Maconacon, Palanan, Dinapigue, CityOfSantiago, Jones, SanAgustin), #Quirino(Saguday, Aglipay, Diffun, Cabarroguis), #Cagayan(SantaPraxedes, Abulug, Ballesteros, Aparri, SantaAna, Gonzaga, LalLo, Gattaran, Baggao, Peñablanca), #IlocosNorte(Adams, Pagudpud, Vintar, Carasi and Dumalneg) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Pangasinan(Burgos, Dasol, Mabini), #Apayao(Calanasan), #Isabela(Divilacan, Echague), #Cagayan(Claveria, SanchezMira, Pamplona and Calayan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 15 Sep 2026 18:04:06 +0000</pubDate>
-      <guid isPermaLink="false">06adbdf1b41eabd737d8f201923a2cf2beaa55d1</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 18:04:06 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
