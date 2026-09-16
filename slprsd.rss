@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 16 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 16 Sep 2026 03:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 3 #SLPRSD&lt;br /&gt; Issued at 10:55 AM 16 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Sorsogon(Donsol, CityOfSorsogon, Casiguran), #Albay(Jovellar, LegazpiCity, Manito, Guinobatan, Camalig, Daraga, PioDuran), #Masbate(Balud, Mandaon, Aroroy, Claveria), #Romblon(SanJose, SantaFe, Looc, Ferrol and Alcantara) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sorsogon(Pilar, Castilla, Magallanes and Juban) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -106,32 +106,6 @@
       <guid isPermaLink="false">be23dcf37ee1fd0beb3489d312431a792db484eb</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 03:16:15 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 AM, 16 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_15Sept2026_1789433634.pdf</link>
-      <description>Issued at: 09:00 AM, 15 September, 2026&lt;br /&gt;Valid until: 09:00 AM, 16 September, 2026</description>
-      <pubDate>Tue, 15 Sep 2026 03:03:36 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_15Sept2026_1789433634.pdf</guid>
-      <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 03:03:36 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 AM, 16 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_15Sept2026_1789433535.pdf</link>
-      <description>Issued at: 09:00 AM, 15 September, 2026&lt;br /&gt;Valid until: 09:00 AM, 16 September, 2026</description>
-      <pubDate>Tue, 15 Sep 2026 03:03:35 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_15Sept2026_1789433535.pdf</guid>
-      <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 03:03:36 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #SLPRSD</title>
-      <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 AM 15 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
-      <pubDate>Tue, 15 Sep 2026 03:03:34 +0000</pubDate>
-      <guid isPermaLink="false">10cc43851ad7b0c3154a89d29caecdb3acec73d0</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 15 Sep 2026 03:03:36 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
