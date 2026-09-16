@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 16 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 16 Sep 2026 14:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:03:33 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 10 #MINPRSD</title>
       <description>Rainfall Advisory No. 10 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 08:00 PM 16 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Bukidnon, #MisamisOriental, #SurigaoDelSur(Lingig, CityOfBislig, Marihatag, Cagwait, Bayabas, SanMiguel, Tago, CityOfTandag, Carmen, Lanuza, Madrid, Cortes, Cantilan, Carrascal), #ZamboangaSibugay(Tungawan, Malangas, RosellerLim, Buug, Siay, Diplahan, Titay, Naga, Kabasalan, Imelda, Ipil), #ZamboangaDelSur(Margosatubig, Dinas, SanPablo, SanMiguel, Lapuyan, Guipos, Kumalarang, Dumalinao, Tigbao, Labangan, PagadianCity, Tukuran, Lakewood, Bayog, Aurora, RamonMagsaysay, Sominot, Midsalip, Tambulig, Mahayag, Dumingag, Molave, Josefina), #LanaoDelNorte, #AgusanDelSur(SantaJosefa, Veruela, Trento, Loreto, LaPaz, CityOfBayugan, Sibagat, SanLuis, Esperanza), #AgusanDelNorte, #ZamboangaCity, #ZamboangaDelNorte(Sibuco, Sirawai, Siocon, Baliguian, Tampilisan, Kalawit, Gutalac, Godod, Labason, Salug, Liloy, LeonB.Postigo, Siayan, SergioOsmeñaSr., Sindangan, Mutia, JoseDalman, Sibutad, Pres.ManuelA.Roxas, Katipunan, DipologCity, Polanco, Piñan, LaLibertad, Rizal), #TawiTawi(Sitangkai, Sibutu, Simunul, SapaSapa, Bongao, PanglimaSugala, Tandubas, Languyan, Mapun, SouthUbian), #MaguindanaoDelNorte, #CotabatoCity, #DavaoDeOro, #DavaoDelNorte, #DavaoOriental(Boston, Cateel, Baganga, Caraga, Manay), #LanaoDelSur, #DinagatIslands, #SurigaoDelNorte and #NorthCotabato(Pigkawayan) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #SurigaoDelSur(Tagbina, Lianga, SanAgustin, Barobo, Hinatuan), #ZamboangaSibugay(Talusan, Olutanga, Mabuhay, Alicia, Payao), #ZamboangaDelSur(Tabina, Pitogo, Dimataling, VincenzoA.Sagun), #AgusanDelSur(Bunawan, Rosario, Talacogon, Prosperidad, SanFrancisco), #ZamboangaDelNorte(Manukan, DapitanCity) and #TawiTawi(TurtleIslands) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.</description>
@@ -40,21 +40,21 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 03:07:36 +0000</ns0:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 16 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
-      <pubDate>Wed, 16 Sep 2026 03:03:34 +0000</pubDate>
-      <guid isPermaLink="false">5b34aac9148b5b7fed7098a047becfad7695e967</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 03:03:34 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: Valid until: 11:59 PM, 17 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-Tagoloan 09162026_1789521944.pdf</link>
       <description>Issued at: 09:30 AM, 16 September, 2026&lt;br /&gt;Valid until: 11:59 PM, 17 September, 2026</description>
-      <pubDate>Wed, 16 Sep 2026 03:03:33 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 03:03:34 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-Tagoloan 09162026_1789521944.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 03:03:34 +0000</ns2:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 03:03:34 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 16 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
+      <pubDate>Wed, 16 Sep 2026 03:03:33 +0000</pubDate>
+      <guid isPermaLink="false">5b34aac9148b5b7fed7098a047becfad7695e967</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 03:03:34 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 6 #MINPRSD</title>
