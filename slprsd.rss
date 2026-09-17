@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 17 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 09:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 20 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 20 #SLPRSD&lt;br /&gt; Issued at 05:00 PM 17 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Catanduanes(SanMiguel, Caramoran), #Masbate(Esperanza, PioV.Corpuz, Placer, Cataingan, Claveria), #Romblon(SanJose, SantaFe, Alcantara, Looc, Odiongan, Ferrol, SantaMaria), #Marinduque(Buenavista, Gasan, Torrijos), #OrientalMindoro(Bulalacao and Mansalay) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Catanduanes(Virac, SanAndres, Bato), #Marinduque(Boac, Mogpog and SantaCruz) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 17 Sep 2026 09:15:48 +0000</pubDate>
+      <guid isPermaLink="false">c58aba8fb1f14c77d5024109a567e9f894d1ef93</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 09:15:48 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 19 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 19 #SLPRSD&lt;br /&gt; Issued at 04:00 PM 17 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #CamarinesSur(Bato, Bombon, Buhi, Cabusao, Camaligan, Canaman, DelGallego, Gainza, IrigaCity, Libmanan, Lupi, Magarao, Pamplona, Pasacao, Ragay, Sagñay, Sipocot, Siruma, Tinambac, Calabanga, Minalabac, SanFernando, NagaCity, Milaor, Tigaon, SanJose, Presentacion, Caramoan), #CamarinesNorte, #Masbate(SanPascual), #Albay(CityOfLigao, Oas, Guinobatan, Polangui, Libon, Tiwi, Malinao, CityOfTabaco, Bacacay, Malilipot, Camalig, Daraga, LegazpiCity, SantoDomingo, Jovellar), #Sorsogon(Pilar, Castilla, Magallanes, Juban), #Romblon(Romblon, Calatrava, SanAgustin and SanAndres) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Thu, 17 Sep 2026 09:03:38 +0000</pubDate>
       <guid isPermaLink="false">f31a2c6aee0492d9373db766593ad3e7cf8e81a9</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 09:03:38 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 09:03:38 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 18 #SLPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Thu, 17 Sep 2026 06:42:46 +0000</pubDate>
       <guid isPermaLink="false">6b7825b64900b598f27f888cfb458683be9ffd56</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 06:42:46 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 06:42:46 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 17 #SLPRSD</title>
@@ -54,7 +62,7 @@
       <pubDate>Thu, 17 Sep 2026 01:45:50 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_17Sept2026_1789608857.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 01:45:50 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 01:45:50 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 18 September, 2026</title>
@@ -63,7 +71,7 @@
       <pubDate>Thu, 17 Sep 2026 01:45:49 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_17Sept2026_1789608811.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 01:45:50 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 01:45:50 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #SLPRSD</title>
@@ -104,7 +112,7 @@
       <pubDate>Wed, 16 Sep 2026 14:23:21 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_16Sept2026_1789562833.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 14:23:21 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 14:23:21 +0000</ns5:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 17 September, 2026</title>
@@ -113,7 +121,7 @@
       <pubDate>Wed, 16 Sep 2026 14:23:20 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_16Sept2026_1789562784.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 14:23:21 +0000</ns5:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 14:23:21 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #SLPRSD</title>
