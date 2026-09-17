@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 17 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 18:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:07:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 17 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
@@ -126,22 +126,6 @@
       <guid isPermaLink="false">0293db6f4a27dd47b191077ad1b9ae8b6997141a</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 21:04:10 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 16 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
-      <pubDate>Wed, 16 Sep 2026 18:03:43 +0000</pubDate>
-      <guid isPermaLink="false">588c0c57ed564ea49c40b54015f72c2189fbfad0</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 18:03:43 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 24 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 24 #NLPRSD&lt;br /&gt; Issued at 01:53 AM 17 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #MountainProvince(Paracelis, Natonin, Barlig), #Ifugao(Mayoyao, Lagawe, Banaue, Hingyon), #NuevaVizcaya(Diadi, SantaFe, Kayapa, Aritao, DupaxDelNorte, Bambang, Kasibu, Ambaguio, Bayombong, Quezon, DupaxDelSur, Bagabag, Villaverde, Solano), #Isabela(Ramon, CityOfSantiago, Roxas, SanManuel, Aurora, SanMateo, Cabatuan, Alicia, SanIsidro, Angadanan, SanGuillermo, Echague, Jones, SanAgustin, Dinapigue), #Benguet(Kabayan, Bokod, Itogon), #Aurora(Dilasag, Casiguran, Dinalungan), #Quirino(Maddela, Aglipay, Saguday, Diffun and Cabarroguis) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Ifugao(Aguinaldo, AlfonsoLista), #Isabela(Cordon), #Aurora(Dingalan, SanLuis, MariaAurora, Baler, Dipaculao), #NuevaVizcaya(AlfonsoCastaneda) and #Quirino(Nagtipunan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 16 Sep 2026 18:03:42 +0000</pubDate>
-      <guid isPermaLink="false">54f838e3aa19e599c741dc40aa8b57e0844ef29b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 18:03:43 +0000</ns0:seen>
     </item>
   </channel>
 </rss>

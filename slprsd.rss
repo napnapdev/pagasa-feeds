@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 17 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 18:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:07:24 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 24 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 24 #SLPRSD&lt;br /&gt; Issued at 01:35 AM 18 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Victoria), #Masbate(Cawayan, Mandaon, CityOfMasbate, Milagros, SanJacinto, SanFernando, Batuan, Mobo, Uson) and #Romblon(Calatrava) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Bansud, Socorro, Pinamalayan, Gloria, Bongabong, Roxas, Mansalay, Bulalacao, Pola), #Romblon(Concepcion, Banton, Corcuera, SanAndres, SanAgustin, Odiongan, SantaMaria, Alcantara, Romblon, Magdiwang, SanFernando), #Masbate(Monreal, Baleno, Aroroy, Placer, Esperanza, Dimasalang, Palanas, Cataingan), #Sorsogon(Matnog, Bulan), #NorthernSamar(Capul and SanVicente) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -130,14 +130,6 @@
       <guid isPermaLink="false">39152dcc3ce63d5af06875a29a875313c819fec0</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 21:04:10 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #SLPRSD&lt;br /&gt; Issued at 01:10 AM 17 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Pola, Socorro, Pinamalayan, Gloria, Bansud, Bongabong), #Marinduque(SantaCruz, Torrijos, Buenavista and Gasan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sorsogon(CityOfSorsogon, Castilla), #Masbate(Claveria, SanPascual, PioV.Corpuz, Esperanza, Monreal, SanJacinto, SanFernando, Batuan), #NorthernSamar(SanIsidro, SanAntonio, Capul, SanVicente), #Marinduque(Mogpog, Boac), #OrientalMindoro(CityOfCalapan, Naujan, Baco, SanTeodoro, PuertoGalera and Victoria) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 16 Sep 2026 18:03:43 +0000</pubDate>
-      <guid isPermaLink="false">dac8b4a0df935c35c5f52bad5a7432cc4bac853e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 18:03:43 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
