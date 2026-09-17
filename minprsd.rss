@@ -5,8 +5,8 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/minprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
-    <pubDate>Thu, 17 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 06:42:33 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 09:03:18 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 16 #MINPRSD</title>
       <description>Rainfall Advisory No. 16 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) / Low Pressure Area (LPA) &lt;br /&gt; Issued at 02:00 PM 17 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Sulu(Siasi, Pata, KalingalanCaluang, Maimbung, Omar, PanglimaEstino, Talipao, Luuk, OldPanamao, Jolo, Patikul, HadjiPanglimaTahil), #ZamboangaSibugay(Talusan, Olutanga, Mabuhay, Alicia, Payao), #DavaoDeOro(Pantukan, Mabini, Maragusan, Laak), #DavaoDelNorte(CityOfSamal, Carmen, CityOfPanabo, BraulioE.Dujali, SantoTomas, SanIsidro, Talaingod, Kapalong), #DinagatIslands, #AgusanDelSur(Veruela, Loreto, Bunawan, LaPaz, Rosario, CityOfBayugan, Sibagat, SanLuis, Talacogon, Prosperidad, SanFrancisco), #AgusanDelNorte, #TawiTawi(Sitangkai, Sibutu, Simunul, TurtleIslands, Mapun), #Bukidnon(Sumilao, Lantapan, ImpasugOng, CityOfMalaybalay, CityOfValencia, Cabanglasan, SanFernando, Libona, Baungon, Talakag), #MisamisOccidental(Concepcion, Baliangao, OroquietaCity, SapangDalaga, Calamba, LopezJaena, Plaridel), #ZamboangaDelSur(Pitogo, VincenzoA.Sagun, Margosatubig, Lapuyan, Dumalinao, Tigbao, Labangan, PagadianCity, Aurora, RamonMagsaysay, Sominot, Midsalip, Dumingag), #DavaoDelSur, #DavaoOccidental, #Sarangani(Glan, Malapatan, Alabel, Malungon), #MisamisOriental(GingoogCity, Initao, Naawan, Manticao, Lugait), #LanaoDelSur(Butig, TagoloanII, Bubong), #MaguindanaoDelNorte(Barira, Buldon), #LanaoDelNorte(IliganCity, Lala, Kapatagan, Tubod, Baroy, Salvador, Sapad, Kolambugan, Magsaysay), #SurigaoDelNorte and #DavaoCity within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #DavaoOriental, #Sulu(Lugus, Tapul, Parang, Indanan, Banguingui, Pangutaran, Pandami), #Bukidnon(ManoloFortich, Malitbog), #ZamboangaSibugay(Tungawan, Malangas, Imelda, RosellerLim, Buug, Siay, Ipil, Diplahan, Titay, Naga, Kabasalan), #ZamboangaCity, #DavaoDeOro(Mawab, NewBataan, Nabunturan, Compostela, Montevista, Monkayo, Maco), #DavaoDelNorte(NewCorella, Asuncion, CityOfTagum), #AgusanDelSur(SantaJosefa, Trento, Esperanza), #TawiTawi(SapaSapa, PanglimaSugala, SouthUbian, Bongao, Languyan, Tandubas), #SurigaoDelSur, #ZamboangaDelNorte, #MisamisOccidental(Bonifacio, DonVictorianoChiongbian, TangubCity, OzamisCity, Clarin, Tudela, Sinacaban, Jimenez, Panaon, Aloran), #ZamboangaDelSur(Tabina, Dimataling, Dinas, SanPablo, Kumalarang, Tukuran, Lakewood, Bayog, Tambulig, Mahayag, Molave, Josefina, Guipos, SanMiguel), #Basilan, #MisamisOriental(Claveria, CagayanDeOroCity, Laguindingan, Alubijid, Gitagum, Libertad, CityOfElSalvador, Opol) and #LanaoDelNorte(SultanNagaDimaporo) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.</description>
@@ -29,7 +29,7 @@
       <pubDate>Thu, 17 Sep 2026 03:03:37 +0000</pubDate>
       <guid isPermaLink="false">d86ccbff19146c379daa0b24909d34e2436f9d52</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 03:03:37 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 03:03:37 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 14 #MINPRSD</title>
@@ -72,21 +72,13 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 12:07:32 +0000</ns0:seen>
     </item>
     <item>
-      <title>Rainfall Advisory No. 9 #MINPRSD</title>
-      <description>Rainfall Advisory No. 9 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 05:00 PM 16 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Bukidnon(Quezon, CityOfValencia, Pangantucan, Baungon, Libona, SanFernando, DonCarlos, Cabanglasan, Malitbog, Kibawe, Damulog, Dangcagan, Kitaotao, Kadingilan, Maramag, Kalilangan, Talakag), #LanaoDelSur(Maguing, TagoloanII, Bubong, MarawiCity, Kapai, DitsaanRamain, Piagapo, Saguiaran, Marantao, Balindong, Tugaya, BacolodKalawi, Madalum, Madamba, BuadiposoBuntong, Mulondo, Taraka), #MisamisOriental, #SurigaoDelSur(Lingig, CityOfBislig, Lianga, SanAgustin, Marihatag, Cagwait, Bayabas, SanMiguel, Tago, CityOfTandag, Carmen, Lanuza, Madrid, Cortes, Cantilan, Carrascal), #TawiTawi(Sitangkai, Sibutu, Simunul, SapaSapa, Bongao, PanglimaSugala, Tandubas, Languyan, SouthUbian), #ZamboangaSibugay(Malangas, Buug, Siay, Diplahan, Titay, Naga, Kabasalan, Imelda, Ipil), #ZamboangaDelNorte(Tampilisan, Kalawit, Godod, Labason, Liloy, LeonB.Postigo, Siayan, SergioOsmeñaSr., Sindangan, Mutia, JoseDalman, Sibutad, Manukan, Pres.ManuelA.Roxas, Katipunan, DipologCity, Polanco, Piñan, DapitanCity, LaLibertad, Rizal, Salug), #ZamboangaDelSur, #LanaoDelNorte, #AgusanDelSur(SantaJosefa, Veruela, Trento, Loreto, LaPaz, CityOfBayugan, Sibagat, SanLuis, Prosperidad), #AgusanDelNorte(Nasipit, Magallanes, RemediosT.Romualdez, Carmen, CityOfCabadbaran, Santiago, Tubay, Jabonga, Kitcharao), #Basilan and #Sulu within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #Bukidnon(ManoloFortich, Lantapan, CityOfMalaybalay, Sumilao, ImpasugOng), #SurigaoDelSur(Tagbina, Barobo, Hinatuan), #TawiTawi(Mapun, TurtleIslands), #ZamboangaSibugay(Talusan, Olutanga, Mabuhay, Alicia, Payao, Tungawan, RosellerLim), #ZamboangaCity, #ZamboangaDelNorte(Sibuco, Sirawai, Siocon, Baliguian, Gutalac), #AgusanDelSur(Bunawan, Rosario, Talacogon, SanFrancisco, Esperanza), #AgusanDelNorte(LasNieves, Buenavista and ButuanCity) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.</description>
-      <pubDate>Wed, 16 Sep 2026 09:03:37 +0000</pubDate>
-      <guid isPermaLink="false">50ea34d1d2c3c99f4545e9d16ca340babdacb7b9</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 09:03:37 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Special Forecast: Valid until: 11:59 PM, 17 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-Tagoloan 09162026_1789521944.pdf</link>
       <description>Issued at: 09:30 AM, 16 September, 2026&lt;br /&gt;Valid until: 11:59 PM, 17 September, 2026</description>
       <pubDate>Wed, 16 Sep 2026 03:03:34 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-Tagoloan 09162026_1789521944.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 03:03:34 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 03:03:34 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
