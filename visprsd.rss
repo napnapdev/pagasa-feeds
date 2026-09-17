@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 17 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 15:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:04:13 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 1 #VISPRSD</title>
       <description>Rainfall Advisory No. 1 #VISPRSD&lt;br /&gt; Weather System: Low Pressure Area (LPA) &lt;br /&gt; Issued at 11:00 PM 17 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate with occasionally Heavy rains are expected over #Cebu(SantaFe, Madridejos, Bantayan), #EasternSamar(Dolores, Arteche, Jipapad, SanPolicarpo, Oras, Maslog, CanAvid, Taft, SanJulian and Sulat) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Samar, #EasternSamar(Balangkayan, Llorente, Quinapondan, Maydolong, GeneralMacarthur, Hernani, Salcedo, Balangiga, Giporlos, Lawaan, CityOfBorongan), #Leyte(Babatngon, TaclobanCity, SanMiguel, Alangalang, Palo, SantaFe, Tolosa, Tanauan, Tabontabon, Dulag, Burauen, Julita, Dagami, Pastrana, Jaro, Barugo, Carigara, Kananga, OrmocCity, Albuera, LaPaz, Mayorga, Macarthur, Javier, CityOfBaybay, Capoocan, Leyte, Villaba, MatagOb, Palompon, Isabel, Merida, SanIsidro, Tabango, Calubian, Tunga), #Biliran, #Cebu(Tabogon, SanRemigio, CityOfBogo, Daanbantayan and Medellin) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
@@ -21,7 +21,7 @@
       <pubDate>Thu, 17 Sep 2026 15:03:33 +0000</pubDate>
       <guid isPermaLink="false">501f4f52c932e3f5708945969c5c247f7d18340e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 15:03:34 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 15:03:34 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -29,7 +29,7 @@
       <pubDate>Thu, 17 Sep 2026 15:03:32 +0000</pubDate>
       <guid isPermaLink="false">deecf4973a608c5e997919ae9a9cc7b2f231726a</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 15:03:34 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 15:03:34 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 17 #VISPRSD</title>
@@ -190,7 +190,7 @@
       <pubDate>Wed, 16 Sep 2026 21:04:10 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09172026_1_1789591424.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 21:04:10 +0000</ns5:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 21:04:10 +0000</ns3:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 4 #VISPRSD</title>
@@ -239,14 +239,6 @@
       <guid isPermaLink="false">7df0ff3dd1380bcffd146e3dc3cc45c7004e21e6</guid>
       <category>Thunderstorm Advisory</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 18:03:43 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 2 #VISPRSD</title>
-      <description>Heavy Rainfall Warning No. 2 #VISPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:00 PM 16 September 2026&lt;br /&gt; &lt;br /&gt; Yellow Warning: #Biliran, #Leyte, #EasternSamar, #Samar, #OccidentalMindoro(Lubang, Looc), #Cebu(Daanbantayan, Medellin, Madridejos, SantaFe, Bantayan, CityOfBogo, Tabogon, SanRemigio, Tabuelan and Borbon)&lt;br /&gt; Associated Hazard: FLOODING IS POSSIBLE in low-lying areas and LANDSLIDES in mountainous areas.&lt;br /&gt; &lt;br /&gt; Meanwhile, Light to Moderate with occasionally Heavy rains are expected over #OccidentalMindoro(AbraDeIlog, Paluan, Mamburao), #SouthernLeyte, #Cebu(Sogod, Catmon, Tuburan and Carmen) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Pilar, Tudela, Poro and SanFrancisco) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
-      <pubDate>Wed, 16 Sep 2026 15:31:02 +0000</pubDate>
-      <guid isPermaLink="false">5d1f81b76620fba16a6417f24b6de201c5fa7ef1</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 15:31:02 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
