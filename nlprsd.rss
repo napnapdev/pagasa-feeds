@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 17 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 01:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:03:22 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 30 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 30 #NLPRSD&lt;br /&gt; Issued at 09:55 AM 17 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Batanes(Itbayat) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Batanes(Basco, Ivana, Mahatao, Sabtang, Uyugan) and #Cagayan(Calayan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 17 Sep 2026 03:03:37 +0000</pubDate>
+      <guid isPermaLink="false">4416320be673e081bec0b0abe5c5d216179fbfad</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 03:03:37 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 17 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
       <pubDate>Thu, 17 Sep 2026 01:45:50 +0000</pubDate>
       <guid isPermaLink="false">e82272088be29c8a882cf8b603a5ebdbfaf7a7b9</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 01:45:50 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 01:45:50 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 29 #NLPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Thu, 17 Sep 2026 01:45:49 +0000</pubDate>
       <guid isPermaLink="false">408cb568736cd959346359d484c338c0eed18963</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 01:45:50 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 01:45:50 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 28 #NLPRSD</title>
@@ -158,22 +166,6 @@
       <guid isPermaLink="false">db0ec6d67441ca9618e4ccf1c553fca334475e21</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 04:54:42 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 16 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
-      <pubDate>Wed, 16 Sep 2026 03:03:34 +0000</pubDate>
-      <guid isPermaLink="false">f4437aa30c7666052bebba0e09a70d8499cc8481</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 03:03:34 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #NLPRSD&lt;br /&gt; Issued at 10:10 AM 16 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Apayao(Calanasan, Flora, Pudtol, Kabugao), #Cagayan(Pamplona, SanchezMira, Allacapan, Camalaniugan and Buguey) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Apayao(Luna, SantaMarcela), #Cagayan(Abulug, Ballesteros and Aparri) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 16 Sep 2026 03:03:33 +0000</pubDate>
-      <guid isPermaLink="false">d4fcef9c8ba930006472948f196a7f18a1290609</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 03:03:34 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
