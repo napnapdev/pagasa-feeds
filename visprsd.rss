@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 17 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 12:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:30:37 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 3 #VISPRSD</title>
+      <description>Heavy Rainfall Warning No. 3 FINAL #VISPRSD&lt;br /&gt; Weather System: Low Pressure Area (LPA) &lt;br /&gt; Issued at 08:00 PM 17 September 2026&lt;br /&gt; &lt;br /&gt; All RAINFALL WARNING over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; Light to Moderate with occasionally Heavy rains are expected over #Antique(Caluya, Sebaste, Culasi, Patnongon, Belison, SanJose, AniniY), #Aklan(Buruanga, Malay, Nabas, Libacao), #Iloilo(Guimbal, Tubungan, Leon, Alimodian, Maasin, Janiuay, Lambunao), #Capiz(Tapaz, Jamindan), #Biliran(Almeria, Kawayan, Culaba, Caibiran, Cabucgayan), #Leyte(Carigara, Barugo, Tunga, Jaro, Dagami), #Palawan(Balabac, Bataraza, Rizal, Brooke'sPoint, SofronioEspanola, Quezon, Narra, Aborlan, Coron, Busuanga, Culion, Magsaysay, Cuyo, Agutaya, ElNido, Linapacan, Taytay, Araceli, Dumaran, Roxas, SanVicente), #OccidentalMindoro(Magsaysay, Rizal, SanJose, Calintaan), #EasternSamar(Llorente, Balangkayan and GeneralMacarthur) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Madalag, Malinao, Lezo, Kalibo, Numancia, Makato, Tangalan, Ibajay), #Antique(Pandan, Libertad, Tibiao, Barbaza, LauaAn, Bugasong, Valderrama, SanRemigio, Sibalom, Hamtic, TobiasFornier), #Iloilo(Igbaras, Miagao, SanJoaquin), #NegrosOriental(Amlan, Bacong, Basay, Dauin, DumagueteCity, Pamplona, SanJose, SantaCatalina, Siaton, Sibulan, Valencia, Zamboanguita, CityOfBayawan), #Cebu(Santander, Samboan, Oslob, Bantayan, Madridejos, SantaFe, Medellin, Daanbantayan, SanRemigio, CityOfBogo, Tabogon, Tabuelan, Borbon, SanFrancisco, Poro, Tudela, Pilar), #Leyte(Calubian, SanIsidro, Tabango, Leyte, Villaba, Capoocan, Kananga, MatagOb, Palompon, Isabel, Merida, OrmocCity, Albuera), #Biliran(Naval, Biliran), #Samar(CalbayogCity, SantaMargarita, Gandara, Pagsanghan, Marabut), #Siquijor, #Palawan(PuertoPrincesaCity), #EasternSamar(Lawaan, Balangiga, Giporlos, Quinapondan, Salcedo, Mercedes and Guiuan) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
+      <pubDate>Thu, 17 Sep 2026 12:30:54 +0000</pubDate>
+      <guid isPermaLink="false">68508500e1b6eaab911bada904e1615608176b7d</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 12:30:54 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 16 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 16 #VISPRSD&lt;br /&gt; Issued at 05:51 PM 17 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(SanFrancisco, Poro, Tudela, Pilar), #Leyte(Tabango, Villaba, MatagOb, Palompon, Isabel, Merida), #Aklan(Makato, Numancia, Lezo, Kalibo, NewWashington, Banga), #Capiz(Jamindan, Tapaz), #Antique(Bugasong, Valderrama, SanRemigio), #Iloilo(Lambunao, Guimbal, Igbaras, Miagao and SanJoaquin) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(Pandan, Sebaste, Culasi, Tibiao, Barbaza, LauaAn), #Aklan(Ibajay, Tangalan, Malinao, Madalag, Libacao, Balete, Batan and Altavas) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Thu, 17 Sep 2026 12:03:36 +0000</pubDate>
       <guid isPermaLink="false">f94e9d4ae9f1abe170154e3ecd16bd65ec58f728</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 12:03:36 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 12:03:36 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Thu, 17 Sep 2026 09:07:37 +0000</pubDate>
       <guid isPermaLink="false">e2a73ddf282b9e0a542afa03fbb3766bf2de39cc</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 09:07:37 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 09:07:37 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 1 #VISPRSD</title>
@@ -101,7 +109,7 @@
       <pubDate>Thu, 17 Sep 2026 03:03:37 +0000</pubDate>
       <guid isPermaLink="false">998b18a421a42ba1aecaba62f840c0d3ccba8698</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 03:03:37 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 03:03:37 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
@@ -150,7 +158,7 @@
       <pubDate>Wed, 16 Sep 2026 21:04:10 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09172026_1_1789591424.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 21:04:10 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 21:04:10 +0000</ns4:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 4 #VISPRSD</title>
