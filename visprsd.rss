@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 17 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2026 03:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:30:32 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 1 #VISPRSD</title>
       <description>Rainfall Advisory No. 1 #VISPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:00 AM 17 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate with occasionally Heavy rains are expected over #NegrosOccidental(Binalbagan, Isabela, Hinigaran), #NegrosOriental(SanJose, DumagueteCity, Bacong, Dauin, Zamboanguita, Siaton, Valencia, Jimalalud and LaLibertad) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(HinobaAn, CityOfSipalay, Candoni, Cauayan, CityOfKabankalan, Ilog, CityOfHimamaylan), #NegrosOriental(Mabinay, Ayungon, Bindoy, Manjuyod, BaisCity, CityOfBayawan, Basay, SantaCatalina, CityOfTanjay, Pamplona, Sibulan, Amlan and Tayasan) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
@@ -279,22 +279,6 @@
       <guid isPermaLink="false">2d929fadf3e0c8fc2699a9c81a13d716f7467979</guid>
       <category>Thunderstorm Advisory</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 04:54:42 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 10 #VISPRSD&lt;br /&gt; Issued at 11:22 AM 16 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Alimodian, SanMiguel, SantaBarbara, Estancia), #Capiz(Pilar), #NegrosOccidental(Murcia and SilayCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Cabatuan, Maasin, SanDionisio, Batad, Balasan), #NegrosOccidental(BacolodCity and CityOfTalisay) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 16 Sep 2026 03:30:44 +0000</pubDate>
-      <guid isPermaLink="false">051071f30340e4f9e90825c57c7b7a4087c7a3dc</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 03:30:44 +0000</ns5:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 9 #VISPRSD&lt;br /&gt; Issued at 11:15 AM 16 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Poro, Tudela, Borbon, Tabogon, Balamban) and #Leyte(Alangalang) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(SanFrancisco, Catmon, Carmen, Sogod, Asturias, DanaoCity, Medellin, CityOfBogo, CebuCity, CityOfTalisay, Minglanilla, Pinamungajan, ToledoCity), #Leyte(Jaro and Pastrana) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 16 Sep 2026 03:30:43 +0000</pubDate>
-      <guid isPermaLink="false">4463cca740ea1168228c13f4ebe2c048b172a404</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Wed, 16 Sep 2026 03:30:44 +0000</ns6:seen>
     </item>
   </channel>
 </rss>
