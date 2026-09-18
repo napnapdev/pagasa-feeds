@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 19 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 21:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:15:28 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 5 FINAL #MINPRSD&lt;br /&gt; Issued at 11:50 PM 18 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -78,14 +78,6 @@
       <guid isPermaLink="false">10a45fcaff84b43dae448e5bf0e548ec61078880</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 00:07:37 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 21 #MINPRSD</title>
-      <description>Rainfall Advisory No. 21 #MINPRSD&lt;br /&gt; Weather System: Low Pressure Area (LPA) / Wind Convergence &lt;br /&gt; Issued at 05:00 AM 18 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #ZamboangaCity, #ZamboangaDelNorte(Sibuco, Siocon, Sirawai, Baliguian), #ZamboangaSibugay(Tungawan, RosellerLim, Ipil, Titay), #TawiTawi(Mapun), #Sulu(Pangutaran, Pandami), #Bukidnon(Talakag, Baungon, ManoloFortich), #LanaoDelSur(TagoloanII), #MisamisOriental(CagayanDeOroCity, Manticao, Naawan, Alubijid, Laguindingan, Gitagum, Libertad, Initao), #DavaoDeOro(Pantukan), #DavaoDelNorte(CityOfSamal, CityOfPanabo), #DavaoOriental(CityOfMati, SanIsidro, GovernorGeneroso) and #DavaoCity within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are being experienced in #TawiTawi(Sitangkai, Sibutu, Simunul, SapaSapa, Bongao, PanglimaSugala, Tandubas, Languyan, TurtleIslands, SouthUbian), #DavaoOriental(Lupon and Banaybanay) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
-      <pubDate>Thu, 17 Sep 2026 21:08:09 +0000</pubDate>
-      <guid isPermaLink="false">7654850cffa766c325893295cd785dc08fd4edaa</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 21:08:09 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
