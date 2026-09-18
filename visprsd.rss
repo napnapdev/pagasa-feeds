@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 18 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 03:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 03:15:28 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 10:45 AM 18 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(SantaBarbara and Maasin) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Alimodian, Leon, Tubungan, SanMiguel and Cabatuan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -207,14 +207,6 @@
       <guid isPermaLink="false">793c134fa70a02d6d373d025818bad129f910658</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 06:03:34 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 1 #VISPRSD</title>
-      <description>Rainfall Advisory No. 1 #VISPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:00 AM 17 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate with occasionally Heavy rains are expected over #NegrosOccidental(Binalbagan, Isabela, Hinigaran), #NegrosOriental(SanJose, DumagueteCity, Bacong, Dauin, Zamboanguita, Siaton, Valencia, Jimalalud and LaLibertad) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(HinobaAn, CityOfSipalay, Candoni, Cauayan, CityOfKabankalan, Ilog, CityOfHimamaylan), #NegrosOriental(Mabinay, Ayungon, Bindoy, Manjuyod, BaisCity, CityOfBayawan, Basay, SantaCatalina, CityOfTanjay, Pamplona, Sibulan, Amlan and Tayasan) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
-      <pubDate>Thu, 17 Sep 2026 03:15:41 +0000</pubDate>
-      <guid isPermaLink="false">0e9af93cc17aa378cc2d956fdf384934725f9864</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 03:15:41 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
