@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 18 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 00:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:15:27 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 26 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 26-Final #NCR_PRSD&lt;br /&gt; Issued at: 3:10 AM, 18 September 2026(Friday)&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisory over NCR-PRSD forecast area are now TERMINATED. However, all are still advised to continue monitoring for updates.</description>
@@ -70,14 +70,6 @@
       <guid isPermaLink="false">a1fe87e5528918a661df7ee151643b1065a5f968</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 03:30:49 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 19 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 19 #NCR_PRSD&lt;br /&gt; Issued at: 8:09 AM, 17 September 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over &lt;strong&gt;Batangas (San Juan, Rosario, Lobo, Padre Garcia, Taysan, Ibaan, Lipa, Tanauan, Santo Tomas, Malvar, Balete, Mataasnakahoy, and Talisay), Laguna (Alaminos, San Pablo, Calamba, Los Banos, Bay, and Calauan), Nueva Ecija (General Tinio, Penaranda, and Gapan), and Quezon (Atimonan, Padre Burgos, Pagbilao, Mauban, Tayabas, Candelaria, Dolores, San Antonio, Sariaya, Tiaong, Lucban, Lucena, Sampaloc, Agdangan, Alabat, Gumaca, Jomalig, Macalelon, Patnanungan, Perez, Pitogo, Plaridel, Polillo, Quezon, Unisan, San Francisco, San Andres, Lopez, Calauag, Tagkawayan, and Guinayangan)&lt;/strong&gt; within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 17 Sep 2026 00:15:43 +0000</pubDate>
-      <guid isPermaLink="false">7f049de4bf0b49b9b4516166018e9c622d511d94</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 00:15:43 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
