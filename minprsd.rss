@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 18 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 12:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:07:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #MINPRSD&lt;br /&gt; Issued at 08:00 PM 18 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #AgusanDelSur(Talacogon, SanFrancisco, Rosario, LaPaz), #SurigaoDelNorte(Claver), #Bukidnon(SanFernando, Baungon, Libona), #DavaoDelNorte(Kapalong, Talaingod), #DavaoOriental(CityOfMati, Tarragona, Manay), #ZamboangaSibugay(RosellerLim, Ipil) and #ZamboangaCity within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelSur(Hinatuan, Tagbina, Barobo, Carrascal, Lanuza, Madrid, Cantilan, Carmen), #SurigaoDelNorte(Socorro, SiargaoIsland), #ZamboangaSibugay(Tungawan), #AgusanDelSur(SanLuis, Esperanza), #Bukidnon(Sumilao, ImpasugOng, Talakag and ManoloFortich) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 18 Sep 2026 12:07:31 +0000</pubDate>
+      <guid isPermaLink="false">1b6d8e04abf4bb84a8b0f41bed19b0ec30faa216</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 12:07:31 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 06:00 PM 18 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #AgusanDelSur(Loreto, Veruela, Bunawan, Rosario, Talacogon, SanFrancisco, Prosperidad, Esperanza, CityOfBayugan), #DavaoDeOro(Laak), #Bukidnon(Lantapan, Kalilangan, Pangantucan, Sumilao, Baungon, ManoloFortich, Libona, CityOfMalaybalay, Cabanglasan), #ZamboangaDelNorte(Sibuco, Baliguian), #ZamboangaSibugay(Tungawan, RosellerLim) and #Sulu within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MisamisOriental(Balingasag), #Bukidnon(ImpasugOng, Talakag), #AgusanDelSur(SanLuis, LaPaz), #LanaoDelSur(Maguing), #SurigaoDelSur(Barobo, Tagbina, Hinatuan), #ZamboangaDelNorte(Sirawai and Siocon) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Fri, 18 Sep 2026 12:03:33 +0000</pubDate>
       <guid isPermaLink="false">bbe6b5f2bacf51ab3d6e8ce4db8e80fec43d9981</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 12:03:33 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 12:03:33 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
@@ -45,7 +53,7 @@
       <pubDate>Fri, 18 Sep 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="false">62707d6a6488b15a339ebb3a805dfc33d4a39dbc</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 03:03:33 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 03:03:33 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 22 #MINPRSD</title>
