@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 18 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 15:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:03:18 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 19 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_18Sept2026_1789737560.pdf</link>
@@ -90,14 +90,6 @@
       <guid isPermaLink="false">dccc4b1382077d4e032009ad7dc0602d353b2f27</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 20:12:16 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 24 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 24 #SLPRSD&lt;br /&gt; Issued at 01:35 AM 18 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Victoria), #Masbate(Cawayan, Mandaon, CityOfMasbate, Milagros, SanJacinto, SanFernando, Batuan, Mobo, Uson) and #Romblon(Calatrava) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Bansud, Socorro, Pinamalayan, Gloria, Bongabong, Roxas, Mansalay, Bulalacao, Pola), #Romblon(Concepcion, Banton, Corcuera, SanAndres, SanAgustin, Odiongan, SantaMaria, Alcantara, Romblon, Magdiwang, SanFernando), #Masbate(Monreal, Baleno, Aroroy, Placer, Esperanza, Dimasalang, Palanas, Cataingan), #Sorsogon(Matnog, Bulan), #NorthernSamar(Capul and SanVicente) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 17 Sep 2026 18:03:39 +0000</pubDate>
-      <guid isPermaLink="false">99fee3bee9c319bedca78271868d248ab0245aac</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 18:03:39 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
