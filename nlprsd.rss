@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 18 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 03:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 03:07:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 40 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 40 #NLPRSD&lt;br /&gt; Issued at 08:59 AM 18 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(Baggao, Gattaran, LalLo, Gonzaga, SantaTeresita, Calayan, SantaAna, Buguey, Amulung, Iguig, Solana, TuguegaraoCity, Enrile), #Batanes(Basco, Ivana, Mahatao, Sabtang, Uyugan), #Isabela(SantaMaria, SantoTomas, DelfinAlbano, Quezon and Mallig) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Peñablanca), #Isabela(Maconacon, SanPablo, Cabagan and Tumauini) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -94,14 +94,6 @@
       <guid isPermaLink="false">3fc01cf8e3031993b47d5019fff12288a9c6cd45</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 06:03:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 30 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 30 #NLPRSD&lt;br /&gt; Issued at 09:55 AM 17 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Batanes(Itbayat) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Batanes(Basco, Ivana, Mahatao, Sabtang, Uyugan) and #Cagayan(Calayan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 17 Sep 2026 03:03:37 +0000</pubDate>
-      <guid isPermaLink="false">4416320be673e081bec0b0abe5c5d216179fbfad</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 03:03:37 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
