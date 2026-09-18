@@ -5,8 +5,16 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/ncrprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
-    <pubDate>Fri, 18 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 18:30:40 +0000</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:57:30 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 10 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 10 #NCR_PRSD&lt;br /&gt; Issued at: 3:49 AM, 19 September 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Dona Remedios Trinidad), Nueva Ecija (Gabaldon, General Tinio, Laur, and Palayan), and Quezon (General Nakar) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 18 Sep 2026 20:57:49 +0000</pubDate>
+      <guid isPermaLink="false">0a2427c10c22c7cdabfe574a14bf9c7fdff698bf</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 20:57:49 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 9 #NCR_PRSD&lt;br /&gt; Issued at: 11:05 PM, 18 September 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Dona Remedios Trinidad), Nueva Ecija (General Tinio, Gabaldon, Laur, and Palayan), Pampanga (Angeles, Mabalacat, and Porac), Tarlac (Capas, San Jose, and Mayantoc), and Zambales (San Marcelino and Botolan) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (General Nakar) and Tarlac (Bamban) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -21,7 +29,7 @@
       <pubDate>Fri, 18 Sep 2026 14:55:16 +0000</pubDate>
       <guid isPermaLink="false">5deecf709bb1e09e85827dd6b6d8675d594c3aa9</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 14:55:16 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 14:55:16 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #NCRPRSD</title>
@@ -112,21 +120,13 @@
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 03:03:33 +0000</ns1:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 26 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 26-Final #NCR_PRSD&lt;br /&gt; Issued at: 3:10 AM, 18 September 2026(Friday)&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisory over NCR-PRSD forecast area are now TERMINATED. However, all are still advised to continue monitoring for updates.</description>
-      <pubDate>Thu, 17 Sep 2026 20:12:16 +0000</pubDate>
-      <guid isPermaLink="false">e08731a04b1ea6eeadc579a6a9e42ddb5e820367</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 20:12:16 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
