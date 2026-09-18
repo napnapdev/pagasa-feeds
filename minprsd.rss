@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 18 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 14:54:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:03:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 4 #MINPRSD&lt;br /&gt; Issued at 10:00 PM 18 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Bukidnon(Malitbog, Cabanglasan), #SurigaoDelNorte(Socorro, Claver, Bacuag, Gigaquit, Alegria, Placer, Tubod, Mainit, Malimono), #SurigaoDelSur(Carrascal), #AgusanDelSur(Loreto), #DavaoOriental(Manay, Tarragona, CityOfMati, SanIsidro), #ZamboangaSibugay(Tungawan, RosellerLim), #ZamboangaDelNorte(Siocon, Baliguian and Sirawai) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bukidnon(ManoloFortich, Sumilao and ImpasugOng) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">dbde663c48b1dcb75fe8ddd8f4ee9afd58b851ad</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 18:07:36 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 19 #MINPRSD</title>
-      <description>Rainfall Advisory No. 19 #MINPRSD&lt;br /&gt; Weather System: Low Pressure Area (LPA) / Wind Convergence &lt;br /&gt; Issued at 11:00 PM 17 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #LanaoDelSur(Marogong, Calanogas, Pualas, Pagayawan, Tubaran, LumbacaUnayan, Lumbatan, SultanDumalondong, Bayang, Binidayan, Ganassi, Madamba, Madalum, BacolodKalawi, Lumbayanague, Tugaya, TagoloanII, Bumbaran, Wao), #LanaoDelNorte(Nunungan), #Bukidnon(Talakag, Baungon), #NorthCotabato(Alamada), #SurigaoDelNorte(Socorro, SurigaoCity, TaganaAn, Placer), #TawiTawi(TurtleIslands), #DinagatIslands(Cagdianao, Dinagat), #Sarangani(Glan, Malapatan), #DavaoOccidental(JoseAbadSantos), #DavaoDeOro(Laak), #DavaoDelNorte(SanIsidro, Asuncion, Kapalong and NewCorella) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are being experienced in #SurigaoDelNorte(SiargaoIsland) and #TawiTawi(Mapun) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
-      <pubDate>Thu, 17 Sep 2026 15:03:33 +0000</pubDate>
-      <guid isPermaLink="false">c683db903ca41cc43240817d139987a67a09869b</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 15:03:33 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
