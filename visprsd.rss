@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 18 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 18 Sep 2026 18:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:07:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 18 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #NegrosOccidental, #NegrosOriental, #Cebu, #Bohol, #Siquijor, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -151,14 +151,6 @@
       <guid isPermaLink="false">351d963c0a1d4eaffad9b59e1e2fef68ce5985c0</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 18:15:51 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 2 #VISPRSD</title>
-      <description>Rainfall Advisory No. 2 FINAL #VISPRSD&lt;br /&gt; Weather System: Low Pressure Area (LPA) &lt;br /&gt; Issued at 02:00 AM 18 September 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
-      <pubDate>Thu, 17 Sep 2026 18:07:36 +0000</pubDate>
-      <guid isPermaLink="false">2845445dcc0b1cf6fafe3d233ffcdc34c67177f2</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 17 Sep 2026 18:07:36 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
