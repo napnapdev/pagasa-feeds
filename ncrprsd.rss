@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 19 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 03:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:07:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 AM, 19 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -118,14 +118,6 @@
       <guid isPermaLink="false">bedf1c01476374954e4ffa79d7daf8d581737f87</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 03:30:58 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #NCR_PRSD&lt;br /&gt; Issued at: 9:45 AM, 18 September 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over &lt;strong&gt;Batangas (San Juan, Rosario, and Padre Garcia) and Quezon (San Antonio, San Narciso, Mulanay, San Andres, and San Francisco)&lt;/strong&gt; within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 18 Sep 2026 03:03:33 +0000</pubDate>
-      <guid isPermaLink="false">b9d96fcd9f018eb6eb4049e9df82cf4947eafa6c</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 03:03:33 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
