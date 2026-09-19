@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 19 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 06:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:30:36 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #NLPRSD&lt;br /&gt; Issued at 01:26 PM 19 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(SantaTeresita, Buguey, LalLo, Gattaran and Gonzaga) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 19 Sep 2026 06:30:54 +0000</pubDate>
+      <guid isPermaLink="false">0ea62a6aa56ee923a46a124597c8088717ff0783</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 06:30:54 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 19 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
       <pubDate>Sat, 19 Sep 2026 03:03:31 +0000</pubDate>
       <guid isPermaLink="false">59e977fe5ae3af3c61974569885cf2a2177aaf5a</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 03:03:31 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 03:03:31 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 47 #NLPRSD</title>
