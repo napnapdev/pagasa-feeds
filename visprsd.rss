@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 19 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 00:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 06:50 AM 19 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Brooke'sPoint, Kalayaan, Cagayancillo), #Cebu(Bantayan and Madridejos) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(PuertoPrincesaCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -143,14 +143,6 @@
       <guid isPermaLink="false">7a94e35c413d8a9b379578136c3b1609677d0168</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 03:03:33 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 06:28 AM 18 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(AniniY, TobiasFornier, Hamtic), #Iloilo(SanJoaquin, Miagao), #Guimaras(NuevaValencia, Sibunag, Jordan), #NegrosOccidental(Ilog, CityOfKabankalan), #Palawan(Bataraza and Cagayancillo) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(Cauayan, CityOfSipalay, Candoni, HinobaAn), #Palawan(Brooke'sPoint and Narra) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 18 Sep 2026 00:04:09 +0000</pubDate>
-      <guid isPermaLink="false">255b65af2112e7de623f432bdee4b3481013f83e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 00:04:09 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
