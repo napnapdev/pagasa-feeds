@@ -5,8 +5,8 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/visprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sat, 19 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 19:20:46 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:03:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 03:07 AM 20 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(CityOfBaybay, Inopacan, Hindang, Hilongos, Matalom, Bato), #SouthernLeyte(Bontoc, TomasOppus and CityOfMaasin) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -45,7 +45,7 @@
       <pubDate>Sat, 19 Sep 2026 14:00:04 +0000</pubDate>
       <guid isPermaLink="false">7b7547416b1ad3b5b537d591a52d62939ab14a3e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 14:00:04 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 14:00:04 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
@@ -158,23 +158,6 @@
       <guid isPermaLink="false">e67529a72cbe69e2045287aefe7925e4b869805c</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 23:11:58 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 20 September, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09192026_1789764499.pdf</link>
-      <description>Issued at: 05:00 AM, 19 September, 2026&lt;br /&gt;Valid until: 05:00 AM, 20 September, 2026</description>
-      <pubDate>Fri, 18 Sep 2026 20:57:49 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09192026_1789764499.pdf</guid>
-      <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 20:57:49 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 02:36 AM 19 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(Cauayan, Candoni, CityOfSipalay, HinobaAn), #NegrosOriental(Basay), #Antique(Hamtic, TobiasFornier, AniniY), #Iloilo(SanJoaquin, Miagao), #Biliran(Culaba, Caibiran, Cabucgayan, Biliran) and #Leyte(Calubian) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Biliran(Almeria, Naval and Kawayan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 18 Sep 2026 20:57:48 +0000</pubDate>
-      <guid isPermaLink="false">92cdf09faac3b3c7fbb54d10e1aa5dcb8b5a24e3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 20:57:49 +0000</ns0:seen>
     </item>
   </channel>
 </rss>

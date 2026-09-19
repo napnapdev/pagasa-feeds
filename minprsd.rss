@@ -5,15 +5,23 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/minprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sat, 19 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 19:20:43 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Sep 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 03:40 AM 20 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #DavaoDelNorte(SantoTomas), #SurigaoDelSur(Barobo, Tagbina, Hinatuan, Lianga, SanAgustin, CityOfBislig), #AgusanDelSur(SanFrancisco, Prosperidad and CityOfBayugan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #DavaoCity, #DavaoDelNorte(CityOfPanabo, BraulioE.Dujali and Carmen) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 19 Sep 2026 21:03:34 +0000</pubDate>
+      <guid isPermaLink="false">ed29880b5081ed5e43c7656a8a2d617365118de4</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 21:03:34 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 PM 19 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
       <pubDate>Sat, 19 Sep 2026 14:00:04 +0000</pubDate>
       <guid isPermaLink="false">728dbf1a6d9eac7a171bb2e6a8a7847e231aeced</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 14:00:04 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 14:00:04 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
