@@ -5,8 +5,16 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/visprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sat, 19 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 06:30:42 +0000</lastBuildDate>
+    <pubDate>Sat, 19 Sep 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:03:17 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 03:25 PM 19 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(Dumarao), #Iloilo(CityOfPassi, SanRafael, SanEnrique, Dueñas, Dingle, Pototan, Mina, Badiangan, Janiuay, Maasin, Cabatuan, Alimodian, Leon, Tubungan, Igbaras, Lambunao, Calinog), #Antique(Valderrama), #NegrosOccidental(Binalbagan and CityOfHimamaylan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Cuartero, Dao, Dumalag, Ivisan, MaAyon, Panay, Panitan, Pilar, Pontevedra, PresidentRoxas, RoxasCity, Sigma, Tapaz), #Iloilo(Lemery, Sara, SanDionisio, Batad, Balasan, Estancia, Carles, Bingawan), #Antique(Sibalom, SanRemigio), #NegrosOccidental(CityOfKabankalan), #EasternSamar(Balangkayan and Llorente) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sat, 19 Sep 2026 09:03:34 +0000</pubDate>
+      <guid isPermaLink="false">97e4d1f74bb4e69937cd2fc707cb4333415e48ae</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 09:03:34 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 01:45 PM 19 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(RoxasCity, Panay, Panitan), #Bohol(Ubay, Alicia, Mabini, Buenavista, Trinidad, Danao, SanMiguel, Dagohoy, Pilar), #Cebu(CebuCity, Compostela, Liloan, Consolacion, CityOfNaga), #Leyte(SanMiguel, Alangalang, TaclobanCity, SantaFe, Pastrana, Palo, Tabontabon, Dagami and Tanauan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(NewWashington, Batan, Altavas), #Capiz(SapiAn, Mambusao, Sigma, Ivisan), #EasternSamar(Oras, Dolores, CanAvid), #Palawan(Bataraza and Rizal) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -37,7 +45,7 @@
       <pubDate>Sat, 19 Sep 2026 03:03:31 +0000</pubDate>
       <guid isPermaLink="false">d04e02310f15269504fb214d8302536737da6bed</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 03:03:31 +0000</ns3:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 03:03:31 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
@@ -70,7 +78,7 @@
       <pubDate>Fri, 18 Sep 2026 20:57:49 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09192026_1789764499.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 20:57:49 +0000</ns4:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 20:57:49 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
