@@ -6,14 +6,30 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 19 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 12:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 13:59:50 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 19 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #NegrosOccidental, #NegrosOriental, #Cebu, #Bohol, #Siquijor, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
+      <pubDate>Sat, 19 Sep 2026 14:00:04 +0000</pubDate>
+      <guid isPermaLink="false">7b7547416b1ad3b5b537d591a52d62939ab14a3e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 14:00:04 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 14 #VISPRSD&lt;br /&gt; Issued at 08:46 PM 19 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Argao and Sibonga) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Badian, Alegria, Dalaguete, Barili and Dumanjug) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sat, 19 Sep 2026 14:00:03 +0000</pubDate>
+      <guid isPermaLink="false">402dc14a3a96df1013a89593983c50b10acb7f78</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 14:00:04 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 07:50 PM 19 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(CebuCity, MandaueCity, LapuLapuCity and Consolacion) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Cordova) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Sat, 19 Sep 2026 12:03:35 +0000</pubDate>
       <guid isPermaLink="false">f7eddd77d36884aee78a1152461e0037bf1eb4bf</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 12:03:35 +0000</ns0:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 12:03:35 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
@@ -21,7 +37,7 @@
       <pubDate>Sat, 19 Sep 2026 12:03:34 +0000</pubDate>
       <guid isPermaLink="false">17ce75eab302db67b26e7bf99de39c7cc82e94fa</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 12:03:35 +0000</ns1:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 12:03:35 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
@@ -29,7 +45,7 @@
       <pubDate>Sat, 19 Sep 2026 12:03:33 +0000</pubDate>
       <guid isPermaLink="false">1e8ad5ed099560e51e4d24d1d38131d469620010</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 12:03:35 +0000</ns2:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 12:03:35 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
@@ -118,7 +134,7 @@
       <pubDate>Fri, 18 Sep 2026 20:57:49 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09192026_1789764499.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 20:57:49 +0000</ns6:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 18 Sep 2026 20:57:49 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
