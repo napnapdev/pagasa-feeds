@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 19 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 19 Sep 2026 01:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:03:17 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Information #MINPRSD&lt;br /&gt; Issued at 09:20 AM 19 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Bukidnon, #Camiguin, #LanaoDelNorte, #MisamisOccidental and #MisamisOriental within 12 hours.</description>
+      <pubDate>Sat, 19 Sep 2026 03:03:31 +0000</pubDate>
+      <guid isPermaLink="false">e2034f31a990853786f0490a4e3fbb9813cfefdd</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 03:03:31 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:20 AM 19 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
+      <pubDate>Sat, 19 Sep 2026 03:03:30 +0000</pubDate>
+      <guid isPermaLink="false">8d68c0c194e39a64ae97d08bdbbbe95debf820f9</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 03:03:31 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 5 FINAL #MINPRSD&lt;br /&gt; Issued at 11:50 PM 18 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
