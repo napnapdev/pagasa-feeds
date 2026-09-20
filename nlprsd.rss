@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 20 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 20 Sep 2026 01:30:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 03:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 20 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
+      <pubDate>Sun, 20 Sep 2026 03:03:34 +0000</pubDate>
+      <guid isPermaLink="false">36f8e68bf03ea317f3d85a387c582248635f297a</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 03:03:34 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 19 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">0ea62a6aa56ee923a46a124597c8088717ff0783</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 06:30:54 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 19 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
-      <pubDate>Sat, 19 Sep 2026 03:03:31 +0000</pubDate>
-      <guid isPermaLink="false">59e977fe5ae3af3c61974569885cf2a2177aaf5a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 03:03:31 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
