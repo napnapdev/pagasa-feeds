@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 20 Sep 2026 23:09:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:03:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 07:31 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(LaPaz), #Samar(CalbayogCity, SantaMargarita, Gandara, Pagsanghan, Tarangnan), #NegrosOccidental(HinobaAn), #NegrosOriental(Basay, CityOfBayawan and SantaCatalina) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Samar(Almagro, SantoNiño), #Biliran(Maripipi, Kawayan, Almeria, Culaba, Caibiran, Naval), #Leyte(Leyte, Palompon, Isabel, Merida, OrmocCity, Albuera, Burauen, Javier and Abuyog) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Mon, 21 Sep 2026 00:03:35 +0000</pubDate>
+      <guid isPermaLink="false">13358a5e92b8b0ceedf6034b98dd872fdc89698e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 00:03:35 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 6 #VISPRSD&lt;br /&gt; Issued at 06:08 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Samar(SantaRita, Basey, Hinabangan, Paranas, Tarangnan, SanJorge, Pagsanghan, Gandara, SantaMargarita, CalbayogCity), #Aklan(Ibajay), #Leyte(Inopacan, Hindang, Hilongos, Bato, Matalom, Javier), #Biliran(Naval, Biliran, Cabucgayan and Caibiran) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Biliran(Kawayan, Almeria, Culaba), #Samar(Daram, Zumarraga, Talalora, Villareal, Pinabacdao, Calbiga, SanSebastian, Motiong, Jiabong, CityOfCatbalogan), #Leyte(TaclobanCity, Babatngon and CityOfBaybay) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Sun, 20 Sep 2026 23:09:28 +0000</pubDate>
       <guid isPermaLink="false">cb88b503cd168c14044405601ce719e48f429b35</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 23:09:28 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 23:09:28 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
@@ -21,24 +29,24 @@
       <pubDate>Sun, 20 Sep 2026 23:09:27 +0000</pubDate>
       <guid isPermaLink="false">863c12b59ee7f61a1b04d090431b2e0ae03cdcc8</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 23:09:28 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 04:12 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Hindang, Inopacan, Hilongos, Capoocan, Tabango, Villaba, Kananga, Carigara, MatagOb, Bato), #Biliran(Kawayan, Culaba, Caibiran, Cabucgayan), #Samar(Tarangnan, CityOfCatbalogan, Pagsanghan, Jiabong, SanSebastian, Motiong, Paranas and Hinabangan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(Babatngon, TaclobanCity, CityOfBaybay, Calubian, SanIsidro, Leyte), #Biliran(Biliran, Naval, Almeria), #Samar(Zumarraga, Daram, Villareal, Talalora, SantaRita, Calbiga, Pinabacdao, Basey) and #EasternSamar(CityOfBorongan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sun, 20 Sep 2026 20:53:09 +0000</pubDate>
-      <guid isPermaLink="false">4d4d259a2a65e28dd1da1bcc4c76de23b7661ab3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 20:53:09 +0000</ns2:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 23:09:28 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 22 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09212026_1789937185.pdf</link>
       <description>Issued at: 05:00 AM, 21 September, 2026&lt;br /&gt;Valid until: 05:00 AM, 22 September, 2026</description>
-      <pubDate>Sun, 20 Sep 2026 20:53:08 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 20:53:09 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09212026_1789937185.pdf</guid>
       <category>Special Forecast</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 20:53:09 +0000</ns4:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 04:12 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Hindang, Inopacan, Hilongos, Capoocan, Tabango, Villaba, Kananga, Carigara, MatagOb, Bato), #Biliran(Kawayan, Culaba, Caibiran, Cabucgayan), #Samar(Tarangnan, CityOfCatbalogan, Pagsanghan, Jiabong, SanSebastian, Motiong, Paranas and Hinabangan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(Babatngon, TaclobanCity, CityOfBaybay, Calubian, SanIsidro, Leyte), #Biliran(Biliran, Naval, Almeria), #Samar(Zumarraga, Daram, Villareal, Talalora, SantaRita, Calbiga, Pinabacdao, Basey) and #EasternSamar(CityOfBorongan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sun, 20 Sep 2026 20:53:08 +0000</pubDate>
+      <guid isPermaLink="false">4d4d259a2a65e28dd1da1bcc4c76de23b7661ab3</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 20:53:09 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
@@ -199,14 +207,6 @@
       <guid isPermaLink="false">0a0cf9688d1ae07b02f6c38476e94c72a5f34d24</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 03:03:34 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #VISPRSD&lt;br /&gt; Issued at 05:52 AM 20 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Biliran(Kawayan, Culaba, Caibiran, Biliran, Cabucgayan), #Palawan(Agutaya and Coron) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Biliran(Naval, Almeria), #Leyte(Calubian and SanIsidro) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sat, 19 Sep 2026 23:26:50 +0000</pubDate>
-      <guid isPermaLink="false">fd881cce0e0bc184501065e0dce5605e75534cfb</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 19 Sep 2026 23:26:50 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
