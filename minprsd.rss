@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 01:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 03:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 13 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 13 #MINPRSD&lt;br /&gt; Issued at 10:00 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 21 Sep 2026 03:03:40 +0000</pubDate>
+      <guid isPermaLink="false">8e66e2f232a766daba9f9c9871cc2a7dba5b9d05</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:40 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #MisamisOccidental, #MisamisOriental, #Camiguin, #Bukidnon and #LanaoDelNorte within 12 hours.</description>
+      <pubDate>Mon, 21 Sep 2026 03:03:39 +0000</pubDate>
+      <guid isPermaLink="false">73dd75df3ceb592eeeaa05195f2e0dd5ee0b2c57</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:40 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 12 #MINPRSD&lt;br /&gt; Issued at 08:00 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelNorte(SiargaoIsland, Socorro, Claver), #DavaoDelNorte(CityOfSamal), #DavaoDelSur(SantaCruz, CityOfDigos, Hagonoy, Padada, Sulop, Malalag), #DavaoOccidental(SantaMaria, Malita), #SurigaoDelSur(Carrascal, Cantilan, Madrid, Carmen, Lanuza and Cortes) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
