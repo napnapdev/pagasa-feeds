@@ -6,14 +6,38 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 13:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:03:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 30 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 30 #VISPRSD&lt;br /&gt; Issued at 10:27 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Aklan(Malay, Buruanga), #Antique(Libertad), #NegrosOccidental(CityOfSipalay, Cauayan, Binalbagan, CityOfHimamaylan), #Samar(Tarangnan and CityOfCatbalogan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(Hinigaran and Pontevedra) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Mon, 21 Sep 2026 15:03:36 +0000</pubDate>
+      <guid isPermaLink="false">0f67836aae03993069883b6c13215d6cb840b95c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 15:03:36 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #NegrosOccidental, #NegrosOriental, #Cebu, #Bohol, #Siquijor, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
+      <pubDate>Mon, 21 Sep 2026 15:03:35 +0000</pubDate>
+      <guid isPermaLink="false">be315fea12c622e69105b2e5d1a63fd5011e0f03</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 15:03:36 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 29 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 29 #VISPRSD&lt;br /&gt; Issued at 09:28 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(CityOfBayawan and Basay) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(HinobaAn) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Mon, 21 Sep 2026 15:03:34 +0000</pubDate>
+      <guid isPermaLink="false">3d2c2e46683ae4afdd8c23b5bc60dd10ecc42f14</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 15:03:36 +0000</ns2:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 28 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 28 #VISPRSD&lt;br /&gt; Issued at 08:22 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Bohol(Loboc, Bilar, Lila, Sevilla and Dimiao) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Siquijor(Maria, Lazi, EnriqueVillanueva), #Bohol(Alburquerque, Loay, Sikatuna), #NegrosOccidental(HinobaAn) and #Palawan(Cagayancillo) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Mon, 21 Sep 2026 12:30:59 +0000</pubDate>
       <guid isPermaLink="false">050c9b665c16b78f421295a2e4484500ca9fd06c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 12:30:59 +0000</ns0:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 12:30:59 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 27 #VISPRSD</title>
@@ -255,30 +279,6 @@
       <guid isPermaLink="false">6c9000075c93e86cbc95437b90f91aa0b1903615</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 18:03:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 20 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #NegrosOccidental, #NegrosOriental, #Cebu, #Bohol, #Siquijor, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
-      <pubDate>Sun, 20 Sep 2026 14:56:06 +0000</pubDate>
-      <guid isPermaLink="false">960c8daaf590ad0243127658bd357fe2bcb7e90d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 14:56:06 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 19 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 19 #VISPRSD&lt;br /&gt; Issued at 10:23 PM 20 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Samar(SanSebastian, Motiong and Paranas) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Samar(CityOfCatbalogan, Jiabong), #EasternSamar(Guiuan), #SouthernLeyte(Malitbog, PadreBurgos, Macrohon, Bontoc, TomasOppus) and #Leyte(Hilongos) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sun, 20 Sep 2026 14:56:05 +0000</pubDate>
-      <guid isPermaLink="false">df30d8cf252c79cea0a45c63db289dc3a5a5319a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 14:56:06 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 18 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 18 #VISPRSD&lt;br /&gt; Issued at 09:34 PM 20 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Hilongos), #SouthernLeyte(Bontoc, TomasOppus, Malitbog, Macrohon and PadreBurgos) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SouthernLeyte(CityOfMaasin), #Leyte(Matalom and Bato) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sun, 20 Sep 2026 14:56:04 +0000</pubDate>
-      <guid isPermaLink="false">a6c5d8533fdfc65f531330c95d26e7a759bf32ee</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 14:56:06 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
