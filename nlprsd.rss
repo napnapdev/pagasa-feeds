@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 09:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:30:35 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #NLPRSD&lt;br /&gt; Issued at 05:03 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Abra(Tineg, Lagayan, SanJuan, Lagangilang, Dolores, Sallapadan, Bucay, Bucloc, Boliney), #Apayao(Kabugao, Conner, Calanasan), #Kalinga(Pinukpuk, Pasil) and #IlocosNorte(NuevaEra) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Abra(Malibcong, LicuanBaay, Lacub, Daguioman) and #Kalinga(Balbalan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 21 Sep 2026 09:30:58 +0000</pubDate>
+      <guid isPermaLink="false">9c1905822dfb1f28c4c020818075c70e40fdbaec</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 09:30:58 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 1 #NLPRSD&lt;br /&gt; Issued at 03:57 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Abra(Tineg, Lagayan, SanJuan, Danglas, LaPaz, Dolores, Tayum, Bangued, Lagangilang, Malibcong), #IlocosNorte(Piddig, Carasi, Sarrat, CityOfBatac, Pinili, Badoc), #IlocosSur(Sinait, Cabugao), #Apayao(Kabugao and Calanasan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #IlocosNorte(NuevaEra, Solsona, Dingras, Marcos, Banna) and #Abra(Lacub) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Mon, 21 Sep 2026 09:03:40 +0000</pubDate>
       <guid isPermaLink="false">f62f406820e045e653290a4f488933bd32a16796</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 09:03:40 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 09:03:40 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Mon, 21 Sep 2026 03:03:41 +0000</pubDate>
       <guid isPermaLink="false">e18165679db64a7effdcdd5d9c7a392c5df3b1c7</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:41 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:41 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Mon, 21 Sep 2026 03:03:40 +0000</pubDate>
       <guid isPermaLink="false">f2456d41316215b4406c67db02b76d623a703b21</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:41 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:41 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #NLPRSD</title>
