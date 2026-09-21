@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 12:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:07:22 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 21 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 21 #NCR_PRSD&lt;br /&gt; Issued at: 6:23 PM, 21 September 2026(Monday)&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are expected over Bataan (Morong, Bagac, Mariveles, and Limay), Batangas (Rosario, Lobo, San Juan, Batangas City, Taysan, Mabini, Mataasnakahoy, Malvar, Santo Tomas, Tanauan, Lipa, Padre Garcia, Balete, and Ibaan), Bulacan (Angat, Balagtas, Bocaue, Bustos, Meycauayan, Marilao, Obando, Pandi, San Ildefonso, San Miguel, San Rafael, Santa Maria, Guiguinto, Bulakan, Plaridel, Baliuag, Pulilan, Calumpit, Malolos, Hagonoy, and Paombong), Cavite (Bacoor, Kawit, Imus, Dasmarinas, Carmona, Gen. Mariano Alvarez, Cavite City, Noveleta, and Silang), Laguna (Pakil, Pangil, Paete, Kalayaan, Cavinti, Luisiana, Binan, San Pedro, Santa Rosa, Cabuyao, Calamba, Alaminos, Bay, Calauan, Liliw, Los Banos, Magdalena, Majayjay, Nagcarlan, Pagsanjan, Rizal, San Pablo, and Victoria), Nueva Ecija (Gapan, Penaranda, San Leonardo, Cuyapo, Talugtug, Nampicuan, Guimba, Licab, Quezon, Cabiao, San Antonio, San Isidro, Jaen, and Zaragoza), Pampanga (Candaba, San Luis, Apalit, San Simon, Macabebe, Masantol, Porac, and Floridablanca), Quezon (Unisan, Padre Burgos, Pagbilao, Tayabas, Sampaloc, Lucban, Lucena, Sariaya, Candelaria, Agdangan, San Francisco, Tagkawayan, Guinayangan, Buenavista, Lopez, Catanauan, General Luna, Macalelon, Perez, Alabat, Calauag, Quezon, Gumaca, Pitogo, Plaridel, Dolores, San Antonio, Tiaong, Burdeos, and Panukulan), Rizal (Binangonan, Cardona, and Jala-Jala), Zambales (Olongapo, Cabangan, Botolan, Palauig, Iba, Santa Cruz, Masinloc, and Candelaria), Metro Manila, and Tarlac within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bulacan (Norzagaray, San Jose del Monte, and Dona Remedios Trinidad), Laguna (Santa Maria, Mabitac, Famy, Siniloan, Pila, Santa Cruz, and Lumban), Nueva Ecija (General Tinio, Gabaldon, Laur, Bongabon, Pantabangan, Carranglan, Santo Domingo, Talavera, Rizal, Llanera, Cabanatuan, General Mamerto Natividad, Palayan, Munoz, San Jose, Lupao, Santa Rosa, and Aliaga), Quezon (General Nakar, Atimonan, Mauban, Real, Infanta, Mulanay, San Narciso, and San Andres), Rizal (Rodriguez, Tanay, Antipolo, San Mateo, Baras, Morong, Teresa, Pililla, Taytay, Cainta, and Angono), and Zambales (San Antonio, San Narciso, San Felipe, Subic, Castillejos, and San Marcelino) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -126,14 +126,6 @@
       <guid isPermaLink="false">cabb5e6606aaa9a094b25673cceab0481dfbc05a</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 14:56:06 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 6 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 6 #NCR_PRSD&lt;br /&gt; Issued at: 8:00 PM, 20 September 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Dona Remedios Trinidad) and Nueva Ecija (General Tinio) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Nueva Ecija (Gabaldon) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 20 Sep 2026 12:07:31 +0000</pubDate>
-      <guid isPermaLink="false">fbbcdba5880d13156bbd0ce9e22e7d088608e0a3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 12:07:31 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
