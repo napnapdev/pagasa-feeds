@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 00:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 01:10:09 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 08:32 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(Candoni), #Leyte(Calubian, OrmocCity, LaPaz, Mayorga), #Biliran(Naval, Biliran, Cabucgayan and Caibiran) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(Cauayan, CityOfSipalay), #Cebu(Daanbantayan), #Leyte(SanIsidro, Leyte, Tabango, Palompon, Isabel, Merida, Macarthur, Javier, CityOfBaybay) and #EasternSamar(Guiuan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Mon, 21 Sep 2026 01:10:27 +0000</pubDate>
+      <guid isPermaLink="false">86ca1614f6b024f6efd5ef66a4391d434d7474de</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 01:10:27 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 07:31 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(LaPaz), #Samar(CalbayogCity, SantaMargarita, Gandara, Pagsanghan, Tarangnan), #NegrosOccidental(HinobaAn), #NegrosOriental(Basay, CityOfBayawan and SantaCatalina) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Samar(Almagro, SantoNiño), #Biliran(Maripipi, Kawayan, Almeria, Culaba, Caibiran, Naval), #Leyte(Leyte, Palompon, Isabel, Merida, OrmocCity, Albuera, Burauen, Javier and Abuyog) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Mon, 21 Sep 2026 00:03:35 +0000</pubDate>
       <guid isPermaLink="false">13358a5e92b8b0ceedf6034b98dd872fdc89698e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 00:03:35 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 00:03:35 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Sun, 20 Sep 2026 23:09:28 +0000</pubDate>
       <guid isPermaLink="false">cb88b503cd168c14044405601ce719e48f429b35</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 23:09:28 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 23:09:28 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
