@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 06:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:07:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 17 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 17 #VISPRSD&lt;br /&gt; Issued at 01:26 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Brooke'sPoint, SofronioEspanola, Narra, Aborlan), #Iloilo(IloiloCity, Pavia, SantaBarbara, NewLucena, Dumangas), #SouthernLeyte(TomasOppus, Bontoc, Sogod and Libagon) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(SagayCity, CityOfEscalante, Toboso, Calatrava, SalvadorBenedicto, SanCarlosCity, CadizCity), #Cebu(Sibonga, LapuLapuCity, Cordova), #Palawan(PuertoPrincesaCity), #Biliran(Maripipi) and #Bohol(Balilihan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Mon, 21 Sep 2026 06:07:37 +0000</pubDate>
+      <guid isPermaLink="false">b3835d56176541117a7d58d80e298b35999531c3</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 06:07:37 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 16 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 16 #VISPRSD&lt;br /&gt; Issued at 12:56 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(DanaoCity, Compostela, LapuLapuCity, Minglanilla, CityOfTalisay, Cordova, Argao, Dalaguete), #Bohol(Batuan, Carmen, Pilar), #Palawan(PuertoPrincesaCity, Balabac), #NegrosOriental(Mabinay, BaisCity), #EasternSamar(SanJulian, Balangkayan, Maydolong, CityOfBorongan, Lawaan, Balangiga, Giporlos, Oras, Maslog), #Samar(Pinabacdao, Calbiga, Paranas, Motiong, Jiabong, SanJoseDeBuan, Gandara), #SouthernLeyte(Anahawan, SanJuan), #Iloilo(Sara, Ajuy, Lemery, SanRafael, Maasin, Cabatuan, Alimodian, Tigbauan, Oton, SanMiguel, Dueñas, CityOfPassi, SanEnrique, Dingle, Anilao, Banate, Pototan, Mina, BarotacNuevo), #Capiz(Dumarao, Cuartero, Sigma, MaAyon and Panitan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(CebuCity, Liloan, MandaueCity, Consolacion, Badian), #Bohol(Sevilla, Bilar, Dimiao, Valencia, Ubay, Mabini, Alicia, SierraBullones, GarciaHernandez, Jagna, Duero, Guindulman, Anda, Candijay), #NegrosOriental(CityOfBayawan, CityOfTanjay), #NegrosOccidental(CityOfKabankalan), #Siquijor(Maria), #EasternSamar(CanAvid, Taft, Sulat, Guiuan, Mercedes, Salcedo, Hernani, GeneralMacarthur, Quinapondan, Llorente, Dolores), #Samar(Marabut, Basey, SantaRita, Matuguinao), #SouthernLeyte(Sogod, Silago, Hinunangan, Libagon, SaintBernard, Hinundayan), #Capiz(Dao, Dumalag, Mambusao), #Iloilo(BarotacViejo, Leon, Janiuay, Badiangan and Lambunao) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Mon, 21 Sep 2026 06:04:11 +0000</pubDate>
       <guid isPermaLink="false">518786b98010be186dbaf4ef4bab3c9f8b98a8ae</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 06:04:11 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 06:04:11 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Mon, 21 Sep 2026 06:04:10 +0000</pubDate>
       <guid isPermaLink="false">447162999015050be44ab72264fb27875798b3a2</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 06:04:11 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 06:04:11 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Mon, 21 Sep 2026 06:04:09 +0000</pubDate>
       <guid isPermaLink="false">165650afa2cb93b6ea6ff2cbbf7640f1e3b42d7c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 06:04:11 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 06:04:11 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
@@ -37,7 +45,7 @@
       <pubDate>Mon, 21 Sep 2026 06:04:08 +0000</pubDate>
       <guid isPermaLink="false">ea45aa17e4d3047906ca1bac345e652790b8cf14</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 06:04:11 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 06:04:11 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
@@ -45,7 +53,7 @@
       <pubDate>Mon, 21 Sep 2026 06:04:07 +0000</pubDate>
       <guid isPermaLink="false">0034143c42fa9d30aa063b463fbabd5d3fd18373</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 06:04:11 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 06:04:11 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
