@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 15:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:03:16 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 24 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 24 #NCR_PRSD&lt;br /&gt; Issued at: 12:54 AM, 22 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Bagac, Orion, Limay, Mariveles, Pilar, and Balanga), Batangas (Nasugbu and Lian), Bulacan (Bustos, Santa Maria, Angat, Bocaue, Balagtas, Plaridel, Hagonoy, San Jose del Monte, Meycauayan, Marilao, and Obando), Cavite (Maragondon, Ternate, Magallanes, Alfonso, and General Emilio Aguinaldo), Metro Manila (Caloocan, Quezon City, Valenzuela, Malabon, and Navotas), Nueva Ecija (Guimba and Cuyapo), Pampanga (Macabebe, Sasmuan, and Masantol), Quezon (Panukulan, Burdeos, Patnanungan, Polillo, General Nakar, Infanta, and Real), and Tarlac (Anao, Ramos, Pura, and San Manuel) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bulacan (Pandi) and Nueva Ecija (Nampicuan) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 21 Sep 2026 18:03:31 +0000</pubDate>
+      <guid isPermaLink="false">e3b98ec69d4aa7f0554dd8b416d132ee51d72a0d</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 18:03:31 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 23 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 23 #NCR_PRSD&lt;br /&gt; Issued at: 10:55 PM, 21 September 2026(Monday)&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are expected over Bataan (Mariveles, Limay, Orion, Bagac, and Morong), Batangas (Tuy, Lian, Balayan, Calaca, and Calatagan), Bulacan (Obando, Meycauayan, San Jose del Monte, Bulakan, Marilao, Santa Maria, and Bocaue), Cavite (Gen. Mariano Alvarez, Carmona, Imus, Noveleta, General Trias, Tanza, Rosario, Kawit, Dasmarinas, Trece Martires, Silang, Maragondon, General Emilio Aguinaldo, Indang, Amadeo, Alfonso, Magallanes, Mendez, and Tagaytay), Laguna (Santa Maria, Pakil, Mabitac, Pangil, Siniloan, Famy, San Pedro, Santa Rosa, Binan, Cabuyao, Calamba, Paete, Kalayaan, Lumban, Cavinti, Luisiana, Pagsanjan, and Santa Cruz), Metro Manila (Valenzuela, Quezon City, Caloocan, and Marikina), Nueva Ecija (Carranglan, Pantabangan, Bongabon, Gabaldon, General Tinio, Palayan, Rizal, Laur, Llanera, Talavera, Aliaga, Penaranda, San Leonardo, Zaragoza, San Antonio, and Gapan), Pampanga (Lubao, Sasmuan, Macabebe, and Masantol), Quezon (Real, Panukulan, Burdeos, San Andres, Mulanay, San Narciso, San Francisco, Atimonan, Mauban, Perez, Alabat, Quezon, Buenavista, Catanauan, Sampaloc, and Lucban), Rizal (Teresa, Morong, Baras, Tanay, Pililla, Jala-Jala, Antipolo, and San Mateo), and Zambales (Santa Cruz, Candelaria, Masinloc, and Palauig) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Batangas (Nasugbu), Bulacan (Dona Remedios Trinidad and Norzagaray), Cavite (Bacoor, Cavite City, Ternate, and Naic), Metro Manila (Manila, Pasay, Paranaque, Malabon, Navotas, San Juan, Mandaluyong, Makati, Taguig, Las Pinas, Muntinlupa, Pateros, and Pasig), Nueva Ecija (Jaen, Santa Rosa, Cabanatuan, and General Mamerto Natividad), Quezon (General Nakar, Polillo, Infanta, Patnanungan, and Jomalig), and Rizal (Taytay, Angono, Binangonan, Cardona, Rodriguez, and Cainta) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -126,7 +134,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
