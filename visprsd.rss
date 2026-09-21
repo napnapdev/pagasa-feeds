@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 03:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 03:30:37 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 11:04 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Bohol(SierraBullones, Pilar, Duero, Guindulman, Anda, Candijay, Alicia) and #Cebu(CebuCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bohol(Carmen, Dagohoy, Dimiao, Valencia, GarciaHernandez and Jagna) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -231,14 +231,6 @@
       <guid isPermaLink="false">1ec8110b1d7d6be6a8f18e9cff51adce071d4636</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 06:03:33 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 6 #VISPRSD&lt;br /&gt; Issued at 11:12 AM 20 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(OrmocCity, Alangalang, Jaro, SantaFe, Palo, Mahaplag, Javier, Macarthur, LaPaz, Mayorga, CityOfBaybay, Albuera, Burauen, TaclobanCity, Babatngon, SanMiguel), #SouthernLeyte(Liloan, Bontoc, TomasOppus), #Samar(Hinabangan) and #EasternSamar(Taft) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SouthernLeyte(Silago, Hinunangan, Anahawan, SanJuan, SaintBernard, Hinundayan, Libagon, Sogod), #Leyte(Abuyog, Tanauan, Dulag, Tolosa, Dagami, Tabontabon, Julita, Pastrana), #EasternSamar(CityOfBorongan, SanJulian and Sulat) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sun, 20 Sep 2026 03:30:50 +0000</pubDate>
-      <guid isPermaLink="false">1db8b0e29f62ad866e321691178cb04c0b74b845</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 03:30:50 +0000</ns4:seen>
     </item>
   </channel>
 </rss>

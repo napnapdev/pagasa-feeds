@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 03:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 03:30:39 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 15 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 15 #NCR_PRSD&lt;br /&gt; Issued at: 11:25 AM, 21 September 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Limay, Mariveles, Pilar, and Orion), Batangas (Tanauan, Talisay, Laurel, Lemery, and Agoncillo), Cavite (Tagaytay, Silang, Amadeo, Alfonso, Indang, Mendez, Trece Martires, Naic, Tanza, General Emilio Aguinaldo, Maragondon, Ternate, and Magallanes), Metro Manila (Quezon City, Caloocan, Marikina, and Pasig), Pampanga (Porac, Mabalacat, and Angeles), Quezon (Polillo, Burdeos, Panukulan, Patnanungan, Jomalig, San Narciso, Buenavista, Catanauan, Lopez, General Luna, Macalelon, Guinayangan, Tagkawayan, Calauag, Gumaca, Pitogo, Unisan, Atimonan, Plaridel, Agdangan, Padre Burgos, Pagbilao, Mauban, Tayabas, Sampaloc, and Lucban), Rizal (Rodriguez, San Mateo, Antipolo, Taytay, Cainta, Tanay, Baras, Morong, and Teresa), Tarlac (Capas, San Jose, and Bamban), and Zambales (Botolan, Palauig, Iba, and Masinloc) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 21 Sep 2026 03:30:58 +0000</pubDate>
+      <guid isPermaLink="false">cd4b786b11b8a1fc57949803091a5968ea3852ce</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:30:58 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 14 #NCR_PRSD&lt;br /&gt; Issued at: 9:34 AM, 21 September 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Limay and Mariveles), Batangas (Calaca, Tuy, Balayan, Lian, Nasugbu, and Calatagan), Bulacan (Meycauayan, Marilao, and Obando), Cavite (Magallanes, General Emilio Aguinaldo, Alfonso, Amadeo, General Trias, Mendez, Trece Martires, Bacoor, Carmona, Cavite City, Dasmarinas, Gen. Mariano Alvarez, Imus, Kawit, Noveleta, Rosario, Tanza, Silang, and Indang), Laguna (San Pedro, Binan, and Santa Rosa), Quezon (Jomalig, Patnanungan, Burdeos, and Polillo), and Metro Manila within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Cavite (Naic, Maragondon, and Ternate) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Mon, 21 Sep 2026 03:03:41 +0000</pubDate>
       <guid isPermaLink="false">e5277fa930551f84caa3511124ae8028970b1f3f</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:41 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:41 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #NCRPRSD</title>
@@ -126,7 +134,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
