@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 12:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 13:14:22 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 28 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 28 #VISPRSD&lt;br /&gt; Issued at 08:22 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Bohol(Loboc, Bilar, Lila, Sevilla and Dimiao) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Siquijor(Maria, Lazi, EnriqueVillanueva), #Bohol(Alburquerque, Loay, Sikatuna), #NegrosOccidental(HinobaAn) and #Palawan(Cagayancillo) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -157,7 +157,7 @@
       <pubDate>Mon, 21 Sep 2026 03:03:41 +0000</pubDate>
       <guid isPermaLink="false">176f4d05b1292226c21d8dfe85e3f750686f5843</guid>
       <category>Thunderstorm Advisory</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:41 +0000</ns5:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:41 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
@@ -214,7 +214,7 @@
       <pubDate>Sun, 20 Sep 2026 20:53:09 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09212026_1789937185.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 20:53:09 +0000</ns6:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 20:53:09 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
