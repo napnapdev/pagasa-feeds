@@ -5,15 +5,23 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/nlprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
-    <pubDate>Mon, 21 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 06:30:36 +0000</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:03:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #NLPRSD&lt;br /&gt; Issued at 03:57 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Abra(Tineg, Lagayan, SanJuan, Danglas, LaPaz, Dolores, Tayum, Bangued, Lagangilang, Malibcong), #IlocosNorte(Piddig, Carasi, Sarrat, CityOfBatac, Pinili, Badoc), #IlocosSur(Sinait, Cabugao), #Apayao(Kabugao and Calanasan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #IlocosNorte(NuevaEra, Solsona, Dingras, Marcos, Banna) and #Abra(Lacub) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 21 Sep 2026 09:03:40 +0000</pubDate>
+      <guid isPermaLink="false">f62f406820e045e653290a4f488933bd32a16796</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 09:03:40 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cagayan within 12 hours.</description>
       <pubDate>Mon, 21 Sep 2026 03:03:41 +0000</pubDate>
       <guid isPermaLink="false">e18165679db64a7effdcdd5d9c7a392c5df3b1c7</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:41 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:41 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Mon, 21 Sep 2026 03:03:40 +0000</pubDate>
       <guid isPermaLink="false">f2456d41316215b4406c67db02b76d623a703b21</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:41 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 03:03:41 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #NLPRSD</title>
@@ -54,22 +62,6 @@
       <guid isPermaLink="false">84590c42f64ba5d50a304ea1b0d8ea75c322e346</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 11:52:05 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #NLPRSD&lt;br /&gt; Issued at 04:02 PM 20 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Kalinga(Tinglayan, Balbalan, Lubuagan), #MountainProvince(Bontoc, Sagada, Besao, Tadian, Bauko, Barlig), #Abra(Bangued, Langiden, LaPaz, Dolores, Lagangilang, Tayum, Pidigan, SanQuintin, Peñarrubia, Bucay, Sallapadan), #IlocosNorte(Piddig, Carasi, Sarrat, CityOfBatac, Marcos, Banna, Pinili, Badoc, Paoay, Currimao), #Apayao(Calanasan, Conner, Kabugao), #Cagayan(TuguegaraoCity), #Isabela(Tumauini, SantaMaria and SantoTomas) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #IlocosNorte(NuevaEra, Solsona, Dingras), #Abra(Tineg, Danglas, Lagayan, SanJuan, Lacub, Malibcong, LicuanBaay, Daguioman, Bucloc, Boliney, Tubo), #Kalinga(Pasil), #MountainProvince(Sadanga, Sabangan), #Isabela(SanPablo, Cabagan, Maconacon) and #Cagayan(Peñablanca) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 20 Sep 2026 09:03:39 +0000</pubDate>
-      <guid isPermaLink="false">863af007d0c9b43566a6fafffdb91f7e1490fe8a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 09:03:39 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #NLPRSD&lt;br /&gt; Issued at 02:36 PM 20 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(Baggao, Gattaran), #IlocosNorte(Vintar, Dingras, Marcos, Pinili, Badoc, CityOfBatac, Piddig, Solsona), #Abra(Danglas, SanJuan, LaPaz, Tubo, LicuanBaay, Bucloc, Daguioman, Boliney, Dolores), #Isabela(SanPablo, Maconacon), #Apayao(Kabugao, Conner), #Kalinga(Pasil, Lubuagan, Tinglayan), #MountainProvince(Sabangan, Besao, Tadian and Bauko) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Peñablanca), #IlocosNorte(NuevaEra, Banna, Carasi), #Abra(Tineg, Lagayan, Lacub, Malibcong), #Apayao(Calanasan), #MountainProvince(Sagada, Sadanga, Bontoc) and #Kalinga(Balbalan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 20 Sep 2026 06:52:19 +0000</pubDate>
-      <guid isPermaLink="false">506883262470c8e5ead7861a50c17b5800670e5a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 06:52:19 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
