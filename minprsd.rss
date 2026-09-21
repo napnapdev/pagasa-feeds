@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 00:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:07:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 12 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 12 #MINPRSD&lt;br /&gt; Issued at 08:00 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelNorte(SiargaoIsland, Socorro, Claver), #DavaoDelNorte(CityOfSamal), #DavaoDelSur(SantaCruz, CityOfDigos, Hagonoy, Padada, Sulop, Malalag), #DavaoOccidental(SantaMaria, Malita), #SurigaoDelSur(Carrascal, Cantilan, Madrid, Carmen, Lanuza and Cortes) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 21 Sep 2026 00:07:34 +0000</pubDate>
+      <guid isPermaLink="false">a57c3a2e0257131c71f1b6edac12314cf689ab7c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 00:07:34 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 11 #MINPRSD&lt;br /&gt; Issued at 06:00 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Camiguin, #MisamisOriental(Balingoan, Kinoguitan, GingoogCity, Medina, Talisayan, Magsaysay), #AgusanDelNorte(Carmen, Nasipit, Buenavista), #SurigaoDelNorte(SiargaoIsland, Socorro) and #DavaoDelNorte(CityOfSamal) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 20 Sep 2026 23:09:28 +0000</pubDate>
       <guid isPermaLink="false">3ae35bad1886c6350b9240aebf33f7052436aee6</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 23:09:28 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 23:09:28 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #MINPRSD</title>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">b0861a19ece6418f3c44cf48e8306bcb18445bbc</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 00:31:27 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 05:40 AM 20 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #NorthCotabato(Alamada, Banisilan), #MaguindanaoDelNorte(Buldon), #LanaoDelSur(Butig), #DavaoDelNorte(CityOfSamal), #AgusanDelSur(CityOfBayugan, Prosperidad, SanFrancisco), #SurigaoDelSur(Barobo, Lianga, SanMiguel, Marihatag, SanAgustin), #SurigaoDelNorte(SurigaoCity, Sison and SanFrancisco) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 20 Sep 2026 00:03:35 +0000</pubDate>
-      <guid isPermaLink="false">801716e3c49e2adf473af864a48a08d92da58a79</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 00:03:35 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
