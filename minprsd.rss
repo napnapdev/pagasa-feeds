@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 21 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 18:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:30:36 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 3 #MINPRSD</title>
       <description>Rainfall Advisory No. 3 #MINPRSD&lt;br /&gt; Weather System: Trough of LPA &lt;br /&gt; Issued at 02:00 AM 22 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #AgusanDelNorte(Buenavista, Nasipit, Carmen, LasNieves, CityOfCabadbaran, Tubay, Santiago, Jabonga), #AgusanDelSur(Esperanza, SanLuis, LaPaz, Sibagat, CityOfBayugan, Prosperidad, Talacogon, SanFrancisco, Rosario), #SurigaoDelSur(Tagbina, Hinatuan, Barobo), #DavaoOriental(SanIsidro, GovernorGeneroso and CityOfMati) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #AgusanDelNorte(ButuanCity, RemediosT.Romualdez and Magallanes) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.</description>
@@ -126,14 +126,6 @@
       <guid isPermaLink="false">9bec930f4e13138ffe4654bc4b6ef51b84c211e6</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 20:53:08 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 9 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 9 #MINPRSD&lt;br /&gt; Issued at 02:06 AM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #DinagatIslands, #Camiguin, #MisamisOriental(Magsaysay), #SurigaoDelSur(Carrascal, Cantilan, Madrid, Carmen, Cortes, Lanuza), #MaguindanaoDelNorte(Parang, SultanMastura, SultanKudarat), #ZamboangaSibugay(Mabuhay, Talusan, Olutanga), #ZamboangaCity, #ZamboangaDelSur(Dimataling, Pitogo, Tabina), #AgusanDelNorte(Nasipit, Buenavista, ButuanCity, Magallanes, RemediosT.Romualdez, Carmen, CityOfCabadbaran, Santiago, Tubay, Jabonga, Kitcharao) and #SurigaoDelNorte within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 20 Sep 2026 18:30:48 +0000</pubDate>
-      <guid isPermaLink="false">0eefca851ce620d26a2fce9d3c15a079e444c10e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 20 Sep 2026 18:30:48 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
