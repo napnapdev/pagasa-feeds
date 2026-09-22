@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 22 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 06:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:30:39 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 17 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 17 #VISPRSD&lt;br /&gt; Issued at 01:22 PM 22 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(Tibiao, Culasi, LauaAn, Bugasong), #Iloilo(Miagao, Igbaras, Tubungan, Alimodian, Leon, Janiuay, Maasin, Calinog, Balasan, Estancia, Bingawan, Lemery, BarotacViejo, SanRafael, Banate, CityOfPassi, SanEnrique, Dueñas, Badiangan, Cabatuan), #Aklan(Malinao, Altavas), #Capiz(SapiAn, Sigma, Panitan, Pontevedra, PresidentRoxas, Pilar, Dao, MaAyon, Dumalag, Dumarao, Cuartero), #NegrosOccidental(SagayCity, CityOfEscalante, SalvadorBenedicto, SanCarlosCity, CityOfHimamaylan, Candoni), #Cebu(MandaueCity, DanaoCity), #Bohol(TagbilaranCity, Dauis, Baclayon, Corella, Alburquerque, Sikatuna, Loboc, Loay, Lila, Bilar, Carmen, SierraBullones, Danao, Trinidad, Maribojoc, Antequera, Catigbian, Batuan, SanIsidro, Sagbayan, Tubigon, Calape, Clarin), #OccidentalMindoro(Magsaysay, SanJose, Paluan and Mamburao) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Madalag, Libacao, Balete, Banga), #Capiz(Jamindan, Tapaz, Mambusao), #Antique(Barbaza, Valderrama, SanRemigio), #Iloilo(Lambunao, Batad, SanDionisio, Sara, Concepcion, Ajuy), #NegrosOccidental(CadizCity, Toboso, Calatrava, CityOfKabankalan, Ilog, HinobaAn), #Cebu(Argao, Sibonga, CityOfCarcar, CebuCity, Compostela, Liloan, Consolacion), #Bohol(Dimiao, Valencia, GarciaHernandez, Duero, Jagna, Anda, Guindulman, Candijay, Dagohoy, SanMiguel, Pilar, Alicia, Cortes, Balilihan, Sevilla), #Palawan(Kalayaan), #OccidentalMindoro(Sablayan, Calintaan, Rizal, SantaCruz and AbraDeIlog) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -53,7 +53,7 @@
       <pubDate>Tue, 22 Sep 2026 03:04:11 +0000</pubDate>
       <guid isPermaLink="false">405009903005e05c34f8b962c44c4001630fc4e6</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
@@ -118,7 +118,7 @@
       <pubDate>Mon, 21 Sep 2026 21:03:41 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09222026_1790024273.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 21:03:41 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 21:03:41 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #VISPRSD</title>

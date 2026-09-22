@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 22 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 06:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:30:37 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 2 #MINPRSD</title>
+      <description>Rainfall Advisory No. 2 #MINPRSD&lt;br /&gt; Weather System: Trough of LPA &lt;br /&gt; Issued at 02:00 PM 22 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #DavaoOriental(GovernorGeneroso, SanIsidro, CityOfMati, Banaybanay, Lupon), #SurigaoDelSur(Lingig), #AgusanDelSur(Veruela, SantaJosefa, Trento, Esperanza, Talacogon), #SurigaoDelNorte(TaganaAn, SurigaoCity and Placer) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #DavaoOriental(Tarragona, Manay, Caraga, Baganga, Cateel, Boston), #AgusanDelSur(Loreto, LaPaz and SanLuis) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.</description>
+      <pubDate>Tue, 22 Sep 2026 06:30:50 +0000</pubDate>
+      <guid isPermaLink="false">3ece847ac1ac4bb603cd6b54e9ca0c966c127778</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 06:30:50 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 1 #MINPRSD</title>
       <description>Rainfall Advisory No. 1 #MINPRSD&lt;br /&gt; Weather System: Trough of LPA &lt;br /&gt; Issued at 01:00 PM 22 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #DavaoOriental(GovernorGeneroso, SanIsidro, CityOfMati, Banaybanay, Lupon, Cateel, Boston) and #SurigaoDelSur(Lingig) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #DavaoOriental(Tarragona, Manay, Caraga and Baganga) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
       <pubDate>Tue, 22 Sep 2026 06:00:29 +0000</pubDate>
       <guid isPermaLink="false">7a9f51314654432a12288fedb3b2e06de9c43e6e</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 06:00:29 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 06:00:29 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #MINPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Tue, 22 Sep 2026 06:00:28 +0000</pubDate>
       <guid isPermaLink="false">d85e2372205aedaf62d80b1ccce6003314b8e254</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 06:00:29 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 06:00:29 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 6 #MINPRSD</title>
@@ -45,7 +53,7 @@
       <pubDate>Tue, 22 Sep 2026 03:04:11 +0000</pubDate>
       <guid isPermaLink="false">64958c95a4e08fc983dd3607dd381269ba124ad6</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #MINPRSD</title>
