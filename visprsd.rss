@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 22 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 03:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:30:36 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 11:00 AM 22 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(LapuLapuCity, Cordova), #Bohol(Loon, Calape, Antequera, Tubigon, Talibon, BienUnido, Trinidad, SanMiguel, Ubay, Pres.CarlosP.Garcia, Mabini, Alicia, Candijay, Valencia, Jagna, Duero, Anda, Guindulman, GarciaHernandez and Maribojoc) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Carmen, DanaoCity, Compostela, Liloan, Consolacion, CebuCity, MandaueCity, CityOfTalisay, Minglanilla, CityOfNaga, SanFernando), #Bohol(SanIsidro and Catigbian) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Tue, 22 Sep 2026 03:30:54 +0000</pubDate>
+      <guid isPermaLink="false">a93987e04fc8e3281ed1889c5b36f41dce1e4e79</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:30:54 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 12 #VISPRSD&lt;br /&gt; Issued at 10:45 AM 22 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Alimodian, Leon), #Palawan(Cagayancillo, Magsaysay, Cuyo, Bataraza), #Cebu(Consolacion, CebuCity, MandaueCity, Argao, Sibonga, CityOfCarcar, SanFernando, CityOfNaga, CityOfTalisay, Minglanilla), #Leyte(Inopacan, Mahaplag, TaclobanCity, Babatngon, Palo, SantaFe, Tanauan, Dulag, Tabontabon, Tolosa, Julita, Burauen, Mayorga, Macarthur, LaPaz, Javier, CityOfBaybay, Albuera, Abuyog), #NegrosOriental(LaLibertad, Jimalalud, Tayasan), #EasternSamar(Taft, CanAvid, Sulat, SanJulian, Maydolong, Hernani, GeneralMacarthur, Salcedo, Llorente, Balangkayan, CityOfBorongan, Giporlos, Quinapondan), #Samar(CalbayogCity, Matuguinao, Gandara, SantaMargarita, SanJoseDeBuan, Pagsanghan, Tarangnan, SanJorge and Motiong) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Tubungan, Igbaras), #Palawan(Culion, Araceli, Balabac), #Cebu(Carmen, DanaoCity, Compostela, Liloan, Dalaguete, SanFrancisco, Tudela, Pilar, Poro), #Bohol(Sagbayan, Catigbian, Trinidad), #SouthernLeyte(Sogod), #Leyte(Calubian, SanIsidro, Tabango, Villaba, OrmocCity, Palompon, Merida, Isabel, MatagOb, Leyte, Kananga, Capoocan, Carigara, Tunga, Barugo, Jaro, Alangalang, SanMiguel, Dagami, Pastrana), #Samar(Daram, Talalora, Zumarraga), #EasternSamar(Oras, SanPolicarpo, Arteche, Jipapad, Maslog and Dolores) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Tue, 22 Sep 2026 03:04:11 +0000</pubDate>
       <guid isPermaLink="false">be8486139e83ff3d7ff63ad1feded9b39f887b1f</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Tue, 22 Sep 2026 03:04:10 +0000</pubDate>
       <guid isPermaLink="false">405009903005e05c34f8b962c44c4001630fc4e6</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Tue, 22 Sep 2026 03:04:09 +0000</pubDate>
       <guid isPermaLink="false">0b754a6b2c7f74f0901aef395587efe32bab8d60</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
@@ -37,7 +45,7 @@
       <pubDate>Tue, 22 Sep 2026 03:04:08 +0000</pubDate>
       <guid isPermaLink="false">e29426397fbed9bf000b2b196c2c304f5899b98d</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
@@ -78,7 +86,7 @@
       <pubDate>Mon, 21 Sep 2026 21:03:41 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09222026_1790024273.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 21:03:41 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 21:03:41 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
