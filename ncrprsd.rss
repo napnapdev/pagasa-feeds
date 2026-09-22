@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 22 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 18:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:07:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 37 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 37 #NCR_PRSD&lt;br /&gt; Issued at: 12:32 AM, 23 September 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Dinalupihan), Batangas (Calatagan, Lian, Balayan, Calaca, Lemery, Tingloy, Mabini, Bauan, San Luis, Taal, and Batangas City), Bulacan (Paombong, Malolos, Guiguinto, Balagtas, Bocaue, and Marilao), Metro Manila (Caloocan, Quezon City, Manila, Pasig, Marikina, San Juan, Mandaluyong, Taguig, and Pateros), Pampanga (Floridablanca, Porac, Guagua, Santa Rita, Bacolor, San Fernando, Angeles, Mabalacat, and Mexico), Rizal (Cainta, Antipolo, Angono, Teresa, Binangonan, Cardona, and Morong), and Zambales (Subic, San Marcelino, San Antonio, and Castillejos) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bulacan (Obando, Bulakan, and Meycauayan), Metro Manila (Navotas, Malabon, and Valenzuela), and Rizal (Taytay) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -120,21 +120,13 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 22:17:52 +0000</ns0:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 25 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 25 #NCR_PRSD&lt;br /&gt; Issued at: 2:00 AM, 22 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Limay, Orion, Bagac, Mariveles, Orani, and Samal), Batangas (Nasugbu), Bulacan (Norzagaray, Bocaue, Pandi, Balagtas, Obando, Bulakan, and Hagonoy), Cavite (Maragondon and Ternate), Laguna (Santa Rosa, Binan, San Pedro, Pakil, Pangil, Mabitac, Santa Maria, Famy, Siniloan, and Cabuyao), Metro Manila (Malabon, Navotas, Manila, Marikina, and San Juan), Pampanga (Macabebe, Masantol, Sasmuan, and Lubao), Quezon (Jomalig, Panukulan, Burdeos, Real, Mauban, Infanta, Polillo, and Patnanungan), and Rizal (Rodriguez, San Mateo, Pililla, Cardona, Morong, Tanay, Baras, and Binangonan) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bulacan (San Jose del Monte, Santa Maria, Marilao, and Meycauayan), Metro Manila (Caloocan, Valenzuela, and Quezon City), and Rizal (Jala-Jala) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 21 Sep 2026 18:07:35 +0000</pubDate>
-      <guid isPermaLink="false">16b4a50da3b26023b7e4060e8f31790f19ded3ea</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 18:07:35 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
