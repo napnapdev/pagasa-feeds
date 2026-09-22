@@ -5,8 +5,8 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/minprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
-    <pubDate>Tue, 22 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 21:30:38 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 22:14:15 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 7 #MINPRSD</title>
       <description>Rainfall Advisory No. 7 #MINPRSD&lt;br /&gt; Weather System: Trough of TD &lt;br /&gt; Issued at 05:00 AM 23 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #MisamisOriental(CagayanDeOroCity, Tagoloan), #LanaoDelNorte(Tagoloan, Linamon) and #LanaoDelSur(TagoloanII) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #LanaoDelNorte(IliganCity), #MisamisOriental(Manticao, Opol, CityOfElSalvador, Alubijid, Laguindingan, Gitagum, Libertad, Initao, Naawan, Lugait), #DavaoOccidental(JoseAbadSantos and Sarangani) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
@@ -142,14 +142,6 @@
       <guid isPermaLink="false">737661905c91b349bec1866ff007917fef8fa757</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 00:03:37 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 10 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 10 #MINPRSD&lt;br /&gt; Issued at 05:00 AM 22 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #MisamisOccidental, #ZamboangaDelNorte(SergioOsmeñaSr., Polanco, DipologCity, Katipunan, Piñan, Mutia, Rizal, Sibutad, DapitanCity, LaLibertad), #ZamboangaDelSur(Dumingag, Mahayag, Josefina, Molave, Tambulig, Aurora), #LanaoDelNorte(Nunungan, Sapad, Salvador, Lala, Baroy, Magsaysay, Tangcal, Tubod, Munai, Kolambugan, Maigo, SultanNagaDimaporo, Kapatagan), #LanaoDelSur(Picong, Calanogas, Malabang, Ganassi, Binidayan, Pagayawan, Bayang, Tubaran, LumbacaUnayan, Lumbatan, Pualas) and #Camiguin within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 21 Sep 2026 21:30:55 +0000</pubDate>
-      <guid isPermaLink="false">45bafc18c282c251abefd31dc1b9d2d1dbab6cca</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 21:30:55 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
