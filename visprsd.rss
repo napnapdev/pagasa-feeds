@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 22 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 00:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:53:02 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 9 #VISPRSD&lt;br /&gt; Issued at 08:00 AM 22 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Daanbantayan, Tudela, Pilar, SanFrancisco), #Biliran(Kawayan, Almeria, Culaba, Maripipi), #Antique(Pandan), #Samar(Daram, Tarangnan, CityOfCatbalogan, Jiabong, SanSebastian, Motiong), #SouthernLeyte(SanRicardo, Liloan, SanFrancisco and Malitbog) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Guimaras(Sibunag), #Cebu(Poro, Medellin), #NegrosOccidental(HinobaAn), #Antique(Sebaste), #Samar(CalbayogCity, Zumarraga), #SouthernLeyte(CityOfMaasin, Macrohon, PadreBurgos and Pintuyan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -46,7 +46,7 @@
       <pubDate>Mon, 21 Sep 2026 21:03:41 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09222026_1790024273.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 21:03:41 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 21:03:41 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
@@ -94,7 +94,7 @@
       <pubDate>Mon, 21 Sep 2026 15:03:36 +0000</pubDate>
       <guid isPermaLink="false">be315fea12c622e69105b2e5d1a63fd5011e0f03</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 15:03:36 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 15:03:36 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 30 #VISPRSD</title>
