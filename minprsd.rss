@@ -6,30 +6,54 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 22 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 03:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:00:16 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 1 #MINPRSD</title>
+      <description>Rainfall Advisory No. 1 #MINPRSD&lt;br /&gt; Weather System: Trough of LPA &lt;br /&gt; Issued at 01:00 PM 22 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #DavaoOriental(GovernorGeneroso, SanIsidro, CityOfMati, Banaybanay, Lupon, Cateel, Boston) and #SurigaoDelSur(Lingig) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #DavaoOriental(Tarragona, Manay, Caraga and Baganga) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
+      <pubDate>Tue, 22 Sep 2026 06:00:29 +0000</pubDate>
+      <guid isPermaLink="false">7a9f51314654432a12288fedb3b2e06de9c43e6e</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 06:00:29 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Rainfall Advisory No. 6 #MINPRSD</title>
+      <description>Rainfall Advisory No. 6 FINAL #MINPRSD&lt;br /&gt; Weather System: Trough of LPA &lt;br /&gt; Issued at 11:00 AM 22 September 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
+      <pubDate>Tue, 22 Sep 2026 06:00:28 +0000</pubDate>
+      <guid isPermaLink="false">2959a37042c44094c80d703b510d7b350d65850b</guid>
+      <category>Rainfall Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 06:00:29 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 14 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 14 #MINPRSD&lt;br /&gt; Issued at 12:40 PM 22 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #ZamboangaSibugay(Kabasalan), #ZamboangaDelNorte(Godod, Salug), #DavaoCity, #Bukidnon(Kitaotao, Quezon, Cabanglasan, Maramag, DonCarlos, CityOfMalaybalay, Baungon, Libona, ManoloFortich, ImpasugOng), #SultanKudarat(CityOfTacurong, Esperanza, Lambayong, Kalamansig, Palimbang, Sen.NinoyAquino), #DavaoDelSur(Malalag, Sulop), #Sarangani(Malungon), #DavaoOccidental(SantaMaria), #DavaoDeOro(Pantukan, Maragusan, NewBataan, Compostela), #LanaoDelSur(Kapatagan, Balabagan, Marogong, Malabang, Picong, LumbacaUnayan, Calanogas, SultanDumalondong, Tubaran, Lumbatan, Lumbayanague, Bayang, Pagayawan, Binidayan, Ganassi, Masiu, Pualas, PoonaBayabao, LumbaBayabao, Tamparan, Taraka, Madamba, BacolodKalawi, Mulondo, Tugaya, Balindong, Madalum, BuadiposoBuntong, Marantao, DitsaanRamain, Piagapo, MarawiCity, Saguiaran, Kapai), #MisamisOriental(GingoogCity, CagayanDeOroCity, Manticao, Opol), #LanaoDelNorte(Bacolod, Maigo, Magsaysay, Tangcal, Munai, Tubod, Salvador, Sapad, Nunungan), #SouthCotabato(Surallah, Banga and Tantangan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are being experienced in #ZamboangaCity, #ZamboangaDelNorte(Sibuco, Kalawit, Tampilisan, Liloy, Labason), #ZamboangaSibugay(Ipil, Naga, Titay), #DavaoDelNorte(Kapalong, Talaingod), #Bukidnon(SanFernando, CityOfValencia, Talakag, Kalilangan, Pangantucan, Lantapan, Sumilao), #SultanKudarat(Isulan, Bagumbayan), #SouthCotabato(Norala, SantoNiño), #LanaoDelSur(Wao, Butig, Bumbaran, Maguing, Bubong, TagoloanII) and #LanaoDelNorte(IliganCity) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 22 Sep 2026 06:00:27 +0000</pubDate>
+      <guid isPermaLink="false">d85e2372205aedaf62d80b1ccce6003314b8e254</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 06:00:29 +0000</ns2:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 13 #MINPRSD&lt;br /&gt; Issued at 11:00 AM 22 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #LanaoDelNorte(Maigo, Munai, Nunungan, Tangcal, Kolambugan), #LanaoDelSur(Picong, Malabang, Calanogas, Ganassi, Pagayawan, Masiu, PoonaBayabao, Tamparan, Marogong), #Bukidnon(Pangantucan, Talakag, Lantapan, CityOfMalaybalay, Sumilao), #MisamisOriental(Alubijid, Opol, CityOfElSalvador), #MisamisOccidental(TangubCity, OzamisCity), #SultanKudarat(Kalamansig, Sen.NinoyAquino, Isulan), #MaguindanaoDelNorte(Buldon), #NorthCotabato(Alamada and Banisilan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #Bukidnon(ImpasugOng, Kalilangan, CityOfValencia), #LanaoDelNorte(Bacolod, Kauswagan, PoonaPiagapo, PantaoRagat), #LanaoDelSur(Piagapo, Marantao, MarawiCity, Saguiaran, Balindong, Tugaya, BacolodKalawi, Madalum, Madamba, Pualas, Bumbaran, Wao, Butig and LumbaBayabao) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 22 Sep 2026 03:07:35 +0000</pubDate>
       <guid isPermaLink="false">b1fb969c359a4a69df9d5fae5add23c913ce98a9</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:07:35 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #MINPRSD&lt;br /&gt; Issued at 09:30 AM 22 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #Camiguin within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 22 Sep 2026 03:04:11 +0000</pubDate>
-      <guid isPermaLink="false">ce67db974ec0dbf2fc63afba07fc425f1fb5e58e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns1:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:07:35 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 22 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #MisamisOccidental, #MisamisOriental, #Camiguin, #Bukidnon and #LanaoDelNorte within 12 hours.</description>
-      <pubDate>Tue, 22 Sep 2026 03:04:10 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 03:04:11 +0000</pubDate>
       <guid isPermaLink="false">64958c95a4e08fc983dd3607dd381269ba124ad6</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns2:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns4:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 12 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 12 #MINPRSD&lt;br /&gt; Issued at 09:30 AM 22 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #Camiguin within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 22 Sep 2026 03:04:10 +0000</pubDate>
+      <guid isPermaLink="false">ce67db974ec0dbf2fc63afba07fc425f1fb5e58e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 5 #MINPRSD</title>
