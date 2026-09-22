@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 22 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 11:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:03:24 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 14 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 14 #SLPRSD&lt;br /&gt; Issued at 06:30 PM 22 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over #Masbate(Claveria, Monreal, SanJacinto, SanFernando and Batuan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(CityOfMasbate, Mobo, SanPascual, Uson) and #Albay(RapuRapu) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -69,7 +69,7 @@
       <pubDate>Tue, 22 Sep 2026 03:04:11 +0000</pubDate>
       <guid isPermaLink="false">71ed34f710c6889b30955d886fab13f5f48c69e4</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #SLPRSD</title>
@@ -94,7 +94,7 @@
       <pubDate>Tue, 22 Sep 2026 00:53:18 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_22Sept2026_1790037960.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 00:53:18 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 00:53:18 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 23 September, 2026</title>
@@ -103,7 +103,7 @@
       <pubDate>Tue, 22 Sep 2026 00:53:17 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_22Sept2026_1790037940.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 00:53:18 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 00:53:18 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #SLPRSD</title>
@@ -176,7 +176,7 @@
       <pubDate>Mon, 21 Sep 2026 13:14:41 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_21Sept2026_1789994033.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 13:14:41 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 13:14:41 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 22 September, 2026</title>
@@ -185,7 +185,7 @@
       <pubDate>Mon, 21 Sep 2026 13:14:40 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_21Sept2026_1789994003.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 13:14:41 +0000</ns6:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 13:14:41 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #SLPRSD</title>
@@ -194,30 +194,6 @@
       <guid isPermaLink="false">309f8b13421b07f8ca372c5c7eea977d36796e85</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 13:14:41 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 10 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 10 #SLPRSD&lt;br /&gt; Issued at 07:45 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Marinduque(SantaCruz and Torrijos) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #CamarinesNorte(Basud, SanVicente, SanLorenzoRuiz, Labo, SantaElena, Capalonga, JosePanganiban), #CamarinesSur(Ragay, DelGallego, Lupi, Pasacao, Libmanan, Sipocot, Cabusao and Pamplona) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 21 Sep 2026 12:03:34 +0000</pubDate>
-      <guid isPermaLink="false">97c31f1d1428e04a44078477557487c7749b5639</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 12:03:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 9 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 9 #SLPRSD&lt;br /&gt; Issued at 06:35 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #CamarinesSur(DelGallego, Ragay, Lupi, Sipocot, Libmanan, Pasacao), #Albay(RapuRapu) and #Sorsogon(PrietoDiaz) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 21 Sep 2026 12:03:33 +0000</pubDate>
-      <guid isPermaLink="false">9e0ead07d4e78d8f548c92d5d8f9bd3e88468bbf</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 12:03:34 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #SLPRSD&lt;br /&gt; Issued at 05:10 PM 21 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #Albay(LegazpiCity, Manito), #Sorsogon(Pilar, Donsol, Castilla, CityOfSorsogon, PrietoDiaz, Gubat), #CamarinesSur(Goa, SanJose), #OrientalMindoro(CityOfCalapan, Naujan, Victoria and Pola) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 21 Sep 2026 12:03:32 +0000</pubDate>
-      <guid isPermaLink="false">4736a3a153d429e0f37b7cb33a912d3b7b3ca27f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 21 Sep 2026 12:03:34 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
