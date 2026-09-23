@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 23 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2026 00:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:38:33 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 8 #MINPRSD</title>
       <description>Rainfall Advisory No. 8 FINAL #MINPRSD&lt;br /&gt; Weather System: Trough of TD &lt;br /&gt; Issued at 08:00 AM 23 September 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; Rainfall Advisories in other areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
@@ -150,14 +150,6 @@
       <guid isPermaLink="false">ce67db974ec0dbf2fc63afba07fc425f1fb5e58e</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 03:04:11 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 5 #MINPRSD</title>
-      <description>Rainfall Advisory No. 5 #MINPRSD&lt;br /&gt; Weather System: Trough of LPA &lt;br /&gt; Issued at 08:00 AM 22 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #SurigaoDelSur(Lanuza, SanMiguel, Carmen, Madrid), #AgusanDelSur(Sibagat and CityOfBayugan) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.</description>
-      <pubDate>Tue, 22 Sep 2026 00:30:55 +0000</pubDate>
-      <guid isPermaLink="false">6259e1fef4a3fb2b66662e533ee0689a002a8742</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 00:30:55 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
