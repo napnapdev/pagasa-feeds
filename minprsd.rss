@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 23 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2026 00:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:07:22 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 07:30 AM 23 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #AgusanDelNorte(Jabonga, Carmen), #SurigaoDelNorte(SanFrancisco, Mainit, Sison, SurigaoCity), #DavaoOccidental(DonMarcelino), #SultanKudarat(Palimbang), #Sarangani(Kiamba, Maitum), #LanaoDelSur(Kapai, MarawiCity, Bubong and DitsaanRamain) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DinagatIslands(Basilisa, Dinagat, SanJose, Libjo, Cagdianao), #SurigaoDelNorte(SiargaoIsland, Malimono), #DavaoOccidental(JoseAbadSantos, Sarangani), #MaguindanaoDelNorte(DatuBlahT.Sinsuat), #MisamisOriental(Magsaysay), #ZamboangaDelNorte(Labason, Liloy), #TawiTawi(Mapun and TurtleIslands) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -150,14 +150,6 @@
       <guid isPermaLink="false">6259e1fef4a3fb2b66662e533ee0689a002a8742</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 00:30:55 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 11 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 11 #MINPRSD&lt;br /&gt; Issued at 07:00 AM 22 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #Camiguin(Catarman, Sagay), #LanaoDelNorte(SultanNagaDimaporo), #LanaoDelSur(Picong, Malabang, Balabagan, Butig, LumbaBayabao, Bumbaran, Marogong), #MisamisOriental(Claveria, Sugbongcogon, Kinoguitan, Balingoan), #Bukidnon(ImpasugOng and CityOfMalaybalay) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 22 Sep 2026 00:03:37 +0000</pubDate>
-      <guid isPermaLink="false">737661905c91b349bec1866ff007917fef8fa757</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 00:03:37 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
