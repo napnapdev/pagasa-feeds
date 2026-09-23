@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 24 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2026 21:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:07:24 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 6 #MINPRSD</title>
       <description>Rainfall Advisory No. 6 FINAL #MINPRSD&lt;br /&gt; Weather System: Trough of Tropical Depression (TD) / Wind Convergence &lt;br /&gt; Issued at 05:00 AM 24 September 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
@@ -127,22 +127,6 @@
       <guid isPermaLink="false">152625a1d8170b1fde38a681edbf5021e3bdcbba</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 00:03:36 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 7 #MINPRSD</title>
-      <description>Rainfall Advisory No. 7 #MINPRSD&lt;br /&gt; Weather System: Trough of TD &lt;br /&gt; Issued at 05:00 AM 23 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #MisamisOriental(CagayanDeOroCity, Tagoloan), #LanaoDelNorte(Tagoloan, Linamon) and #LanaoDelSur(TagoloanII) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #LanaoDelNorte(IliganCity), #MisamisOriental(Manticao, Opol, CityOfElSalvador, Alubijid, Laguindingan, Gitagum, Libertad, Initao, Naawan, Lugait), #DavaoOccidental(JoseAbadSantos and Sarangani) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
-      <pubDate>Tue, 22 Sep 2026 21:04:10 +0000</pubDate>
-      <guid isPermaLink="false">bfb61a8672a082d497af0dca6a2158789e55ba2f</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 21:04:10 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 6 #MINPRSD</title>
-      <description>Rainfall Advisory No. 6 Amendment #MINPRSD&lt;br /&gt; Weather System: Trough of TD / Wind Convergence &lt;br /&gt; Issued at 03:40 AM 23 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #Camiguin, #MisamisOriental(Sugbongcogon, Balingoan, Kinoguitan, Binuangan, Talisayan, Laguindingan, CityOfElSalvador, Opol, Naawan, Manticao, Lugait, CagayanDeOroCity, Balingasag, Jasaan, Villanueva, Tagoloan), #AgusanDelNorte(Jabonga, Kitcharao, Santiago, Tubay), #SurigaoDelNorte(Alegria), #MisamisOccidental(Aloran, Panaon, OroquietaCity, LopezJaena, Jimenez, Sinacaban), #LanaoDelNorte(Kauswagan, Linamon, IliganCity, Tagoloan) and #DinagatIslands(Loreto) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #MisamisOriental(Gitagum, Libertad, Initao, Alubijid, Lagonglong and Salay) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.</description>
-      <pubDate>Tue, 22 Sep 2026 21:04:09 +0000</pubDate>
-      <guid isPermaLink="false">832b408503a64a3d26b91fcf37a9b3ea50f026d0</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 21:04:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
