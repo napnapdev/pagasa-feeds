@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 23 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2026 09:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:02:52 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 19 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 19 #VISPRSD&lt;br /&gt; Issued at 04:53 PM 23 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Barugo, Tunga, Alangalang, Jaro and Kananga) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(CityOfBogo) and #Palawan(Cagayancillo) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -61,7 +61,7 @@
       <pubDate>Wed, 23 Sep 2026 03:03:36 +0000</pubDate>
       <guid isPermaLink="false">2ae6a49ae8ab2066d8c5cfd27c1a961b794ac474</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 03:03:36 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 03:03:36 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
@@ -118,7 +118,7 @@
       <pubDate>Tue, 22 Sep 2026 21:04:10 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09232026_1790110069.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 21:04:10 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 22 Sep 2026 21:04:10 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
