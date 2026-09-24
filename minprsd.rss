@@ -5,8 +5,16 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/minprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
-    <pubDate>Thu, 24 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 19:00:13 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 5 #MINPRSD</title>
+      <description>Rainfall Advisory No. 5 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 05:00 AM 25 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #AgusanDelSur(Loreto), #LanaoDelNorte(IliganCity, Linamon, Tagoloan, Baloi, Matungao), #ZamboangaDelSur(Pitogo, Tabina, Dimataling, Dinas, VincenzoA.Sagun, Margosatubig, Lapuyan, SanMiguel, SanPablo, Guipos, Dumalinao, Kumalarang), #ZamboangaCity, #ZamboangaDelNorte(Sibuco, DapitanCity, Sibutad, Rizal, DipologCity, Polanco, Piñan, LaLibertad, Pres.ManuelA.Roxas, Katipunan, Manukan, JoseDalman, Sindangan, LeonB.Postigo), #MisamisOccidental(Baliangao, Plaridel, Calamba, SapangDalaga), #Sulu(Pangutaran), #ZamboangaSibugay(Malangas, Alicia and Buug) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
+      <pubDate>Thu, 24 Sep 2026 21:03:38 +0000</pubDate>
+      <guid isPermaLink="false">535b2a6b66af74a8ff1127453e87148d723d34f4</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 21:03:38 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 4 #MINPRSD</title>
       <description>Rainfall Advisory No. 4 #MINPRSD&lt;br /&gt; Weather System: Trough of TS QUEENIE&lt;br /&gt; Issued at 02:00 AM 25 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #SouthCotabato, #Sarangani(Maasim, Kiamba, Glan, Malapatan, Alabel, Malungon), #DavaoOccidental(JoseAbadSantos, DonMarcelino, Malita, SantaMaria), #DavaoDelSur, #MisamisOriental(Initao, Naawan, Manticao, Lugait), #LanaoDelNorte(IliganCity, SultanNagaDimaporo), #LanaoDelSur(Butig, Lumbayanague, SultanDumalondong, Marogong, Lumbatan, LumbacaUnayan, Picong, Malabang, Balabagan, Calanogas, Pagayawan, Tubaran), #ZamboangaCity, #Basilan, #Sulu(Pangutaran, HadjiPanglimaTahil), #MisamisOccidental(Aloran, OroquietaCity, LopezJaena, Concepcion), #ZamboangaDelNorte(Mutia, Piñan, Polanco, DipologCity, Katipunan, Pres.ManuelA.Roxas, Manukan, JoseDalman, Sibuco), #ZamboangaDelSur(Tabina, Pitogo, Dimataling, Dinas, SanPablo, Dumalinao, PagadianCity, Labangan, Tukuran, Guipos, Tigbao, SanMiguel), #SurigaoDelSur(SanMiguel, Lianga, Tago, Bayabas, Cagwait, SanAgustin, Marihatag), #DavaoDelNorte(NewCorella, CityOfTagum), #DavaoDeOro(Maco), #DavaoOriental(CityOfMati, GovernorGeneroso and SanIsidro) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #DavaoDeOro(Mawab, Nabunturan), #MisamisOriental(CagayanDeOroCity, Opol, CityOfElSalvador, Alubijid, Laguindingan, Libertad, Gitagum), #MisamisOccidental(Plaridel, Calamba, Baliangao, SapangDalaga), #ZamboangaDelNorte(DapitanCity, Sibutad, Rizal and LaLibertad) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.</description>
@@ -86,14 +94,6 @@
       <guid isPermaLink="false">f9a47be995f9d14fef14c93768030447d5bc8cba</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 03:04:04 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 6 #MINPRSD</title>
-      <description>Rainfall Advisory No. 6 FINAL #MINPRSD&lt;br /&gt; Weather System: Trough of Tropical Depression (TD) / Wind Convergence &lt;br /&gt; Issued at 05:00 AM 24 September 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
-      <pubDate>Wed, 23 Sep 2026 21:03:35 +0000</pubDate>
-      <guid isPermaLink="false">8d62e09b4053ee006d440415991db9aaefb2def8</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 21:03:35 +0000</ns0:seen>
     </item>
   </channel>
 </rss>

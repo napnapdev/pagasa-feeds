@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 24 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 19:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 34 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 34 FINAL #NLPRSD&lt;br /&gt; Issued at 04:52 AM 25 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 24 Sep 2026 21:03:38 +0000</pubDate>
+      <guid isPermaLink="false">7dbe38016a1dd2cebf0f516f8fab645b6d7d5866</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 21:03:38 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 24 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
       <pubDate>Thu, 24 Sep 2026 14:58:17 +0000</pubDate>
       <guid isPermaLink="false">3e4fcf7dc6a91822c23e6a323dd197c312521787</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 14:58:17 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 14:58:17 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 33 #NLPRSD</title>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">0137fc8e9bcd227b0a589cec402dfed622e4f9ec</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 22:11:33 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 22 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 22 #NLPRSD&lt;br /&gt; Issued at 04:40 AM 24 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(SanchezMira, Abulug, Camalaniugan, Claveria, SantaPraxedes, Pamplona, Ballesteros), #IlocosNorte(Adams, Dumalneg, Bangui, Pagudpud and Burgos) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Aparri, Calayan) and #Batanes which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 23 Sep 2026 21:03:35 +0000</pubDate>
-      <guid isPermaLink="false">c02d658ea5a417685d9ee9a93e083c41195d2879</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 21:03:35 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
