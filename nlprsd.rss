@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 24 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 18:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:15:28 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 24 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
@@ -110,14 +110,6 @@
       <guid isPermaLink="false">c02d658ea5a417685d9ee9a93e083c41195d2879</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 21:03:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 21 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 21 #NLPRSD&lt;br /&gt; Issued at 01:58 AM 24 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(SanchezMira, Gonzaga, SantaAna, SantaTeresita, Buguey, Abulug, Camalaniugan, Pamplona, Ballesteros, LalLo, Allacapan), #Apayao(Luna, Calanasan, SantaMarcela), #IlocosNorte(Pagudpud, Bangui, Adams, Burgos, Dumalneg), #Batanes(Basco, Mahatao, Ivana, Uyugan and Sabtang) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Aparri, Claveria, SantaPraxedes, Calayan) and #Batanes(Itbayat) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 23 Sep 2026 18:07:40 +0000</pubDate>
-      <guid isPermaLink="false">d99fff7e3d3cff5603f002f7f42c3d152a8a0cb6</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 18:07:40 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
