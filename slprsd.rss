@@ -6,40 +6,56 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 24 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 03:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 05:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #SLPRSD&lt;br /&gt; Issued at 12:30 PM 24 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over #Romblon(SanFernando, SantaFe, Looc, Alcantara), #CamarinesSur(Tinambac, Goa, Lagonoy, Presentacion, SanJose, Calabanga, Pili, Ocampo, NagaCity, DelGallego, Ragay, Garchitorena, Caramoan, Siruma), #Sorsogon(Pilar, Donsol), #Catanduanes(SanAndres, Caramoran), #Albay(Camalig, Guinobatan, Jovellar, PioDuran), #CamarinesNorte(SantaElena, Labo, SanVicente, SanLorenzoRuiz), #Marinduque(Gasan, Buenavista, Boac, Torrijos), #NorthernSamar(SanIsidro, LasNavas, Catubig, SilvinoLobos, Mondragon, LopeDeVega), #OrientalMindoro(SanTeodoro, PuertoGalera, Baco, Naujan and CityOfCalapan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sorsogon(Bulan), #OrientalMindoro(Mansalay, Bulalacao), #Masbate(Mandaon, Milagros, Cawayan, Placer and Balud) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 24 Sep 2026 05:15:45 +0000</pubDate>
+      <guid isPermaLink="false">ac2c7c659cd91258697b3d61127115e23e3dbe5f</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 05:15:45 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #SLPRSD&lt;br /&gt; Issued at 12:00 PM 24 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over #Sorsogon(Irosin, Juban, Magallanes, Bulan, Pilar, Donsol), #OrientalMindoro(Mansalay), #Romblon(SanFernando), #CamarinesSur(Tinambac, Goa, Lagonoy), #Catanduanes(SanAndres, Caramoran), #Albay(Camalig, Guinobatan, Jovellar and PioDuran) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 24 Sep 2026 05:15:44 +0000</pubDate>
+      <guid isPermaLink="false">378c5af229c97c58438473683c16cfcc200ac137</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 05:15:45 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
       <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 AM 24 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
       <pubDate>Thu, 24 Sep 2026 03:04:05 +0000</pubDate>
       <guid isPermaLink="false">ff28d262f10f4dcc43796e5d0be14758e9adc5a1</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 03:04:05 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 3 FINAL #SLPRSD&lt;br /&gt; Issued at 09:00 AM 24 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.</description>
-      <pubDate>Thu, 24 Sep 2026 03:04:04 +0000</pubDate>
-      <guid isPermaLink="false">917d1614cd2347c39f75eaf8505e44a2c7a3bf06</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 03:04:05 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 03:04:05 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 25 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_24Sept2026_1790210669.pdf</link>
       <description>Issued at: 09:00 AM, 24 September, 2026&lt;br /&gt;Valid until: 09:00 AM, 25 September, 2026</description>
-      <pubDate>Thu, 24 Sep 2026 03:04:03 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 03:04:04 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_24Sept2026_1790210669.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 03:04:05 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 03:04:05 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 25 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_24Sept2026_1790210625.pdf</link>
       <description>Issued at: 09:00 AM, 24 September, 2026&lt;br /&gt;Valid until: 09:00 AM, 25 September, 2026</description>
-      <pubDate>Thu, 24 Sep 2026 03:04:02 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 03:04:03 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_24Sept2026_1790210625.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 03:04:05 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 03:04:05 +0000</ns4:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 3 FINAL #SLPRSD&lt;br /&gt; Issued at 09:00 AM 24 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.</description>
+      <pubDate>Thu, 24 Sep 2026 03:04:02 +0000</pubDate>
+      <guid isPermaLink="false">917d1614cd2347c39f75eaf8505e44a2c7a3bf06</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 03:04:05 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
@@ -64,7 +80,7 @@
       <pubDate>Wed, 23 Sep 2026 14:53:09 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_23Sept2026_1790167986.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 14:53:09 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 14:53:09 +0000</ns5:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 24 September, 2026</title>
@@ -73,7 +89,7 @@
       <pubDate>Wed, 23 Sep 2026 14:53:08 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_23Sept2026_1790167960.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 14:53:09 +0000</ns5:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 14:53:09 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
@@ -138,22 +154,6 @@
       <guid isPermaLink="false">8f7e0061a853ee7895e49533394c968f221fe01c</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 06:03:37 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #SLPRSD&lt;br /&gt; Issued at 12:30 PM 23 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over #CamarinesSur(DelGallego, Ragay, NagaCity, Pili, Ocampo, Tigaon, Goa, Calabanga, Bombon, Magarao, Canaman, Camaligan, Milaor, Tinambac, Lagonoy, Garchitorena, Presentacion), #Catanduanes(Caramoran, SanAndres, Virac, SanMiguel, Pandan), #Sorsogon(Bulan, Irosin, Magallanes, Donsol, Pilar, Castilla), #Albay(Jovellar), #Masbate(SanPascual), #NorthernSamar(SanIsidro, LopeDeVega, LasNavas, Catubig, SilvinoLobos, Mondragon, Bobon, Catarman and Victoria) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(Balud, Mandaon, Milagros, Cawayan, Placer, Aroroy, Baleno, CityOfMasbate, Mobo), #Romblon(Looc, Ferrol, SantaFe, SanJose, SanFernando, Odiongan, Alcantara, SantaMaria, Cajidiocan), #OrientalMindoro(Bulalacao, Mansalay and Roxas) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 23 Sep 2026 05:15:12 +0000</pubDate>
-      <guid isPermaLink="false">21ec24cb2475a9122e876dd7f2c4e6500b9dfb36</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 05:15:12 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #SLPRSD&lt;br /&gt; Issued at 11:30 AM 23 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over #Romblon(Odiongan, Alcantara, Looc, Ferrol, SantaFe and SantaMaria) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(Balud, Mandaon and Milagros) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 23 Sep 2026 05:15:11 +0000</pubDate>
-      <guid isPermaLink="false">53eb8b4882cba80c4e2d2acd57de1306dbbe9b97</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 05:15:12 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
