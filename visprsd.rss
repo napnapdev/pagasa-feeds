@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 25 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 21:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 22:12:10 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 04:26 AM 25 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(SapiAn, Sigma, Panitan, Pontevedra, Pilar, PresidentRoxas), #Iloilo(Batad, SanDionisio), #Palawan(Araceli, Dumaran, Quezon), #Leyte(Isabel, Palompon, Villaba and Tabango) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Ivisan, RoxasCity, Panay), #Iloilo(Carles, Estancia, Balasan), #Palawan(PuertoPrincesaCity, Taytay), #Cebu(Cordova and LapuLapuCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -167,14 +167,6 @@
       <guid isPermaLink="false">2d89b5a4782fc34df9c56bd3b3352750dc2723a4</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 00:04:07 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 05:54 AM 24 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(PuertoPrincesaCity), #Siquijor, #Aklan(Ibajay and Nabas) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Kalayaan), #Aklan(Tangalan, Makato and Numancia) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 23 Sep 2026 22:11:34 +0000</pubDate>
-      <guid isPermaLink="false">0b26fc53da7d6b0814d87e40bc2f171a99f1a6cb</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 22:11:34 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
