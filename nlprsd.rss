@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 24 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 06:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:07:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 27 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 27 #NLPRSD&lt;br /&gt; Issued at 12:44 PM 24 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Abra(Tineg, LicuanBaay, Sallapadan, Manabo, Villaviciosa, SanIsidro, Bucay, SanQuintin, Pidigan, Bangued, Peñarrubia), #Benguet(Bokod, Kabayan, Atok, Tublay, Buguias, Mankayan, Sablan), #Ifugao(Tinoc, Mayoyao, Aguinaldo), #Kalinga(Lubuagan, Pinukpuk, Tanudan), #Apayao(Kabugao, Conner), #Pangasinan(DagupanCity, SanCarlosCity, Calasiao, Bayambang, Basista, SanNicolas, SanManuel, Pozorrubio, SanFabian, Mangaldan, SanJacinto, Agno, Bani), #LaUnion(Caba), #MountainProvince(Natonin), #IlocosSur(Cervantes, Quirino, Banayoyo, GregorioDelPilar, CityOfCandon, Galimuyod, Santa, Salcedo) and #Batanes within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Benguet(Itogon, BaguioCity, LaTrinidad, Tuba), #MountainProvince(Sabangan, Bauko, Tadian, Sagada, Bontoc, Sadanga, Besao, Barlig), #Ifugao(Hungduan, Banaue, Hingyon, Kiangan, Asipulo, Lagawe), #Kalinga(Tinglayan, Pasil, Balbalan), #Abra(Boliney, Bucloc, Daguioman, Malibcong, Lacub, Tubo, Luba, Pilar), #LaUnion(Pugo, Rosario, SantoTomas, Tubao, Agoo, Aringay), #Pangasinan(Lingayen, Bugallon, Aguilar, Mangatarem, Urbiztondo, Infanta, Dasol, Mabini, Labrador, Sual, CityOfAlaminos, Binmaley, Sison, Burgos), #IlocosSur(SanEmilio, Lidlidda, Burgos, SanEsteban, Santiago, SantaMaria, Nagbukel and Narvacan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -142,14 +142,6 @@
       <guid isPermaLink="false">fe3b37516a2a49769eaadd36e0ff9004d27cb53a</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 09:03:43 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #NLPRSD&lt;br /&gt; Issued at 01:20 PM 23 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(SantaAna, Calayan, Pamplona, Peñablanca, Claveria, SantaPraxedes, SanchezMira, Abulug, Ballesteros, Aparri, Camalaniugan, Allacapan, Iguig, Amulung, Alcala, SantoNiño, Lasam, Rizal, Piat, Tuao, Solana, TuguegaraoCity, Enrile), #Kalinga(Pinukpuk, Balbalan, Pasil, Tinglayan, Lubuagan), #Apayao(Conner, Calanasan, Flora, SantaMarcela, Kabugao), #MountainProvince(Sadanga, Bontoc, Sagada, Sabangan, Bauko, Tadian), #Abra(Tineg, Danglas, Lagayan, Malibcong, Lacub, LicuanBaay, Bucloc, Sallapadan, SanJuan, Lagangilang, Dolores, LaPaz, Bangued, Langiden, Tayum, Bucay, Peñarrubia, Pidigan, SanQuintin, SanIsidro, Villaviciosa, Manabo, Luba, Pilar), #IlocosNorte, #Isabela(Maconacon, SanPablo, Cabagan, Tumauini, Divilacan and IlaganCity) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Gonzaga, SantaTeresita, LalLo, Baggao, Gattaran, Buguey), #Abra(Tubo, Boliney, Daguioman), #Apayao(Luna, Pudtol) and #MountainProvince(Besao) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 23 Sep 2026 06:03:36 +0000</pubDate>
-      <guid isPermaLink="false">acfc2c9a1c55c1b8c2004e7177c84843352767e6</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 06:03:36 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
