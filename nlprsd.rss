@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 24 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2026 22:11:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 00:03:22 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 23 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 23 #NLPRSD&lt;br /&gt; Issued at 05:54 AM 24 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Batanes(Itbayat) and #Cagayan(Calayan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Batanes(Basco, Ivana, Mahatao, Sabtang and Uyugan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -45,7 +45,7 @@
       <pubDate>Wed, 23 Sep 2026 14:53:08 +0000</pubDate>
       <guid isPermaLink="false">65869dcc31a795555e6fa0a06968b00aa9f9a496</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 14:53:08 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 14:53:08 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 19 #NLPRSD</title>
@@ -134,14 +134,6 @@
       <guid isPermaLink="false">879539936d1c8e3fa1b7a97281b836082a7c7ae1</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 03:03:36 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 9 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 9 #NLPRSD&lt;br /&gt; Issued at 07:05 AM 23 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(Gonzaga, Calayan), #Batanes(Basco, Mahatao, Ivana, Uyugan and Sabtang) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(SantaAna) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 23 Sep 2026 00:03:36 +0000</pubDate>
-      <guid isPermaLink="false">5a519ceebc0daa5563e39f6d794c4f4c354da1c5</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 00:03:36 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
