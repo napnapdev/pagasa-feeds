@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 25 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 21:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:30:34 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 10 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 10 FINAL #SLPRSD&lt;br /&gt; Issued at 04:00 AM 25 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; Thunderstorm Advisories in other areas are now terminated.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -154,14 +154,6 @@
       <guid isPermaLink="false">b8964289856b92de8baffdaf53801fc1cb8a366a</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 24 Sep 2026 00:04:07 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #SLPRSD&lt;br /&gt; Issued at 05:10 AM 24 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Romblon(Banton, Corcuera, Calatrava, SanAgustin, SanAndres, Odiongan, SantaMaria, Magdiwang, SanFernando, Cajidiocan, Ferrol, Looc, Alcantara, SantaFe, SanJose), #Albay(Malinao, CityOfTabaco, Malilipot), #Marinduque(Torrijos, Buenavista and Gasan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon(Romblon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 23 Sep 2026 21:30:53 +0000</pubDate>
-      <guid isPermaLink="false">8488fe7cd6b9c667fbe7efab3ce8b22bfe4179ff</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 23 Sep 2026 21:30:53 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
