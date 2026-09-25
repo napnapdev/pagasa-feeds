@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 25 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2026 12:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:07:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 10 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 10 #NCR_PRSD&lt;br /&gt; Issued at: 8:00 PM, 25 September 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Orion, Pilar, Bagac, Balanga, and Abucay), Batangas (Tuy, Lian, Balayan, Calaca, Laurel, Lemery, Agoncillo, San Nicolas, Taal, San Luis, and Santa Teresita), Bulacan (Obando, Meycauayan, Marilao, Bocaue, Balagtas, Bulakan, Malolos, Paombong, Guiguinto, and Hagonoy), Cavite (Alfonso, Amadeo, Indang, Mendez, Silang, Tagaytay, Carmona, and Gen. Mariano Alvarez), Laguna (San Pedro, Binan, Santa Rosa, Cabuyao, and Calamba), Metro Manila (Las Pinas, Muntinlupa, Paranaque, Taguig, Makati, Mandaluyong, Pasig, San Juan, Pasay, Pateros, Manila, Navotas, Valenzuela, Malabon, Caloocan, and Quezon City), and Pampanga (Masantol and Macabebe) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bataan (Mariveles and Limay), Batangas (Nasugbu), and Cavite (Cavite City, Tanza, General Trias, Noveleta, Rosario, Naic, Ternate, Maragondon, General Emilio Aguinaldo, Imus, Kawit, Bacoor, Dasmarinas, Trece Martires, and Magallanes) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 25 Sep 2026 12:07:37 +0000</pubDate>
+      <guid isPermaLink="false">53f21e5354eed0be2ad3f3a22132c524805442d5</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 12:07:37 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 9 #NCR_PRSD&lt;br /&gt; Issued at: 6:19 PM, 25 September 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (Laurel, Tuy, Nasugbu, and Talisay), Bulacan (Dona Remedios Trinidad, San Miguel, San Ildefonso, and San Rafael), Cavite (Naic, Trece Martires, Tagaytay, Bacoor, Carmona, Gen. Mariano Alvarez, Silang, Amadeo, Indang, Maragondon, Ternate, Magallanes, General Emilio Aguinaldo, Alfonso, and Mendez), Laguna (San Pedro and Binan), Metro Manila (Las Pinas, Paranaque, and Muntinlupa), Nueva Ecija (San Isidro, Bongabon, Cuyapo, Guimba, Lupao, Nampicuan, San Leonardo, Talugtug, Palayan, Laur, Penaranda, Gapan, General Tinio, Gabaldon, and Cabiao), Pampanga (Arayat, Magalang, Candaba, Santa Ana, Mexico, and San Luis), and Tarlac (La Paz, Tarlac City, Victoria, Gerona, Pura, and Concepcion) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Cavite (Tanza, General Trias, Rosario, Noveleta, Kawit, Imus, Dasmarinas, and Cavite City) and Nueva Ecija (Munoz, Talavera, Santo Domingo, Rizal, Llanera, San Jose, General Mamerto Natividad, San Antonio, Carranglan, Pantabangan, Zaragoza, Jaen, Aliaga, Quezon, Licab, Cabanatuan, and Santa Rosa) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Fri, 25 Sep 2026 12:03:42 +0000</pubDate>
       <guid isPermaLink="false">f54460565ecaf4caaf221fe093257eb3c9885bf8</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 12:03:42 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 12:03:42 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #NCRPRSD</title>
@@ -102,7 +110,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
