@@ -6,23 +6,31 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 26 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2026 21:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 22:27:12 +0000</lastBuildDate>
     <item>
-      <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 03:25 AM 26 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Villaba, OrmocCity, Tabango), #Siquijor(Lazi, Maria, EnriqueVillanueva, Larena), #NegrosOriental(Zamboanguita, Siaton, SantaCatalina, Basay), #NegrosOccidental(HinobaAn, CityOfSipalay, Cauayan), #Aklan(Malay, Ibajay, Nabas, Malinao), #Antique(Sebaste), #Cebu(CityOfBogo, Tabogon, Tabuelan, Boljoon, Oslob), #Bohol(Maribojoc, Mabini, Anda, Candijay), #SouthernLeyte(Macrohon, PadreBurgos, Malitbog and CityOfMaasin) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(Palompon, Merida, Isabel, MatagOb), #Cebu(SanFrancisco, Poro, Tudela, Pilar, SanRemigio, Medellin, Daanbantayan), #Antique(Libertad, Pandan), #Aklan(Buruanga), #Siquijor(Siquijor, SanJuan), #Iloilo(Carles), #Bohol(Dauis, Panglao, TagbilaranCity, Cortes, Baclayon, Corella, Loay, Loboc, Lila, Dimiao, Sevilla, Sikatuna and Alburquerque) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 25 Sep 2026 21:03:36 +0000</pubDate>
-      <guid isPermaLink="false">e75a30e0c2e53a3264afa55421b038d196061be3</guid>
+      <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 05:54 AM 26 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Pilar), #Leyte(CityOfBaybay), #SouthernLeyte(PadreBurgos, Malitbog, CityOfMaasin, Libagon, SaintBernard), #NegrosOccidental(Cauayan, CityOfSipalay, HinobaAn, Candoni), #NegrosOriental(CityOfBayawan, Basay, SantaCatalina and Siaton) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(SanFrancisco, Poro, Tudela), #Leyte(Albuera, OrmocCity, Merida, Palompon, Isabel), #SouthernLeyte(Pintuyan, SanFrancisco, Liloan, SanRicardo, Macrohon), #Bohol(Dauis, Panglao, Anda, Candijay, Mabini and Guindulman) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Fri, 25 Sep 2026 22:27:29 +0000</pubDate>
+      <guid isPermaLink="false">95a2ead7c6b78635e508e25ef00ad628a13d8119</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 21:03:36 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 22:27:29 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 27 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09262026_1790368745.pdf</link>
       <description>Issued at: 05:00 AM, 26 September, 2026&lt;br /&gt;Valid until: 05:00 AM, 27 September, 2026</description>
-      <pubDate>Fri, 25 Sep 2026 21:03:35 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 21:03:36 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09262026_1790368745.pdf</guid>
       <category>Special Forecast</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 21:03:36 +0000</ns2:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 03:25 AM 26 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Villaba, OrmocCity, Tabango), #Siquijor(Lazi, Maria, EnriqueVillanueva, Larena), #NegrosOriental(Zamboanguita, Siaton, SantaCatalina, Basay), #NegrosOccidental(HinobaAn, CityOfSipalay, Cauayan), #Aklan(Malay, Ibajay, Nabas, Malinao), #Antique(Sebaste), #Cebu(CityOfBogo, Tabogon, Tabuelan, Boljoon, Oslob), #Bohol(Maribojoc, Mabini, Anda, Candijay), #SouthernLeyte(Macrohon, PadreBurgos, Malitbog and CityOfMaasin) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(Palompon, Merida, Isabel, MatagOb), #Cebu(SanFrancisco, Poro, Tudela, Pilar, SanRemigio, Medellin, Daanbantayan), #Antique(Libertad, Pandan), #Aklan(Buruanga), #Siquijor(Siquijor, SanJuan), #Iloilo(Carles), #Bohol(Dauis, Panglao, TagbilaranCity, Cortes, Baclayon, Corella, Loay, Loboc, Lila, Dimiao, Sevilla, Sikatuna and Alburquerque) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Fri, 25 Sep 2026 21:03:35 +0000</pubDate>
+      <guid isPermaLink="false">e75a30e0c2e53a3264afa55421b038d196061be3</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 21:03:36 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
