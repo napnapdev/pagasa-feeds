@@ -6,20 +6,20 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 25 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2026 03:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:34:58 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #SLPRSD&lt;br /&gt; Issued at 01:00 PM 26 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Marinduque(Gasan, Mogpog), #OrientalMindoro(Baco, Bongabong), #CamarinesSur(Caramoan, Garchitorena, Presentacion, Bato), #Albay(Oas), #NorthernSamar(SilvinoLobos, Catubig, Pambujan), #Catanduanes(SanMiguel and Gigmoto) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Naujan, Victoria, Socorro, Pinamalayan, Gloria, Bansud), #Catanduanes(Caramoran, SanAndres, Viga, Panganiban), #Marinduque(Boac), #NorthernSamar(LasNavas) and #Albay(Libon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 26 Sep 2026 05:35:22 +0000</pubDate>
+      <guid isPermaLink="false">7bcbd7a8b7532f93a18368b2e7efc238c041eb3c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 05:35:22 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
       <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 AM 26 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
       <pubDate>Sat, 26 Sep 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="false">c7b0395cd0266ae6d959092ddd00edad7b41a564</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 03:03:33 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 7 FINAL #SLPRSD&lt;br /&gt; Issued at 09:00 AM 26 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 26 Sep 2026 03:03:32 +0000</pubDate>
-      <guid isPermaLink="false">2783fdbc140d0b683eb1dcd60eb52cfbb1ed064a</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 03:03:33 +0000</ns1:seen>
     </item>
@@ -27,7 +27,7 @@
       <title>Special Forecast: Valid until: 09:00 AM, 27 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_26Sept2026_1790384120.pdf</link>
       <description>Issued at: 09:00 AM, 26 September, 2026&lt;br /&gt;Valid until: 09:00 AM, 27 September, 2026</description>
-      <pubDate>Sat, 26 Sep 2026 03:03:31 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 03:03:32 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_26Sept2026_1790384120.pdf</guid>
       <category>Special Forecast</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 03:03:33 +0000</ns2:seen>
@@ -36,10 +36,18 @@
       <title>Special Forecast: Valid until: 09:00 AM, 27 September, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_26Sept2026_1790384090.pdf</link>
       <description>Issued at: 09:00 AM, 26 September, 2026&lt;br /&gt;Valid until: 09:00 AM, 27 September, 2026</description>
-      <pubDate>Sat, 26 Sep 2026 03:03:30 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 03:03:31 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_26Sept2026_1790384090.pdf</guid>
       <category>Special Forecast</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 03:03:33 +0000</ns3:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 7 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 7 FINAL #SLPRSD&lt;br /&gt; Issued at 09:00 AM 26 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 26 Sep 2026 03:03:30 +0000</pubDate>
+      <guid isPermaLink="false">2783fdbc140d0b683eb1dcd60eb52cfbb1ed064a</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 03:03:33 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 26 September, 2026</title>
@@ -98,14 +106,6 @@
       <guid isPermaLink="false">4a14df9ad81dbacc0200a74d097f1844ec7b81b1</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 06:07:40 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #SLPRSD&lt;br /&gt; Issued at 12:30 PM 25 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Roxas, Gloria), #CamarinesSur(Lagonoy, Garchitorena, Caramoan), #Catanduanes(SanAndres, Viga, Bagamanoc, Pandan, Panganiban), #Romblon(Concepcion, SanAgustin, Odiongan, SantaMaria, SanFernando and Cajidiocan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon(Calatrava, SanAndres, Romblon, Magdiwang), #OrientalMindoro(Bongabong, Mansalay, Bansud), #Catanduanes(Caramoran), #CamarinesSur(Presentacion, Tinambac and Goa) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 25 Sep 2026 05:18:34 +0000</pubDate>
-      <guid isPermaLink="false">fb0fc13cd97fdd744680549554527f332771d88f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 05:18:34 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
