@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 26 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2026 18:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:30:40 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 12 #MINPRSD</title>
       <description>Rainfall Advisory No. 12 FINAL #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 02:00 AM 27 September 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">7e360470e7de9cd90847f49b15fb5da7c87c890f</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 21:30:51 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 4 #MINPRSD</title>
-      <description>Rainfall Advisory No. 4 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 02:00 AM 26 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #SurigaoDelSur(Hinatuan, CityOfBislig, Lingig, Tagbina, Barobo, Lianga), #SultanKudarat(Columbio, Lutayan), #SouthCotabato(Tampakan, CityOfKoronadal, LakeSebu, Surallah, Banga), #DavaoCity, #Sarangani(Malungon, Alabel, Malapatan, Glan), #AgusanDelSur(Trento, Bunawan, Rosario, Prosperidad, SanFrancisco, Veruela, SantaJosefa), #Bukidnon(SanFernando, Quezon, Kitaotao, Kibawe, Dangcagan, Damulog, Talakag), #MaguindanaoDelSur(Pagagawan, Pagalungan, DatuPaglas, Gen.S.K.Pendatun, Paglat), #NorthCotabato, #Sulu, #DavaoDelSur, #DavaoOccidental(Sarangani, JoseAbadSantos, DonMarcelino), #DavaoDelNorte, #DavaoDeOro, #ZamboangaCity, #Basilan, #LanaoDelSur(TagoloanII and Bubong) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rains are being experienced in #SouthCotabato(T'Boli, Polomolok, GeneralSantosCity, Tupi), #Sarangani(Kiamba, Maasim, Maitum), #DavaoOriental, #SultanKudarat(Palimbang, Lebak, Kalamansig), #DavaoOccidental(Malita and SantaMaria) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.</description>
-      <pubDate>Fri, 25 Sep 2026 18:15:46 +0000</pubDate>
-      <guid isPermaLink="false">1b92d47c98ce0ef35587e0fc0ecebd428b97873b</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 18:15:46 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
