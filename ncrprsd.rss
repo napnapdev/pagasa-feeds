@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 26 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2026 12:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 14:32:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 6 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 6 #NCR_PRSD&lt;br /&gt; Issued at: 9:59 PM, 26 September 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Marilao, Meycauayan, Obando, Malolos, Plaridel, Bustos, Paombong, Pandi, San Ildefonso, San Rafael, and Angat), Metro Manila (Pasig and Taguig), Nueva Ecija (Cabiao, San Isidro, and Gapan), Pampanga (Candaba), Quezon (Calauag, Lopez, Guinayangan, Quezon, and General Nakar), and Rizal (Antipolo and Angono) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bulacan (Dona Remedios Trinidad, San Miguel, Santa Maria, Norzagaray, San Jose del Monte, Bocaue, Balagtas, Bulakan, and Guiguinto) and Rizal (Taytay and Cainta) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 26 Sep 2026 14:32:38 +0000</pubDate>
+      <guid isPermaLink="false">51915815240bd471f3b53ac4896af1ef39ad9100</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 14:32:38 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 5 #NCR_PRSD&lt;br /&gt; Issued at: 7:51 PM, 26 September 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are expected over Bulacan (San Ildefonso, San Rafael, Baliuag, Bustos, Angat, and Norzagaray), Laguna (Santa Maria and Mabitac), Nueva Ecija (San Isidro, San Leonardo, Cabiao, San Jose, Carranglan, Lupao, Munoz, Talugtug, Cuyapo, Pantabangan, Gabaldon, Bongabon, Palayan, and Laur), Pampanga (Arayat, Santa Ana, San Luis, and Magalang), Quezon (Polillo, Burdeos, Infanta, Real, San Francisco, Tagkawayan, Calauag, Guinayangan, and San Andres), Rizal (Antipolo, San Mateo, Rodriguez, Cainta, Taytay, Teresa, Binangonan, Angono, and Jala-Jala), Tarlac (Concepcion, Bamban, and Capas), and Zambales (Botolan, Santa Cruz, Cabangan, San Felipe, Subic, Castillejos, San Marcelino, and Olongapo) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bulacan (Dona Remedios Trinidad and San Miguel), Nueva Ecija (General Tinio, Gapan, and Penaranda), Pampanga (Candaba), Quezon (General Nakar and Panukulan), Rizal (Pililla, Morong, Tanay, Baras, and Cardona), and Zambales (Masinloc, Palauig, San Antonio, San Narciso, Iba, and Candelaria) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sat, 26 Sep 2026 12:03:41 +0000</pubDate>
       <guid isPermaLink="false">4f979e22f69d2aba62cd4317d2c2e3f803ef09e9</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 12:03:41 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 12:03:41 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
@@ -86,7 +94,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
