@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 27 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2026 21:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 21:07:22 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 7 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 7 #NCR_PRSD&lt;br /&gt; Issued at: 2:55 AM, 27 September 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Cavite (Tanza, Rosario, Noveleta, Cavite City, General Trias, Naic, and Ternate) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -78,14 +78,6 @@
       <guid isPermaLink="false">92d876e3a1e1569d1d3432ecce5316bbd6a546d8</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 22:27:29 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #NCR_PRSD&lt;br /&gt; Issued at: 3:31 AM, 26 September 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are expected over Bataan (Limay, Mariveles, and Pilar), Batangas (Nasugbu and San Juan), Cavite (Ternate, Maragondon, and Naic), and Quezon (Polillo, Perez, Mauban, San Andres, San Francisco, and Sariaya) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bataan (Orion) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 25 Sep 2026 21:03:35 +0000</pubDate>
-      <guid isPermaLink="false">50c4ea85a18f9110df90963d723f49c6929662bb</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 21:03:35 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
