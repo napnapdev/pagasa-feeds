@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 26 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2026 22:27:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 00:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 07:02 AM 26 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Kalayaan, Bataraza), #Cebu(Cordova, LapuLapuCity), #Bohol(Panglao and Dauis) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Balabac), #Bohol(Anda, Candijay, Mabini), #SouthernLeyte(Macrohon, PadreBurgos, Limasawa, SanRicardo, Pintuyan and SanFrancisco) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sat, 26 Sep 2026 00:03:43 +0000</pubDate>
+      <guid isPermaLink="false">5f572e179280eab87c754e92c41bda90af093739</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 00:03:43 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 05:54 AM 26 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Pilar), #Leyte(CityOfBaybay), #SouthernLeyte(PadreBurgos, Malitbog, CityOfMaasin, Libagon, SaintBernard), #NegrosOccidental(Cauayan, CityOfSipalay, HinobaAn, Candoni), #NegrosOriental(CityOfBayawan, Basay, SantaCatalina and Siaton) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(SanFrancisco, Poro, Tudela), #Leyte(Albuera, OrmocCity, Merida, Palompon, Isabel), #SouthernLeyte(Pintuyan, SanFrancisco, Liloan, SanRicardo, Macrohon), #Bohol(Dauis, Panglao, Anda, Candijay, Mabini and Guindulman) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Fri, 25 Sep 2026 22:27:29 +0000</pubDate>
       <guid isPermaLink="false">95a2ead7c6b78635e508e25ef00ad628a13d8119</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 22:27:29 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 22:27:29 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 27 September, 2026</title>
@@ -22,7 +30,7 @@
       <pubDate>Fri, 25 Sep 2026 21:03:36 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09262026_1790368745.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 21:03:36 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 21:03:36 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
@@ -54,7 +62,7 @@
       <pubDate>Fri, 25 Sep 2026 15:03:36 +0000</pubDate>
       <guid isPermaLink="false">329cd5ef1b9883dd925bc16600e35cdd28b4e2f7</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 15:03:36 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 15:03:36 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 17 #VISPRSD</title>
@@ -175,14 +183,6 @@
       <guid isPermaLink="false">a0524e9d871d6f7a011b615cd468d65405e92e0e</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 03:03:43 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 07:00 AM 25 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(ElNido, SanVicente, Taytay, Dumaran, Araceli, Magsaysay, Cuyo and Roxas) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Kalayaan, Balabac, Cagayancillo), #EasternSamar(Salcedo, Mercedes and Guiuan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 25 Sep 2026 00:03:35 +0000</pubDate>
-      <guid isPermaLink="false">0aa4bc57f9e2d166da7085354f4e5e36a6e7134b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 25 Sep 2026 00:03:35 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
