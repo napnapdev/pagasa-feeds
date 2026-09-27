@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 27 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2026 23:29:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:03:56 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 05:51 AM 27 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #EasternSamar(Guiuan), #Antique(TobiasFornier, Hamtic and AniniY) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SouthernLeyte(SanRicardo, Pintuyan, CityOfMaasin, Macrohon), #Guimaras(NuevaValencia, Sibunag and SanLorenzo) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -135,14 +135,6 @@
       <guid isPermaLink="false">b28e7e8d1145d16fddbcf29eb3b013779ad44616</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 03:03:33 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 07:02 AM 26 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Kalayaan, Bataraza), #Cebu(Cordova, LapuLapuCity), #Bohol(Panglao and Dauis) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Balabac), #Bohol(Anda, Candijay, Mabini), #SouthernLeyte(Macrohon, PadreBurgos, Limasawa, SanRicardo, Pintuyan and SanFrancisco) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sat, 26 Sep 2026 00:03:43 +0000</pubDate>
-      <guid isPermaLink="false">5f572e179280eab87c754e92c41bda90af093739</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 00:03:43 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
