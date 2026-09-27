@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 27 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2026 18:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:26:37 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 03:37 AM 28 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Daanbantayan, Medellin), #Bohol(Panglao, Dauis, Baclayon, TagbilaranCity and Alburquerque) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Bantayan, Madridejos), #SouthernLeyte(Macrohon and PadreBurgos) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sun, 27 Sep 2026 20:27:25 +0000</pubDate>
+      <guid isPermaLink="false">6124215a49b2de9d420b1343102a2d2d78b62540</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 20:27:25 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 02:22 AM 28 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Guimaras(NuevaValencia and Sibunag) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Sun, 27 Sep 2026 18:30:50 +0000</pubDate>
       <guid isPermaLink="false">ecce851578cfdb1331c348ac17de71b953306319</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 18:30:50 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 18:30:50 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Sun, 27 Sep 2026 17:42:03 +0000</pubDate>
       <guid isPermaLink="false">dfa65d2b6bba8ba62b9b84c03f6e477bf6a2fe2c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 17:42:03 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 17:42:03 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 17 #VISPRSD</title>

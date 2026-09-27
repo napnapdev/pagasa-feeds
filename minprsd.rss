@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 27 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2026 18:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:26:36 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 04:00 AM 28 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelNorte(Sibuco), #ZamboangaDelSur(Pitogo, Tabina, Dimataling, VincenzoA.Sagun), #ZamboangaSibugay(Talusan, Mabuhay, Olutanga), #DinagatIslands(Tubajon, Libjo and Cagdianao) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaCity, #ZamboangaSibugay(Tungawan) and #DinagatIslands(Loreto) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 27 Sep 2026 20:27:25 +0000</pubDate>
+      <guid isPermaLink="false">372b1a4f5ced81c8e67b625008323b4893fd4453</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 20:27:25 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 8 FINAL #MINPRSD&lt;br /&gt; Issued at 01:30 AM 28 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 27 Sep 2026 17:42:03 +0000</pubDate>
       <guid isPermaLink="false">3af2aac02d00082d4402a4f79f3d11805383755b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 17:42:03 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 17:42:03 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
