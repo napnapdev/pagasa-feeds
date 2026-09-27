@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 27 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2026 12:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 13:06:25 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 16 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 16 #VISPRSD&lt;br /&gt; Issued at 08:53 PM 27 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Siquijor(EnriqueVillanueva, Maria and Larena) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sun, 27 Sep 2026 13:06:43 +0000</pubDate>
+      <guid isPermaLink="false">f7047e3418e121f57ee997ba32c19674b9881b95</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 13:06:43 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 15 #VISPRSD&lt;br /&gt; Issued at 07:10 PM 27 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Samar(TagapulAn), #EasternSamar(Maydolong, Balangkayan, CityOfBorongan), #SouthernLeyte(Hinunangan and Silago) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Samar(Almagro) and #Biliran(Maripipi) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Sun, 27 Sep 2026 12:03:36 +0000</pubDate>
       <guid isPermaLink="false">3a911a997f301bb7913df05c04efbaa228ae3a9a</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 12:03:36 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 12:03:36 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Sun, 27 Sep 2026 12:03:35 +0000</pubDate>
       <guid isPermaLink="false">dd2512f0d951f8418540b52acf100aa9dfb5bb34</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 12:03:36 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 12:03:36 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Sun, 27 Sep 2026 12:03:34 +0000</pubDate>
       <guid isPermaLink="false">f9e4484168986a0bf47e145efad07d48d7eca6d5</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 12:03:36 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 12:03:36 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
@@ -118,7 +126,7 @@
       <pubDate>Sat, 26 Sep 2026 21:00:47 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_09272026_1790456007.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 21:00:47 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 21:00:47 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
