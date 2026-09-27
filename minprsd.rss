@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 27 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2026 15:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 15:07:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 6 #MINPRSD&lt;br /&gt; Issued at 10:00 PM 27 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Bukidnon(Talakag, Baungon, Libona, ManoloFortich, Sumilao, Cabanglasan, SanFernando, Quezon, DonCarlos, Pangantucan, Kalilangan, Kitaotao, Dangcagan, Kibawe, Damulog, Kadingilan), #MisamisOriental(CagayanDeOroCity, Talisayan, Balingoan, Jasaan, Villanueva, Tagoloan, Balingasag, Lagonglong, Salay, Binuangan, Kinoguitan, Sugbongcogon, Medina), #AgusanDelSur(Esperanza, SanLuis), #AgusanDelNorte(LasNieves, Buenavista, RemediosT.Romualdez, Magallanes, ButuanCity), #ZamboangaSibugay(Talusan, Olutanga, Mabuhay), #ZamboangaDelSur(Margosatubig, VincenzoA.Sagun, Dimataling, Pitogo, Tabina), #Camiguin, #SurigaoDelSur(Tagbina, Lianga, SanAgustin, Tago, Barobo, Hinatuan, CityOfBislig), #DavaoDeOro(Nabunturan, Montevista, Mawab, Maco, Monkayo, Maragusan), #DavaoDelNorte(NewCorella, SantoTomas, BraulioE.Dujali, Carmen, CityOfTagum, Asuncion), #MisamisOccidental(Sinacaban and Aloran) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bukidnon(ImpasugOng, CityOfMalaybalay, Lantapan, CityOfValencia, Malitbog, Maramag), #MisamisOriental(Claveria, Magsaysay, GingoogCity), #AgusanDelNorte(Carmen, Nasipit), #SurigaoDelSur(Marihatag, Cagwait, Bayabas), #DavaoDeOro(Compostela, NewBataan), #MisamisOccidental(Jimenez and Panaon) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -94,14 +94,6 @@
       <guid isPermaLink="false">4ce0375bee2f898bb06579a29c9630317e8ebadb</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 17:56:45 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 11 #MINPRSD</title>
-      <description>Rainfall Advisory No. 11 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:00 PM 26 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Camiguin, #SurigaoDelNorte(SurigaoCity, SanFrancisco, Sison, TaganaAn, Placer and Malimono) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DinagatIslands which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
-      <pubDate>Sat, 26 Sep 2026 15:07:31 +0000</pubDate>
-      <guid isPermaLink="false">49a3d414ec21dfd75f54d0e429a09bc6b3990080</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 15:07:31 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
