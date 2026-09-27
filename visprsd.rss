@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 27 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2026 06:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 07:07:47 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 10 #VISPRSD&lt;br /&gt; Issued at 02:54 PM 27 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(SofronioEspanola, Araceli and ElNido) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(PuertoPrincesaCity, Aborlan, Narra, Quezon, SanVicente, Roxas, Taytay and Dumaran) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sun, 27 Sep 2026 07:07:58 +0000</pubDate>
+      <guid isPermaLink="false">3ab4cb570fa0349261a3913039b7effede81bb6b</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 07:07:58 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 9 #VISPRSD&lt;br /&gt; Issued at 01:54 PM 27 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Biliran, #NegrosOccidental(SilayCity, EnriqueB.Magalona, CityOfVictorias, CityOfTalisay, BacolodCity, Ilog, Cauayan, HinobaAn), #Capiz(Panay, RoxasCity, Ivisan, SapiAn, PresidentRoxas, Pilar), #Iloilo(Calinog, CityOfPassi, SanEnrique, Bingawan, Lambunao), #Antique(Bugasong and LauaAn) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(Capoocan, Kananga, Leyte, Calubian, Tabango, Villaba, SanIsidro, Palompon, Isabel, Merida, OrmocCity, MatagOb, Jaro, Carigara, Barugo, TaclobanCity, Alangalang, SantaFe, Palo, Tanauan, Burauen, Julita, Dulag, Pastrana, Dagami, Tabontabon, Tolosa, SanMiguel, Albuera, LaPaz, Mayorga, Macarthur, CityOfBaybay, Babatngon, Tunga, Javier), #Samar, #EasternSamar(CanAvid, Maslog, Lawaan, Balangiga, Quinapondan, Giporlos, CityOfBorongan, Maydolong), #Cebu(Balamban, ToledoCity, CebuCity, Asturias), #NegrosOriental, #NegrosOccidental(SalvadorBenedicto, SanCarlosCity, CityOfEscalante, Toboso, CadizCity, SagayCity, Calatrava, Murcia, Manapla, CityOfKabankalan, CityOfHimamaylan, Binalbagan, Isabela, MoisesPadilla, LaCastellana, CityOfSipalay, Candoni), #Aklan(Libacao, Madalag, Balete, Altavas), #Capiz(Tapaz, Mambusao, Jamindan, Pontevedra, Panitan, MaAyon, Dao, Sigma, Dumarao, Cuartero, Dumalag), #Iloilo(Ajuy, Concepcion, SanDionisio, BarotacViejo, SanRafael, Lemery, Sara), #Antique(Culasi, Tibiao, Barbaza), #Bohol(Maribojoc and Loon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Sun, 27 Sep 2026 06:03:38 +0000</pubDate>
       <guid isPermaLink="false">b79211da7c39684d9c68517daee44974b83735c4</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 06:03:38 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 06:03:38 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Sun, 27 Sep 2026 06:03:37 +0000</pubDate>
       <guid isPermaLink="false">49946583343c3db976d1c218649a8ea30b586295</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 06:03:38 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 06:03:38 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
@@ -111,14 +119,6 @@
       <guid isPermaLink="false">16020f78a066a9b4074ae3cab84a9d850f4cff76</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 09:03:33 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 02:18 PM 26 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(CityOfVictorias, Manapla, EnriqueB.Magalona, SilayCity, CityOfTalisay, Murcia, LaCarlotaCity, LaCastellana, BagoCity, Binalbagan, MoisesPadilla, Isabela, Ilog), #NegrosOriental(Basay), #Cebu(CityOfTalisay, Minglanilla, Tuburan, Asturias, Borbon, Tabuelan, Compostela, Liloan, Consolacion, MandaueCity, LapuLapuCity, Cordova, CityOfNaga, Pinamungajan, SanFernando, Aloguinsan), #Leyte(Tabango), #Iloilo(Balasan, Estancia, Calinog, Janiuay, Miagao, Igbaras, Tubungan, Alimodian, Leon, Concepcion, Ajuy, SanRafael, BarotacViejo, Maasin), #Capiz(Cuartero, Dumarao, Panitan, Dao, Jamindan), #Bohol(Talibon, Mabini, Alicia, Pilar, Dagohoy, Danao, Buenavista, BienUnido), #SouthernLeyte(Silago, Sogod), #Samar(Pinabacdao, Basey), #Antique(Valderrama, Bugasong, LauaAn) and #Aklan(Madalag) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(CadizCity, CityOfEscalante, SagayCity, Toboso, Calatrava, SanCarlosCity, SalvadorBenedicto, CityOfKabankalan, CityOfHimamaylan), #NegrosOriental(Vallehermoso, CanlaonCity, CityOfGuihulngan, Jimalalud, LaLibertad, Tayasan, Bindoy, Manjuyod, Mabinay, BaisCity, CityOfTanjay, Pamplona, CityOfBayawan, Ayungon), #Cebu(Balamban, CebuCity, ToledoCity, Catmon, Carmen, DanaoCity, Sogod, Argao, Barili, CityOfCarcar, Sibonga, Dalaguete, Oslob, Samboan, Santander), #Bohol(Ubay, SanMiguel, Trinidad, Pres.CarlosP.Garcia), #Leyte(Leyte, Capoocan, Kananga, MatagOb, Villaba, Barugo, Tunga, Carigara, Alangalang, Jaro, SantaFe, TaclobanCity, SanMiguel, Palo, Pastrana, CityOfBaybay, Inopacan, Mahaplag, Abuyog, Javier), #Samar(Paranas, SanJoseDeBuan, Matuguinao, Hinabangan, SanSebastian, Calbiga), #EasternSamar(CanAvid, Taft, Sulat, SanJulian, Dolores, Oras, Arteche, Maslog, Jipapad, SanPolicarpo, CityOfBorongan), #Capiz(Tapaz, Pilar, MaAyon, PresidentRoxas, Pontevedra), #Iloilo(Lambunao, SanDionisio, Batad, Sara, Lemery), #Antique(SanRemigio, Sibalom) and #Aklan(Libacao) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sat, 26 Sep 2026 06:30:50 +0000</pubDate>
-      <guid isPermaLink="false">36c578f132ba4e3e484004a073b29c1ce3a99c62</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 26 Sep 2026 06:30:50 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
