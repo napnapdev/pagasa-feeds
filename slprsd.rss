@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 28 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2026 15:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:07:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 15 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 15 #SLPRSD&lt;br /&gt; Issued at 10:40 PM 28 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Romblon(Calatrava, SanAndres, Odiongan, Looc, Ferrol, Alcantara, SantaFe, Cajidiocan, SanFernando, Magdiwang, Romblon and SanJose) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon(SanAgustin, SantaMaria), #Masbate(Balud and Mandaon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -178,14 +178,6 @@
       <guid isPermaLink="false">f09d9fa05ab0ea74fa987e715d602f091edca867</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 23:20:26 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 7 FINAL #SLPRSD&lt;br /&gt; Issued at 11:00 PM 27 September 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 27 Sep 2026 15:07:34 +0000</pubDate>
-      <guid isPermaLink="false">48e549068255aa0d3605aa08d4da0c6511c034e6</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 27 Sep 2026 15:07:34 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
