@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 28 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2026 18:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 18:07:19 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 4 #MINPRSD</title>
+      <description>Rainfall Advisory No. 4 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 02:00 AM 29 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaDelNorte(Sindangan, Siayan, JoseDalman, Pres.ManuelA.Roxas, Katipunan, Manukan, SergioOsmeñaSr., Mutia, Piñan, Polanco, DipologCity, DapitanCity, Sibutad, LaLibertad, Rizal), #MisamisOccidental(Aloran, OroquietaCity, Calamba, LopezJaena, Plaridel, Baliangao, Concepcion, SapangDalaga), #ZamboangaDelSur(Dinas, SanPablo, SanMiguel, Lapuyan, Margosatubig, VincenzoA.Sagun), #MaguindanaoDelNorte(SultanMastura, SultanKudarat, Parang), #SultanKudarat(CityOfTacurong, PresidentQuirino, Lutayan), #NorthCotabato(M'Lang, CityOfKidapawan, Makilala, Tulunan), #MaguindanaoDelSur(Gen.S.K.Pendatun, Pandag, Buluan, DatuPaglas, Paglat, Mangudadatu), #SouthCotabato(Tantangan), #DavaoCity, #DavaoDeOro(Pantukan, Mabini), #DavaoOriental(Banaybanay, Lupon, SanIsidro, Baganga, Cateel, Boston), #DavaoDelNorte(CityOfPanabo), #MisamisOriental(Laguindingan, Salay, Lagonglong) and #Camiguin within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #ZamboangaDelSur(Pitogo, Tabina, Dimataling) and #DavaoDelNorte(CityOfSamal) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.</description>
+      <pubDate>Mon, 28 Sep 2026 18:08:07 +0000</pubDate>
+      <guid isPermaLink="false">7d10c4cd8cf72c906930b78de0fb6d380647f2e6</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 18:08:07 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 3 #MINPRSD</title>
       <description>Rainfall Advisory No. 3 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:00 PM 28 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #Camiguin(Sagay, Mahinog, Guinsiliban), #MisamisOccidental(SapangDalaga, Concepcion, LopezJaena, OroquietaCity, Aloran, Panaon, Jimenez, Sinacaban, Tudela, OzamisCity, TangubCity, DonVictorianoChiongbian, Bonifacio, Clarin), #NorthCotabato(Arakan, PresidentRoxas, Antipas, CityOfKidapawan, Matalam), #Bukidnon(Kitaotao, Kibawe, Damulog, Dangcagan), #AgusanDelSur(CityOfBayugan, Sibagat, Prosperidad), #SurigaoDelSur(SanMiguel, Tago, Lanuza, CityOfTandag, Cagwait, Marihatag, SanAgustin and Lianga) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #DavaoCity, #NorthCotabato(Magpet), #DavaoDelNorte(CityOfSamal, CityOfTagum, BraulioE.Dujali, Carmen, CityOfPanabo, SantoTomas), #DavaoDeOro(Mabini, Pantukan, Maco, Mawab), #Camiguin(Mambajao, Catarman), #MisamisOccidental(Baliangao, Plaridel and Calamba) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
@@ -46,7 +54,7 @@
       <pubDate>Mon, 28 Sep 2026 12:03:34 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-MANOLO FORTICH BUKIDNON 9282026_1790587720.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 12:03:34 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 12:03:34 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #MINPRSD</title>
