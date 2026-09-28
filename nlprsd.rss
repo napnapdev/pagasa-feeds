@@ -5,15 +5,23 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/nlprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
-    <pubDate>Mon, 28 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2026 21:03:22 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:07:24 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 19 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 19 #NLPRSD&lt;br /&gt; Issued at 04:55 AM 29 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Pangasinan(CityOfAlaminos, Bani, Agno, Sual, Lingayen, Binmaley, DagupanCity), #Cagayan(Gattaran, Baggao and Peñablanca) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Pangasinan(Anda and Bolinao) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 28 Sep 2026 21:07:39 +0000</pubDate>
+      <guid isPermaLink="false">31dc4bba3a96a9ae139c9b3a17637b631f877145</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 21:07:39 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 28 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
       <pubDate>Mon, 28 Sep 2026 15:03:39 +0000</pubDate>
       <guid isPermaLink="false">2d5e2e129fa50ab65c21edcee90316cec23aa78c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 15:03:39 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 15:03:39 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 18 #NLPRSD</title>
