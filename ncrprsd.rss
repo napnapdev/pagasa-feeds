@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 29 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 29 Sep 2026 09:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 09:07:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 7 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 7 #NCR_PRSD&lt;br /&gt; Issued at: 4:34 PM, 29 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are expected over Batangas (San Juan, Lobo, Batangas City, Ibaan, Taysan, San Jose, San Pascual, Alitagtag, Lipa, Rosario, Padre Garcia, Santo Tomas, Malvar, Balete, Mataasnakahoy, Cuenca, and Tanauan), Bulacan (Baliuag, Calumpit, Malolos, Dona Remedios Trinidad, Hagonoy, Paombong, Plaridel, Pulilan, San Ildefonso, and San Miguel), Laguna (Mabitac, Santa Maria, Kalayaan, Paete, Lumban, Cavinti, San Pablo, Alaminos, Bay, Calauan, Liliw, Los Banos, Luisiana, Magdalena, Majayjay, Nagcarlan, Pagsanjan, Pila, Rizal, Santa Cruz, Victoria, and Calamba), Metro Manila (Valenzuela, Malabon, Navotas, Marikina, San Juan, Manila, Mandaluyong, and Pasig), Nueva Ecija (Cabiao, Licab, Gapan, General Tinio, San Isidro, Aliaga, Bongabon, Cabanatuan, Cuyapo, Gabaldon, General Mamerto Natividad, Guimba, Laur, Llanera, Lupao, Nampicuan, Palayan, Penaranda, Quezon, Rizal, San Jose, Santo Domingo, Munoz, Talavera, and Talugtug), Pampanga (Arayat, Masantol, Macabebe, Sasmuan, Lubao, Candaba, and Magalang), Quezon (Mauban, Real, Lucena, Sariaya, Tayabas, Candelaria, Lucban, Sampaloc, Dolores, Tiaong, San Antonio, Infanta, General Nakar, Calauag, Lopez, Catanauan, General Luna, Macalelon, Pitogo, and Gumaca), Rizal (San Mateo, Tanay, Angono, Baras, Binangonan, Cainta, Cardona, Jala-Jala, Morong, Pililla, Taytay, and Teresa), Tarlac (La Paz, Concepcion, Tarlac City, Capas, Bamban, Victoria, Gerona, and Pura), and Zambales (Candelaria and Santa Cruz) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; Intense to torrential rainshowers with lightning and strong winds are affecting Bulacan (Bulakan, Angat, Balagtas, Bocaue, Bustos, Meycauayan, San Jose del Monte, Guiguinto, Marilao, Norzagaray, Obando, Pandi, San Rafael, and Santa Maria), Laguna (Pakil, Pangil, Siniloan, and Famy), Metro Manila (Quezon City and Caloocan), Nueva Ecija (Carranglan, Pantabangan, Santa Rosa, Jaen, San Leonardo, San Antonio, and Zaragoza), Quezon (Tagkawayan, Buenavista, and Guinayangan), and Rizal (Rodriguez and Antipolo) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -118,7 +118,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
