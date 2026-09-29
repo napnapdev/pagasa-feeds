@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 29 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 29 Sep 2026 13:57:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:03:23 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 29 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
+      <pubDate>Tue, 29 Sep 2026 15:03:36 +0000</pubDate>
+      <guid isPermaLink="false">f5f940aea249b9cee40be115542349ef5bc71c18</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 15:03:36 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 6 #NLPRSD&lt;br /&gt; Issued at 08:30 PM 29 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(Gattaran, Baggao, LalLo, Gonzaga), #Kalinga(Balbalan, Pasil, Pinukpuk, CityOfTabuk), #MountainProvince(Sadanga), #Abra(Boliney, Tubo, Daguioman, Bucloc), #Benguet(Kabayan, Bokod, Itogon, BaguioCity and Tuba) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Kalinga(Tanudan, Tinglayan and Lubuagan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 29 Sep 2026 13:57:56 +0000</pubDate>
       <guid isPermaLink="false">1766f4a8774660f8aa6f907aace3f9f2d6671b35</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 13:57:56 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 13:57:56 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #NLPRSD</title>
