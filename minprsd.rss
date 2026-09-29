@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 29 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 29 Sep 2026 01:17:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 03:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 29 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #MisamisOccidental, #MisamisOriental, #Camiguin, #Bukidnon and #LanaoDelNorte within 12 hours.</description>
+      <pubDate>Tue, 29 Sep 2026 03:03:57 +0000</pubDate>
+      <guid isPermaLink="false">a282cf4e2417a77785eb92e19979819c25740cf6</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 03:03:57 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 6 #MINPRSD</title>
       <description>Rainfall Advisory No. 6 FINAL #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 08:00 AM 29 September 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
@@ -111,30 +119,6 @@
       <guid isPermaLink="false">2bc0fdc2146fffebb62bcf9c8db43846022abc23</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 06:03:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #MINPRSD&lt;br /&gt; Issued at 10:30 AM 28 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #ZamboangaCity, #TawiTawi(Mapun, TurtleIslands), #Camiguin(Mahinog, Guinsiliban, Sagay), #MisamisOriental(Opol, CityOfElSalvador, Naawan, Manticao, Initao, Gitagum, Libertad, Laguindingan), #LanaoDelNorte(Bacolod, Kauswagan, Maigo, Linamon), #ZamboangaSibugay(Mabuhay, Talusan), #ZamboangaDelSur(VincenzoA.Sagun, Pitogo), #DavaoDelNorte(CityOfTagum, CityOfSamal, Carmen), #DavaoDeOro(Maco, Mabini), #ZamboangaDelNorte(Gutalac and Labason) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaDelNorte(Sibuco), #Camiguin(Mambajao, Catarman), #MisamisOriental(Alubijid) and #DavaoCity which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 28 Sep 2026 03:03:31 +0000</pubDate>
-      <guid isPermaLink="false">ed6b3d2f0529528448bb5ab98284c816be1270d8</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 03:03:31 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 28 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #MisamisOccidental, #MisamisOriental, #Camiguin, #Bukidnon and #LanaoDelNorte within 12 hours.</description>
-      <pubDate>Mon, 28 Sep 2026 01:45:23 +0000</pubDate>
-      <guid isPermaLink="false">cf2a54285a0a844b7c356b74895da5f97f1dfcb2</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 01:45:23 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #MINPRSD&lt;br /&gt; Issued at 09:30 AM 28 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #ZamboangaSibugay(Tungawan), #ZamboangaDelNorte(Sirawai), #ZamboangaDelSur(Tabina, Pitogo, Dimataling, Dinas, SanPablo, Margosatubig, VincenzoA.Sagun), #TawiTawi(Mapun, TurtleIslands), #DavaoDelNorte(Carmen and CityOfPanabo) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaDelNorte(Sibuco) and #ZamboangaCity which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 28 Sep 2026 01:45:22 +0000</pubDate>
-      <guid isPermaLink="false">a7371bdaa3d41097b37140cc7ca47ee68bf087f1</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 01:45:23 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
