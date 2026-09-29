@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 29 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 29 Sep 2026 12:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:57:36 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NCRPRSD</title>
+      <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 PM, 29 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
+      <pubDate>Tue, 29 Sep 2026 13:57:56 +0000</pubDate>
+      <guid isPermaLink="false">9ad9172d1e014fac62a9a38040e55a87b0324529</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 13:57:56 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 10 #NCR_PRSD&lt;br /&gt; Issued at: 8:20 PM, 29 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are expected over Bataan (Orani, Samal, Abucay, Balanga, Hermosa, and Pilar), Bulacan (Hagonoy), Nueva Ecija (Pantabangan, Bongabon, Gabaldon, Laur, Rizal, Lupao, San Jose, General Tinio, and Palayan), Pampanga (Masantol, Macabebe, Sasmuan, Lubao, Mabalacat, Angeles, and Porac), Quezon (San Narciso, San Andres, San Francisco, Mulanay, Buenavista, Catanauan, Guinayangan, Tagkawayan, and General Nakar), and Tarlac (Bamban) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are affecting Nueva Ecija (Carranglan) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 29 Sep 2026 12:30:51 +0000</pubDate>
       <guid isPermaLink="false">60176c72f4abee087a34f8f19129b37fd025b9b3</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 12:30:51 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 12:30:51 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #NCRPRSD</title>
