@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 30 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 30 Sep 2026 03:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:30:36 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 AM, 30 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">b72376a3844eb5edfe31d047b33a12c2eece4b87</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 06:03:37 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 11:15 AM, 29 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (Nasugbu, Laurel, Lemery, Agoncillo, Talisay, San Nicolas, Taal, and Santa Teresita), Cavite (Alfonso, Magallanes, General Emilio Aguinaldo, Tagaytay, Mendez, Indang, Amadeo, and Silang), Metro Manila (Muntinlupa, Taguig, Pasig, Paranaque, Pasay, Makati, Pateros, and Mandaluyong), Pampanga (Floridablanca and Porac), Quezon (Tayabas, Sariaya, Lucban, Dolores, Candelaria, Lucena, Mulanay, San Francisco, San Andres, and San Narciso), Rizal (Taytay, Cainta, and Angono), Tarlac (San Jose, Mayantoc, Capas, and Bamban), Bataan, and Zambales within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Batangas (Balayan, Tuy, Lian, Calatagan, and Calaca) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 29 Sep 2026 03:30:51 +0000</pubDate>
-      <guid isPermaLink="false">b1dd2d8907b55b0a7335cd17b54e0183984e501f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 03:30:51 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
