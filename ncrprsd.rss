@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 30 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 30 Sep 2026 12:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:31:12 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 7 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 7 #NCR_PRSD&lt;br /&gt; Issued at: 7:45 PM, 30 September 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are expected over Nueva Ecija (Cuyapo, Quezon, Aliaga, Santo Domingo, Talavera, Cabanatuan, Santa Rosa, Jaen, San Leonardo, Gapan, San Isidro, San Jose, and Lupao), Pampanga (Porac, Angeles, Mexico, Santa Ana, Candaba, San Fernando, San Luis, and Bacolor), Tarlac (Santa Ignacia, Mayantoc, Anao, Paniqui, Ramos, San Manuel, Camiling, Moncada, and San Clemente), and Zambales (Palauig, Iba, Botolan, Masinloc, Candelaria, Santa Cruz, Cabangan, San Felipe, San Narciso, and San Marcelino) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; Intense to torrential rainshowers with lightning and strong winds are affecting Nueva Ecija (San Antonio, Zaragoza, Licab, Guimba, Cabiao, Talugtug, Munoz, and Nampicuan), Pampanga (Arayat, Magalang, and Mabalacat), and Tarlac (Concepcion, Bamban, Capas, San Jose, Tarlac City, La Paz, Victoria, Gerona, and Pura) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -69,7 +69,7 @@
       <pubDate>Wed, 30 Sep 2026 01:59:25 +0000</pubDate>
       <guid isPermaLink="false">f0d80ec2c187315b0132fa538a15b6eba09d7e54</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 01:59:25 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 01:59:25 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
@@ -80,21 +80,13 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 13:57:56 +0000</ns0:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 10 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 10 #NCR_PRSD&lt;br /&gt; Issued at: 8:20 PM, 29 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are expected over Bataan (Orani, Samal, Abucay, Balanga, Hermosa, and Pilar), Bulacan (Hagonoy), Nueva Ecija (Pantabangan, Bongabon, Gabaldon, Laur, Rizal, Lupao, San Jose, General Tinio, and Palayan), Pampanga (Masantol, Macabebe, Sasmuan, Lubao, Mabalacat, Angeles, and Porac), Quezon (San Narciso, San Andres, San Francisco, Mulanay, Buenavista, Catanauan, Guinayangan, Tagkawayan, and General Nakar), and Tarlac (Bamban) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are affecting Nueva Ecija (Carranglan) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 29 Sep 2026 12:30:51 +0000</pubDate>
-      <guid isPermaLink="false">60176c72f4abee087a34f8f19129b37fd025b9b3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 12:30:51 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns4:seen>
     </item>
   </channel>
 </rss>

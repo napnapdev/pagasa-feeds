@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 30 Sep 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 30 Sep 2026 12:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:30:35 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 14 #VISPRSD&lt;br /&gt; Issued at 05:22 PM 30 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Samar(Motiong, Villareal, Talalora, Hinabangan, SanSebastian), #Leyte(Leyte, Isabel), #Cebu(CityOfNaga and Pinamungajan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(SanRemigio), #Iloilo(Igbaras, Tubungan, Leon), #Samar(SantaRita, Basey, Pinabacdao, CalbayogCity, SantaMargarita, Gandara, Matuguinao, Paranas, Calbiga), #Leyte(Capoocan, Carigara, Palompon, Merida), #Cebu(SanFernando and ToledoCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -78,14 +78,6 @@
       <guid isPermaLink="false">0f4209551712a6252eb371f19f0529738436df4d</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 13:57:56 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 21 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 21 #VISPRSD&lt;br /&gt; Issued at 08:05 PM 29 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Poro, Bantayan, Madridejos, Tabogon, Borbon), #Palawan(SanVicente and Dumaran) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bohol(Pres.CarlosP.Garcia), #Cebu(SanFrancisco, Tudela, Daanbantayan, Medellin, SantaFe), #Palawan(Roxas) and #Samar(CalbayogCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 29 Sep 2026 12:30:51 +0000</pubDate>
-      <guid isPermaLink="false">fcffca6fcbf243a7e6212ff537c362f374d6ee88</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 12:30:51 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
