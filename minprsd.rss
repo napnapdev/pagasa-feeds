@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 30 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 30 Sep 2026 08:19:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:03:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 6 #MINPRSD&lt;br /&gt; Issued at 04:00 PM 30 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Sarangani(Maitum, Kiamba, Maasim), #NorthCotabato(PresidentRoxas, Antipas, CityOfKidapawan, Makilala, Alamada, Carmen, Kabacan, Matalam, Libungan, Pigkawayan, Midsayap, Aleosan, Pikit, M'Lang), #DavaoDelSur(Bansalan, CityOfDigos, SantaCruz), #MaguindanaoDelNorte(Buldon, Barira), #DavaoDeOro(Mawab, Maco, Nabunturan, Laak), #DavaoDelNorte(CityOfTagum, SantoTomas, BraulioE.Dujali, Asuncion, NewCorella, Talaingod, Kapalong, SanIsidro, CityOfSamal), #MaguindanaoDelSur(Pagagawan, Pagalungan), #SultanKudarat(Isulan, Bagumbayan, Sen.NinoyAquino), #Bukidnon(Kadingilan, Maramag, Kalilangan, Pangantucan, SanFernando, CityOfValencia, Cabanglasan, Lantapan, CityOfMalaybalay, Sumilao, Baungon, Libona, ManoloFortich, Malitbog, ImpasugOng), #LanaoDelSur(Marogong, Wao, LumbacaUnayan, Calanogas, SultanDumalondong, Tubaran, Butig, Lumbatan, Lumbayanague, Bayang, Binidayan, Masiu, PoonaBayabao, LumbaBayabao, Bumbaran, Tamparan, Taraka, Madamba, BacolodKalawi, Mulondo, Tugaya, Balindong, Madalum, BuadiposoBuntong, Marantao, DitsaanRamain, Piagapo, MarawiCity, Saguiaran, Kapai), #LanaoDelNorte(Nunungan, Pantar, Tagoloan, IliganCity), #MisamisOriental(GingoogCity, Magsaysay, Claveria), #AgusanDelNorte(Carmen, Nasipit, Buenavista, LasNieves), #AgusanDelSur(Esperanza, SanLuis, Talacogon and Veruela) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NorthCotabato(Arakan, Magpet, Banisilan), #AgusanDelSur(LaPaz, Loreto), #DavaoCity, #DavaoDelNorte(Carmen, CityOfPanabo), #Bukidnon(Damulog, Kibawe, Dangcagan, Kitaotao, DonCarlos, Quezon, Talakag), #LanaoDelSur(Pagayawan, Ganassi, Pualas, Maguing, Bubong and TagoloanII) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -37,7 +37,7 @@
       <pubDate>Wed, 30 Sep 2026 03:03:36 +0000</pubDate>
       <guid isPermaLink="false">2fdbf94c94a353501f8ebef6f91dd349e7e7aaef</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 03:03:36 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 03:03:36 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
@@ -86,7 +86,7 @@
       <pubDate>Mon, 28 Sep 2026 12:03:34 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-MANOLO FORTICH BUKIDNON 9282026_1790587720.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 12:03:34 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 12:03:34 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
