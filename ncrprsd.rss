@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 30 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 29 Sep 2026 23:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:03:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 PM, 29 September 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">b1dd2d8907b55b0a7335cd17b54e0183984e501f</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 03:30:51 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #NCR_PRSD&lt;br /&gt; Issued at: 7:00 AM, 29 September 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Mariveles, Limay, Orion, Pilar, Balanga, Abucay, Samal, Orani, and Hermosa), Batangas (Nasugbu), Cavite (Cavite City, Ternate, and Maragondon), Metro Manila (Paranaque, Muntinlupa, and Las Pinas), Pampanga (Masantol, Macabebe, Sasmuan, and Lubao), and Quezon (San Francisco, San Andres, San Narciso, and Mulanay) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 29 Sep 2026 00:03:35 +0000</pubDate>
-      <guid isPermaLink="false">32a88e308e7c46fe2052289c277a0ea4de615cd6</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 00:03:35 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
