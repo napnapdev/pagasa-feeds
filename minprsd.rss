@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 30 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 30 Sep 2026 00:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 01:59:10 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 06:20 AM 30 September 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Sarangani(Malungon) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelNorte(SiargaoIsland) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -80,21 +80,13 @@
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 03:03:57 +0000</ns1:seen>
     </item>
     <item>
-      <title>Rainfall Advisory No. 6 #MINPRSD</title>
-      <description>Rainfall Advisory No. 6 FINAL #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 08:00 AM 29 September 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
-      <pubDate>Tue, 29 Sep 2026 00:31:20 +0000</pubDate>
-      <guid isPermaLink="false">7701360e922b56eaae209d9d563af8c97f3ac5d6</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 29 Sep 2026 00:31:20 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Special Forecast: Valid until: 05:30 PM, 1 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-MANOLO FORTICH BUKIDNON 9282026_1790587720.pdf</link>
       <description>Issued at: 05:30 PM, 28 September, 2026&lt;br /&gt;Valid until: 05:30 PM, 1 October, 2026</description>
       <pubDate>Mon, 28 Sep 2026 12:03:34 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-MANOLO FORTICH BUKIDNON 9282026_1790587720.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 12:03:34 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 28 Sep 2026 12:03:34 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
