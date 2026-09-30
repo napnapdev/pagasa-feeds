@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 30 Sep 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 30 Sep 2026 06:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:19:17 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #NLPRSD&lt;br /&gt; Issued at 02:58 PM 30 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #IlocosNorte(NuevaEra, Solsona, Dingras, Marcos, Banna, Badoc, Pinili, CityOfBatac, Sarrat, Pasuquin, Bacarra, LaoagCity, SanNicolas, Paoay, Currimao), #MountainProvince(Sadanga, Bauko, Sabangan, Tadian, Barlig, Natonin), #Apayao(Conner, Kabugao, Luna, Pudtol), #Abra(LicuanBaay, Tineg, Sallapadan, Bucloc, Manabo, Lagangilang, Villaviciosa, Bucay, Lagayan, SanJuan, Pilar, SanIsidro, Peñarrubia, Tayum, Dolores), #Cagayan(SanchezMira, Pamplona, Peñablanca), #Kalinga(Tinglayan, Lubuagan, Tanudan, Pinukpuk, CityOfTabuk), #Isabela(Maconacon, SanPablo, Cabagan and Tumauini) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Apayao(Calanasan), #IlocosNorte(Carasi, Vintar, Adams, Dumalneg, Pagudpud, Bangui, Piddig, Burgos), #Abra(Tubo, Malibcong, Lacub, Daguioman, Boliney, Luba), #Kalinga(Balbalan, Pasil), #MountainProvince(Bontoc, Sagada, Besao), #Cagayan(SantaPraxedes and Claveria) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 30 Sep 2026 08:19:30 +0000</pubDate>
+      <guid isPermaLink="false">7bbb98ea716e2833c05ec51839c8419c64a11622</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 08:19:30 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 2 #NLPRSD&lt;br /&gt; Issued at 02:06 PM 30 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Apayao(Calanasan, Conner, Kabugao), #IlocosNorte(Vintar, Solsona, Dingras, Marcos, Banna, Badoc, Pinili, CityOfBatac, Bangui, Piddig, Burgos, Sarrat), #MountainProvince(Sadanga, Bontoc, Sagada, Besao, Bauko, Sabangan, Tadian, Barlig, Natonin), #Kalinga(Pasil, Tinglayan, Lubuagan, Tanudan), #Abra(Lacub, LicuanBaay, Daguioman, Tineg, Boliney, Sallapadan, Bucloc, Luba, Manabo, Lagangilang, Villaviciosa, Bucay) and #Cagayan(SanchezMira) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #IlocosNorte(NuevaEra, Carasi, Adams, Dumalneg, Pagudpud), #Abra(Tubo, Malibcong), #Kalinga(Balbalan), #Cagayan(SantaPraxedes and Claveria) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Wed, 30 Sep 2026 06:15:45 +0000</pubDate>
       <guid isPermaLink="false">151f80e140faca6a2f459ec3971365cf49cb43dc</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 06:15:45 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 06:15:45 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Wed, 30 Sep 2026 06:08:44 +0000</pubDate>
       <guid isPermaLink="false">d17a097ca4a92dad7622587d2a359b4dde0d3713</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 06:08:44 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 06:08:44 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Wed, 30 Sep 2026 03:03:36 +0000</pubDate>
       <guid isPermaLink="false">fdc85ffe8be3ae227d4b432fda9b3e5d2ecb7045</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 03:03:36 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 03:03:36 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #NLPRSD</title>
