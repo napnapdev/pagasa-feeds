@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 02 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2026 21:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:15:00 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 3 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10022026_1790887232.pdf</link>
@@ -210,33 +210,6 @@
       <guid isPermaLink="false">3c0ee0b6017bb418696e42dc5d427e663d9cc448</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 23:39:18 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 2 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10012026_1790802216.pdf</link>
-      <description>Issued at: 05:00 AM, 1 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 2 October, 2026</description>
-      <pubDate>Wed, 30 Sep 2026 21:07:43 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10012026_1790802216.pdf</guid>
-      <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 21:07:43 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 2 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KALIBO_10012026_1790802191.pdf</link>
-      <description>Issued at: 05:00 AM, 1 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 2 October, 2026</description>
-      <pubDate>Wed, 30 Sep 2026 21:07:42 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KALIBO_10012026_1790802191.pdf</guid>
-      <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 21:07:43 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 2 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10012026_1790802171.pdf</link>
-      <description>Issued at: 05:00 AM, 1 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 2 October, 2026</description>
-      <pubDate>Wed, 30 Sep 2026 21:07:41 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10012026_1790802171.pdf</guid>
-      <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 21:07:43 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
