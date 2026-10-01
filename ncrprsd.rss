@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 01 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2026 09:20:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:30:37 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 16 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 16 #NCR_PRSD&lt;br /&gt; Issued at: 4:20 PM, 01 October 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Dinalupihan, Mariveles, Bagac, Limay, Orion, and Morong), Batangas (Laurel, Agoncillo, Nasugbu, San Juan, Lobo, Rosario, Taysan, Padre Garcia, Lipa, Santo Tomas, Malvar, Tanauan, Talisay, San Nicolas, Balete, Mataasnakahoy, Cuenca, San Jose, Ibaan, Santa Teresita, Taal, Alitagtag, Calatagan, Balayan, Lian, Tuy, Calaca, and Lemery), Cavite (Tagaytay, Alfonso, General Emilio Aguinaldo, Magallanes, Amadeo, Mendez, Indang, Naic, Trece Martires, General Trias, Silang, Maragondon, Ternate, and Tanza), Laguna (Alaminos and San Pablo), Nueva Ecija (San Jose, Llanera, Talavera, Munoz, Santo Domingo, Guimba, Talugtug, Lupao, Rizal, Bongabon, Gabaldon, Laur, General Mamerto Natividad, Palayan, Cuyapo, and Nampicuan), Pampanga (Floridablanca, Lubao, Guagua, Porac, Bacolor, Santa Rita, San Fernando, Angeles, and Mabalacat), Quezon (Sariaya, Lucena, Candelaria, Pagbilao, Buenavista, San Narciso, Mulanay, San Andres, San Francisco, Guinayangan, Catanauan, Tiaong, San Antonio, Tayabas, and Dolores), Tarlac (Moncada, Anao, San Manuel, Bamban, Tarlac City, San Jose, Santa Ignacia, and Gerona), and Zambales (San Felipe, Cabangan, Subic, Castillejos, San Antonio, San Marcelino, Botolan, and Olongapo) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Nueva Ecija (Carranglan and Pantabangan) and Zambales (San Narciso) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -118,14 +118,6 @@
       <guid isPermaLink="false">d149a2ddb77fb63ad58d34a58e270f4dca21c79f</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 12:03:37 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 5:21 PM, 30 September 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Morong, Hermosa, Dinalupihan, and Bagac), Bulacan (San Miguel), Cavite (Carmona, Gen. Mariano Alvarez, Dasmarinas, Silang, Bacoor, Imus, Naic, Ternate, Maragondon, and Tanza), Laguna (Binan and San Pedro), Metro Manila (Muntinlupa and Las Pinas), Nueva Ecija (Talugtug, Nampicuan, Cabiao, Gapan, San Isidro, Carranglan, and Lupao), Pampanga (Candaba, Arayat, Santa Ana, Mexico, and San Luis), Quezon (Mulanay, San Narciso, San Francisco, Catanauan, San Andres, and Buenavista), Tarlac (Capas, San Jose, Mayantoc, Camiling, San Clemente, Moncada, Anao, Paniqui, Ramos, Bamban, and Santa Ignacia), and Zambales (Botolan, Santa Cruz, Candelaria, Masinloc, Palauig, Iba, Subic, and Olongapo) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Nueva Ecija (Cuyapo) and Tarlac (San Manuel) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 30 Sep 2026 09:30:52 +0000</pubDate>
-      <guid isPermaLink="false">6a017b37cec75c56653d2b1f49f7d4933e4c9cab</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 09:30:52 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
