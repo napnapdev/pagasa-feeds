@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 01 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2026 18:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 18:30:40 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 01:08 AM 02 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(Dao, Sigma, MaAyon, Cuartero), #Iloilo(Ajuy, Lemery, Sara), #Cebu(Tuburan), #Bohol(Buenavista, Trinidad, Ubay and Inabanga) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(SapiAn, Panitan, Pontevedra, Panay, RoxasCity, Ivisan, PresidentRoxas, Pilar), #Iloilo(Carles, Balasan, Estancia, Batad, SanDionisio, Concepcion), #Bohol(Pres.CarlosP.Garcia, BienUnido, Talibon and Getafe) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -217,14 +217,6 @@
       <guid isPermaLink="false">5084bd3e44db7b912f4f9fda9dd3d1f4d195ee2a</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 19:56:01 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 02:21 AM 01 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Minglanilla, CityOfNaga, Catmon, Carmen and DanaoCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(CebuCity and CityOfTalisay) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 30 Sep 2026 18:30:53 +0000</pubDate>
-      <guid isPermaLink="false">29913126c9dd1946c35d5926a0ed67675701ece6</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 18:30:53 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
