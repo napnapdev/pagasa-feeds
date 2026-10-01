@@ -5,8 +5,8 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/ncrprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
-    <pubDate>Thu, 01 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2026 09:03:20 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:07:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 16 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 16 #NCR_PRSD&lt;br /&gt; Issued at: 4:20 PM, 01 October 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Dinalupihan, Mariveles, Bagac, Limay, Orion, and Morong), Batangas (Laurel, Agoncillo, Nasugbu, San Juan, Lobo, Rosario, Taysan, Padre Garcia, Lipa, Santo Tomas, Malvar, Tanauan, Talisay, San Nicolas, Balete, Mataasnakahoy, Cuenca, San Jose, Ibaan, Santa Teresita, Taal, Alitagtag, Calatagan, Balayan, Lian, Tuy, Calaca, and Lemery), Cavite (Tagaytay, Alfonso, General Emilio Aguinaldo, Magallanes, Amadeo, Mendez, Indang, Naic, Trece Martires, General Trias, Silang, Maragondon, Ternate, and Tanza), Laguna (Alaminos and San Pablo), Nueva Ecija (San Jose, Llanera, Talavera, Munoz, Santo Domingo, Guimba, Talugtug, Lupao, Rizal, Bongabon, Gabaldon, Laur, General Mamerto Natividad, Palayan, Cuyapo, and Nampicuan), Pampanga (Floridablanca, Lubao, Guagua, Porac, Bacolor, Santa Rita, San Fernando, Angeles, and Mabalacat), Quezon (Sariaya, Lucena, Candelaria, Pagbilao, Buenavista, San Narciso, Mulanay, San Andres, San Francisco, Guinayangan, Catanauan, Tiaong, San Antonio, Tayabas, and Dolores), Tarlac (Moncada, Anao, San Manuel, Bamban, Tarlac City, San Jose, Santa Ignacia, and Gerona), and Zambales (San Felipe, Cabangan, Subic, Castillejos, San Antonio, San Marcelino, Botolan, and Olongapo) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Nueva Ecija (Carranglan and Pantabangan) and Zambales (San Narciso) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -134,7 +134,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns3:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>

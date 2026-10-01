@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 01 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 01 Oct 2026 09:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:07:16 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 20 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 20 #VISPRSD&lt;br /&gt; Issued at 03:39 PM 01 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Siquijor, #NegrosOriental(Valencia, Bacong, Dauin, Zamboanguita), #Iloilo(Alimodian, SanMiguel), #Antique(Tibiao, Barbaza, LauaAn, Bugasong), #Capiz(Jamindan), #OccidentalMindoro(Sablayan, Calintaan and SantaCruz) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Samar(Hinabangan), #EasternSamar(Lawaan, Balangiga), #Leyte(Leyte, Tabango, Isabel, Merida, OrmocCity, Albuera, CityOfBaybay, Burauen), #Bohol(SanMiguel, Danao, Buenavista, Trinidad, Pilar, SierraBullones, Carmen, Dagohoy, Duero, Jagna, GarciaHernandez), #Iloilo(Maasin, Cabatuan, Lambunao), #Capiz(Tapaz) and #Antique(Culasi) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -209,22 +209,6 @@
       <guid isPermaLink="false">18a2a13e5669ca20f0b43125c1891cc313bc1e1d</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 12:03:37 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 04:30 PM 30 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(Murcia) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(LaCarlotaCity and BagoCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 30 Sep 2026 09:03:35 +0000</pubDate>
-      <guid isPermaLink="false">6d452848d7dfa755bac6a93d3511b059fe2cabec</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 09:03:35 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #VISPRSD&lt;br /&gt; Issued at 04:14 PM 30 September 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Aborlan and Taytay) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(PuertoPrincesaCity, Dumaran, SanVicente), #OccidentalMindoro(SantaCruz and Sablayan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 30 Sep 2026 09:03:34 +0000</pubDate>
-      <guid isPermaLink="false">0350ea6c7e08781d0a779ecb0705999359dc00ce</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 30 Sep 2026 09:03:35 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
