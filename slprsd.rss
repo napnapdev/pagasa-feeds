@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 02 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2026 00:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:50:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 15 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 15 #SLPRSD&lt;br /&gt; Issued at 05:00 AM 02 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Romblon(Romblon, SanAgustin, SantaMaria, Odiongan, SanAndres, Calatrava, Alcantara, SantaFe, Looc, Ferrol, SanJose, Magdiwang, Cajidiocan), #OrientalMindoro(Pola and Naujan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Roxas, Bongabong, Bansud, Gloria, Pinamalayan, Socorro, Victoria) and #Romblon(SanFernando) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -146,14 +146,6 @@
       <guid isPermaLink="false">4172bf623675069459f6700f9e09fea8294cd247</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 02:28:59 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #SLPRSD&lt;br /&gt; Issued at 08:15 AM 01 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Romblon(SanJose, SantaFe, Alcantara, Looc, Ferrol, Odiongan, SantaMaria, Romblon, Magdiwang), #OrientalMindoro(Bulalacao, PuertoGalera, SanTeodoro, Pola), #Marinduque(Gasan, Buenavista), #Catanduanes(Pandan, Bagamanoc), #NorthernSamar(Palapag, Mapanas, Gamay, Lapinig), #CamarinesNorte(Basud, Daet and Mercedes) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Bansud, Bongabong, Roxas, Mansalay, Gloria), #Romblon(SanAndres, Calatrava, SanAgustin, Corcuera, Banton and Concepcion) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 01 Oct 2026 00:30:55 +0000</pubDate>
-      <guid isPermaLink="false">916f838c592aba82ac2a5a203eda9621cec467b9</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 00:30:55 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
