@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 02 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2026 00:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:15:28 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 05:51 AM 02 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Aklan(Tangalan) and #NegrosOriental(Basay) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Nabas, Ibajay), #NegrosOccidental(HinobaAn), #Palawan(Cagayancillo, Busuanga, Coron), #OccidentalMindoro(Lubang and Looc) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -186,14 +186,6 @@
       <guid isPermaLink="false">a86b54a84e9094dbe98b32cc11f2a4dbcf53d622</guid>
       <category>Thunderstorm Advisory</category>
       <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 02:28:59 +0000</ns5:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 07:57 AM 01 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Tuburan, Boljoon, Oslob, Malabuyoc, Ginatilan), #Capiz(SapiAn, Panitan and Ivisan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Sigma, Mambusao), #Iloilo(Anilao, BarotacNuevo), #Cebu(Sibonga, Alcoy), #Aklan(Kalibo, Numancia, Lezo, NewWashington) and #Antique(Pandan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Thu, 01 Oct 2026 00:15:42 +0000</pubDate>
-      <guid isPermaLink="false">b2f5400086cc05751fc99d78bc05d7cf2fd3ff3b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 00:15:42 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
