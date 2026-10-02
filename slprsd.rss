@@ -6,7 +6,42 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 02 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2026 00:50:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #SLPRSD</title>
+      <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 AM 02 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
+      <pubDate>Fri, 02 Oct 2026 03:04:06 +0000</pubDate>
+      <guid isPermaLink="false">ba97d601f60759d9920a57a23ae106167ab72c35</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 03:04:06 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 09:00 AM, 3 October, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_02Oct2026_1790902340.pdf</link>
+      <description>Issued at: 09:00 AM, 2 October, 2026&lt;br /&gt;Valid until: 09:00 AM, 3 October, 2026</description>
+      <pubDate>Fri, 02 Oct 2026 03:04:05 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_02Oct2026_1790902340.pdf</guid>
+      <category>Special Forecast</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 03:04:06 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 09:00 AM, 3 October, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_02Oct2026_1790902301.pdf</link>
+      <description>Issued at: 09:00 AM, 2 October, 2026&lt;br /&gt;Valid until: 09:00 AM, 3 October, 2026</description>
+      <pubDate>Fri, 02 Oct 2026 03:04:04 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_02Oct2026_1790902301.pdf</guid>
+      <category>Special Forecast</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 03:04:06 +0000</ns2:seen>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 09:00 AM, 3 October, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_02Oct2026_1790902275.pdf</link>
+      <description>Issued at: 09:00 AM, 2 October, 2026&lt;br /&gt;Valid until: 09:00 AM, 3 October, 2026</description>
+      <pubDate>Fri, 02 Oct 2026 03:04:03 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_02Oct2026_1790902275.pdf</guid>
+      <category>Special Forecast</category>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 03:04:06 +0000</ns3:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 15 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 15 #SLPRSD&lt;br /&gt; Issued at 05:00 AM 02 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Romblon(Romblon, SanAgustin, SantaMaria, Odiongan, SanAndres, Calatrava, Alcantara, SantaFe, Looc, Ferrol, SanJose, Magdiwang, Cajidiocan), #OrientalMindoro(Pola and Naujan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Roxas, Bongabong, Bansud, Gloria, Pinamalayan, Socorro, Victoria) and #Romblon(SanFernando) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -24,30 +59,30 @@
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 21:03:37 +0000</ns1:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory #SLPRSD</title>
-      <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 PM 01 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
-      <pubDate>Thu, 01 Oct 2026 15:03:35 +0000</pubDate>
-      <guid isPermaLink="false">738d763217ca6942b041e2c993de728bece64e31</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 15:03:35 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Special Forecast: Valid until: 09:00 PM, 2 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_01Octt2026_1790860001.pdf</link>
       <description>Issued at: 09:00 PM, 1 October, 2026&lt;br /&gt;Valid until: 09:00 PM, 2 October, 2026</description>
-      <pubDate>Thu, 01 Oct 2026 15:03:34 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 15:03:35 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_01Octt2026_1790860001.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 15:03:35 +0000</ns1:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 15:03:35 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 2 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_01Oct2026_1790859976.pdf</link>
       <description>Issued at: 09:00 PM, 1 October, 2026&lt;br /&gt;Valid until: 09:00 PM, 2 October, 2026</description>
-      <pubDate>Thu, 01 Oct 2026 15:03:33 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 15:03:34 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_01Oct2026_1790859976.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 15:03:35 +0000</ns2:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 15:03:35 +0000</ns5:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #SLPRSD</title>
+      <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 PM 01 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
+      <pubDate>Thu, 01 Oct 2026 15:03:33 +0000</pubDate>
+      <guid isPermaLink="false">738d763217ca6942b041e2c993de728bece64e31</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 15:03:35 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #SLPRSD</title>
@@ -120,32 +155,6 @@
       <guid isPermaLink="false">cc2b9380ae6a634eb60a8ae2cc62c21b531b196b</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 06:03:54 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 AM, 2 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_01Oct2026_1790818405.pdf</link>
-      <description>Issued at: 09:00 AM, 1 October, 2026&lt;br /&gt;Valid until: 09:00 AM, 2 October, 2026</description>
-      <pubDate>Thu, 01 Oct 2026 02:28:59 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_01Oct2026_1790818405.pdf</guid>
-      <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 02:28:59 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 AM, 2 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_01Octt2026_1790818300.pdf</link>
-      <description>Issued at: 09:00 AM, 1 October, 2026&lt;br /&gt;Valid until: 09:00 AM, 2 October, 2026</description>
-      <pubDate>Thu, 01 Oct 2026 02:28:58 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_01Octt2026_1790818300.pdf</guid>
-      <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 02:28:59 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #SLPRSD&lt;br /&gt; Issued at 10:00 AM 01 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #CamarinesSur(Siruma, Garchitorena, Lagonoy, Presentacion), #CamarinesNorte(Labo, Mercedes, Basud), #Catanduanes(SanAndres), #Sorsogon(Irosin and Bulusan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Bongabong, Roxas, Mansalay, Gloria and Bansud) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 01 Oct 2026 02:28:57 +0000</pubDate>
-      <guid isPermaLink="false">4172bf623675069459f6700f9e09fea8294cd247</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 02:28:59 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
