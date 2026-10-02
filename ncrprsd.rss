@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 02 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2026 03:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 10:37 AM, 02 October 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Limay, Bagac, Orion, Pilar, Balanga, Abucay, Dinalupihan, Hermosa, Morong, Orani, and Samal), Batangas (Nasugbu, Calaca, Tuy, Lian, Balayan, Mabini, Bauan, San Luis, San Pascual, Alitagtag, Taal, Santa Teresita, San Nicolas, San Jose, Cuenca, Lipa, Balete, Mataasnakahoy, Malvar, Tanauan, Santo Tomas, Talisay, Laurel, Lemery, Agoncillo, Batangas City, and Lobo), Bulacan (Dona Remedios Trinidad, San Miguel, San Ildefonso, San Rafael, San Jose del Monte, Norzagaray, Bustos, Angat, Pandi, Santa Maria, Marilao, Meycauayan, Bocaue, Obando, and Balagtas), Cavite (Bacoor, Kawit, Cavite City, Imus, Maragondon, Ternate, Magallanes, Tagaytay, Alfonso, General Emilio Aguinaldo, and Mendez), Laguna (San Pedro, San Pablo, Calauan, Nagcarlan, Rizal, Alaminos, Majayjay, Liliw, Santa Maria, Famy, Siniloan, Pangil, Mabitac, Pakil, Paete, Kalayaan, Lumban, Cavinti, Luisiana, Pagsanjan, Magdalena, Santa Cruz, Pila, Victoria, Bay, and Los Banos), Nueva Ecija (General Tinio, Gabaldon, Laur, Palayan, and Gapan), Pampanga (Porac, Angeles, and Mabalacat), Quezon (Tagkawayan, Guinayangan, Calauag, Lopez, Buenavista, San Narciso, Sariaya, Lucban, Tayabas, Candelaria, Dolores, Tiaong, San Antonio, Panukulan, Polillo, Burdeos, Patnanungan, Jomalig, Infanta, General Nakar, and Real), Rizal (Tanay, Pililla, Taytay, Cainta, Angono, and Jala-Jala), Tarlac (San Clemente, Mayantoc, San Jose, Capas, and Bamban), Zambales (Iba, Botolan, Palauig, Santa Cruz, Candelaria, Masinloc, San Marcelino, Subic, Olongapo, and Castillejos), and Metro Manila within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bataan (Mariveles) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -126,7 +126,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
