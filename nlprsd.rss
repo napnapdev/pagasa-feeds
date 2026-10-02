@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 02 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2026 06:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:18:51 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 1 #NLPRSD&lt;br /&gt; Issued at 01:21 PM 02 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Abra(Tineg, Lagayan, Lacub, Bangued), #IlocosNorte(Dingras, Solsona, Marcos, Banna, Carasi and Vintar) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #IlocosNorte(NuevaEra), #Abra(Danglas, Langiden and Tubo) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -110,14 +110,6 @@
       <guid isPermaLink="false">a6bd0ccb850ce1abd25eb4442f89e40768aa4e6f</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 09:03:32 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #NLPRSD&lt;br /&gt; Issued at 02:04 PM 01 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Pangasinan(Burgos, Aguilar, Mangatarem, Sual, Labrador, CityOfAlaminos, Lingayen, Bani), #IlocosNorte(Badoc, Pinili, Carasi, Pagudpud, Vintar, Dumalneg, Banna, Solsona), #Abra(Tineg, Lagayan, Lacub, Malibcong, Danglas, Boliney), #Kalinga(Pasil, Pinukpuk), #Apayao(Luna, Kabugao), #Cagayan(Pamplona, SantaAna, SantaTeresita, LalLo), #IlocosSur(Sinait, Quirino), #MountainProvince(Sadanga, Bontoc, Besao), #Ifugao(Mayoyao, Aguinaldo, Banaue), #LaUnion(Santol, SanGabriel, Sudipen), #Benguet(Kapangan, Kibungan, Tuba and Itogon) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Pangasinan(Infanta, Dasol, Mabini, Bugallon, Agno), #IlocosNorte(NuevaEra, Adams, Dingras, Marcos), #Apayao(Calanasan, Conner), #Cagayan(SantaPraxedes, Claveria, SanchezMira, Gonzaga), #Kalinga(Balbalan), #Abra(Tubo), #IlocosSur(Sugpon and Alilem) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 01 Oct 2026 06:15:43 +0000</pubDate>
-      <guid isPermaLink="false">70a64abb9d9d6f43463a40064b8fcf58bdcbe10d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 01 Oct 2026 06:15:43 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
