@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 03 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2026 12:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:03:50 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 20 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 20 #NCR_PRSD&lt;br /&gt; Issued at: 8:20 PM, 03 October 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Mariveles, Limay, Orion, Bagac, and Pilar), Batangas (Lian), Bulacan (San Jose del Monte, Bocaue, Balagtas, Guiguinto, Pandi, Norzagaray, Hagonoy, Paombong, Malolos, and Santa Maria), Cavite (Naic, Noveleta, Cavite City, Bacoor, Kawit, Rosario, and Tanza), Metro Manila (Makati, Mandaluyong, San Juan, Quezon City, Pasay, Paranaque, and Las Pinas), Pampanga (Masantol, Macabebe, and Sasmuan), and Quezon (Mulanay, Catanauan, San Francisco, San Andres, and San Narciso) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are affecting Batangas (Nasugbu), Bulacan (Bulakan, Obando, Meycauayan, and Marilao), Cavite (Ternate and Maragondon), and Metro Manila (Navotas, Malabon, Valenzuela, Caloocan, and Manila) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -96,21 +96,13 @@
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 15:07:45 +0000</ns1:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 9 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 9 #NCR_PRSD&lt;br /&gt; Issued at: 9:04 PM, 02 October 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Orion, Limay, Mariveles, Pilar, and Balanga), Batangas (San Juan and Lobo), Cavite (Bacoor, Imus, Kawit, Cavite City, Carmona, Gen. Mariano Alvarez, and Dasmarinas), Laguna (San Pedro, Binan, and Santa Rosa), Metro Manila (Paranaque, Taguig, Pasay, Makati, Muntinlupa, Las Pinas, Manila, Pasig, Mandaluyong, San Juan, and Pateros), Nueva Ecija (Cuyapo and Nampicuan), Quezon (Panukulan, Burdeos, Polillo, Patnanungan, Real, and Mauban), Rizal (Pililla, Jala-Jala, Angono, Teresa, Morong, Taytay, and Cainta), and Tarlac (San Manuel, Moncada, Anao, Camiling, San Clemente, Mayantoc, Santa Ignacia, Paniqui, Ramos, and Gerona) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Rizal (Binangonan and Cardona) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 02 Oct 2026 15:03:37 +0000</pubDate>
-      <guid isPermaLink="false">8bb1cb7f45ba60b5f1089c4fdbc6bb7c1c81a67a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 15:03:37 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
