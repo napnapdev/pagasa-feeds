@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 03 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2026 03:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 03:15:27 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 15 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 15 #NCR_PRSD&lt;br /&gt; Issued at: 11:10 AM, 03 October 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Morong, Mariveles, Balanga, and Pilar), Batangas (Lemery, Agoncillo, Laurel, Nasugbu, Calaca, Balayan, Tuy, and Talisay), Cavite (Imus, Bacoor, Carmona, Gen. Mariano Alvarez, General Trias, Tagaytay, Mendez, Silang, Amadeo, Alfonso, and Indang), Laguna (San Pedro), Metro Manila (Las Pinas and Muntinlupa), and Quezon (Tagkawayan, Guinayangan, Lopez, Catanauan, Buenavista, Mulanay, San Narciso, San Andres, San Francisco, Calauag, Perez, Alabat, Quezon, Burdeos, Polillo, Patnanungan, Sariaya, Candelaria, Tayabas, and Lucena) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bataan (Limay, Orion, and Bagac) and Cavite (Dasmarinas) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 03 Oct 2026 03:15:43 +0000</pubDate>
+      <guid isPermaLink="false">a272181166e3ddd5f37d4b435f16e16e57625573</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 03:15:43 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 14 #NCR_PRSD&lt;br /&gt; Issued at: 9:32 AM, 03 October 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (Burdeos and Polillo) and Zambales (Castillejos, San Antonio, and Subic) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sat, 03 Oct 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="false">d2b16830fa88ab751d88ff07244a5bcc30314bd4</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 03:03:33 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 03:03:33 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #NCRPRSD</title>
@@ -102,7 +110,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
