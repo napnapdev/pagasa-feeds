@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 02 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2026 03:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 03:07:22 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 03 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #MisamisOccidental, #MisamisOriental, #Camiguin, #Bukidnon and #LanaoDelNorte within 12 hours.</description>
@@ -94,22 +94,6 @@
       <guid isPermaLink="false">d59ca32b47cae7fe015c14491e354c39f7021894</guid>
       <category>Rainfall Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 06:03:32 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 02 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #MisamisOccidental, #MisamisOriental, #Camiguin, #Bukidnon and #LanaoDelNorte within 12 hours.</description>
-      <pubDate>Fri, 02 Oct 2026 03:04:06 +0000</pubDate>
-      <guid isPermaLink="false">5f9ede57c6027866c779cced45d35c8497f35dfe</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 03:04:06 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 3 #MINPRSD</title>
-      <description>Rainfall Advisory No. 3 #MINPRSD&lt;br /&gt; Weather System: Trough of TC Choi-Wan &lt;br /&gt; Issued at 11:00 AM 02 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #ZamboangaDelNorte(Sibuco, Gutalac, LeonB.Postigo, Mutia, Sibutad, DipologCity, Polanco, Piñan, DapitanCity, LaLibertad, Rizal, Salug, Godod, Liloy, Tampilisan, Kalawit, Labason), #ZamboangaCity, #ZamboangaSibugay(Talusan, Olutanga, Mabuhay, Alicia, Payao, Malangas, Imelda, Buug, Diplahan, Titay), #ZamboangaDelSur(Tabina, Pitogo, VincenzoA.Sagun, Dimataling, Margosatubig, Lapuyan, Kumalarang, Tigbao, Labangan, PagadianCity, Tukuran, Lakewood, Bayog, Aurora, RamonMagsaysay, Sominot, Tambulig, Mahayag, Molave), #MisamisOccidental(Bonifacio, Concepcion, Baliangao, TangubCity, Panaon, Aloran, OroquietaCity, SapangDalaga, Calamba, LopezJaena, Plaridel), #LanaoDelNorte(Sapad, Salvador, Lala, Baroy, Magsaysay, Tangcal, Tubod, Kolambugan, Maigo, Linamon, Kauswagan, Bacolod, Tagoloan, IliganCity, SultanNagaDimaporo, Kapatagan, Pantar), #LanaoDelSur(Kapatagan, Balabagan, Marogong, Malabang, Picong, LumbacaUnayan, SultanDumalondong, Tubaran, Lumbatan, Lumbayanague, Bayang, Masiu, PoonaBayabao, Tamparan, Taraka, Mulondo, BuadiposoBuntong, Maguing, DitsaanRamain, Bubong, Kapai, TagoloanII), #MaguindanaoDelNorte(Matanog, Barira, Parang, Upi, DatuBlahT.Sinsuat), #NorthCotabato(Banisilan, Arakan, Magpet, CityOfKidapawan, Makilala), #MisamisOriental(Lugait, Manticao, Naawan, Gitagum, Villanueva, Laguindingan, Jasaan, Balingasag, Lagonglong, Salay, Binuangan, Medina, Sugbongcogon, Kinoguitan, Balingoan, Talisayan, Magsaysay, Initao, Libertad, Tagoloan, CagayanDeOroCity), #Camiguin, #Bukidnon(Talakag, Baungon, Libona, ManoloFortich, Sumilao, ImpasugOng, Kadingilan, DonCarlos), #DavaoDelSur(CityOfDigos, Bansalan, SantaCruz), #DavaoCity, #MaguindanaoDelSur(SouthUpi, Talayan, ShariffAguak, DatuUnsay, Guindulungan, DatuHofferAmpatuan, Ampatuan), #DinagatIslands, #SurigaoDelNorte(SurigaoCity, TaganaAn, Placer, Bacuag, Mainit, SanFrancisco, Malimono, Sison, Tubod), #DavaoDeOro(Maragusan, Pantukan, Mabini, Maco), #DavaoOriental(Caraga, Manay, Tarragona, Lupon, CityOfMati and Banaybanay) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #ZamboangaDelNorte(Sirawai, Siocon, Baliguian, Siayan, SergioOsmeñaSr., Sindangan, JoseDalman, Manukan, Pres.ManuelA.Roxas, Katipunan), #ZamboangaSibugay(Tungawan, RosellerLim, Siay, Ipil, Naga, Kabasalan), #ZamboangaDelSur(Dinas, SanPablo, Guipos, Dumalinao, Midsalip, Dumingag, Josefina, SanMiguel), #MisamisOccidental(DonVictorianoChiongbian, OzamisCity, Clarin, Tudela, Sinacaban, Jimenez), #LanaoDelNorte(Nunungan, PantaoRagat, Munai, PoonaPiagapo, Matungao, Baloi), #LanaoDelSur(Wao, Calanogas, Butig, Pagayawan, Binidayan, Ganassi, LumbaBayabao, Bumbaran, Madamba, BacolodKalawi, Tugaya, Balindong, Madalum, Marantao, Piagapo, MarawiCity, Saguiaran, Pualas), #NorthCotabato(Alamada), #MaguindanaoDelNorte(Buldon), #Bukidnon(Kalilangan, Pangantucan, CityOfMalaybalay, Lantapan, CityOfValencia, Maramag, Malitbog), #MisamisOriental(Claveria, GingoogCity, Alubijid, CityOfElSalvador and Opol) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
-      <pubDate>Fri, 02 Oct 2026 03:04:05 +0000</pubDate>
-      <guid isPermaLink="false">ed21159aa10fe61f530af3809eaba958ffb3287b</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 03:04:06 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
