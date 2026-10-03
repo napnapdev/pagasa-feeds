@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 03 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2026 03:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:03:17 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 03 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Aurora, #IlocosNorte and #Cagayan within 12 hours.</description>
@@ -78,14 +78,6 @@
       <guid isPermaLink="false">c3754b33c82ad2cba65b4517aa4942bcab212140</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 09:03:34 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #NLPRSD&lt;br /&gt; Issued at 01:21 PM 02 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Abra(Tineg, Lagayan, Lacub, Bangued), #IlocosNorte(Dingras, Solsona, Marcos, Banna, Carasi and Vintar) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #IlocosNorte(NuevaEra), #Abra(Danglas, Langiden and Tubo) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 02 Oct 2026 06:03:32 +0000</pubDate>
-      <guid isPermaLink="false">c0078dfc0bed0c7ab9e79a50839267a13dcc09e8</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 06:03:32 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
