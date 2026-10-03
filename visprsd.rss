@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 03 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2026 06:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:15:27 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 12:39 PM 03 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(Calatrava, Toboso, CityOfEscalante, SagayCity, Manapla, CityOfVictorias, SilayCity, EnriqueB.Magalona, Murcia, CityOfTalisay), #Palawan(Taytay, Dumaran, Rizal, Quezon, SofronioEspanola, Linapacan, ElNido), #Iloilo(Anilao, Dingle, Dueñas, Miagao, SanJoaquin, Lambunao, Pavia, SantaBarbara, Leganes, Oton, Janiuay, Calinog, Badiangan, BarotacNuevo, Pototan, Lemery, Bingawan, Ajuy, Igbaras, Tubungan), #Bohol(SierraBullones, Valencia, Dimiao, Catigbian, Sagbayan, Cortes, TagbilaranCity, Baclayon, Corella, Loboc, Maribojoc, Antequera, Trinidad, Inabanga, Buenavista), #Samar(Tarangnan, SantaMargarita, Jiabong, CityOfCatbalogan, Motiong, SanJoseDeBuan, Calbiga, SanSebastian), #EasternSamar(Dolores, Maslog, CityOfBorongan), #Antique(Sibalom, SanRemigio, Valderrama, Bugasong, LauaAn), #Capiz(Tapaz, Dumarao, Dumalag, Cuartero, Dao, MaAyon, Mambusao, Sigma), #Aklan(Altavas, Balete, Banga, Lezo, Numancia, Makato, Tangalan), #Leyte(SanIsidro, Calubian, Villaba, Tabango, MatagOb, Jaro, Barugo, Tunga), #OccidentalMindoro(Calintaan), #Cebu(LapuLapuCity, Cordova, Minglanilla, CityOfTalisay, ToledoCity, Balamban, Consolacion and Liloan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(SanVicente, Roxas, Culion, Coron, Busuanga, PuertoPrincesaCity, Bataraza, Brooke'sPoint), #Leyte(Capoocan, Carigara, Kananga, Leyte, Abuyog, Mahaplag), #Iloilo(CityOfPassi, BarotacViejo, SanRafael, SanEnrique, Banate, IloiloCity, SanDionisio, Sara, Concepcion), #NegrosOccidental(SalvadorBenedicto, SanCarlosCity, CadizCity), #Cebu(Argao, Sibonga, CebuCity, MandaueCity), #Bohol(Balilihan, Sikatuna, Sevilla, Carmen, Batuan, Bilar, SanMiguel, Pilar, Dagohoy, Danao), #NegrosOriental(Vallehermoso, CanlaonCity, Jimalalud, Tayasan), #Samar(Paranas, Hinabangan, SanJorge, Gandara), #EasternSamar(CanAvid, Taft, Sulat, SanJulian), #Antique(Barbaza, Culasi, Tibiao, Sebaste), #Aklan(Madalag, Libacao, Malinao), #Capiz(Jamindan), #SouthernLeyte(Hinunangan, Silago, Sogod, SaintBernard, Libagon), #OccidentalMindoro(Sablayan, SantaCruz, Paluan, AbraDeIlog, Mamburao, Lubang and Looc) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -29,7 +29,7 @@
       <pubDate>Sat, 03 Oct 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="false">1a0beff046820d4e173adbd222dbd1a184ded14c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 03:03:33 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 03:03:33 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
@@ -62,7 +62,7 @@
       <pubDate>Fri, 02 Oct 2026 21:03:43 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10032026_1790974095.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 21:03:43 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 21:03:43 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 4 October, 2026</title>
@@ -71,7 +71,7 @@
       <pubDate>Fri, 02 Oct 2026 21:03:42 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KALIBO_10032026_1790974071.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 21:03:43 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 21:03:43 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 4 October, 2026</title>
@@ -80,7 +80,7 @@
       <pubDate>Fri, 02 Oct 2026 21:03:41 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10032026_1790974043.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 21:03:43 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 02 Oct 2026 21:03:43 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
