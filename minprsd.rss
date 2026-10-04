@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 04 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 04 Oct 2026 17:04:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:03:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 3 #MINPRSD&lt;br /&gt; Issued at 12:00 AM 05 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelNorte(DapitanCity, DipologCity, Sibutad, Katipunan, Pres.ManuelA.Roxas, Manukan, JoseDalman, Sindangan, Piñan, Polanco, Rizal, LaLibertad), #SurigaoDelNorte(SanFrancisco, SurigaoCity, TaganaAn, Placer, Bacuag, Claver, Gigaquit), #AgusanDelNorte(Santiago, Tubay), #Basilan(CityOfIsabela, CityOfLamitan, HadjiMohammadAjul, Akbar, Tuburan), #SultanKudarat(Lebak), #MisamisOccidental(SapangDalaga, Baliangao, Plaridel, Calamba) and #Sarangani(Kiamba) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #AgusanDelNorte(Jabonga, Kitcharao), #SurigaoDelNorte(Malimono, Sison, Alegria, Mainit, Tubod), #ZamboangaDelNorte(Siocon, Baliguian, Sirawai, Sibuco), #ZamboangaCity, #SultanKudarat(Palimbang, Kalamansig), #Sarangani(Maitum) and #Camiguin which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -16,20 +16,20 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 17:04:39 +0000</ns0:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 10:30 PM 04 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #CotabatoCity, #MaguindanaoDelNorte(DatuOdinSinsuat), #DavaoOriental(Caraga, Manay), #ZamboangaDelNorte(DipologCity, Sibutad, Katipunan, Pres.ManuelA.Roxas, Manukan, JoseDalman), #Camiguin and #ZamboangaCity within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MaguindanaoDelNorte(DatuBlahT.Sinsuat, Upi) and #ZamboangaDelNorte(DapitanCity) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 PM 04 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
       <pubDate>Sun, 04 Oct 2026 15:03:36 +0000</pubDate>
-      <guid isPermaLink="false">f1345d2d685cc4396ff24929638b33f6701bf781</guid>
+      <guid isPermaLink="false">1764a34d590cd7fa64b1f0ac9e09d91eb552a49a</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 15:03:36 +0000</ns1:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 PM 04 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
+      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 10:30 PM 04 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #CotabatoCity, #MaguindanaoDelNorte(DatuOdinSinsuat), #DavaoOriental(Caraga, Manay), #ZamboangaDelNorte(DipologCity, Sibutad, Katipunan, Pres.ManuelA.Roxas, Manukan, JoseDalman), #Camiguin and #ZamboangaCity within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MaguindanaoDelNorte(DatuBlahT.Sinsuat, Upi) and #ZamboangaDelNorte(DapitanCity) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 04 Oct 2026 15:03:35 +0000</pubDate>
-      <guid isPermaLink="false">1764a34d590cd7fa64b1f0ac9e09d91eb552a49a</guid>
+      <guid isPermaLink="false">f1345d2d685cc4396ff24929638b33f6701bf781</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 15:03:36 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 15:03:36 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 3 #MINPRSD</title>
