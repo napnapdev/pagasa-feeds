@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 04 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2026 22:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 00:03:22 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 13 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 13 #MINPRSD&lt;br /&gt; Issued at 07:45 AM 04 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #AgusanDelNorte(Kitcharao, Jabonga), #SurigaoDelNorte(Claver), #Sarangani(Glan), #DavaoOccidental(JoseAbadSantos, Sarangani), #SultanKudarat(Palimbang, Kalamansig, Lebak), #MaguindanaoDelNorte(Upi, DatuBlahT.Sinsuat), #ZamboangaDelSur(Dimataling, Pitogo, Tabina), #ZamboangaSibugay(Mabuhay, Talusan and Olutanga) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelNorte(SurigaoCity, Gigaquit, Bacuag, Sison, TaganaAn, Placer, Tubod, Alegria, Mainit, Malimono, SanFrancisco) and #Camiguin which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 04 Oct 2026 00:03:39 +0000</pubDate>
+      <guid isPermaLink="false">f40fb8683bfc6207022c1bc11539ffa2661495cb</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 00:03:39 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 12 #MINPRSD&lt;br /&gt; Issued at 05:45 AM 04 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #LanaoDelSur(Balabagan, Malabang), #Sarangani(Kiamba, Glan, Malapatan, Maasim), #Camiguin, #ZamboangaSibugay(Tungawan, Alicia, Payao, Siay), #DavaoOccidental(JoseAbadSantos, DonMarcelino, Malita), #SultanKudarat(Kalamansig, Lebak), #MaguindanaoDelNorte(Buldon, DatuBlahT.Sinsuat), #Basilan(TabuanLasa, AlBarka, TipoTipo, UngkayaPukan, Tuburan, HadjiMohammadAjul, Akbar, CityOfIsabela and CityOfLamitan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sarangani(Maitum), #DavaoOccidental(Sarangani), #TawiTawi(Mapun), #LanaoDelSur(Kapatagan), #MaguindanaoDelNorte(Matanog, Parang, SultanMastura, SultanKudarat, Barira), #ZamboangaSibugay(Olutanga, Talusan, Mabuhay), #SultanKudarat(Palimbang), #Basilan(Sumisip, Maluso, Lantawan, HadjiMuhtamad), #ZamboangaDelNorte(Sibuco), #ZamboangaCity, #SurigaoDelNorte(SurigaoCity and SanFrancisco) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sat, 03 Oct 2026 22:10:00 +0000</pubDate>
       <guid isPermaLink="false">c6b45486e5a996d3db0a3c2d9fc10817d90f48f7</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 22:10:00 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 22:10:00 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #MINPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Sat, 03 Oct 2026 21:30:47 +0000</pubDate>
       <guid isPermaLink="false">e447a7c7917284c28df0c4ce1ddbf3b713fd060a</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 21:30:47 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 21:30:47 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #MINPRSD</title>
@@ -118,14 +126,6 @@
       <guid isPermaLink="false">0b3de65ca6b32bcb9ea50d2640c732b0b5e3c324</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 03:03:33 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #MINPRSD&lt;br /&gt; Issued at 07:10 AM 03 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Camiguin, #AgusanDelNorte(Tubay, Jabonga), #SurigaoDelNorte(Malimono and SanFrancisco) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 03 Oct 2026 00:03:31 +0000</pubDate>
-      <guid isPermaLink="false">a1f03868e67e2a71f1dbd766ec179b1f52e6b724</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 00:03:31 +0000</ns0:seen>
     </item>
   </channel>
 </rss>

@@ -6,20 +6,20 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 04 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2026 22:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 00:03:19 +0000</lastBuildDate>
     <item>
-      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 04:11 AM 04 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Leyte(SanIsidro, Calubian, Leyte, Tabango, Villaba, MatagOb, Palompon, OrmocCity, Kananga, CityOfBaybay, Inopacan, Hindang, Babatngon), #Samar(Daram and Zumarraga) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sat, 03 Oct 2026 21:03:36 +0000</pubDate>
-      <guid isPermaLink="false">38b09e3af78c896fd55e18ca93e53bcdc740eb4b</guid>
+      <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 06:26 AM 04 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Merida, Isabel, Carigara, Leyte, Capoocan), #Cebu(Medellin), #NegrosOriental(CityOfBayawan, Siaton, Zamboanguita, Basay), #NegrosOccidental(Cauayan, HinobaAn), #Bohol(Talibon, BienUnido, Ubay, Pres.CarlosP.Garcia and Trinidad) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Daanbantayan), #NegrosOriental(SantaCatalina), #NegrosOccidental(CityOfSipalay), #Palawan(Linapacan, Taytay, ElNido, Magsaysay, Cuyo, Agutaya), #Leyte(Palompon, MatagOb, Villaba, Tabango, SanIsidro, Calubian, OrmocCity, Jaro and Kananga) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sun, 04 Oct 2026 00:03:39 +0000</pubDate>
+      <guid isPermaLink="false">0f49b3dfb6bdfab712f08e01d2659199a8891677</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 21:03:36 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 00:03:39 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 5 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10042026_1791060676.pdf</link>
       <description>Issued at: 05:00 AM, 4 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 5 October, 2026</description>
-      <pubDate>Sat, 03 Oct 2026 21:03:35 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 21:03:36 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10042026_1791060676.pdf</guid>
       <category>Special Forecast</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 21:03:36 +0000</ns2:seen>
@@ -28,7 +28,7 @@
       <title>Special Forecast: Valid until: 05:00 AM, 5 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KALIBO_10042026_1791060654.pdf</link>
       <description>Issued at: 05:00 AM, 4 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 5 October, 2026</description>
-      <pubDate>Sat, 03 Oct 2026 21:03:34 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 21:03:35 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KALIBO_10042026_1791060654.pdf</guid>
       <category>Special Forecast</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 21:03:36 +0000</ns3:seen>
@@ -37,10 +37,18 @@
       <title>Special Forecast: Valid until: 05:00 AM, 5 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10042026_1791060628.pdf</link>
       <description>Issued at: 05:00 AM, 4 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 5 October, 2026</description>
-      <pubDate>Sat, 03 Oct 2026 21:03:33 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 21:03:34 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10042026_1791060628.pdf</guid>
       <category>Special Forecast</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 21:03:36 +0000</ns4:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 04:11 AM 04 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Leyte(SanIsidro, Calubian, Leyte, Tabango, Villaba, MatagOb, Palompon, OrmocCity, Kananga, CityOfBaybay, Inopacan, Hindang, Babatngon), #Samar(Daram and Zumarraga) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sat, 03 Oct 2026 21:03:33 +0000</pubDate>
+      <guid isPermaLink="false">38b09e3af78c896fd55e18ca93e53bcdc740eb4b</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 21:03:36 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 16 #VISPRSD</title>
