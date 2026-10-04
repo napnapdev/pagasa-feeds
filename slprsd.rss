@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 04 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 04 Oct 2026 18:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:30:33 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 22 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 22 #SLPRSD&lt;br /&gt; Issued at 01:15 AM 05 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(CityOfCalapan, Baco), #CamarinesSur(Caramoan, Garchitorena, Lagonoy, Tinambac, Siruma and Presentacion) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Naujan, Victoria, Pola, Socorro, Pinamalayan), #Masbate(Aroroy, Mandaon), #Romblon(Odiongan, Ferrol and SanAndres) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -94,7 +94,7 @@
       <pubDate>Sun, 04 Oct 2026 03:03:35 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_04Oct2026_1791074764.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 03:03:35 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 03:03:35 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 5 October, 2026</title>
@@ -103,7 +103,7 @@
       <pubDate>Sun, 04 Oct 2026 03:03:34 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_04Oct2026_1791074722.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 03:03:35 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 03:03:35 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #SLPRSD</title>
