@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 04 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 04 Oct 2026 15:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 04 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
@@ -86,22 +86,6 @@
       <guid isPermaLink="false">311f0f74ded29a731e59df56aa64c2925d9e5390</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 21:15:42 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 03 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
-      <pubDate>Sat, 03 Oct 2026 15:04:02 +0000</pubDate>
-      <guid isPermaLink="false">372cdc7dcfbc78c91897bd9651922d9c76b02def</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 15:04:02 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #NLPRSD&lt;br /&gt; Issued at 10:10 PM 03 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Pangasinan(DagupanCity, SantaBarbara, Mapandan, SanJacinto), #Cagayan(Gonzaga, LalLo and SantaAna) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Pangasinan(SanFabian and Mangaldan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 03 Oct 2026 15:04:01 +0000</pubDate>
-      <guid isPermaLink="false">49c0edf59a95da5e700957aa57f32acf9fb23be6</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 03 Oct 2026 15:04:02 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
