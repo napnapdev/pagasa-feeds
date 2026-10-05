@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 06 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 21:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:52:22 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 14 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 14 #NCR_PRSD&lt;br /&gt; Issued at: 5:50 AM, 06 October 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (San Juan and Lobo) and Quezon (San Francisco) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (San Narciso and San Andres) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 05 Oct 2026 22:53:12 +0000</pubDate>
+      <guid isPermaLink="false">ff1a6b12716988a3d8f9e143694cd919a2a4b23c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 22:53:12 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 13 #NCR_PRSD&lt;br /&gt; Issued at: 3:50 AM, 06 October 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (San Luis, Bauan, San Pascual, Ibaan, Taysan, Lobo, San Jose, and San Juan), Laguna (Cabuyao, Santa Rosa, Calamba, and Los Banos), Quezon (Polillo, Patnanungan, Burdeos, and Panukulan), and Rizal (Binangonan, Cardona, Jala-Jala, and Pililla) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Batangas (Mabini, Batangas City, and Tingloy) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -142,7 +150,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns5:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
