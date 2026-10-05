@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 05 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 09:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:03:24 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
       <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 AM 05 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
@@ -138,14 +138,6 @@
       <guid isPermaLink="false">f473b2ff2c8ac7892a3011477dc267e367144b14</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 12:03:48 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 16 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 16 #SLPRSD&lt;br /&gt; Issued at 05:10 PM 04 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Albay(CityOfLigao, Camalig, Daraga, CityOfTabaco and Malilipot) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #CamarinesSur(Ragay, Lupi, Sipocot, Libmanan) and #Albay(Guinobatan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 04 Oct 2026 09:31:03 +0000</pubDate>
-      <guid isPermaLink="false">a1e01675f938b05b402c6778dc42c27926bc86cc</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 09:31:03 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
