@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 05 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 06:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:07:22 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
       <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 AM 05 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
@@ -154,22 +154,6 @@
       <guid isPermaLink="false">f7b7c680b0b9eb13cc418c61ff2b73e802611d6f</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 09:03:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 14 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 14 #SLPRSD&lt;br /&gt; Issued at 01:45 PM 04 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Baco, Naujan, Victoria and CityOfCalapan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Mansalay and Bulalacao) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 04 Oct 2026 06:03:35 +0000</pubDate>
-      <guid isPermaLink="false">1d33364e913b3d1f7a7bf77be3c82bfb3550c22b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 06:03:35 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 13 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 13 #SLPRSD&lt;br /&gt; Issued at 11:30 AM 04 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(Aroroy, Mandaon, Balud), #Romblon(Cajidiocan, Magdiwang, SanJose, SantaFe, Looc, Ferrol, Odiongan, SantaMaria, Alcantara) and #Marinduque within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(CityOfMasbate, Baleno, Mobo, Milagros, Uson, Cawayan, Dimasalang, Palanas, Placer, Cataingan, PioV.Corpuz, Esperanza) and #Romblon(SanFernando) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 04 Oct 2026 06:03:34 +0000</pubDate>
-      <guid isPermaLink="false">c727b129094c9c8691dd9069ffe9ec2f8f6af7bf</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 06:03:35 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
