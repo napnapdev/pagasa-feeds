@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 06 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 22:52:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:03:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 42 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 42 #SLPRSD&lt;br /&gt; Issued at 05:55 AM 06 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Pinamalayan, Pola, Socorro), #Albay(Malilipot, CityOfTabaco, SantoDomingo, LegazpiCity and Manito) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Marinduque, #OrientalMindoro(Bulalacao, Roxas, Mansalay, Bongabong, Bansud, Gloria), #Romblon, #Masbate(Milagros, Balud, Mandaon, SanPascual, Claveria, Placer, Cawayan, Esperanza, Aroroy, Baleno, CityOfMasbate, Uson, Mobo, Dimasalang, Palanas, Cataingan, PioV.Corpuz, Batuan, SanFernando), #Albay(Bacacay and RapuRapu) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -16,20 +16,20 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 22:53:12 +0000</ns0:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 41 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 41 #SLPRSD&lt;br /&gt; Issued at 04:35 AM 06 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Mansalay, Roxas, Bulalacao), #Sorsogon(Juban and Magallanes) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Pinamalayan, Gloria, Bansud, Bongabong), #Romblon, #Masbate(Balud, Milagros, Mandaon, Claveria, SanPascual, Placer, PioV.Corpuz, Cawayan, CityOfMasbate, Baleno, Aroroy, Esperanza, Mobo), #Marinduque(Mogpog and SantaCruz) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <title>Thunderstorm Advisory #SLPRSD</title>
+      <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 PM 05 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
       <pubDate>Mon, 05 Oct 2026 21:14:48 +0000</pubDate>
-      <guid isPermaLink="false">a9dcd299260d8fe12ec2b3b8cbb8d7aff7a8a806</guid>
+      <guid isPermaLink="false">ded066a3d99e1d32972a1f207daff7e711005b11</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 21:14:48 +0000</ns1:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory #SLPRSD</title>
-      <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 PM 05 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
+      <title>Thunderstorm Advisory No. 41 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 41 #SLPRSD&lt;br /&gt; Issued at 04:35 AM 06 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Mansalay, Roxas, Bulalacao), #Sorsogon(Juban and Magallanes) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Pinamalayan, Gloria, Bansud, Bongabong), #Romblon, #Masbate(Balud, Milagros, Mandaon, Claveria, SanPascual, Placer, PioV.Corpuz, Cawayan, CityOfMasbate, Baleno, Aroroy, Esperanza, Mobo), #Marinduque(Mogpog and SantaCruz) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Mon, 05 Oct 2026 21:14:47 +0000</pubDate>
-      <guid isPermaLink="false">ded066a3d99e1d32972a1f207daff7e711005b11</guid>
+      <guid isPermaLink="false">a9dcd299260d8fe12ec2b3b8cbb8d7aff7a8a806</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 21:14:48 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 21:14:48 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 40 #SLPRSD</title>
@@ -70,7 +70,7 @@
       <pubDate>Mon, 05 Oct 2026 15:03:40 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_05Oct2026_1791207041.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 15:03:40 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 15:03:40 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 6 October, 2026</title>
@@ -79,7 +79,7 @@
       <pubDate>Mon, 05 Oct 2026 15:03:39 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_05Oct2026_1791206996.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 15:03:40 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 15:03:40 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 36 #SLPRSD</title>
@@ -96,7 +96,7 @@
       <pubDate>Mon, 05 Oct 2026 01:48:07 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_05Oct2026_1791161388.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 01:48:07 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 01:48:07 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 6 October, 2026</title>
@@ -105,7 +105,7 @@
       <pubDate>Mon, 05 Oct 2026 01:48:06 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_05Oct2026_1791161370.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 01:48:07 +0000</ns6:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 01:48:07 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
@@ -122,14 +122,6 @@
       <guid isPermaLink="false">103c8f82fc4c775e8e103cbe25dbb2d107ae701d</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 01:48:07 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 25 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 25 #SLPRSD&lt;br /&gt; Issued at 06:10 AM 05 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #NorthernSamar(Catubig, Gamay, Pambujan, Lapinig), #Masbate(CityOfMasbate, Milagros, PioV.Corpuz and Esperanza) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(Aroroy, Mandaon, Baleno), #NorthernSamar(Palapag, Mapanas and Laoang) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 04 Oct 2026 23:00:28 +0000</pubDate>
-      <guid isPermaLink="false">926f2793e35bfa52ea9ec88d38b076cd5cdf46e0</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 23:00:28 +0000</ns0:seen>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 06 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 22:52:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:03:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 14 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 14 #NCR_PRSD&lt;br /&gt; Issued at: 5:50 AM, 06 October 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (San Juan and Lobo) and Quezon (San Francisco) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (San Narciso and San Andres) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -134,14 +134,6 @@
       <guid isPermaLink="false">7012bd0fa37065ead1c5156589664d8013ef1320</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 03:04:05 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #NCR_PRSD&lt;br /&gt; Issued at: 6:07 AM, 05 October 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Cavite (Maragondon and Ternate) and Quezon (Jomalig and Patnanungan) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Cavite (Tanza and Naic) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 04 Oct 2026 23:00:28 +0000</pubDate>
-      <guid isPermaLink="false">b8fc8fa7a0a09b77b5ce74fa381816ccd7dd0b0a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 04 Oct 2026 23:00:28 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
