@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 07 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 06 Oct 2026 21:16:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:30:36 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 8 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 8 FINAL #NLPRSD&lt;br /&gt; Issued at 05:22 AM 07 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 06 Oct 2026 21:30:55 +0000</pubDate>
+      <guid isPermaLink="false">d9e040c39a726947cdf4b1b06b329e255b9b9773</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 21:30:55 +0000</ns1:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 7 #NLPRSD</title>
       <description>Rainfall Advisory No. 7 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow &lt;br /&gt; Issued at 05:00 AM 07 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Batanes(Itbayat), #Cagayan(Aparri, SantaPraxedes, Claveria, SanchezMira, Pamplona, Ballesteros, Abulug, SantaAna, Gonzaga, SantaTeresita, Buguey), #IlocosNorte(Pagudpud, Bangui, Dumalneg, Adams and Burgos) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Calayan), #Batanes(Ivana, Mahatao, Sabtang, Uyugan and Basco) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -37,7 +45,7 @@
       <pubDate>Tue, 06 Oct 2026 15:03:37 +0000</pubDate>
       <guid isPermaLink="false">9bedef37884c75609a40b67070b4bf9852f8afe5</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 15:03:37 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 15:03:37 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #NLPRSD</title>
