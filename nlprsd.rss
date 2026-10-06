@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 06 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 06 Oct 2026 15:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:07:21 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 5 #NLPRSD</title>
+      <description>Rainfall Advisory No. 5 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow &lt;br /&gt; Issued at 11:00 PM 06 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Batanes(Itbayat), #IlocosNorte(Pagudpud, Bangui, Adams, Dumalneg and Burgos) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Calayan), #Batanes(Ivana, Mahatao, Sabtang, Uyugan and Basco) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 06 Oct 2026 15:07:39 +0000</pubDate>
+      <guid isPermaLink="false">944d920b8629ac59b073755fbc244c86213a8b0b</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 15:07:39 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 06 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
       <pubDate>Tue, 06 Oct 2026 15:03:37 +0000</pubDate>
       <guid isPermaLink="false">9bedef37884c75609a40b67070b4bf9852f8afe5</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 15:03:37 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 15:03:37 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #NLPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Tue, 06 Oct 2026 15:03:36 +0000</pubDate>
       <guid isPermaLink="false">fe46c2dc11ff8eb4b3ed87e0893e2bbb861a49e6</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 15:03:37 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 15:03:37 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 4 #NLPRSD</title>
@@ -118,30 +126,6 @@
       <guid isPermaLink="false">437eeff2e985134ad04d48c376c42a9c9b57d409</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 21:14:48 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 05 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
-      <pubDate>Mon, 05 Oct 2026 15:03:40 +0000</pubDate>
-      <guid isPermaLink="false">29ebd233e2aba847f5fb4e204f2121bfab8af903</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 15:03:40 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #NLPRSD&lt;br /&gt; Issued at 10:18 PM 05 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Pangasinan(Tayug, SantaMaria, Balungao, SanNicolas, SanManuel, Asingan, Rosales, Anda, Mabini, Agno, Burgos, Dasol, Bugallon, Alcala, SantoTomas, Bautista, Bayambang, Villasis, Binalonan, CityOfUrdaneta), #Cagayan(LalLo, Gattaran, SantaTeresita), #Apayao(Calanasan, Conner), #Abra(Tineg, Tubo, SanQuintin, SanIsidro), #Benguet(Itogon, Tuba, BaguioCity, LaTrinidad, Tublay, Sablan, Atok, Kabayan, Kapangan, Buguias, Bakun, Mankayan, Kibungan), #Ifugao(Kiangan, Lagawe, Hungduan), #MountainProvince(Besao), #IlocosSur(Cervantes, Quirino, Sigay, Salcedo, GregorioDelPilar, SantaMaria, Burgos, Lidlidda, Banayoyo, CityOfCandon, Galimuyod, SanEsteban, Santiago, SantaLucia, SantaCruz, Sinait, Santa, Nagbukel, Caoayan, SantoDomingo, Bantay, SanVicente, SanIldefonso, SantaCatalina, CityOfVigan, Sugpon), #LaUnion(Luna, Balaoan and Santol) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Pangasinan(SanQuintin, Umingan, Natividad, Sual, CityOfAlaminos, Labrador, Lingayen, Binmaley, Bolinao, Bani), #Benguet(Bokod), #IlocosSur(Magsingal, SanJuan, Cabugao, Narvacan, SanEmilio, Tagudin, Suyo, Alilem), #IlocosNorte(NuevaEra), #Abra(Villaviciosa, Luba, Pilar, Manabo), #LaUnion(Sudipen, Bangar), #Apayao(Kabugao), #MountainProvince(Tadian, Bauko, Bontoc, Sagada, Sabangan), #Cagayan(SantaAna, Gonzaga), #Ifugao(Tinoc, Asipulo and Lamut) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 05 Oct 2026 15:03:39 +0000</pubDate>
-      <guid isPermaLink="false">6ad5ebc1acbbbed2859201a2911b10878118a636</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 15:03:40 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #NLPRSD&lt;br /&gt; Issued at 09:03 PM 05 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Pangasinan(Umingan, SanQuintin, Balungao, Rosales, SantoTomas, Alcala, Bautista, Bayambang, Urbiztondo, Labrador, Mabini, Sual, Dasol, Burgos, SanCarlosCity, Basista, Malasiqui, SantaMaria, Villasis, Binmaley, Calasiao, Tayug, Natividad, DagupanCity), #LaUnion(Pugo, Tubao, Agoo, SantoTomas, Bagulin, Burgos, Aringay), #Ifugao(Mayoyao, Hungduan, Kiangan, Asipulo, Tinoc, Lamut), #MountainProvince(Natonin, Barlig, Paracelis), #Kalinga(Lubuagan, Tanudan, Balbalan), #Abra(Daguioman, SanJuan, Dolores, Lagangilang), #IlocosSur(SanVicente, SantaCatalina, CityOfVigan, Caoayan, SanEsteban, Santiago, Banayoyo, Lidlidda, Galimuyod, Salcedo, CityOfCandon, SantaLucia and SantaCruz) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Benguet, #Ifugao(AlfonsoLista, Banaue, Hingyon, Lagawe, Aguinaldo), #MountainProvince(Bontoc, Sadanga, Bauko, Besao, Sagada, Tadian, Sabangan), #Kalinga(Tinglayan, Pasil), #Abra(Bangued, Boliney, Bucay, Bucloc, Danglas, LaPaz, Lagayan, Langiden, LicuanBaay, Luba, Malibcong, Manabo, Peñarrubia, Pidigan, Pilar, Sallapadan, SanIsidro, SanQuintin, Tayum, Tubo, Villaviciosa), #IlocosSur(Santa, Quirino, GregorioDelPilar, SanEmilio, Sigay, Cervantes, Suyo, Alilem, Tagudin, Sugpon, Narvacan, Nagbukel, Sinait, Cabugao, SanJuan, Magsingal, SantoDomingo, SanIldefonso, Bantay, SantaMaria, Burgos), #IlocosNorte(NuevaEra), #LaUnion(Sudipen, Bangar, Luna, Balaoan, Santol, SanGabriel, Rosario), #Pangasinan(Mangatarem, Aguilar, Infanta, Lingayen and Bugallon) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 05 Oct 2026 15:03:38 +0000</pubDate>
-      <guid isPermaLink="false">e2710454df4f8e4f62202900486e8f9d768d3ac4</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 05 Oct 2026 15:03:40 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
