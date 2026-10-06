@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 06 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 06 Oct 2026 12:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:07:23 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 4 #NLPRSD</title>
+      <description>Rainfall Advisory No. 4 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow &lt;br /&gt; Issued at 08:00 PM 06 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Cagayan(Calayan) and #Batanes(Itbayat) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Batanes(Ivana, Mahatao, Sabtang, Uyugan and Basco) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 06 Oct 2026 12:07:33 +0000</pubDate>
+      <guid isPermaLink="false">e8ff2e1031c6d716ab7ef50cc81ab31e7808b1fd</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 12:07:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 6 #NLPRSD&lt;br /&gt; Issued at 06:51 PM 06 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Kalinga(Tanudan, Tinglayan, CityOfTabuk), #MountainProvince(Natonin, Barlig), #Ifugao(Aguinaldo, Mayoyao, AlfonsoLista), #Pangasinan(Agno, Balungao, Bani, Bolinao, Bugallon, Burgos, Dasol, Infanta, Labrador, Mabini, Natividad, Rosales, SanQuintin, SantaMaria, Tayug, Umingan), #LaUnion(Aringay, Bacnotan, Bagulin, Balaoan, Bangar, Bauang, Burgos, Caba, Luna, Naguilian, Pugo, CityOfSanFernando, SanGabriel, SanJuan, Santol, Sudipen, Tubao), #Benguet(Sablan and Tuba) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MountainProvince(Paracelis), #Pangasinan(Aguilar, CityOfAlaminos, Alcala, Anda, Asingan, Basista, Bautista, Bayambang, Binalonan, Binmaley, Calasiao, DagupanCity, Lingayen, Malasiqui, Manaoag, Mangaldan, Mangatarem, Mapandan, Pozorrubio, SanCarlosCity, SanFabian, SanJacinto, SanManuel, SanNicolas, SantaBarbara, SantoTomas, Sison, Sual, Urbiztondo, CityOfUrdaneta, Villasis, Laoac), #LaUnion(Agoo, Rosario and SantoTomas) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 06 Oct 2026 12:03:37 +0000</pubDate>
       <guid isPermaLink="false">dc9e683d3fec36b05d6f54a0d1800412636bdba4</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 12:03:37 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 12:03:37 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #NLPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Tue, 06 Oct 2026 10:04:35 +0000</pubDate>
       <guid isPermaLink="false">1a2585d7d98532d700b33b5313257d9d440808a7</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 10:04:35 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 10:04:35 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 3 #NLPRSD</title>
@@ -85,7 +93,7 @@
       <pubDate>Tue, 06 Oct 2026 02:52:29 +0000</pubDate>
       <guid isPermaLink="false">2164d4cbab0bbf6dfa9656c3404457a7d9eedc67</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 02:52:29 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 02:52:29 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #NLPRSD</title>
