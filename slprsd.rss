@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 07 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2026 13:48:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 15:03:22 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 8 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 8 #SLPRSD&lt;br /&gt; Issued at 10:50 PM 07 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Romblon(SanAgustin, SanAndres, Calatrava, Corcuera, Banton, Concepcion), #OrientalMindoro(CityOfCalapan, Baco, SanTeodoro and PuertoGalera) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon(Romblon), #OrientalMindoro(Victoria and Naujan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 07 Oct 2026 15:03:37 +0000</pubDate>
+      <guid isPermaLink="false">6f522d1724de7920b771d2d4fde43e16ed23eca3</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 15:03:37 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 7 #SLPRSD&lt;br /&gt; Issued at 08:40 PM 07 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(Uson, Monreal, Balud, Cawayan, Palanas, Dimasalang, Cataingan, Placer), #NorthernSamar(Rosario, Allen, Capul, SanAntonio, Victoria, SanJose, SanIsidro, Lavezares) and #Albay(Libon) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(Baleno, CityOfMasbate, Mobo, Batuan, SanFernando, Aroroy, Mandaon, Milagros and SanJacinto) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Wed, 07 Oct 2026 13:48:32 +0000</pubDate>
       <guid isPermaLink="false">b8039136f067e6875f017a9b5e789fa6cf1c949b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 13:48:32 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 13:48:32 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:13 PM, 8 October, 2026</title>
@@ -82,18 +90,10 @@
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 06:03:36 +0000</ns3:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory #SLPRSD</title>
-      <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 AM 07 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
-      <pubDate>Wed, 07 Oct 2026 03:03:39 +0000</pubDate>
-      <guid isPermaLink="false">f1521a8e9c72d09df1d24bc0df23a7b1b1862a2d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 03:03:39 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: Valid until: 09:00 AM, 8 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_07Oct2026_1791336832.pdf</link>
       <description>Issued at: 09:00 AM, 7 October, 2026&lt;br /&gt;Valid until: 09:00 AM, 8 October, 2026</description>
-      <pubDate>Wed, 07 Oct 2026 03:03:38 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 03:03:39 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_07Oct2026_1791336832.pdf</guid>
       <category>Special Forecast</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 03:03:39 +0000</ns4:seen>
@@ -102,10 +102,18 @@
       <title>Special Forecast: Valid until: 09:00 AM, 8 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_07Oct2026_1791336774.pdf</link>
       <description>Issued at: 09:00 AM, 7 October, 2026&lt;br /&gt;Valid until: 09:00 AM, 8 October, 2026</description>
-      <pubDate>Wed, 07 Oct 2026 03:03:37 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 03:03:38 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_07Oct2026_1791336774.pdf</guid>
       <category>Special Forecast</category>
       <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 03:03:39 +0000</ns5:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #SLPRSD</title>
+      <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 AM 07 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
+      <pubDate>Wed, 07 Oct 2026 03:03:37 +0000</pubDate>
+      <guid isPermaLink="false">f1521a8e9c72d09df1d24bc0df23a7b1b1862a2d</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 03:03:39 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
