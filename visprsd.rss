@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 07 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2026 12:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:07:25 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 20 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 20 #VISPRSD&lt;br /&gt; Issued at 07:28 PM 07 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Bohol(Dimiao, Cortes, Valencia, Baclayon, Alburquerque, Bilar), #Leyte(Calubian, SanIsidro and Inopacan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bohol(TagbilaranCity, Corella, Sikatuna, Sevilla, Loay, Lila and Loboc) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -248,22 +248,6 @@
       <guid isPermaLink="false">3a663cb29c3f1fcd2f4bc9f0c6d2601a8432d31b</guid>
       <category>Thunderstorm Advisory</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 15:03:37 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 23 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 23 #VISPRSD&lt;br /&gt; Issued at 07:42 PM 06 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(Ivisan, Sigma, Mambusao, Dao, RoxasCity), #Samar(SanJoseDeBuan, Matuguinao, Basey), #EasternSamar(Taft), #NegrosOccidental(Ilog, CityOfSipalay, Candoni, CityOfKabankalan) and #NegrosOriental(CityOfBayawan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Batan, Altavas, Libacao), #Capiz(SapiAn, Jamindan), #EasternSamar(CanAvid, Dolores, Maslog, CityOfBorongan, Maydolong, Balangkayan, Llorente, Lawaan), #Samar(Marabut), #NegrosOccidental(HinobaAn) and #NegrosOriental(Basay) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 06 Oct 2026 12:03:37 +0000</pubDate>
-      <guid isPermaLink="false">ecaae24fe163bb1908c6bb6c52d9e153a0cb49f9</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 12:03:37 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 22 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 22 #VISPRSD&lt;br /&gt; Issued at 06:42 PM 06 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(BarotacViejo, Ajuy, Concepcion, CityOfPassi, SanRafael, Anilao, SanEnrique, Banate, Lemery, Dueñas, Calinog, Dingle), #Capiz(Dao, Dumarao, Cuartero), #EasternSamar(Giporlos and Balangiga) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Jamindan, Dumalag, Tapaz, Mambusao, Sigma), #Iloilo(Bingawan), #EasternSamar(Salcedo, Quinapondan, GeneralMacarthur, Hernani, Guiuan and Mercedes) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 06 Oct 2026 12:03:36 +0000</pubDate>
-      <guid isPermaLink="false">57c332dc62e2d7bed4db70692f7d67a0197ac60b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 12:03:37 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
