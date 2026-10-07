@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 08 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2026 21:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:07:23 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 9 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 9 #SLPRSD&lt;br /&gt; Issued at 03:30 AM 08 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #CamarinesSur(Goa, SanJose, Presentacion), #Catanduanes(Gigmoto, Baras, SanMiguel, Bato, Virac and SanAndres) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Catanduanes(Viga, Bagamanoc, Pandan, Panganiban, Caramoran), #CamarinesSur(Caramoan, Garchitorena, Lagonoy, Tinambac, Siruma), #Romblon(SanJose), #CamarinesNorte(Talisay, Daet, Mercedes, SanVicente, Basud and SanLorenzoRuiz) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -130,14 +130,6 @@
       <guid isPermaLink="false">375edd3ba9a3ce59e53e6e46c8c5dab0431f61da</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 00:03:37 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #SLPRSD&lt;br /&gt; Issued at 04:25 AM 07 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Romblon(Romblon, SanAgustin, Calatrava, SanAndres), #OrientalMindoro(Gloria, Bansud, Bongabong, Roxas, Mansalay and Bulalacao) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon(Corcuera, Banton and Concepcion) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 06 Oct 2026 21:04:43 +0000</pubDate>
-      <guid isPermaLink="false">0a0486a4f6cd38b690131fb64a5c4badc4f1b145</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 21:04:43 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
