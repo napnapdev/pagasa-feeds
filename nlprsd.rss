@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 07 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2026 03:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:15:28 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 9 #NLPRSD</title>
+      <description>Rainfall Advisory No. 9 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow &lt;br /&gt; Issued at 11:00 AM 07 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Cagayan(Calayan, SanchezMira, Pamplona, Abulug, SantaAna, Gonzaga, Buguey, SantaTeresita, Claveria, SantaPraxedes, Ballesteros, Aparri, Camalaniugan, LalLo, Gattaran, Baggao), #Apayao(Luna, SantaMarcela), #Batanes, #IlocosNorte(Pagudpud, Bangui, Dumalneg and Adams) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 07 Oct 2026 03:15:42 +0000</pubDate>
+      <guid isPermaLink="false">c7129008587e11ff9bc628a6e1cfa469177d2969</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 03:15:42 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 07 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
       <pubDate>Wed, 07 Oct 2026 03:03:39 +0000</pubDate>
       <guid isPermaLink="false">b9198ba7ca41de35a4b30d4039adb5a3679c905a</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 03:03:39 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 03:03:39 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 8 #NLPRSD</title>
@@ -142,14 +150,6 @@
       <guid isPermaLink="false">ed796ca59d53ad1e795e1b931637c434f7b0d2c7</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 06:03:31 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 1 #NLPRSD</title>
-      <description>Rainfall Advisory No. 1 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow &lt;br /&gt; Issued at 11:00 AM 06 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Batanes(Sabtang) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Batanes(Itbayat, Basco, Mahatao, Ivana and Uyugan) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 06 Oct 2026 03:08:01 +0000</pubDate>
-      <guid isPermaLink="false">1950358b19c05dec97de3aa3ede76ee18c2f0db3</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 06 Oct 2026 03:08:01 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
