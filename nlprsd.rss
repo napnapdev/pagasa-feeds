@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 08 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2026 03:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:15:26 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 17 #NLPRSD</title>
+      <description>Rainfall Advisory No. 17 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow &lt;br /&gt; Issued at 11:00 AM 08 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Aurora(SanLuis, MariaAurora, Baler), #Pangasinan(Anda, Labrador, Mabini, Infanta, Aguilar, Bugallon, Mangatarem, Bolinao), #Isabela(Cabagan, SanPablo, IlaganCity, DelfinAlbano, SantoTomas, Quirino, SanMariano, BenitoSoliven, Naguilian, Gamu, Palanan, Dinapigue, SanAgustin, Jones), #Cagayan(Claveria, SantaPraxedes, SantaAna, Peñablanca, Baggao, Gattaran, Gonzaga, LalLo), #Apayao(Calanasan, Kabugao), #IlocosNorte(Adams, Dumalneg, Vintar, Pagudpud, Carasi), #Quirino(Nagtipunan, Aglipay) and #NuevaVizcaya(AlfonsoCastaneda) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aurora(Dilasag, Casiguran, Dinalungan, Dipaculao, Dingalan), #Pangasinan(Bani, CityOfAlaminos, Sual, Agno, Burgos, Dasol), #Isabela(Divilacan, Tumauini, Maconacon) and #Quirino(Maddela) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 08 Oct 2026 03:15:39 +0000</pubDate>
+      <guid isPermaLink="false">2d34c274c9703fb2d42d4e07ec54abf88c389037</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 03:15:39 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 08 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte and #Cagayan within 12 hours.</description>
       <pubDate>Thu, 08 Oct 2026 03:00:09 +0000</pubDate>
       <guid isPermaLink="false">f90f94e93d92666d8aa526b4866a63b5c284d608</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 03:00:09 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 03:00:09 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 16 #NLPRSD</title>
