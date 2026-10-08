@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 09 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2026 21:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:30:35 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 5 #VISPRSD&lt;br /&gt; Issued at 04:18 AM 09 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Anilao, Banate, BarotacViejo), #Guimaras(Jordan, Sibunag), #NegrosOccidental(Valladolid, Pulupandan, BagoCity and BacolodCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Ajuy, Dumangas, BarotacNuevo), #Guimaras(SanLorenzo, Buenavista), #SouthernLeyte(CityOfMaasin) and #Leyte(Matalom) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -240,14 +240,6 @@
       <guid isPermaLink="false">cdb793776ebec065130983c5a0c5e2f9d59fd88b</guid>
       <category>Thunderstorm Advisory</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 03:00:09 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 05:00 AM 08 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(CityOfBaybay, Inopacan), #Capiz(Pontevedra, Panitan, Sigma, Mambusao), #Aklan(Altavas), #Cebu(SanRemigio and Tabuelan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(RoxasCity, Ivisan, SapiAn, Panay), #Aklan(Batan, NewWashington, Kalibo, Malay), #Cebu(SantaFe and Bantayan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 07 Oct 2026 21:15:47 +0000</pubDate>
-      <guid isPermaLink="false">db3fb0342bc8cadb52dea485cb91ced8c210ea8a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 21:15:47 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
