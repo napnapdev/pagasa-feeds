@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 08 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2026 00:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 12 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 12 #SLPRSD&lt;br /&gt; Issued at 07:40 AM 08 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Catanduanes(Pandan, Bagamanoc, Panganiban, SanAndres, Virac, Bato), #CamarinesSur(Presentacion, Goa, SanJose, Calabanga, Tigaon, Sagñay), #CamarinesNorte(SanVicente, Daet, SanLorenzoRuiz, Basud, Mercedes), #Albay(CityOfLigao, Guinobatan, Malilipot, Camalig, Daraga, LegazpiCity, SantoDomingo, RapuRapu, Bacacay, CityOfTabaco, Oas, Tiwi, Malinao), #Sorsogon(Bulusan, Irosin, SantaMagdalena, Barcelona, Matnog), #NorthernSamar(Biri, Capul, Allen and Lavezares) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #CamarinesNorte(JosePanganiban, Capalonga, Labo, SantaElena, Paracale, Vinzons, Talisay), #CamarinesSur(Siruma, Garchitorena, Lagonoy, Caramoan, Tinambac), #Catanduanes(Gigmoto, Viga, Baras, SanMiguel and Caramoran) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -146,14 +146,6 @@
       <guid isPermaLink="false">f1521a8e9c72d09df1d24bc0df23a7b1b1862a2d</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 03:03:39 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #SLPRSD&lt;br /&gt; Issued at 05:45 AM 07 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Roxas, Mansalay, Bulalacao), #Masbate(Aroroy and Claveria) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Gloria, Bansud, Bongabong) and #Romblon(Concepcion) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 07 Oct 2026 00:03:37 +0000</pubDate>
-      <guid isPermaLink="false">375edd3ba9a3ce59e53e6e46c8c5dab0431f61da</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 00:03:37 +0000</ns0:seen>
     </item>
   </channel>
 </rss>

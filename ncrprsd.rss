@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 08 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 08 Oct 2026 00:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:07:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 12 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 12 #NCR_PRSD&lt;br /&gt; Issued at: 7:10 AM, 08 October 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Dinalupihan, Hermosa, Orani, Samal, Abucay, Balanga, Pilar, Orion, Limay, and Mariveles), Batangas (Talisay, Laurel, Nasugbu, Tuy, Balayan, Calaca, Lian, Calatagan, Lemery, Agoncillo, San Nicolas, San Luis, Bauan, Mabini, Santa Teresita, Taal, and Tanauan), Bulacan (Dona Remedios Trinidad, San Jose del Monte, Meycauayan, Obando, Bulakan, Santa Maria, Marilao, Bocaue, Angat, Balagtas, Baliuag, Bustos, Calumpit, Malolos, Guiguinto, Hagonoy, Pandi, Paombong, Plaridel, Pulilan, San Ildefonso, San Miguel, and San Rafael), Cavite (Tagaytay, Silang, Carmona, Amadeo, Mendez, Alfonso, Indang, General Emilio Aguinaldo, Magallanes, and Gen. Mariano Alvarez), Laguna (Santa Maria, Famy, Siniloan, Pangil, Pakil, Paete, Kalayaan, Lumban, Cavinti, Mabitac, Luisiana, San Pedro, Binan, Santa Rosa, Cabuyao, and Calamba), Nueva Ecija (Carranglan, General Tinio, Gabaldon, Bongabon, Pantabangan, Laur, and Rizal), Pampanga (Masantol, Macabebe, Sasmuan, Lubao, Candaba, Arayat, Santa Ana, San Luis, San Simon, Apalit, Minalin, Mexico, San Fernando, Santo Tomas, Bacolor, Guagua, and Santa Rita), Quezon (Real, Panukulan, Alabat, Quezon, Perez, Infanta, Mauban, Sampaloc, Atimonan, Gumaca, Plaridel, Calauag, Guinayangan, Lopez, Tagkawayan, Buenavista, Mulanay, San Narciso, Catanauan, General Luna, Macalelon, Lucban, Tayabas, Pagbilao, Unisan, Padre Burgos, Agdangan, Pitogo, Lucena, Patnanungan, and Jomalig), Metro Manila, and Rizal within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bulacan (Norzagaray) and Quezon (General Nakar, Polillo, and Burdeos) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -118,14 +118,6 @@
       <guid isPermaLink="false">2882c04db62ddd68c7957df04b8a60570d46a648</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 03:03:39 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 12-Final #NCR_PRSD&lt;br /&gt; Issued at: 5:45 AM, 07 October 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisory over NCR-PRSD forecast area are now TERMINATED. However, all are still advised to continue monitoring for updates.</description>
-      <pubDate>Wed, 07 Oct 2026 00:03:37 +0000</pubDate>
-      <guid isPermaLink="false">f50253a597853abbf06b99155808b5b4349b5043</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 07 Oct 2026 00:03:37 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
