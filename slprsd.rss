@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 09 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 09 Oct 2026 18:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:30:37 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 1 #SLPRSD</title>
+      <description>Rainfall Advisory No. 1 #SLPRSD&lt;br /&gt; Weather System: Low Pressure Area (LPA) &lt;br /&gt; Issued at 02:00 AM 10 October 2026&lt;br /&gt; &lt;br /&gt; {EXPECTED INTENSITY} rains are expected over #Catanduanes(Caramoran, SanAndres), #CamarinesSur(Caramoan, Tigaon, Presentacion, Goa, SanJose), #Sorsogon(Magallanes, SantaMagdalena, Matnog), #NorthernSamar(Laoang, Palapag, Mapanas, Gamay, Lapinig, Capul, SanAntonio, SanVicente), #Romblon(Banton, Concepcion, Corcuera), #Marinduque(Mogpog, SantaCruz, Boac), #OrientalMindoro(Victoria, Naujan, Pola, Socorro, Pinamalayan), #CamarinesNorte(Talisay, Vinzons, Daet, Mercedes, SantaElena and Paracale).&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Catanduanes(Virac, Bato, Gigmoto, Baras, SanMiguel), #CamarinesSur(Lagonoy, Garchitorena, Tinambac, Siruma, Calabanga), #Albay(Malilipot, Bacacay, RapuRapu), #Sorsogon(PrietoDiaz, Gubat, Barcelona, Bulusan, Casiguran, Juban), #Romblon(Alcantara, Cajidiocan, Calatrava, Looc, Magdiwang, Odiongan, Romblon, SanAgustin, SanAndres, SanFernando, SanJose, SantaFe, Ferrol, SantaMaria), #OrientalMindoro(Mansalay, Bulalacao and Roxas) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.</description>
+      <pubDate>Fri, 09 Oct 2026 18:30:54 +0000</pubDate>
+      <guid isPermaLink="false">aa901a52c2f7680aad8df260912670adf787ed28</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 18:30:54 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 3 #SLPRSD</title>
       <description>Heavy Rainfall Warning No. 3 FINAL #SLPRSD&lt;br /&gt; Weather System: Low Pressure Area (LPA) &lt;br /&gt; Issued at 11:00 PM 09 October 2026&lt;br /&gt; &lt;br /&gt; All RAINFALL WARNING over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rains are expected over #CamarinesSur(Lagonoy, Ocampo, Tigaon, Goa, SanJose, Sagñay, Magarao, Libmanan, Camaligan, NagaCity, Pasacao, Pamplona, Gainza, Milaor, Canaman), #Catanduanes(Bato, Virac, SanAndres), #Albay(Jovellar, Tiwi, Malinao, LegazpiCity, Daraga, Camalig, Guinobatan, CityOfLigao, PioDuran), #Sorsogon(Donsol, Pilar, Castilla, Magallanes, Juban and Casiguran) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon, #OrientalMindoro(Bansud, Bongabong, Bulalacao, Gloria, Mansalay, Roxas), #Marinduque(Mogpog, SantaCruz, Torrijos), #CamarinesNorte, #CamarinesSur(Bombon, Cabusao, Calabanga, DelGallego, Siruma, Tinambac, Sipocot, Ragay, Lupi), #Albay(RapuRapu, Manito, Bacacay, Malilipot, CityOfTabaco), #NorthernSamar(Capul, SanAntonio, SanIsidro, Victoria, Allen, Lavezares, Rosario, SanJose, Bobon, Biri, Catarman), #Sorsogon(CityOfSorsogon, Gubat), #Masbate(Aroroy, Baleno, Mobo, CityOfMasbate, Uson, Dimasalang, Palanas, Cataingan, PioV.Corpuz and Esperanza) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
       <pubDate>Fri, 09 Oct 2026 16:29:35 +0000</pubDate>
       <guid isPermaLink="false">a8cee7c393d021cbb756eaf6107997dd2437a2d6</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 16:29:35 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 16:29:35 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 10 October, 2026</title>
@@ -22,7 +30,7 @@
       <pubDate>Fri, 09 Oct 2026 15:03:38 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_09Oct2026_1791549590.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 15:03:38 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 15:03:38 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 10 October, 2026</title>
@@ -31,7 +39,7 @@
       <pubDate>Fri, 09 Oct 2026 15:03:37 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_09Oct2026_1791549541.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 15:03:38 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 15:03:38 +0000</ns3:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 2 #SLPRSD</title>
@@ -80,7 +88,7 @@
       <pubDate>Fri, 09 Oct 2026 02:29:10 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_09Oct2026_1791509446.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 02:29:10 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 02:29:10 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:28 AM, 10 October, 2026</title>
@@ -89,7 +97,7 @@
       <pubDate>Fri, 09 Oct 2026 02:29:09 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_09Oct2026_1791509319.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 02:29:10 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 02:29:10 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 29 #SLPRSD</title>
@@ -122,14 +130,6 @@
       <guid isPermaLink="false">fb0b4c5508488fd39092ac777aa6bd3124828354</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 21:03:47 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 25 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 25 #SLPRSD&lt;br /&gt; Issued at 12:23 AM 09 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(SanJacinto, SanFernando, CityOfMasbate, Mobo, Uson, Dimasalang, Palanas, Cataingan), #CamarinesSur(Lagonoy, Sagñay, SanJose, Tigaon), #Albay(Tiwi), #Marinduque(SantaCruz and Torrijos) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NorthernSamar, #Sorsogon, #Catanduanes, #Albay(Manito, LegazpiCity, RapuRapu), #CamarinesSur(Caramoan, Presentacion, Garchitorena), #OrientalMindoro(CityOfCalapan, Naujan and Baco) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 08 Oct 2026 18:16:13 +0000</pubDate>
-      <guid isPermaLink="false">758ea45f821eceef16fc968614296208c408d9ae</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 18:16:13 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
