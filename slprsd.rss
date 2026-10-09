@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 09 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 09 Oct 2026 06:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:07:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 31 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 31 #SLPRSD&lt;br /&gt; Issued at 01:15 PM 09 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(Milagros, Baleno, CityOfMasbate, Mobo and Aroroy) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(Mandaon and Balud) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -154,22 +154,6 @@
       <guid isPermaLink="false">842bdd82cc0345f5a06c9af34a2a231b60f3bb4c</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 09:03:37 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 17 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 17 #SLPRSD&lt;br /&gt; Issued at 12:20 PM 08 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Catanduanes(Virac, SanMiguel, Panganiban, Bagamanoc, Viga), #Masbate(SanJacinto, SanFernando, Batuan, Aroroy), #Romblon(Concepcion, Corcuera, Calatrava, SanAgustin, SanAndres), #Albay(Jovellar, Guinobatan, Camalig, Daraga, LegazpiCity), #Sorsogon(Castilla, Matnog, SantaMagdalena), #NorthernSamar(Lavezares, Allen, SanAntonio, Capul, Biri), #CamarinesSur(Presentacion, Garchitorena, Bato, Lagonoy, SanJose), #OrientalMindoro(Victoria, Naujan, CityOfCalapan, Baco, SanTeodoro, PuertoGalera and Gloria) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sorsogon(Donsol, Pilar), #Albay(PioDuran, Oas, CityOfLigao, Libon), #Catanduanes(Caramoran, Pandan, SanAndres), #Masbate(Claveria, Monreal, SanPascual), #CamarinesSur(Caramoan), #Marinduque, #Romblon(Banton), #OrientalMindoro(Pola, Pinamalayan and Socorro) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 08 Oct 2026 06:03:40 +0000</pubDate>
-      <guid isPermaLink="false">bfc19b8c37699dc0d055a5005f7006f1bc60e301</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 06:03:40 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 16 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 16 #SLPRSD&lt;br /&gt; Issued at 11:30 AM 08 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Socorro, Pinamalayan, Pola, Gloria, Victoria, Naujan, CityOfCalapan), #Albay(Bacacay, SantoDomingo, LegazpiCity, Daraga, Jovellar, Camalig, Libon, Polangui and Guinobatan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Albay(PioDuran, CityOfLigao, Oas), #Sorsogon(Donsol and Pilar) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 08 Oct 2026 06:03:39 +0000</pubDate>
-      <guid isPermaLink="false">1fb7c44eb45ae7e7daa2ba367dbf42403b4e2c94</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 06:03:40 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
