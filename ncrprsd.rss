@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 09 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 09 Oct 2026 12:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 5 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 5 #NCR_PRSD&lt;br /&gt; Issued at: 9:50 PM, 09 October 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Dinalupihan, Hermosa, Orani, Morong, and Samal), Nueva Ecija (Guimba, Cuyapo, Talugtug, and Nampicuan), Pampanga (Porac, Mabalacat, Angeles, Mexico, San Fernando, Bacolor, Santa Ana, San Simon, Apalit, Minalin, Santo Tomas, San Luis, Sasmuan, Guagua, Santa Rita, Lubao, Floridablanca, Masantol, Macabebe, and Candaba), Quezon (Perez, Quezon, Plaridel, Unisan, Agdangan, Atimonan, Padre Burgos, Pitogo, Gumaca, General Luna, Lopez, Calauag, Tagkawayan, Guinayangan, Macalelon, Buenavista, San Narciso, San Andres, San Francisco, Mulanay, Catanauan, Jomalig, Patnanungan, Burdeos, Pagbilao, and Mauban), Tarlac (Bamban, Mayantoc, Camiling, San Clemente, Paniqui, Tarlac City, Gerona, Victoria, Pura, Ramos, Anao, Moncada, and San Manuel), and Zambales (Castillejos, Olongapo, Subic, San Narciso, Cabangan, San Felipe, Palauig, and Iba) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Alabat), Tarlac (Capas, San Jose, and Santa Ignacia), and Zambales (San Marcelino, Botolan, and San Antonio) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 09 Oct 2026 15:03:38 +0000</pubDate>
+      <guid isPermaLink="false">97c90dd02a0f9ddabe2df2e10e9919bc6b50ba6e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 15:03:38 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 7:54 PM, 09 October 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Dona Remedios Trinidad and Norzagaray), Nueva Ecija (Gabaldon, Cabiao, San Antonio, Jaen, Santa Rosa, Aliaga, Licab, Cabanatuan, Quezon, Santo Domingo, Llanera, General Mamerto Natividad, Guimba, Palayan, and General Tinio), Pampanga (Angeles, Mexico, Arayat, San Fernando, Bacolor, Floridablanca, Santa Ana, Santa Rita, Porac, and Guagua), Quezon (Perez, Quezon, Lopez, Unisan, Pitogo, Macalelon, Atimonan, Plaridel, Agdangan, Tagkawayan, Guinayangan, Calauag, Buenavista, General Luna, Catanauan, Real, Infanta, and Mauban), Rizal (Rodriguez, Tanay, and Antipolo), Tarlac (La Paz, San Jose, Gerona, and Victoria), and Zambales (Botolan and San Marcelino) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Nueva Ecija (Zaragoza and Talavera), Pampanga (Mabalacat and Magalang), Quezon (Alabat, Gumaca, and General Nakar), and Tarlac (Tarlac City, Capas, Concepcion, and Bamban) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -70,7 +78,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns3:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
