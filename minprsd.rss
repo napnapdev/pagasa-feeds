@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 10 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 09 Oct 2026 21:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:07:17 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 4 #MINPRSD</title>
       <description>Heavy Rainfall Warning No. 4 FINAL #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 02:00 AM 10 October 2026&lt;br /&gt; &lt;br /&gt; All RAINFALL WARNING over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
@@ -102,14 +102,6 @@
       <guid isPermaLink="false">b423a00c273ec2220564f3e06e18b9862405483a</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 02:29:10 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 27 #MINPRSD</title>
-      <description>Rainfall Advisory No. 27 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 05:00 AM 09 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #Sarangani(Glan, Malapatan), #DavaoOccidental(JoseAbadSantos, DonMarcelino), #DavaoOriental(GovernorGeneroso, CityOfMati), #Sulu, #Basilan, #MisamisOriental(Magsaysay, Medina, GingoogCity, Balingoan, Talisayan), #AgusanDelNorte(Carmen, Nasipit and Buenavista) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #DavaoOccidental(Sarangani) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
-      <pubDate>Thu, 08 Oct 2026 21:03:47 +0000</pubDate>
-      <guid isPermaLink="false">c1b3741cf6e022f6472fad6a3f93ecf4da0bb0c4</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 21:03:47 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
