@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 09 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 09 Oct 2026 00:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:30:33 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 9 #VISPRSD&lt;br /&gt; Issued at 07:43 AM 09 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(Mambusao, Tapaz, Dumalag) and #NegrosOccidental(Manapla) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(CadizCity, SagayCity), #Aklan(Libacao) and #Capiz(Jamindan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -46,7 +46,7 @@
       <pubDate>Thu, 08 Oct 2026 21:03:47 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10092026_1791493239.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 21:03:47 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 21:03:47 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 10 October, 2026</title>
@@ -55,7 +55,7 @@
       <pubDate>Thu, 08 Oct 2026 21:03:46 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10092026_1791493223.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 21:03:47 +0000</ns6:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 21:03:47 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
@@ -111,7 +111,7 @@
       <pubDate>Thu, 08 Oct 2026 15:04:18 +0000</pubDate>
       <guid isPermaLink="false">0a537367c93bb95129b2bf03d97c4fa513c2bd42</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 15:04:18 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 08 Oct 2026 15:04:18 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 23 #VISPRSD</title>
