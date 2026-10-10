@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 10 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2026 00:56:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 10 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
+      <pubDate>Sat, 10 Oct 2026 03:03:33 +0000</pubDate>
+      <guid isPermaLink="false">23c1f1e00fd60515bf9f67c2d073ee167385812c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 03:03:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 6 #NLPRSD</title>
       <description>Rainfall Advisory No. 6 #NLPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 08:00 AM 10 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Cagayan(Iguig, Solana, TuguegaraoCity, Enrile, Tuao, Piat, SantaAna, Gonzaga, Baggao, SantaTeresita, Gattaran, Alcala, Amulung, Lasam, SantoNiño, Rizal, LalLo, Allacapan), #Isabela(SantoTomas, SantaMaria, DelfinAlbano, Mallig, Roxas, Quirino, Burgos, SanManuel, Gamu, Naguilian, Aurora, Luna, Cabatuan, BenitoSoliven, CityOfCauayan, Angadanan, Alicia, SanGuillermo, ReinaMercedes, Echague, Jones, SanAgustin, Quezon, SanMateo, SanIsidro), #Aurora(Casiguran, Dingalan, Dinalungan, Dipaculao), #Quirino(Maddela, Nagtipunan), #Kalinga(Rizal), #Apayao(Pudtol, Flora, Luna, Conner, Calanasan and SantaMarcela) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Peñablanca), #Isabela(Maconacon, SanPablo, Tumauini, Cabagan, IlaganCity, Divilacan, SanMariano, Palanan, Dinapigue), #Aurora(Dilasag) and #Apayao(Kabugao) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">06c742d34cce37e99b135160abc28e5781ae130e</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 09:30:50 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 09 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
-      <pubDate>Fri, 09 Oct 2026 02:29:10 +0000</pubDate>
-      <guid isPermaLink="false">4aa16d04a1e2ba99173926b7b6b0f57c46c45ca5</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 02:29:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>

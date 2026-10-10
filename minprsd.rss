@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 10 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2026 00:56:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 AM 10 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #MisamisOccidental, #MisamisOriental, #Bukidnon, #Camiguin and #LanaoDelNorte within 12 hours.</description>
+      <pubDate>Sat, 10 Oct 2026 03:03:33 +0000</pubDate>
+      <guid isPermaLink="false">ced5386288a0640cdb1c59a7aec4044f48105cc4</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 03:03:33 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 09:00 AM 10 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #Sulu and #Basilan within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #TawiTawi which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 10 Oct 2026 03:03:32 +0000</pubDate>
+      <guid isPermaLink="false">f87174ba1aae2540a23a1b4d36c6d46834c95d25</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 03:03:33 +0000</ns1:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 4 #MINPRSD</title>
       <description>Heavy Rainfall Warning No. 4 FINAL #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 02:00 AM 10 October 2026&lt;br /&gt; &lt;br /&gt; All RAINFALL WARNING over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
@@ -86,22 +102,6 @@
       <guid isPermaLink="false">73efb02e045c00ce6b49657ab15a3177ef05f77a</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 03:07:32 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 09 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #MisamisOccidental, #MisamisOriental, #Bukidnon, #LanaoDelNorte and #Camiguin within 12 hours.</description>
-      <pubDate>Fri, 09 Oct 2026 02:29:10 +0000</pubDate>
-      <guid isPermaLink="false">5cb81287a7f57d8a8dfaec175bef298b97fb6b25</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 02:29:10 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 28 #MINPRSD</title>
-      <description>Rainfall Advisory No. 28 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 08:00 AM 09 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #DavaoOccidental(DonMarcelino), #Sarangani(Malapatan), #DavaoOriental(GovernorGeneroso, CityOfMati), #Sulu(Pandami, Siasi, Lugus, Tapul, Jolo, Banguingui, HadjiPanglimaTahil, Pangutaran), #Basilan(TabuanLasa, AlBarka, TipoTipo, Sumisip, UngkayaPukan, Maluso, Tuburan, HadjiMohammadAjul, Akbar, CityOfIsabela, CityOfLamitan), #MisamisOriental(Balingoan), #AgusanDelNorte(Buenavista, ButuanCity, Magallanes, Tubay, CityOfCabadbaran, RemediosT.Romualdez, Santiago, Jabonga), #MaguindanaoDelNorte(Parang, DatuBlahT.Sinsuat, DatuOdinSinsuat, Upi, SultanMastura, SultanKudarat), #CotabatoCity, #SultanKudarat(Lebak, Kalamansig), #MaguindanaoDelSur(SouthUpi), #TawiTawi, #ZamboangaDelNorte(JoseDalman, Katipunan), #Camiguin(Mambajao, Catarman, Sagay and Mahinog) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #DavaoOccidental(Sarangani, JoseAbadSantos), #Sarangani(Glan), #Sulu(Pata, KalingalanCaluang, Maimbung, Parang, Omar, PanglimaEstino, Luuk, Patikul, Indanan, Talipao, OldPanamao), #Basilan(Lantawan, HadjiMuhtamad), #MisamisOriental(Magsaysay, Medina, GingoogCity, Talisayan), #AgusanDelNorte(Carmen, Nasipit), #SurigaoDelNorte(SanFrancisco, Malimono), #ZamboangaDelNorte(Manukan, Pres.ManuelA.Roxas) and #Camiguin(Guinsiliban) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.</description>
-      <pubDate>Fri, 09 Oct 2026 02:29:09 +0000</pubDate>
-      <guid isPermaLink="false">b423a00c273ec2220564f3e06e18b9862405483a</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 02:29:10 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
