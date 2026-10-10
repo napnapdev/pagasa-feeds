@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 10 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2026 12:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:15:28 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 10 #NLPRSD</title>
       <description>Rainfall Advisory No. 10 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow/Easterlies &lt;br /&gt; Issued at 08:00 PM 10 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Quirino(Nagtipunan), #Aurora(Casiguran, Dilasag, MariaAurora, Dingalan, Baler, SanLuis), #Isabela(SanMariano, IlaganCity, Dinapigue, Maconacon, Cabatuan, Alicia, SanMateo, Ramon, CityOfCauayan), #Cagayan(Peñablanca, Baggao, Gattaran), #Pangasinan(Bolinao, Bani, Agno, Anda, SantaBarbara, Malasiqui, Basista, Alcala, Bautista, Bayambang, Mangaldan) and #Ifugao(AlfonsoLista) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NuevaVizcaya(AlfonsoCastaneda), #Aurora(Dipaculao, Dinalungan), #Quirino(Maddela), #Isabela(Divilacan, Palanan), #Pangasinan(CityOfAlaminos, Sual, Mabini, Burgos, Dasol, Infanta, Lingayen, Labrador, Bugallon, Binmaley, Aguilar, SanCarlosCity, Mangatarem, Urbiztondo, Calasiao and DagupanCity) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">93332af2492bff10ffc64281ee6ddf9bb747dfef</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 15:03:38 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 2 #NLPRSD</title>
-      <description>Rainfall Advisory No. 2 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow &lt;br /&gt; Issued at 08:00 PM 09 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Isabela(Palanan, SanMariano, Dinapigue, SantaMaria, SantoTomas, DelfinAlbano, Quirino, Gamu, Burgos, BenitoSoliven, Naguilian, ReinaMercedes, Quezon, Mallig, Roxas), #Apayao(Luna, Calanasan, Pudtol, Kabugao, Conner), #Cagayan(Peñablanca, TuguegaraoCity, Enrile, Ballesteros, Abulug, Pamplona, SanchezMira, Claveria, SantaPraxedes, Lasam, Allacapan, Rizal, Aparri, Baggao), #Kalinga(Rizal), #Aurora(Dingalan, SanLuis, Dilasag and Casiguran) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Maconacon, Tumauini, SanPablo, Cabagan, Divilacan, IlaganCity), #Apayao(SantaMarcela and Flora) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 09 Oct 2026 12:07:36 +0000</pubDate>
-      <guid isPermaLink="false">c7e6528a1671fbd0280141bd96e700115b7d7705</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 12:07:36 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
