@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 10 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2026 12:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:30:36 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 21 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 21 #VISPRSD&lt;br /&gt; Issued at 06:23 PM 10 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(Murcia, BacolodCity, BagoCity, LaCastellana, MoisesPadilla, Isabela, CityOfHimamaylan, CityOfKabankalan, Ilog, Cauayan), #NegrosOriental(Tayasan, Ayungon, Mabinay, Bindoy), #Leyte(Calubian, Capoocan, Carigara and Jaro) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(SanJoaquin, Miagao), #Antique(Hamtic, Sibalom, SanJose, Belison), #Guimaras(NuevaValencia, Sibunag), #Leyte(OrmocCity, Kananga and SanIsidro) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -240,14 +240,6 @@
       <guid isPermaLink="false">4701f80b93aec5263b61f2fe6ef8613042b71176</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 15:03:38 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 24 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 24 #VISPRSD&lt;br /&gt; Issued at 08:24 PM 09 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Aklan(Balete, Banga) and #Capiz(Jamindan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(NewWashington, Batan and Altavas) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 09 Oct 2026 12:30:48 +0000</pubDate>
-      <guid isPermaLink="false">8615a30fa16855ab7b8c748b85b3e40c040ec70d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 12:30:48 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
