@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 10 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2026 09:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:07:17 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 9 #NLPRSD</title>
+      <description>Rainfall Advisory No. 9 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow/Easterlies &lt;br /&gt; Issued at 05:00 PM 10 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #NuevaVizcaya(DupaxDelNorte, DupaxDelSur, Kasibu), #Aurora(Dipaculao, Casiguran, Dinalungan, Dilasag, MariaAurora), #Quirino(Maddela), #Isabela(SanMariano, IlaganCity, Dinapigue, Maconacon), #Apayao(Conner, Luna, Pudtol, Flora, Calanasan), #Abra(Tineg, Lacub), #Cagayan(Solana, Piat, Amulung and Iguig) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NuevaVizcaya(AlfonsoCastaneda), #Quirino(Nagtipunan), #Isabela(Divilacan, Palanan) and #Apayao(Kabugao) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 10 Oct 2026 09:07:29 +0000</pubDate>
+      <guid isPermaLink="false">dee299a2705d98a9c10d82fa0457e97281467785</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 09:07:29 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 8 #NLPRSD</title>
       <description>Rainfall Advisory No. 8 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow/Easterlies &lt;br /&gt; Issued at 02:00 PM 10 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Cagayan(Iguig, Solana, TuguegaraoCity, Enrile, Gattaran, Alcala, Amulung, LalLo, Rizal, Lasam, Allacapan, SantoNiño, Camalaniugan, Piat, Tuao), #Isabela(SantoTomas, SantaMaria, DelfinAlbano, Dinapigue, Quirino, Gamu, Naguilian, BenitoSoliven, ReinaMercedes, Quezon, Mallig, Roxas, Burgos, Aurora, SanManuel), #Aurora, #Quirino(Maddela, Aglipay, Nagtipunan), #Apayao(Calanasan, Conner, Luna, SantaMarcela, Flora), #Kalinga(Tinglayan, Pasil, Lubuagan, CityOfTabuk, Rizal, Pinukpuk), #MountainProvince(Paracelis, Barlig), #NuevaVizcaya(DupaxDelSur, DupaxDelNorte, Kasibu), #Abra(Malibcong) and #Batanes(Itbayat) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Peñablanca, Baggao), #Isabela(Maconacon, SanPablo, Tumauini, Cabagan, IlaganCity, Divilacan, SanMariano, Palanan), #Apayao(Pudtol, Kabugao), #MountainProvince(Natonin), #Kalinga(Tanudan, Balbalan), #NuevaVizcaya(AlfonsoCastaneda), #Batanes(Basco, Ivana, Mahatao, Sabtang and Uyugan) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -29,7 +37,7 @@
       <pubDate>Sat, 10 Oct 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="false">23c1f1e00fd60515bf9f67c2d073ee167385812c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 03:03:33 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 03:03:33 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 6 #NLPRSD</title>
