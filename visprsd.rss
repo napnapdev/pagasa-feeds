@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 11 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2026 21:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:15:26 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 04:06 AM 11 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(Pamplona, CityOfTanjay, SanJose, Amlan, DumagueteCity, Bacong), #Cebu(Sogod, Tabuelan, SanRemigio, Medellin, Daanbantayan, SanFernando, Pinamungajan, Badian, Alegria, Argao and Malabuyoc) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOriental(CityOfBayawan, Basay, SantaCatalina, Siaton, Zamboanguita, Dauin, Valencia, Sibulan), #Siquijor, #Cebu(CityOfBogo, Tabogon, Borbon, Sibonga, CityOfCarcar, Aloguinsan, Barili, Alcoy, Boljoon and Dalaguete) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -242,14 +242,6 @@
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10102026_1791580535.pdf</guid>
       <category>Special Forecast</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 21:30:47 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 04:52 AM 10 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(EnriqueB.Magalona, CityOfVictorias, Manapla, CadizCity, CityOfSipalay), #Cebu(Medellin, CityOfBogo, Daanbantayan, SanFrancisco), #Bohol(Getafe, Talibon), #NegrosOriental(Bindoy, Ayungon, Manjuyod, BaisCity), #Palawan(Dumaran, Araceli and Linapacan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(SagayCity, Cauayan), #Cebu(Tudela, Poro), #Palawan(Balabac and SanVicente) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 09 Oct 2026 21:07:38 +0000</pubDate>
-      <guid isPermaLink="false">a9c0a1b6d3d968332eff744c53723cdd8eb0261e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 09 Oct 2026 21:07:38 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
