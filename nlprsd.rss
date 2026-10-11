@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 11 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 13:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:03:16 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 19 #NLPRSD</title>
+      <description>Rainfall Advisory No. 19 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow/Easterlies &lt;br /&gt; Issued at 11:00 PM 11 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Isabela(Naguilian, ReinaMercedes, CityOfCauayan, SanGuillermo, Echague, Jones, SanAgustin, Angadanan, Alicia, BenitoSoliven, Gamu, Maconacon), #Aurora(MariaAurora), #Quirino(Maddela, Nagtipunan, Diffun), #Ifugao(Mayoyao, Lagawe, Lamut), #Benguet(Kabayan, Bokod), #Pangasinan(SanQuintin, Umingan, Natividad, Balungao, Rosales), #NuevaVizcaya(AlfonsoCastaneda, Villaverde, Solano and Quezon) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Dinapigue, Palanan, Divilacan, IlaganCity, SanMariano, Ramon, Cordon, CityOfSantiago), #Aurora(Dilasag, Dingalan, Casiguran, Dinalungan, Baler, Dipaculao, SanLuis), #Ifugao(AlfonsoLista, Aguinaldo, Asipulo, Tinoc), #NuevaVizcaya(Ambaguio, Kayapa, Bagabag and Diadi) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 11 Oct 2026 15:03:38 +0000</pubDate>
+      <guid isPermaLink="false">3aa588fb905ac5fea4c2a09ff126f508149b81e1</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 15:03:38 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 11 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
+      <pubDate>Sun, 11 Oct 2026 15:03:37 +0000</pubDate>
+      <guid isPermaLink="false">33deacd79aa1f5635e8ccd8929ba22b3ac6c86a5</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 15:03:38 +0000</ns1:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 18 #NLPRSD</title>
       <description>Rainfall Advisory No. 18 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow/Easterlies &lt;br /&gt; Issued at 08:00 PM 11 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Aurora(Casiguran, Dinalungan, Baler, SanLuis, MariaAurora, Dipaculao), #Isabela(IlaganCity, SanMariano, SanGuillermo, Echague, Jones, SanAgustin, Luna, Cabatuan, Angadanan, Alicia, Ramon, Cordon, BenitoSoliven), #Quirino(Maddela), #Ifugao(Mayoyao, Lagawe, Lamut), #Benguet(Kabayan), #NuevaVizcaya(Ambaguio and Kayapa) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Dinapigue, Palanan, Divilacan, Naguilian, ReinaMercedes, CityOfCauayan), #Aurora(Dilasag, Dingalan), #Ifugao(AlfonsoLista, Aguinaldo, Asipulo and Tinoc) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -62,22 +78,6 @@
       <guid isPermaLink="false">05315293dcd757de07966d9b303bebf56b20387f</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 18:03:34 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 10 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
-      <pubDate>Sat, 10 Oct 2026 15:03:33 +0000</pubDate>
-      <guid isPermaLink="false">84e406171f822f3d453e9b54fe6d8157408d9e7e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 15:03:33 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 11 #NLPRSD</title>
-      <description>Rainfall Advisory No. 11 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow/Easterlies &lt;br /&gt; Issued at 11:00 PM 10 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Quirino(Nagtipunan, Maddela), #Aurora(MariaAurora, Dingalan, Baler, SanLuis, Dinalungan, Dipaculao), #Isabela(SanMariano, IlaganCity, Cabatuan, Alicia, SanMateo, Ramon, SanPablo, Cabagan, Tumauini, SanGuillermo, Jones, Echague, SanAgustin), #Cagayan(Baggao, Gattaran, SanchezMira, Allacapan, Camalaniugan, Iguig, TuguegaraoCity, SantaAna, Gonzaga, LalLo, SantaTeresita, Buguey), #Ifugao(AlfonsoLista), #Apayao(Luna, SantaMarcela, Calanasan, Flora) and #NuevaVizcaya(AlfonsoCastaneda) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aurora(Casiguran, Dilasag), #Isabela(Divilacan, Palanan, Dinapigue, Maconacon, CityOfCauayan), #Cagayan(Peñablanca, Abulug, Ballesteros, Aparri, Pamplona) and #Apayao(Pudtol) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 10 Oct 2026 15:03:32 +0000</pubDate>
-      <guid isPermaLink="false">3c175bf6ce7b696a8c040803ba7f26b46c3845fd</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 15:03:33 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
