@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 11 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 09:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 6 #NCRPRSD</title>
+      <description>Rainfall Advisory No. 6 #NCR_PRSD&lt;br /&gt; Weather System: Easterlies&lt;br /&gt; Issued at: 8:00 PM, 11 October 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Bataan, Cavite, Nueva Ecija(General Tinio, Gabaldon, Laur, Cabiao, Jaen, San Antonio, San Leonardo, Penaranda, Palayan, Gapan, San Isidro, Santa Rosa, Cabanatuan) and Zambales(San Marcelino, San Narciso, San Antonio, Castillejos, Subic, Olongapo).&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Rizal, Metro Manila, Laguna, Batangas(Agoncillo, Alitagtag, Balete, Batangas City, Bauan, Tanauan, Cuenca, Ibaan, Laurel, Lemery, Lipa, Lobo, Mabini, Malvar, Mataasnakahoy, Padre Garcia, Rosario, San Jose, San Juan, San Luis, San Nicolas, San Pascual, Santa Teresita, Santo Tomas, Taal, Talisay, Taysan, Tingloy), Quezon(Sariaya, Tayabas, Lucban, Lucena, Candelaria, Dolores, Tiaong, San Antonio, Pagbilao, Sampaloc, Mauban, Real, Infanta, General Nakar, Panukulan, Burdeos, Patnanungan, Polillo), Bulacan(Angat, Balagtas, Baliuag, Bocaue, Bulakan, Bustos, Calumpit, Malolos, Meycauayan, San Jose del Monte, Dona Remedios Trinidad, Guiguinto, Hagonoy, Marilao, Norzagaray, Obando, Pandi, Paombong, Plaridel, Pulilan, San Ildefonso, San Rafael, Santa Maria) and Pampanga(Macabebe, Masantol, Apalit, Sasmuan, Lubao) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
+      <pubDate>Sun, 11 Oct 2026 12:03:32 +0000</pubDate>
+      <guid isPermaLink="false">5fee1b40029d9812b815bb0ebb8f08a878a6475c</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 12:03:32 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 5 #NCRPRSD</title>
       <description>Rainfall Advisory No. 5 #NCR_PRSD&lt;br /&gt; Weather System: Easterlies&lt;br /&gt; Issued at: 5:00 PM, 11 October 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Laguna, Nueva Ecija(Cabiao, Gapan, General Tinio, San Antonio, San Isidro, Bongabon, Cabanatuan, Carranglan, Gabaldon, General Mamerto Natividad, Jaen, Laur, Palayan, Pantabangan, Penaranda, Rizal, San Leonardo, Santa Rosa, Lupao, San Jose, Llanera), Tarlac(Bamban, Concepcion), Cavite(Noveleta, Kawit, Bacoor, Imus, Dasmarinas, Gen. Mariano Alvarez, Carmona, Silang) and Batangas(Santo Tomas).&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Zambales(Castillejos, San Marcelino, Olongapo, Subic), Metro Manila(Caloocan, Quezon City, Valenzuela, Navotas, Malabon, Marikina), Bulacan(Meycauayan, Obando, Paombong, Hagonoy, Calumpit, Malolos, Bulakan, Guiguinto, Balagtas, Bocaue, Marilao, Santa Maria, San Jose del Monte, San Rafael, San Ildefonso, Baliuag, Angat, Bustos, Norzagaray, Pandi, Plaridel, Pulilan, Dona Remedios Trinidad), Pampanga(Floridablanca, Lubao, Sasmuan, Macabebe, Masantol, Mexico, Santa Ana, San Fernando, Bacolor, Santa Rita, Guagua, Minalin, Santo Tomas, San Luis, San Simon, Apalit, Candaba), Bataan(Dinalupihan, Hermosa, Orani, Samal, Abucay), Rizal(Rodriguez, San Mateo, Tanay, Antipolo) and Quezon(General Nakar, Infanta, Real, Panukulan, Burdeos, Patnanungan, Polillo, Tayabas, Lucena, Pagbilao, Mauban) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 8:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -126,7 +134,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns3:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
