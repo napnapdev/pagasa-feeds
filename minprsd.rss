@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 11 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 15:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:07:17 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 5 #MINPRSD</title>
+      <description>Rainfall Advisory No. 5 FINAL #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:00 PM 11 October 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
+      <pubDate>Sun, 11 Oct 2026 15:07:35 +0000</pubDate>
+      <guid isPermaLink="false">9c69abde096cbc9ba4bda5f4b505f885ec976e9c</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 15:07:35 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 10:30 PM 11 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over #Bukidnon(Talakag, Libona, Baungon, SanFernando, CityOfValencia, Kitaotao, Kibawe, Dangcagan, Damulog), #MisamisOriental(Tagoloan, CagayanDeOroCity, Opol, CityOfElSalvador, Villanueva, Jasaan, Balingasag, Salay, Sugbongcogon, Binuangan, Kinoguitan, Balingoan, Talisayan, Lagonglong, Alubijid), #MaguindanaoDelNorte(DatuOdinSinsuat, SultanKudarat, SultanMastura), #NorthCotabato(Aleosan, Pikit, Pigkawayan), #CotabatoCity, #DavaoDelSur(SantaCruz, CityOfDigos, Hagonoy, Padada, Sulop, Malalag), #DavaoOccidental(SantaMaria, Malita), #Camiguin, #ZamboangaDelSur(Margosatubig, VincenzoA.Sagun, Pitogo, Dimataling, Tabina), #MaguindanaoDelSur(Talayan, Guindulungan, DatuSalibo, DatuSaudiAmpatuan), #ZamboangaSibugay(Alicia, Talusan, Mabuhay, Olutanga, Malangas), #DavaoCity, #LanaoDelSur(TagoloanII, Bubong, Maguing, Picong, Malabang) and #LanaoDelNorte(SultanNagaDimaporo) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DavaoDelNorte(CityOfSamal), #NorthCotabato(Antipas, Arakan, Magpet, PresidentRoxas, Midsayap), #Bukidnon(Quezon, Malitbog, CityOfMalaybalay, ImpasugOng, Sumilao, ManoloFortich, Lantapan, Cabanglasan), #MisamisOriental(Claveria), #MaguindanaoDelNorte(Talitay, Kabuntalan, NorthernKabuntalan), #MaguindanaoDelSur(DatuAnggalMidtimbang and DatuPiang) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 11 Oct 2026 15:03:38 +0000</pubDate>
       <guid isPermaLink="false">89b1d5d3e46144f2055df6bc20794a8ecf95a541</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 15:03:38 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 15:03:38 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Sun, 11 Oct 2026 15:03:37 +0000</pubDate>
       <guid isPermaLink="false">569040d89632ef867f2eecd8f9d99e2936650f3d</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 15:03:38 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 15:03:38 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 4 #MINPRSD</title>
@@ -134,14 +142,6 @@
       <guid isPermaLink="false">7163c6e1be35f87129171fecb3860adf1b960e3f</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 15:15:40 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 4 #MINPRSD</title>
-      <description>Rainfall Advisory No. 4 FINAL #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:00 PM 10 October 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
-      <pubDate>Sat, 10 Oct 2026 15:07:32 +0000</pubDate>
-      <guid isPermaLink="false">a8f921b9dd9ff7938a2cb401f61e95794d552b71</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 15:07:32 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
