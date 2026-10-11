@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 11 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 03:15:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:30:34 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 6 #VISPRSD&lt;br /&gt; Issued at 11:00 AM 11 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Barili, Dalaguete, Alcoy, Malabuyoc), #Bohol(Calape, Antequera, Tubigon, Guindulman), #Iloilo(Estancia, Balasan) and #Capiz(Pilar) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Argao, Sibonga, Dumanjug, Ronda, Alcantara, Moalboal, Badian, Alegria), #Bohol(Anda, Candijay, Talibon), #Leyte(Babatngon) and #Iloilo(Carles) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -216,14 +216,6 @@
       <guid isPermaLink="false">70e1b5dfafb97d03f28c992074616d3ff0925075</guid>
       <category>Thunderstorm Advisory</category>
       <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 06:03:36 +0000</ns6:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 11:02 AM 10 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Lambunao), #Capiz(Mambusao, SapiAn), #Aklan(Batan, Altavas, Balete, Libacao, Banga, NewWashington, Kalibo, Numancia, Lezo, Makato, Tangalan), #Cebu(SantaFe, Bantayan, Badian, Dalaguete, Alcoy, Alegria, Malabuyoc, Boljoon, Oslob and Ginatilan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(SanCarlosCity, SalvadorBenedicto, Calatrava), #Iloilo(Carles), #Aklan(Malinao, Madalag), #Antique(Sebaste and Culasi) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sat, 10 Oct 2026 03:15:45 +0000</pubDate>
-      <guid isPermaLink="false">05127f1fa3be42148ad7c509ae29c1abbc83fb03</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 03:15:45 +0000</ns5:seen>
     </item>
   </channel>
 </rss>
