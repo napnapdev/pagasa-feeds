@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 11 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 18:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:07:16 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 8 #NCRPRSD</title>
       <description>Rainfall Advisory No. 8 #NCR_PRSD&lt;br /&gt; Weather System: Easterlies&lt;br /&gt; Issued at: 2:00 AM, 12 October 2026(Monday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Metro Manila, Cavite and Batangas.&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Pampanga, Bulacan, Quezon(General Nakar, Sampaloc, Mauban, Real, Infanta, Panukulan, Burdeos, Polillo, Patnanungan, Jomalig), Rizal(Tanay), Laguna(Santa Maria, Famy, Pangil, Siniloan, Paete, Pakil, Kalayaan, Lumban, Cavinti, Luisiana), Nueva Ecija(Cabiao, Gapan, General Tinio, San Antonio, San Isidro, Aliaga, Bongabon, Cabanatuan, Gabaldon, General Mamerto Natividad, Jaen, Laur, Licab, Llanera, Palayan, Penaranda, Quezon, Rizal, San Leonardo, Santa Rosa, Santo Domingo, Talavera, Zaragoza, Pantabangan), Tarlac(La Paz, Concepcion, Capas, Bamban, Tarlac City), Zambales(Subic, San Marcelino, Castillejos, Olongapo) and Bataan(Bagac, Abucay, Balanga, Samal, Orani, Hermosa, Dinalupihan, Morong, Pilar) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 5:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -118,14 +118,6 @@
       <guid isPermaLink="false">8d7e30b475fd3d04cdd60dae326c8e02c07e7343</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 21:03:30 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 10 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 10 #NCR_PRSD&lt;br /&gt; Issued at: 2:00 AM, 11 October 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Abucay, Morong, Mariveles, Limay, Hermosa, Samal, Orani, and Dinalupihan), Batangas (Talisay, Laurel, Tanauan, Nasugbu, Lemery, Agoncillo, Taal, San Nicolas, Balete, Malvar, Mataasnakahoy, Cuenca, Alitagtag, Santa Teresita, Santo Tomas, Tuy, Balayan, Calaca, Lian, Calatagan, San Luis, Bauan, Mabini, Tingloy, San Pascual, San Jose, and Lipa), Bulacan (San Jose del Monte, Meycauayan, Marilao, Obando, Bulakan, Bocaue, Santa Maria, Balagtas, Pandi, Angat, Bustos, San Rafael, San Ildefonso, San Miguel, Malolos, Paombong, Guiguinto, Hagonoy, Baliuag, Calumpit, Plaridel, and Pulilan), Cavite (Tagaytay, Silang, Amadeo, Indang, Mendez, Alfonso, Carmona, Magallanes, and General Emilio Aguinaldo), Laguna (Pangil, Mabitac, Pakil, Famy, Santa Maria, Siniloan, Binan, Santa Rosa, Calamba, Cabuyao, Los Banos, and Bay), Metro Manila (Caloocan, Valenzuela, Malabon, Navotas, Quezon City, Marikina, and Pasig), Pampanga (Masantol, Macabebe, Lubao, Sasmuan, Floridablanca, and Porac), Quezon (General Nakar, Infanta, Real, Polillo, Patnanungan, Jomalig, Mauban, Lucban, Sampaloc, Pagbilao, Tayabas, Atimonan, Tagkawayan, Guinayangan, and Calauag), Tarlac (Bamban and Capas), Zambales (Subic, San Marcelino, Castillejos, Olongapo, San Antonio, San Narciso, Cabangan, Botolan, and San Felipe), and Rizal within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bataan (Bagac, Orion, Pilar, and Balanga), Bulacan (Dona Remedios Trinidad and Norzagaray), and Quezon (Burdeos and Panukulan) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 10 Oct 2026 18:07:33 +0000</pubDate>
-      <guid isPermaLink="false">3be2a910e85028c1fd9ddfd2ed2b542c2f6a8263</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 10 Oct 2026 18:07:33 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
