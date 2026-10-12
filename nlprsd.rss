@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 12 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 12:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:03:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 12 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
+      <pubDate>Mon, 12 Oct 2026 15:03:40 +0000</pubDate>
+      <guid isPermaLink="false">4fb7f5b59e6d5ea4ca4809384de6c1befe28cfae</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 15:03:40 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 1 #NLPRSD&lt;br /&gt; Issued at 06:45 PM 12 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Pangasinan(SanCarlosCity, Bugallon, Calasiao, Malasiqui, Alcala, Bautista, Villasis, CityOfUrdaneta, Manaoag, Mapandan, SantaBarbara, Laoac, Binalonan, Asingan, SantaMaria, Balungao, SantoTomas, Rosales, Tayug, Infanta), #Benguet(Buguias), #Ifugao(Aguinaldo, Mayoyao), #MountainProvince(Barlig and Paracelis) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MountainProvince(Natonin, Sabangan, Bauko, Tadian), #Ifugao(AlfonsoLista, Hungduan, Tinoc, Asipulo), #Benguet(Mankayan, Bakun), #Pangasinan(Mangatarem, Urbiztondo, Basista, Bayambang, Aguilar and SanManuel) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -70,22 +78,6 @@
       <guid isPermaLink="false">5591a90a0a586c8ecdf1ff2f9a734bcded89af84</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 18:15:42 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 11 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
-      <pubDate>Sun, 11 Oct 2026 15:03:38 +0000</pubDate>
-      <guid isPermaLink="false">33deacd79aa1f5635e8ccd8929ba22b3ac6c86a5</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 15:03:38 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 19 #NLPRSD</title>
-      <description>Rainfall Advisory No. 19 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow/Easterlies &lt;br /&gt; Issued at 11:00 PM 11 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Isabela(Naguilian, ReinaMercedes, CityOfCauayan, SanGuillermo, Echague, Jones, SanAgustin, Angadanan, Alicia, BenitoSoliven, Gamu, Maconacon), #Aurora(MariaAurora), #Quirino(Maddela, Nagtipunan, Diffun), #Ifugao(Mayoyao, Lagawe, Lamut), #Benguet(Kabayan, Bokod), #Pangasinan(SanQuintin, Umingan, Natividad, Balungao, Rosales), #NuevaVizcaya(AlfonsoCastaneda, Villaverde, Solano and Quezon) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Dinapigue, Palanan, Divilacan, IlaganCity, SanMariano, Ramon, Cordon, CityOfSantiago), #Aurora(Dilasag, Dingalan, Casiguran, Dinalungan, Baler, Dipaculao, SanLuis), #Ifugao(AlfonsoLista, Aguinaldo, Asipulo, Tinoc), #NuevaVizcaya(Ambaguio, Kayapa, Bagabag and Diadi) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 11 Oct 2026 15:03:37 +0000</pubDate>
-      <guid isPermaLink="false">3aa588fb905ac5fea4c2a09ff126f508149b81e1</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 15:03:38 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
