@@ -5,8 +5,8 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/ncrprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
-    <pubDate>Mon, 12 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 18:30:36 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Mon, 12 Oct 2026 21:03:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 9 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 9 #NCR_PRSD&lt;br /&gt; Issued at: 2:03 AM, 13 October 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (San Miguel, San Ildefonso, San Rafael, Bustos, Baliuag, Pandi, Santa Maria, Angat, Plaridel, Pulilan, Guiguinto, Bocaue, Balagtas, Bulakan, Marilao, Meycauayan, Paombong, Calumpit, Malolos, Hagonoy, and Obando), Metro Manila (Caloocan, Valenzuela, Quezon City, and Marikina), Nueva Ecija (General Tinio, Gapan, San Isidro, Cabiao, Gabaldon, and Bongabon), Pampanga (Candaba, Arayat, San Luis, Apalit, San Simon, Santa Ana, Mexico, Minalin, Macabebe, Masantol, Santo Tomas, and San Fernando), Quezon (Real, Infanta, Burdeos, Polillo, Patnanungan, Jomalig, Calauag, Lopez, Guinayangan, Buenavista, Sampaloc, Lucban, Tayabas, San Francisco, and San Andres), and Rizal (Rodriguez, San Mateo, Tanay, and Antipolo) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bulacan (Dona Remedios Trinidad, Norzagaray, and San Jose del Monte) and Quezon (General Nakar, Mauban, Panukulan, and Tagkawayan) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -104,21 +104,13 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 00:07:44 +0000</ns0:seen>
     </item>
     <item>
-      <title>Rainfall Advisory No. 9 #NCRPRSD</title>
-      <description>Rainfall Advisory No. 9 #NCR_PRSD&lt;br /&gt; Weather System: Easterlies&lt;br /&gt; Issued at: 5:00 AM, 12 October 2026(Monday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Cavite, Metro Manila, Bulacan, Pampanga, Bataan, Zambales, Tarlac, Nueva Ecija and Batangas(Balete, Tanauan, Lipa, Malvar, Mataasnakahoy, Padre Garcia, Rosario, San Juan, Santo Tomas, Talisay).&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Quezon(Alabat, Perez, Atimonan, Padre Burgos, Pagbilao, Tayabas, Mauban, Sampaloc, Lucban, Infanta, General Nakar, Real, Polillo, Burdeos, Panukulan, Patnanungan, Jomalig, Lucena), Laguna(Majayjay, Luisiana, Pagsanjan, Magdalena, Lumban, Cavinti, Kalayaan, Paete, Pakil, Pangil, Siniloan, Mabitac, Famy, Santa Maria, Santa Cruz) and Rizal(Jala-Jala, Pililla, Tanay, Baras, Antipolo) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 8:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Sun, 11 Oct 2026 21:03:32 +0000</pubDate>
-      <guid isPermaLink="false">0112b98cf1bb0d081da565576e79cccba699d617</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 21:03:32 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
