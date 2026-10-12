@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 12 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 12:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:07:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 9 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 9 #SLPRSD&lt;br /&gt; Issued at 07:25 PM 12 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Marinduque(Buenavista, Torrijos), #OrientalMindoro(Pola, Socorro, Pinamalayan), #CamarinesSur(Baao, IrigaCity, Bula, Balatan, Nabua, Bato), #Albay(Libon, Polangui, Oas, CityOfLigao), #Sorsogon(Magallanes, Juban, Irosin, Matnog and SantaMagdalena) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Marinduque(Mogpog, SantaCruz, Boac, Gasan), #OrientalMindoro(Baco, SanTeodoro, PuertoGalera, CityOfCalapan, Naujan, Victoria), #CamarinesSur(SanJose, Tigaon, Goa, Lagonoy, Garchitorena, Ocampo, Sipocot, Lupi, Ragay, Libmanan, Cabusao, Sagñay), #Masbate(Aroroy, Monreal, SanJacinto), #Sorsogon(Casiguran, Gubat, Bulusan, Barcelona, Bulan), #CamarinesNorte(Mercedes, Vinzons, Talisay, Daet and Basud) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -194,14 +194,6 @@
       <guid isPermaLink="false">086fc23b30c54591253b149ec2163d409cf36556</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 15:03:38 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 19 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 19 #SLPRSD&lt;br /&gt; Issued at 06:10 PM 11 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(CityOfCalapan, Naujan, Victoria, Pola, Socorro), #CamarinesNorte(Paracale, Vinzons), #Masbate(PioV.Corpuz, Esperanza, Monreal, SanJacinto, SanFernando, Batuan, Cataingan, Placer), #Albay(Manito, CityOfLigao, PioDuran, Guinobatan) and #Marinduque(Mogpog) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Marinduque(Torrijos, SantaCruz), #NorthernSamar(Lavezares, Allen, Capul, SanVicente, Rosario, Victoria), #Sorsogon(Pilar, Donsol) and #Albay(Jovellar) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 11 Oct 2026 12:07:35 +0000</pubDate>
-      <guid isPermaLink="false">ffd7f780d961d5f62591d972b3f28773a485e08e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 12:07:35 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
