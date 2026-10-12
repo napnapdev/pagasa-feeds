@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 12 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 00:44:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:11 AM 12 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
+      <pubDate>Mon, 12 Oct 2026 03:03:33 +0000</pubDate>
+      <guid isPermaLink="false">517e422101b133db227b7768d690a3ebc35de6d0</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 03:03:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 7 FINAL #MINPRSD&lt;br /&gt; Issued at 08:30 AM 12 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; Thunderstorm Advisories in other areas are now terminated.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Mon, 12 Oct 2026 00:45:11 +0000</pubDate>
       <guid isPermaLink="false">9b37448378c2bf8150d8f68e99f740ce357dfa06</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 00:45:11 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 00:45:11 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
@@ -118,22 +126,6 @@
       <guid isPermaLink="false">9221c7d599cdc9ac8c45c9f132cf4c719eca3b35</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 06:03:36 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:04 AM 11 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #MisamisOccidental, #MisamisOriental, #Bukidnon, #Camiguin and #LanaoDelNorte within 12 hours.</description>
-      <pubDate>Sun, 11 Oct 2026 03:03:32 +0000</pubDate>
-      <guid isPermaLink="false">747d81e892fec3b488247f938f0c05ea9f604542</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 03:03:32 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #MINPRSD&lt;br /&gt; Issued at 09:00 AM 11 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #DavaoOriental(SanIsidro, CityOfMati, GovernorGeneroso, Manay, Tarragona, Baganga, Caraga, Boston, Cateel), #DavaoDeOro(Pantukan, Mabini, Maragusan, Maco, Mawab, NewBataan, Nabunturan, Compostela, Montevista, Monkayo), #AgusanDelSur(Trento), #SurigaoDelSur(Lingig), #DavaoDelNorte(CityOfPanabo, Carmen, BraulioE.Dujali, CityOfTagum, NewCorella, SantoTomas, Asuncion, CityOfSamal), #ZamboangaDelSur(VincenzoA.Sagun, Margosatubig, Pitogo, Dimataling, Tabina), #ZamboangaSibugay(Malangas and Alicia) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DavaoOriental(Banaybanay and Lupon) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 11 Oct 2026 03:03:31 +0000</pubDate>
-      <guid isPermaLink="false">ec67995c1bc2b97d0f1fe967be53fd2c6f19a8d9</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 11 Oct 2026 03:03:32 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
