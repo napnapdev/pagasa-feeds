@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 13 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 00:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:03:16 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 13 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #MisamisOriental, #MisamisOccidental, #Camiguin, #LanaoDelNorte and #Bukidnon within 12 hours.</description>
+      <pubDate>Tue, 13 Oct 2026 03:03:33 +0000</pubDate>
+      <guid isPermaLink="false">6d47b117ef7113760ee32f7a15d6d0a3d749a5b9</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 03:03:33 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 09:00 AM 13 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #ZamboangaDelNorte(DapitanCity, Sibutad), #SurigaoDelSur(Bayabas, Cagwait, Tago and CityOfTandag) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 13 Oct 2026 03:03:32 +0000</pubDate>
+      <guid isPermaLink="false">70f09c3a18757a8eb77e173bee3863a374a6c949</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 03:03:33 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 06:10 AM 13 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #MisamisOccidental(Plaridel, LopezJaena, OroquietaCity, Baliangao, Aloran, Calamba, SapangDalaga), #ZamboangaDelSur(Tabina, Pitogo), #SurigaoDelNorte(Socorro, SurigaoCity), #DinagatIslands(Cagdianao), #SurigaoDelSur(Lanuza, Cortes, Madrid, Cantilan, Carmen, Carrascal), #ZamboangaDelNorte(Rizal, Sibutad and DapitanCity) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelNorte(SiargaoIsland) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -32,18 +48,10 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 18:03:34 +0000</ns0:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 PM 12 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
-      <pubDate>Mon, 12 Oct 2026 15:03:39 +0000</pubDate>
-      <guid isPermaLink="false">56106c950db64f61d64cb328a67e0e8e554fbb3f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 15:03:39 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: Valid until: 06:30 PM, 13 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast- DIGOS CITY 10122026_1791811838.pdf</link>
       <description>Issued at: 06:30 PM, 12 October, 2026&lt;br /&gt;Valid until: 06:30 PM, 13 October, 2026</description>
-      <pubDate>Mon, 12 Oct 2026 15:03:38 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 15:03:39 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast- DIGOS CITY 10122026_1791811838.pdf</guid>
       <category>Special Forecast</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 15:03:39 +0000</ns2:seen>
@@ -52,10 +60,18 @@
       <title>Special Forecast: Valid until: 08:00 PM, 13 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-DAVAO-10122026_1791811817.pdf</link>
       <description>Issued at: 08:00 PM, 12 October, 2026&lt;br /&gt;Valid until: 08:00 PM, 13 October, 2026</description>
-      <pubDate>Mon, 12 Oct 2026 15:03:37 +0000</pubDate>
+      <pubDate>Mon, 12 Oct 2026 15:03:38 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-DAVAO-10122026_1791811817.pdf</guid>
       <category>Special Forecast</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 15:03:39 +0000</ns3:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 PM 12 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
+      <pubDate>Mon, 12 Oct 2026 15:03:37 +0000</pubDate>
+      <guid isPermaLink="false">56106c950db64f61d64cb328a67e0e8e554fbb3f</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 15:03:39 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
@@ -88,22 +104,6 @@
       <guid isPermaLink="false">20852194324ccf61334ef2f48ce64082a226066e</guid>
       <category>Rainfall Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 09:03:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:11 AM 12 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
-      <pubDate>Mon, 12 Oct 2026 03:03:33 +0000</pubDate>
-      <guid isPermaLink="false">517e422101b133db227b7768d690a3ebc35de6d0</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 03:03:33 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 7 FINAL #MINPRSD&lt;br /&gt; Issued at 08:30 AM 12 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; Thunderstorm Advisories in other areas are now terminated.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 12 Oct 2026 00:45:11 +0000</pubDate>
-      <guid isPermaLink="false">9b37448378c2bf8150d8f68e99f740ce357dfa06</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 00:45:11 +0000</ns1:seen>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 13 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 00:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 13 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
+      <pubDate>Tue, 13 Oct 2026 03:03:33 +0000</pubDate>
+      <guid isPermaLink="false">9c6d085c376bb696de52235b77cc0b679f1807a5</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 03:03:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 3 FINAL #NLPRSD&lt;br /&gt; Issued at 05:04 AM 13 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -46,22 +54,6 @@
       <guid isPermaLink="false">b119667d7b6f77b09adaabfc595b9e49e1c9b5d4</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 06:07:35 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 12 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
-      <pubDate>Mon, 12 Oct 2026 03:03:33 +0000</pubDate>
-      <guid isPermaLink="false">3c8f592f899f1b62e31f0c549329a6f5cdb03915</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 03:03:33 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 23 #NLPRSD</title>
-      <description>Rainfall Advisory No. 23 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow/Easterlies &lt;br /&gt; Issued at 11:00 AM 12 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Quirino(Saguday, Diffun, Cabarroguis, Maddela, Aglipay), #Isabela(SanMariano, Divilacan, Cordon, SanAgustin, CityOfSantiago, Jones, Echague, SanGuillermo), #Cagayan(Calayan), #NuevaVizcaya(Diadi, Quezon, Bagabag, Kasibu, AlfonsoCastaneda, DupaxDelNorte), #Aurora(Baler, MariaAurora, SanLuis), #Pangasinan(Labrador, Bugallon, Infanta, Lingayen, Binmaley, DagupanCity, Mangaldan, SanFabian, SanJacinto, Sual, Mabini, Dasol), #LaUnion(SantoTomas, Rosario, Agoo, Tubao, Pugo), #Benguet(Tuba and BaguioCity) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Palanan, Dinapigue), #Aurora(Casiguran, Dilasag, Dinalungan, Dipaculao) and #Quirino(Nagtipunan) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 12 Oct 2026 03:03:32 +0000</pubDate>
-      <guid isPermaLink="false">2e74445ef18a5e4972e123edab258514b6eea223</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 03:03:33 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
