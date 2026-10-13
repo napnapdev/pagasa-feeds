@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 13 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 06:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:15:31 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 13 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
@@ -46,14 +46,6 @@
       <guid isPermaLink="false">adea8ea03cb756f532a885425f6164780fa5dd4e</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 09:03:35 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 24 #NLPRSD</title>
-      <description>Rainfall Advisory No. 24 #NLPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 02:00 PM 12 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #NuevaVizcaya(Kasibu, DupaxDelNorte, AlfonsoCastaneda, DupaxDelSur), #Quirino(Cabarroguis, Aglipay, Saguday), #Benguet(Atok, Bakun, Kapangan, Kibungan, LaTrinidad, Mankayan, Sablan, Tublay, Buguias), #Abra(Boliney, Bucloc, Daguioman, LicuanBaay, Malibcong, Sallapadan, Tubo), #MountainProvince(Besao, Tadian), #Isabela(CityOfSantiago, SanIsidro, Alicia, Angadanan, SanGuillermo, Dinapigue), #Aurora(MariaAurora, Baler and SanLuis) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aurora(Dipaculao, Casiguran, Dinalungan, Dilasag), #Quirino(Maddela, Nagtipunan), #Isabela(Echague, Jones and SanAgustin) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 12 Oct 2026 06:07:35 +0000</pubDate>
-      <guid isPermaLink="false">b119667d7b6f77b09adaabfc595b9e49e1c9b5d4</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 06:07:35 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
