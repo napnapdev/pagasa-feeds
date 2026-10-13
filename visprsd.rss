@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 13 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 12:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:15:29 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 26 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 26 #VISPRSD&lt;br /&gt; Issued at 07:47 PM 13 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Aklan(Ibajay, Tangalan, Makato, Numancia, Kalibo, NewWashington, Batan, Altavas), #Capiz(Jamindan, Sigma, Panitan, Dumalag, Dao, Cuartero, Dumarao, MaAyon), #Iloilo(Lemery, Sara, SanDionisio, Balasan, Estancia and Batad) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(SapiAn, Mambusao, Ivisan, RoxasCity, Panay, Pontevedra, PresidentRoxas, Pilar) and #Iloilo(Carles) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -297,14 +297,6 @@
       <guid isPermaLink="false">84ca3745d8bc3d462aa477f53d09f296ff1e91bf</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 15:03:40 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 24 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 24 #VISPRSD&lt;br /&gt; Issued at 08:00 PM 12 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #EasternSamar(Sulat, SanJulian, CityOfBorongan), #Cebu(Santander and Samboan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Mon, 12 Oct 2026 12:07:40 +0000</pubDate>
-      <guid isPermaLink="false">d57f7938aa6831e0fe2392d9893c97430f6b51d3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 12:07:40 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
