@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 13 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 12:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 13 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
+      <pubDate>Tue, 13 Oct 2026 15:03:40 +0000</pubDate>
+      <guid isPermaLink="false">c18c4928becb002d9793e6dd0af58993ed8dc30b</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 15:03:40 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 3 #NLPRSD&lt;br /&gt; Issued at 07:46 PM 13 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #LaUnion(SanGabriel, SanJuan, Santol, Sudipen, Bangar, Balaoan, Luna, Bacnotan), #IlocosSur(Sugpon), #Benguet(Itogon, Tuba), #Pangasinan(Sison, SanFabian, Binmaley, DagupanCity, Mangaldan, SanJacinto, Pozorrubio, Laoac, Manaoag, Aguilar, Calasiao, SanCarlosCity, CityOfUrdaneta, Malasiqui, SantaBarbara, Mapandan, Alcala, Bautista, Bayambang, Basista, Urbiztondo, Mangatarem), #NuevaVizcaya(AlfonsoCastaneda, SantaFe, Kayapa), #Aurora(Dipaculao, Baler, Dingalan) and #Quirino(Nagtipunan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Pangasinan(SanNicolas, Natividad, SanManuel, Tayug, Asingan, SantaMaria, SanQuintin, Umingan, Balungao, Binalonan, Rosales, Villasis, SantoTomas), #Aurora(MariaAurora and SanLuis) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">0aeec5f13bc4c2b81f9d3ad6ddb500d4001a6d70</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 21:07:47 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 12 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
-      <pubDate>Mon, 12 Oct 2026 15:03:40 +0000</pubDate>
-      <guid isPermaLink="false">4fb7f5b59e6d5ea4ca4809384de6c1befe28cfae</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 15:03:40 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
