@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 13 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 12:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:30:43 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 26 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 26 #VISPRSD&lt;br /&gt; Issued at 07:47 PM 13 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Aklan(Ibajay, Tangalan, Makato, Numancia, Kalibo, NewWashington, Batan, Altavas), #Capiz(Jamindan, Sigma, Panitan, Dumalag, Dao, Cuartero, Dumarao, MaAyon), #Iloilo(Lemery, Sara, SanDionisio, Balasan, Estancia and Batad) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(SapiAn, Mambusao, Ivisan, RoxasCity, Panay, Pontevedra, PresidentRoxas, Pilar) and #Iloilo(Carles) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -181,7 +181,7 @@
       <pubDate>Tue, 13 Oct 2026 03:03:34 +0000</pubDate>
       <guid isPermaLink="false">4a423bef1251c7fcc95643f05859afaa899e3391</guid>
       <category>Thunderstorm Advisory</category>
-      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 03:03:34 +0000</ns7:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 03:03:34 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
@@ -246,7 +246,7 @@
       <pubDate>Mon, 12 Oct 2026 21:30:49 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_BUGLASAN FESTIVAL_NegOriental_10132026_1791839885.pdf</guid>
       <category>Special Forecast</category>
-      <ns8:seen xmlns:ns8="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 21:30:49 +0000</ns8:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 21:30:49 +0000</ns6:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 14 October, 2026</title>
@@ -255,7 +255,7 @@
       <pubDate>Mon, 12 Oct 2026 21:30:48 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10132026_1791839865.pdf</guid>
       <category>Special Forecast</category>
-      <ns9:seen xmlns:ns9="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 21:30:49 +0000</ns9:seen>
+      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 21:30:49 +0000</ns7:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 14 October, 2026</title>
@@ -264,7 +264,7 @@
       <pubDate>Mon, 12 Oct 2026 21:30:47 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10132026_1791839852.pdf</guid>
       <category>Special Forecast</category>
-      <ns10:seen xmlns:ns10="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 21:30:49 +0000</ns10:seen>
+      <ns8:seen xmlns:ns8="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 21:30:49 +0000</ns8:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
