@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 13 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 03:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:07:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 13 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 13 #NCR_PRSD&lt;br /&gt; Issued at: 11:00 AM, 13 October 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (Batangas City, San Pascual, Bauan, Mabini, and Tingloy), Bulacan (Dona Remedios Trinidad and Norzagaray), Laguna (Santa Maria, Famy, Siniloan, Pangil, Pakil, Paete, Kalayaan, Cavinti, Lumban, Mabitac, Santa Cruz, Pagsanjan, and Luisiana), Quezon (Infanta, General Nakar, Panukulan, Polillo, Burdeos, Patnanungan, Jomalig, Mauban, Quezon, Alabat, Perez, Calauag, Tagkawayan, Guinayangan, Lopez, Buenavista, Gumaca, Atimonan, Padre Burgos, Agdangan, Unisan, Pitogo, Plaridel, Macalelon, General Luna, Catanauan, San Narciso, Mulanay, San Francisco, San Andres, Real, and Sampaloc), Rizal (Tanay, Rodriguez, Antipolo, Baras, Pililla, and Jala-Jala), Tarlac (San Jose, Capas, and Bamban), and Zambales (Cabangan, Palauig, Iba, Masinloc, Candelaria, Santa Cruz, San Felipe, San Narciso, San Marcelino, Castillejos, and San Antonio) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Zambales (Botolan) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 13 Oct 2026 03:07:38 +0000</pubDate>
+      <guid isPermaLink="false">e6cf7c47e1c44e51ecd5121ee1f7f4e024c27b00</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 03:07:38 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 12 #NCR_PRSD&lt;br /&gt; Issued at: 9:35 AM, 13 October 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Norzagaray), Cavite (Carmona, Bacoor, Imus, Dasmarinas, and Gen. Mariano Alvarez), Laguna (Santa Maria, Cavinti, Lumban, Kalayaan, Paete, Pakil, Pangil, Siniloan, Famy, Mabitac, Luisiana, Pagsanjan, Santa Cruz, Magdalena, Majayjay, San Pedro, Binan, and Santa Rosa), Metro Manila (Muntinlupa, Paranaque, and Las Pinas), Quezon (Infanta, General Nakar, Real, Mauban, Sampaloc, Lucban, Tayabas, Pagbilao, Atimonan, Lucena, Agdangan, Alabat, Buenavista, Burdeos, Calauag, Catanauan, General Luna, Guinayangan, Gumaca, Jomalig, Lopez, Macalelon, Mulanay, Padre Burgos, Panukulan, Patnanungan, Perez, Pitogo, Plaridel, Polillo, Quezon, San Andres, San Francisco, San Narciso, Tagkawayan, and Unisan), and Rizal (Rodriguez, Antipolo, Tanay, Baras, Pililla, and Jala-Jala) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 13 Oct 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="false">e4a58a7a63611fd202601fc655c8c9accc7ed156</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 03:03:33 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 03:03:33 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #NCRPRSD</title>
@@ -112,21 +120,13 @@
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 06:03:31 +0000</ns2:seen>
     </item>
     <item>
-      <title>Rainfall Advisory No. 11 #NCRPRSD</title>
-      <description>Rainfall Advisory No. 11 #NCR_PRSD&lt;br /&gt; Weather System: Easterlies&lt;br /&gt; Issued at: 11:00 AM, 12 October 2026(Monday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Rizal, Bulacan(Norzagaray, San Jose del Monte, Dona Remedios Trinidad), Laguna(Santa Maria, Siniloan, Famy, Mabitac, Pakil, Pangil, Paete, Kalayaan, Lumban, Cavinti, Luisiana, Pagsanjan, Alaminos, Calauan, Liliw, Magdalena, Majayjay, Nagcarlan, Pila, Rizal, San Pablo, Santa Cruz, Victoria, Bay, Los Banos, Calamba) and Batangas(Santo Tomas, San Juan, Rosario, Padre Garcia, Lipa, Malvar, Tanauan, Balete, Mataasnakahoy).&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Quezon(Panukulan, Burdeos, General Nakar) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Mon, 12 Oct 2026 03:07:35 +0000</pubDate>
-      <guid isPermaLink="false">7b82880224a200105644f6d207fabbbf8420aadc</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 12 Oct 2026 03:07:35 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
