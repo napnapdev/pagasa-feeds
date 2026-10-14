@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 14 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2026 09:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:39:54 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #NLPRSD&lt;br /&gt; Issued at 06:55 PM 14 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Pangasinan(Bugallon, Infanta, Aguilar, SanCarlosCity, Malasiqui, Basista, Villasis, Rosales, SantoTomas, Alcala, Bautista, Umingan, Balungao), #LaUnion(Sudipen, Bangar, Santol, Luna, Balaoan, Bacnotan, SanGabriel and SanJuan) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Pangasinan(Bayambang, Urbiztondo and Mangatarem) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 14 Oct 2026 11:40:17 +0000</pubDate>
+      <guid isPermaLink="false">b45d90696020f8774f6299314fcb6dbdaa67f8a4</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 11:40:17 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 14 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
       <pubDate>Wed, 14 Oct 2026 03:03:35 +0000</pubDate>
       <guid isPermaLink="false">11afc9565bbc46ac75e68cbc785649cde7241da1</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 03:03:35 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 03:03:35 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #NLPRSD</title>
