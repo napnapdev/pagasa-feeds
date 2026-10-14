@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 14 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2026 06:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:07:16 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 21 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 21 #VISPRSD&lt;br /&gt; Issued at 02:01 PM 14 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(CityOfSipalay, HinobaAn, SagayCity, CityOfEscalante, Toboso and Calatrava) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(Cauayan, Ilog, Candoni, CityOfKabankalan and CityOfHimamaylan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Wed, 14 Oct 2026 06:07:33 +0000</pubDate>
+      <guid isPermaLink="false">3766df05421f2f1f68f4511fa1f0b1c08ce48764</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:07:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 20 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 20 #VISPRSD&lt;br /&gt; Issued at 01:55 PM 14 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Kalayaan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Wed, 14 Oct 2026 06:02:59 +0000</pubDate>
       <guid isPermaLink="false">e649a29855753b76538ce54c3aa51054a7349595</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 19 #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Wed, 14 Oct 2026 06:02:58 +0000</pubDate>
       <guid isPermaLink="false">b4b212ece8223268b6fc424de585c2cec6e8e194</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 18 #VISPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Wed, 14 Oct 2026 06:02:57 +0000</pubDate>
       <guid isPermaLink="false">f0461c4ebb572c975272c78aeba42e52a8dfa7e2</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 17 #VISPRSD</title>
@@ -37,7 +45,7 @@
       <pubDate>Wed, 14 Oct 2026 06:02:56 +0000</pubDate>
       <guid isPermaLink="false">8b577d9db880c9d962c616adebf24ce3a083ba4c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
@@ -45,7 +53,7 @@
       <pubDate>Wed, 14 Oct 2026 06:02:55 +0000</pubDate>
       <guid isPermaLink="false">ee7ec86f188dcc2603c4c709a0b00217a84babed</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
@@ -53,7 +61,7 @@
       <pubDate>Wed, 14 Oct 2026 03:30:49 +0000</pubDate>
       <guid isPermaLink="false">49cb6a40495d85f4ba97c7c63df3b1c3042ec0bd</guid>
       <category>Thunderstorm Advisory</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 03:30:49 +0000</ns5:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 03:30:49 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -61,7 +69,7 @@
       <pubDate>Wed, 14 Oct 2026 03:03:35 +0000</pubDate>
       <guid isPermaLink="false">8fa3e9228d3760df9b911a8283077dc8eff0b488</guid>
       <category>Thunderstorm Advisory</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 03:03:35 +0000</ns6:seen>
+      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 03:03:35 +0000</ns7:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
@@ -142,7 +150,7 @@
       <pubDate>Tue, 13 Oct 2026 21:09:50 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_BUGLASAN FESTIVAL_NegOriental_10142026_1791925290.pdf</guid>
       <category>Special Forecast</category>
-      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 21:09:50 +0000</ns7:seen>
+      <ns8:seen xmlns:ns8="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 21:09:50 +0000</ns8:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 15 October, 2026</title>
@@ -151,7 +159,7 @@
       <pubDate>Tue, 13 Oct 2026 21:09:49 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10142026_1791925267.pdf</guid>
       <category>Special Forecast</category>
-      <ns8:seen xmlns:ns8="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 21:09:50 +0000</ns8:seen>
+      <ns9:seen xmlns:ns9="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 21:09:50 +0000</ns9:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 15 October, 2026</title>
@@ -160,7 +168,7 @@
       <pubDate>Tue, 13 Oct 2026 21:03:38 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10142026_1791925232.pdf</guid>
       <category>Special Forecast</category>
-      <ns9:seen xmlns:ns9="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 21:03:38 +0000</ns9:seen>
+      <ns10:seen xmlns:ns10="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 21:03:38 +0000</ns10:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
@@ -353,54 +361,6 @@
       <guid isPermaLink="false">2aaa9c9dbd2f54239c4e1b20b7b9b729a7c48c55</guid>
       <category>Thunderstorm Advisory</category>
       <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 09:03:33 +0000</ns7:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #VISPRSD&lt;br /&gt; Issued at 01:31 PM 13 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Leganes, Pototan, BarotacNuevo, SantaBarbara and Cabatuan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(ElNido, Taytay, Coron, Busuanga, Culion, SanVicente), #Iloilo(Tigbauan, Leon, Alimodian, Oton, SanMiguel, IloiloCity, Pavia, Dueñas), #Antique(Valderrama), #Capiz(Tapaz and Jamindan) which may persist within 30 minutes to an hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 13 Oct 2026 06:03:35 +0000</pubDate>
-      <guid isPermaLink="false">b6e1580ceab6ed5633dfaef58206baff1a2a9895</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 06:03:35 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 15 #VISPRSD&lt;br /&gt; Issued at 01:11 PM 13 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #EasternSamar(CityOfBorongan, Balangkayan, Maydolong, Oras, Maslog, Sulat, Taft, SanJulian), #Palawan(PuertoPrincesaCity), #Samar(CityOfCatbalogan, SanJoseDeBuan, SanJorge, Motiong, Paranas, Jiabong, Tarangnan, CalbayogCity), #SouthernLeyte(TomasOppus, PadreBurgos, Malitbog, Macrohon, Hinunangan, Anahawan, Hinundayan, SaintBernard, SanJuan, Liloan, SanFrancisco, SanRicardo, Pintuyan, Limasawa), #Leyte(LaPaz and Macarthur) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(Kananga, Albuera, Isabel, Merida, Palompon, MatagOb, Villaba, CityOfBaybay, Javier, Inopacan, Abuyog, Mahaplag, Calubian, SanIsidro, Tabango, Leyte, Capoocan, Carigara, Burauen, OrmocCity, Hilongos, Hindang, Bato, Matalom), #SouthernLeyte(Sogod, Libagon, Silago, CityOfMaasin, Bontoc), #EasternSamar(Llorente, GeneralMacarthur, Balangiga, Lawaan, Dolores, CanAvid), #Samar(Basey, Marabut, Calbiga, Pinabacdao, Hinabangan), #Palawan(Aborlan, Narra, Quezon, SofronioEspanola, Rizal, Bataraza, Brooke'sPoint, Roxas, Dumaran, Araceli, Balabac, Linapacan), #Biliran(Culaba, Naval, Caibiran, Cabucgayan, Almeria, Kawayan and Biliran) which may persist within 30 minutes to an hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 13 Oct 2026 06:03:34 +0000</pubDate>
-      <guid isPermaLink="false">56e6f3e4c3caf3c335e73e92a97bdc467f046dcc</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 06:03:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 14 #VISPRSD&lt;br /&gt; Issued at 12:52 PM 13 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Bohol(Jagna, Valencia, Bilar, Sevilla, Sikatuna and Loboc) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bohol(Batuan, Balilihan, SierraBullones, Pilar, Alicia, Mabini, Anda, Duero and Antequera) which may persist within 30 minutes to an hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 13 Oct 2026 06:03:33 +0000</pubDate>
-      <guid isPermaLink="false">54e2b0bb0282a71810a52c314993c9409e9ef9f5</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 06:03:35 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 12:41 PM 13 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(Pandan, Sebaste, Culasi, Tibiao, Barbaza, Bugasong, LauaAn, Valderrama, AniniY), #Aklan(Kalibo, Batan, NewWashington, Altavas), #Capiz(Jamindan, Tapaz), #Iloilo(Lambunao, Calinog, Janiuay, Maasin, Alimodian, Leon, Tubungan, Guimbal, Tigbauan, Oton, IloiloCity), #Guimaras(Buenavista, NuevaValencia and Sibunag) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Ibajay, Tangalan, Makato, Malinao, Madalag, Libacao, Balete, Banga, Lezo, Numancia), #Antique(SanRemigio, Sibalom, Hamtic, TobiasFornier), #Iloilo(Igbaras, Miagao, SanJoaquin, Bingawan, CityOfPassi, SanRafael, SanEnrique, Dingle, Anilao, Banate, BarotacViejo, Ajuy, Concepcion, SanDionisio, Sara, Lemery, Batad), #Guimaras(SanLorenzo, Jordan), #NegrosOccidental(Cauayan and Ilog) which may persist within 30 minutes to an hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 13 Oct 2026 06:03:32 +0000</pubDate>
-      <guid isPermaLink="false">0f7447d4fbfc93ef842ad0ba878b5d517b960c67</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 06:03:35 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #VISPRSD&lt;br /&gt; Issued at 12:33 PM 13 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(Vallehermoso, CanlaonCity, LaLibertad), #NegrosOccidental(BagoCity, LaCastellana, LaCarlotaCity, Valladolid, Pulupandan, SanEnrique, Hinigaran, Pontevedra, Isabela, MoisesPadilla and Binalbagan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(CebuCity, CityOfTalisay, CityOfNaga, Minglanilla, DanaoCity, Compostela, ToledoCity, MandaueCity, Consolacion, Liloan, LapuLapuCity, Cordova), #NegrosOccidental(SagayCity, CityOfEscalante, SalvadorBenedicto, SanCarlosCity, CadizCity, Murcia, SilayCity, BacolodCity, CityOfTalisay, Manapla, CityOfVictorias, EnriqueB.Magalona, CityOfKabankalan, HinobaAn, CityOfSipalay, Candoni) and #NegrosOriental(CityOfGuihulngan) which may persist within 30 minutes to an hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 13 Oct 2026 06:03:31 +0000</pubDate>
-      <guid isPermaLink="false">c2d8e78914cc4680ea893ed84d1b24f0d108a874</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 06:03:35 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 11:48 AM 13 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Palawan(ElNido and Taytay) which may persist within 30 minutes to an hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 13 Oct 2026 06:03:30 +0000</pubDate>
-      <guid isPermaLink="false">9cdb2bbe7ca2b8264b71e857ee15c25f94513666</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Tue, 13 Oct 2026 06:03:35 +0000</ns5:seen>
     </item>
   </channel>
 </rss>
