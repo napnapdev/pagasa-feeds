@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 14 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2026 06:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:30:39 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 22 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 22 #VISPRSD&lt;br /&gt; Issued at 02:17 PM 14 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Guimaras(Sibunag, SanLorenzo and NuevaValencia) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Guimaras(Jordan) and #Cebu(Daanbantayan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Wed, 14 Oct 2026 06:30:54 +0000</pubDate>
+      <guid isPermaLink="false">8646f34018a744432f6276844cc2e7e773042796</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:30:54 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 21 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 21 #VISPRSD&lt;br /&gt; Issued at 02:01 PM 14 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(CityOfSipalay, HinobaAn, SagayCity, CityOfEscalante, Toboso and Calatrava) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(Cauayan, Ilog, Candoni, CityOfKabankalan and CityOfHimamaylan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Wed, 14 Oct 2026 06:07:33 +0000</pubDate>
       <guid isPermaLink="false">3766df05421f2f1f68f4511fa1f0b1c08ce48764</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:07:33 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:07:33 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 20 #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Wed, 14 Oct 2026 06:02:59 +0000</pubDate>
       <guid isPermaLink="false">e649a29855753b76538ce54c3aa51054a7349595</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 19 #VISPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Wed, 14 Oct 2026 06:02:58 +0000</pubDate>
       <guid isPermaLink="false">b4b212ece8223268b6fc424de585c2cec6e8e194</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 18 #VISPRSD</title>
@@ -37,7 +45,7 @@
       <pubDate>Wed, 14 Oct 2026 06:02:57 +0000</pubDate>
       <guid isPermaLink="false">f0461c4ebb572c975272c78aeba42e52a8dfa7e2</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 17 #VISPRSD</title>
@@ -45,7 +53,7 @@
       <pubDate>Wed, 14 Oct 2026 06:02:56 +0000</pubDate>
       <guid isPermaLink="false">8b577d9db880c9d962c616adebf24ce3a083ba4c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
@@ -53,7 +61,7 @@
       <pubDate>Wed, 14 Oct 2026 06:02:55 +0000</pubDate>
       <guid isPermaLink="false">ee7ec86f188dcc2603c4c709a0b00217a84babed</guid>
       <category>Thunderstorm Advisory</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns5:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 06:02:59 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
