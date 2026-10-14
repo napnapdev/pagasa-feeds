@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 14 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 14 Oct 2026 00:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:30:33 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 24 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 24 #NCR_PRSD&lt;br /&gt; Issued at: 5:19 AM, 14 October 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Norzagaray, Dona Remedios Trinidad, and San Jose del Monte), Laguna (Santa Maria, Famy, Siniloan, Pangil, Pakil, Cavinti, Lumban, Kalayaan, Paete, Luisiana, Mabitac, Santa Cruz, Pagsanjan, Magdalena, and Majayjay), Quezon (Real, Sampaloc, Tayabas, Lucban, Unisan, Agdangan, Lucena, Gumaca, Plaridel, Pitogo, Lopez, and Calauag), and Rizal (Tanay, Rodriguez, and Antipolo) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (General Nakar, Pagbilao, Mauban, Atimonan, Padre Burgos, Panukulan, Burdeos, Patnanungan, Jomalig, Polillo, Infanta, Alabat, Quezon, and Perez) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -118,7 +118,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
