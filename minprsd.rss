@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 15 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 15 Oct 2026 21:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:07:19 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 2 #MINPRSD</title>
       <description>Rainfall Advisory No. 2 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 02:00 AM 16 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are expected over #SurigaoDelSur(Lingig, CityOfBislig, Cagwait, Marihatag, SanAgustin, Tago, Hinatuan, Tagbina, Barobo, Lianga, Bayabas), #SurigaoDelNorte(SiargaoIsland, Socorro), #Bukidnon(CityOfValencia and Talakag) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.</description>
@@ -110,14 +110,6 @@
       <guid isPermaLink="false">9217adbe8482b579995532713bf56e12a2519516</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 23:17:00 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 26 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 26 #MINPRSD&lt;br /&gt; Issued at 04:00 AM 15 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelNorte(Labason, Kalawit, DapitanCity, Sibutad, Rizal, LaLibertad), #MisamisOriental(Medina, Talisayan, Balingoan, Claveria, Alubijid, Libertad, Initao, Naawan), #DinagatIslands, #DavaoOriental(Tarragona, Manay, Caraga and CityOfMati) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MisamisOriental(GingoogCity, Laguindingan, Gitagum) and #AgusanDelNorte(Buenavista) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 14 Oct 2026 21:03:45 +0000</pubDate>
-      <guid isPermaLink="false">75ec2cfb2011e6178e44a56dc9602de063de04e8</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 21:03:45 +0000</ns0:seen>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 16 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 15 Oct 2026 21:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 31 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 31 #SLPRSD&lt;br /&gt; Issued at 04:10 AM 16 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Catanduanes(Caramoran, Panganiban, Bagamanoc), #NorthernSamar(Bobon, SanJose, Victoria, SanIsidro), #Sorsogon(Barcelona, Castilla), #OrientalMindoro(SanTeodoro, Bansud, CityOfCalapan, Pola and PuertoGalera) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NorthernSamar(Palapag, Mapanas, Gamay, Lapinig, Laoang, Catubig, Pambujan, LasNavas, SanRoque, Mondragon, SilvinoLobos, Catarman, LopeDeVega), #Sorsogon(CityOfSorsogon, Gubat, PrietoDiaz), #Catanduanes(Gigmoto, Viga, Baras, SanMiguel, Bato, Virac, SanAndres), #Albay(RapuRapu), #OrientalMindoro(Baco, Naujan, Victoria, Socorro, Pinamalayan, Gloria), #Romblon(Odiongan, SantaMaria, SanAndres, SanAgustin, Calatrava, Romblon) and #Masbate(Balud) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -162,14 +162,6 @@
       <guid isPermaLink="false">f618f3cbb98d4d0b2010e745b4fcf4ad858aee1b</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 23:17:00 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 16 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 16 #SLPRSD&lt;br /&gt; Issued at 04:20 AM 15 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #CamarinesSur(Tinambac, Lagonoy, Garchitorena, Sipocot), #Romblon(Romblon and Magdiwang) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #CamarinesSur(Siruma, DelGallego, Ragay, Lupi), #CamarinesNorte(Mercedes, Basud, SanLorenzoRuiz, Daet, Talisay, SanVicente, Labo, Vinzons), #Romblon(SanAndres, Odiongan, SantaMaria, SanFernando, Cajidiocan, SanAgustin, Calatrava, Ferrol, Looc, Alcantara, SantaFe and SanJose) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 14 Oct 2026 21:03:45 +0000</pubDate>
-      <guid isPermaLink="false">d0270c823661054e5fd931f9a3769671682b229c</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 21:03:45 +0000</ns2:seen>
     </item>
   </channel>
 </rss>

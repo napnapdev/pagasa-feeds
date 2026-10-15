@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 15 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 15 Oct 2026 21:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:07:22 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 03:03 AM 16 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(Pandan), #Aklan(Nabas, Libacao, Madalag), #Cebu(DanaoCity, Tabogon and CityOfBogo) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Tangalan, Malinao, Ibajay, Makato, Numancia, Lezo, Kalibo, Banga, Balete, NewWashington, Batan), #Iloilo(SanDionisio, Batad, Balasan, Carles, Estancia), #Capiz(Pilar), #Cebu(Carmen, Catmon, Sogod, Borbon, Tabuelan, Tuburan, Balamban, Asturias, SanRemigio, Tudela and Poro) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -254,50 +254,6 @@
       <guid isPermaLink="false">0ac6bfbd0f4b5b1d3e5db337b4f82c8ac7019fbd</guid>
       <category>Thunderstorm Advisory</category>
       <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 23:17:00 +0000</ns5:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 16 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Tagbilaran City, Bohol_10152026_1792010320.pdf</link>
-      <description>Issued at: 05:00 AM, 15 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 16 October, 2026</description>
-      <pubDate>Wed, 14 Oct 2026 21:03:45 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Tagbilaran City, Bohol_10152026_1792010320.pdf</guid>
-      <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 21:03:45 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 16 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_BUGLASAN FESTIVAL_NegOriental_10152026_1792010299.pdf</link>
-      <description>Issued at: 05:00 AM, 15 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 16 October, 2026</description>
-      <pubDate>Wed, 14 Oct 2026 21:03:44 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_BUGLASAN FESTIVAL_NegOriental_10152026_1792010299.pdf</guid>
-      <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 21:03:45 +0000</ns5:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 16 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10152026_1792010284.pdf</link>
-      <description>Issued at: 05:00 AM, 15 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 16 October, 2026</description>
-      <pubDate>Wed, 14 Oct 2026 21:03:43 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10152026_1792010284.pdf</guid>
-      <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 21:03:45 +0000</ns6:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 16 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10152026_1792010261.pdf</link>
-      <description>Issued at: 05:00 AM, 15 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 16 October, 2026</description>
-      <pubDate>Wed, 14 Oct 2026 21:03:42 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10152026_1792010261.pdf</guid>
-      <category>Special Forecast</category>
-      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 21:03:45 +0000</ns7:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 04:44 AM 15 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(SantaFe, Bantayan, Madridejos), #Iloilo(Concepcion, SanDionisio), #Capiz(Panitan, Ivisan, Sigma, SapiAn, Mambusao), #Aklan(Numancia, Makato, Tangalan, Ibajay, Nabas, Lezo, Kalibo, Malay, Buruanga), #Antique(Pandan and Libertad) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Panay and RoxasCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 14 Oct 2026 21:03:41 +0000</pubDate>
-      <guid isPermaLink="false">014d4238c632a594dd98753fb76d50ed419c7457</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 21:03:45 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
