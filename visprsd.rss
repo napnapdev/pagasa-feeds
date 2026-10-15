@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 15 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 15 Oct 2026 19:27:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:03:22 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 03:03 AM 16 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(Pandan), #Aklan(Nabas, Libacao, Madalag), #Cebu(DanaoCity, Tabogon and CityOfBogo) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Tangalan, Malinao, Ibajay, Makato, Numancia, Lezo, Kalibo, Banga, Balete, NewWashington, Batan), #Iloilo(SanDionisio, Batad, Balasan, Carles, Estancia), #Capiz(Pilar), #Cebu(Carmen, Catmon, Sogod, Borbon, Tabuelan, Tuburan, Balamban, Asturias, SanRemigio, Tudela and Poro) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -298,14 +298,6 @@
       <guid isPermaLink="false">014d4238c632a594dd98753fb76d50ed419c7457</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 21:03:45 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 03:27 AM 15 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(RoxasCity), #Palawan(Taytay, Coron), #NegrosOriental(Pamplona and Sibulan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Panay), #Palawan(Linapacan, ElNido, Busuanga, Cuyo, Magsaysay, Agutaya), #NegrosOriental(CityOfTanjay, Amlan and SanJose) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 14 Oct 2026 20:08:38 +0000</pubDate>
-      <guid isPermaLink="false">7ac97018fd156cb8a35712db172741277ec05561</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 20:08:38 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
