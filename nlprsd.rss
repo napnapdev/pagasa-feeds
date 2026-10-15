@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 15 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 15 Oct 2026 12:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 15 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #IlocosNorte, #Aurora and #Cagayan within 12 hours.</description>
@@ -38,14 +38,6 @@
       <guid isPermaLink="false">4673fd3065dbb5cffa777a6671723ef92333bc18</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 15:03:39 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #NLPRSD&lt;br /&gt; Issued at 07:59 PM 14 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #LaUnion(Sudipen, Bangar, Santol, Luna, Balaoan, Bacnotan, SanJuan, CityOfSanFernando), #Benguet(Bakun, Kibungan), #IlocosSur(Sugpon), #Pangasinan(Bugallon, Infanta, SanCarlosCity, Urbiztondo, Bayambang, SanFabian and SanJacinto) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #LaUnion(SanGabriel, Bagulin), #Pangasinan(Aguilar and Mangatarem) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 14 Oct 2026 12:07:32 +0000</pubDate>
-      <guid isPermaLink="false">afac36e5567f33ecddf8de9b03c1fddad58cdb67</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 14 Oct 2026 12:07:32 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
