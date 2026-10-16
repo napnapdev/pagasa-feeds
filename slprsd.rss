@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 17 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2026 21:36:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 23:50:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 9 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 9 #SLPRSD&lt;br /&gt; Issued at 07:00 AM 17 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #CamarinesNorte(Capalonga, SantaElena), #Albay(Malinao, Tiwi and Oas) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #CamarinesNorte(Vinzons, Talisay, SanVicente, Daet, Mercedes, Basud, SanLorenzoRuiz, Labo, Paracale, JosePanganiban), #CamarinesSur(Siruma, DelGallego), #Albay(CityOfTabaco, Malilipot, Bacacay, SantoDomingo, LegazpiCity, Manito, RapuRapu, CityOfLigao, Guinobatan, Daraga, Camalig), #OrientalMindoro(PuertoGalera, SanTeodoro, Naujan and Baco) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 16 Oct 2026 23:50:33 +0000</pubDate>
+      <guid isPermaLink="false">e2928b76561843c979215675972f1b990742f700</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 23:50:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 8 #SLPRSD&lt;br /&gt; Issued at 05:20 AM 17 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Albay(Jovellar, PioDuran, Guinobatan, Malilipot, CityOfTabaco, Malinao), #Sorsogon(Pilar, Donsol, Barcelona, Bulusan, Irosin, Bulan), #Catanduanes(SanAndres, Virac, Bato, Baras and Gigmoto) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Albay(Bacacay, LegazpiCity, SantoDomingo, Daraga, Camalig, RapuRapu, Manito), #Sorsogon(CityOfSorsogon, Gubat, PrietoDiaz, Casiguran, Juban, Magallanes and Castilla) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Fri, 16 Oct 2026 21:30:51 +0000</pubDate>
       <guid isPermaLink="false">47cdb1a5c6179cb142c5c68aa459617a88e2a6ae</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 21:30:51 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 21:30:51 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #SLPRSD</title>
@@ -130,14 +138,6 @@
       <guid isPermaLink="false">ffe360318f31ed2db592af1786325f8d0822d35d</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 00:30:59 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 1 #SLPRSD</title>
-      <description>Rainfall Advisory No. 1 #SLPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 05:50 AM 16 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are expected over #Sorsogon(Bulusan, Irosin, Juban, Donsol, Magallanes, SantaMagdalena), #Albay(Camalig, Jovellar, PioDuran, Guinobatan, Malilipot, CityOfTabaco, Malinao, CityOfLigao, Tiwi), #Catanduanes(Pandan), #CamarinesSur(Presentacion, Garchitorena, Lagonoy, SanJose, Goa, Tigaon, Sagñay), #OrientalMindoro(Bongabong, Roxas, Mansalay, Bansud and Bulalacao) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon, #Sorsogon(PrietoDiaz, CityOfSorsogon, Gubat, Casiguran, Barcelona, Castilla, Pilar), #Albay(RapuRapu, LegazpiCity, SantoDomingo, Bacacay, Manito, Daraga), #Catanduanes(Bagamanoc, Baras, Bato, Caramoran, Gigmoto, Panganiban, SanAndres, SanMiguel, Viga, Virac) and #CamarinesSur(Caramoan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
-      <pubDate>Thu, 15 Oct 2026 22:38:44 +0000</pubDate>
-      <guid isPermaLink="false">2cd9005c577184088fc6e578a84b2e6047e26d63</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 15 Oct 2026 22:38:44 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
