@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 16 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2026 12:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:43:22 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 10:11 PM, 16 October 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (Tagkawayan, Guinayangan, Calauag, Jomalig, Patnanungan, Polillo, Quezon, Alabat, Perez, Lopez, Burdeos, Mauban, Atimonan, Plaridel, and Gumaca) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 16 Oct 2026 14:43:36 +0000</pubDate>
+      <guid isPermaLink="false">822782d97f384167060c4c24a1054791c5ecae9a</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 14:43:36 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 11:25 AM, 16 October 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Cavite (Carmona, Bacoor, Gen. Mariano Alvarez, Dasmarinas, Imus, Kawit, Noveleta, and Cavite City), Laguna (San Pedro and Binan), Metro Manila (Taguig, Muntinlupa, Paranaque, Las Pinas, and Pasay), and Quezon (Tagkawayan, Guinayangan, Calauag, Lopez, Buenavista, Quezon, Infanta, Real, General Nakar, San Narciso, San Andres, San Francisco, Mulanay, Catanauan, General Luna, and Macalelon) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -46,7 +54,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
