@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 16 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2026 09:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:30:36 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 20 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 20 #VISPRSD&lt;br /&gt; Issued at 03:40 PM 16 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Oton, SantaBarbara, Leganes, Tigbauan, Cabatuan), #NegrosOccidental(LaCastellana, MoisesPadilla), #NegrosOriental(LaLibertad, Jimalalud, Tayasan, CityOfGuihulngan), #Leyte(MatagOb, Villaba, Bato) and #SouthernLeyte(Macrohon) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Pavia, IloiloCity, SanMiguel), #Leyte(Palompon, Isabel, Matalom), #SouthernLeyte(CityOfMaasin), #NegrosOccidental(CityOfHimamaylan, Binalbagan, Hinigaran, Isabela and Pontevedra) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -250,14 +250,6 @@
       <guid isPermaLink="false">9c5272f81360c41ff11c92c5f2fbf269c726948c</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 15 Oct 2026 11:43:01 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 23 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 23 #VISPRSD&lt;br /&gt; Issued at 05:15 PM 15 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Leyte and Kananga) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(SanIsidro, Carigara, Capoocan), #NegrosOccidental(Cauayan, Ilog, CityOfKabankalan, CityOfHimamaylan, Binalbagan, Hinigaran and Isabela) which may persist within 30 minutes to an hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Thu, 15 Oct 2026 09:30:55 +0000</pubDate>
-      <guid isPermaLink="false">fa9696c4a01c1418aaa4958e31e7241c2028298a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 15 Oct 2026 09:30:55 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
