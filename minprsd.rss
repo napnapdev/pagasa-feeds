@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 16 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2026 21:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:30:36 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 16 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
@@ -94,14 +94,6 @@
       <guid isPermaLink="false">d4a15ee87c38c21b9d324652054bfc13f0953133</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:03:33 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 3 #MINPRSD</title>
-      <description>Rainfall Advisory No. 3 FINAL #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 05:00 AM 16 October 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
-      <pubDate>Thu, 15 Oct 2026 21:30:51 +0000</pubDate>
-      <guid isPermaLink="false">05dc08a6197035512248418382be3d6b61ff16a2</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 15 Oct 2026 21:30:51 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
