@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 16 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2026 03:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:30:37 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 3 #SLPRSD</title>
+      <description>Rainfall Advisory No. 3 #SLPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:00 AM 16 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are expected over #CamarinesNorte(SantaElena, Capalonga), #CamarinesSur(DelGallego, Ragay, Lupi and Sipocot) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #CamarinesNorte(Daet, Talisay, SanLorenzoRuiz, SanVicente, Basud, Mercedes, Vinzons, Labo, Paracale and JosePanganiban) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
+      <pubDate>Fri, 16 Oct 2026 03:30:54 +0000</pubDate>
+      <guid isPermaLink="false">7066ffc46d1a1399997b47a7a3a6d719e3438e4e</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:30:54 +0000</ns0:seen>
+    </item>
     <item>
       <title>Special Forecast: Valid until: 09:11 AM, 17 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_16Oct2026_1792113091.pdf</link>
@@ -14,7 +22,7 @@
       <pubDate>Fri, 16 Oct 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_16Oct2026_1792113091.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:03:33 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:03:33 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:10 AM, 17 October, 2026</title>
@@ -23,7 +31,7 @@
       <pubDate>Fri, 16 Oct 2026 03:03:32 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_16Oct2026_1792113058.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:03:33 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:03:33 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 2 #SLPRSD</title>
@@ -72,7 +80,7 @@
       <pubDate>Thu, 15 Oct 2026 15:03:36 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_15Oct2026_1792067404.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 15 Oct 2026 15:03:36 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 15 Oct 2026 15:03:36 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 16 October, 2026</title>
@@ -81,7 +89,7 @@
       <pubDate>Thu, 15 Oct 2026 15:03:35 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_15Oct2026_1792067367.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 15 Oct 2026 15:03:36 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 15 Oct 2026 15:03:36 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 28 #SLPRSD</title>
