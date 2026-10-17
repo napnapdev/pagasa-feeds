@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 17 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2026 00:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 01:36:46 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 AM 17 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #Camiguin, #MisamisOccidental, #MisamisOriental, #LanaoDelNorte and #Bukidnon within 12 hours.</description>
+      <pubDate>Sat, 17 Oct 2026 01:37:00 +0000</pubDate>
+      <guid isPermaLink="false">14f5a843a5f420f84b5283e368a43380bd1a99dd</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 17 Oct 2026 01:37:00 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 16 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental and #DavaoOccidental within 12 hours.</description>
       <pubDate>Fri, 16 Oct 2026 14:43:36 +0000</pubDate>
       <guid isPermaLink="false">e1f4a8eb726e6688829437f61ae9496c9f9715ae</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 14:43:36 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 14:43:36 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #MINPRSD</title>
