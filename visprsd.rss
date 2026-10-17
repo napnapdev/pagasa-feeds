@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 17 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2026 00:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 6 #VISPRSD&lt;br /&gt; Issued at 07:09 AM 17 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(NewLucena, BarotacNuevo, Dumangas, Zarraga, Leganes, Cabatuan, Maasin), #Aklan(Batan, NewWashington, Kalibo, Numancia, Nabas), #Antique(Libertad), #NegrosOccidental(CityOfEscalante, Toboso, Calatrava, CityOfTalisay, BacolodCity), #Guimaras(Jordan, Buenavista, SanLorenzo, Sibunag) and #Palawan(SofronioEspanola) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Oton, IloiloCity, SanMiguel, Pavia, SantaBarbara, Lambunao, Janiuay, Badiangan, Dueñas, Calinog, Bingawan, CityOfPassi, BarotacViejo, Concepcion, Sara, Ajuy, Lemery, SanRafael, Estancia, Balasan, Batad, SanDionisio, Carles, Banate, Anilao, SanEnrique, Dingle, Mina, Pototan), #Capiz, #Aklan(Libacao, Madalag, Malinao, Makato, Tangalan, Ibajay, Malay, Buruanga, Altavas, Balete, Banga, Lezo), #Antique(Sebaste, Culasi, Pandan), #NegrosOccidental(EnriqueB.Magalona, CityOfVictorias, Manapla, CadizCity, SilayCity, SagayCity), #Palawan(Narra), #Samar(SanJorge, CityOfCatbalogan, Motiong, Jiabong), #OrientalMindoro(PuertoGalera, SanTeodoro, Naujan and Baco) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -242,22 +242,6 @@
       <guid isPermaLink="false">ff365246e624738dbd4148e0a968322312362efe</guid>
       <category>Thunderstorm Advisory</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:03:33 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 07:39 AM 16 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #EasternSamar(Arteche and Maslog) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(PuertoPrincesaCity) and #EasternSamar(SanPolicarpo) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 16 Oct 2026 00:03:36 +0000</pubDate>
-      <guid isPermaLink="false">b22e323cd519ae3355d456c6ae4933c1dc587220</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 00:03:36 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 07:04 AM 16 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #EasternSamar(SanPolicarpo and CanAvid) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Cagayancillo, Dumaran, Araceli), #Bohol(Pres.CarlosP.Garcia, Ubay), #EasternSamar(Oras and Dolores) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 16 Oct 2026 00:03:35 +0000</pubDate>
-      <guid isPermaLink="false">d89e6f4ee7c345b8c1f611b5ed6ea97ac0068ade</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 00:03:36 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
