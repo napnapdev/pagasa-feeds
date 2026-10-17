@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 17 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2026 00:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:30:36 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 9 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 9 #SLPRSD&lt;br /&gt; Issued at 07:00 AM 17 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #CamarinesNorte(Capalonga, SantaElena), #Albay(Malinao, Tiwi and Oas) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #CamarinesNorte(Vinzons, Talisay, SanVicente, Daet, Mercedes, Basud, SanLorenzoRuiz, Labo, Paracale, JosePanganiban), #CamarinesSur(Siruma, DelGallego), #Albay(CityOfTabaco, Malilipot, Bacacay, SantoDomingo, LegazpiCity, Manito, RapuRapu, CityOfLigao, Guinobatan, Daraga, Camalig), #OrientalMindoro(PuertoGalera, SanTeodoro, Naujan and Baco) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -70,7 +70,7 @@
       <pubDate>Fri, 16 Oct 2026 12:30:45 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_16Oct2026_1792153507.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 12:30:45 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 12:30:45 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 17 October, 2026</title>
@@ -79,7 +79,7 @@
       <pubDate>Fri, 16 Oct 2026 12:30:44 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_16Oct2026_1792153418.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 12:30:45 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 12:30:45 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
@@ -120,7 +120,7 @@
       <pubDate>Fri, 16 Oct 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_16Oct2026_1792113091.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:03:33 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:03:33 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:10 AM, 17 October, 2026</title>
@@ -129,7 +129,7 @@
       <pubDate>Fri, 16 Oct 2026 03:03:32 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_16Oct2026_1792113058.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:03:33 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:03:33 +0000</ns4:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 2 #SLPRSD</title>
