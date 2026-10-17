@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 17 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2026 01:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 03:03:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 AM 17 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #Camiguin, #MisamisOccidental, #MisamisOriental, #LanaoDelNorte and #Bukidnon within 12 hours.</description>
@@ -86,22 +86,6 @@
       <guid isPermaLink="false">b20fac8c99ae1b162c2078e2d03024509ff0e873</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 06:03:32 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 16 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoDelSur, #DavaoDeOro, #DavaoOriental, #DavaoOccidental, #MisamisOriental, #LanaoDelNorte, #MisamisOccidental, #Bukidnon and #Camiguin within 12 hours.</description>
-      <pubDate>Fri, 16 Oct 2026 03:03:33 +0000</pubDate>
-      <guid isPermaLink="false">94750b419e46cf516d39064c9a91a3da09a48a93</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:03:33 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 11:00 AM 16 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Sarangani(Maitum, Kiamba), #SultanKudarat(Palimbang), #SurigaoDelSur(Lanuza, CityOfTandag, Cortes, Carrascal, Cantilan, Madrid, Carmen, SanMiguel, Tagbina), #SurigaoDelNorte(SurigaoCity, TaganaAn, Placer, SiargaoIsland, Socorro), #DinagatIslands, #DavaoOriental(SanIsidro, Lupon, Tarragona, Banaybanay), #DavaoDeOro(Maragusan, NewBataan, Pantukan), #AgusanDelSur(CityOfBayugan, Talacogon, Rosario), #Bukidnon(ManoloFortich, Baungon, Talakag, Sumilao, Libona), #LanaoDelSur(Bubong, Maguing), #AgusanDelNorte(Buenavista and LasNieves) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #DavaoOriental(GovernorGeneroso, CityOfMati, Caraga, Baganga, Manay), #SurigaoDelSur(Lianga, Barobo), #AgusanDelSur(Prosperidad and SanFrancisco) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 16 Oct 2026 03:03:32 +0000</pubDate>
-      <guid isPermaLink="false">d4a15ee87c38c21b9d324652054bfc13f0953133</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 16 Oct 2026 03:03:33 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
