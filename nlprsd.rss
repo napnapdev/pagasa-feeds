@@ -6,14 +6,38 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 18 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2026 12:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:10:59 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #NLPRSD&lt;br /&gt; Issued at 09:45 PM 18 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(Peñablanca, Gonzaga, LalLo, Gattaran, Baggao, Buguey, SantaTeresita, Aparri, Camalaniugan, Allacapan, Calayan), #Isabela(DelfinAlbano, Quirino, Gamu, SantaMaria, SantoTomas) and #Batanes(Itbayat) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Divilacan, Maconacon, IlaganCity, Tumauini, SanPablo, Cabagan) and #Cagayan(SantaAna) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 18 Oct 2026 14:11:10 +0000</pubDate>
+      <guid isPermaLink="false">d8e09e624b79656f347fb37bd7f3419d9309885e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 14:11:10 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 18 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
+      <pubDate>Sun, 18 Oct 2026 14:11:09 +0000</pubDate>
+      <guid isPermaLink="false">ddb3ee2b933749432eb5d5b8a056d2300b26da73</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 14:11:10 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #NLPRSD&lt;br /&gt; Issued at 08:36 PM 18 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Isabela(Divilacan, Maconacon, SanPablo, Cabagan), #Cagayan(Peñablanca, SantaAna, Gonzaga, LalLo, Gattaran, Baggao, Buguey, SantaTeresita) and #Batanes(Itbayat) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(IlaganCity and Tumauini) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 18 Oct 2026 14:11:08 +0000</pubDate>
+      <guid isPermaLink="false">4f9da405bdf7b5c19613b2eb27f4ec27f4089704</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 14:11:10 +0000</ns2:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 1 #NLPRSD&lt;br /&gt; Issued at 07:34 PM 18 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Isabela(Divilacan, IlaganCity, Maconacon, SanPablo, Cabagan, Tumauini) and #Cagayan(Peñablanca) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 18 Oct 2026 12:03:31 +0000</pubDate>
       <guid isPermaLink="false">4daf11b5f87d81fdc357470afd001118b172be3e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 12:03:31 +0000</ns0:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 12:03:31 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
@@ -38,14 +62,6 @@
       <guid isPermaLink="false">aaef696c67fcdc84789da50dba619449f9eecf05</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 17 Oct 2026 21:03:31 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 17 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
-      <pubDate>Sat, 17 Oct 2026 13:53:15 +0000</pubDate>
-      <guid isPermaLink="false">5998246682077f548d936dd05c1d605c3dff0a37</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 17 Oct 2026 13:53:15 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
