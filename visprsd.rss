@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 18 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2026 12:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 07:35 PM 18 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Iloilo(IloiloCity, Oton and SanMiguel) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -194,14 +194,6 @@
       <guid isPermaLink="false">cd1988c7f59aebe92cb418cd06d04c328f1f9dfc</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 17 Oct 2026 12:07:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 06:35 PM 17 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(SantaFe, Bantayan), #Iloilo(Ajuy, Sara, Balasan), #Aklan(Batan, NewWashington, Kalibo, Banga, Balete, Altavas), #Antique(Tibiao), #NegrosOriental(CityOfBayawan) and #Palawan(Culion) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Daanbantayan, Medellin, SanFrancisco, Poro, Tudela), #Biliran(Maripipi), #Samar(SantoNiño), #Iloilo(SanDionisio, Concepcion, Batad, Estancia), #Capiz(RoxasCity, Ivisan, SapiAn, Jamindan), #Antique(Culasi), #Aklan(Madalag, Libacao), #NegrosOccidental(CityOfSipalay, Cauayan), #NegrosOriental(BaisCity and CityOfTanjay) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sat, 17 Oct 2026 12:03:34 +0000</pubDate>
-      <guid isPermaLink="false">9bad70b2c36cfa9f1d987ebfacaf091039e9c345</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 17 Oct 2026 12:03:34 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
