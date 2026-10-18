@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 19 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2026 21:47:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 23:42:10 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 9 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 9 FINAL #MINPRSD&lt;br /&gt; Issued at 03:00 AM 19 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -37,7 +37,7 @@
       <pubDate>Sun, 18 Oct 2026 14:11:09 +0000</pubDate>
       <guid isPermaLink="false">5b52067f1d47e5a74860aa6d3e09cbe6ac803836</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 14:11:09 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 14:11:09 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
@@ -102,14 +102,6 @@
       <guid isPermaLink="false">ac2daaac3b41b6c14f2166d45558357011cc2c56</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 03:03:33 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 13 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 13 #MINPRSD&lt;br /&gt; Issued at 06:30 AM 18 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaSibugay(Alicia, Olutanga), #DavaoOccidental(Sarangani), #ZamboangaDelSur(SanMiguel, Dimataling, Dinas, Pitogo, Tabina, SanPablo, Guipos, PagadianCity, Dumalinao, Tigbao, Labangan, Lakewood, Midsalip, Dumingag, Mahayag, Sominot, RamonMagsaysay, Tukuran, Aurora, Molave, Tambulig, Josefina), #ZamboangaDelNorte(Siayan, Sindangan, SergioOsmeñaSr.), #MisamisOccidental(DonVictorianoChiongbian, Tudela, Sinacaban, Clarin, OzamisCity, TangubCity, Bonifacio), #MaguindanaoDelNorte(DatuBlahT.Sinsuat), #SultanKudarat(Lebak and Kalamansig) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaSibugay(Mabuhay and Talusan) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 17 Oct 2026 23:20:34 +0000</pubDate>
-      <guid isPermaLink="false">78705e40e56f835917bb17525baeba5ffbe741d3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 17 Oct 2026 23:20:34 +0000</ns0:seen>
     </item>
   </channel>
 </rss>

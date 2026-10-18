@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 19 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2026 21:47:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 23:42:10 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 21 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 21 #NCR_PRSD&lt;br /&gt; Issued at: 7:10 AM, 19 October 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (Rosario, San Juan, Nasugbu, Padre Garcia, Lipa, and Santo Tomas), Cavite (Naic, Maragondon, General Emilio Aguinaldo, Magallanes, Alfonso, Ternate, Tanza, Indang, Trece Martires, and Rosario), Laguna (Santa Rosa, Cabuyao, Calamba, Los Banos, Bay, Calauan, Victoria, Pila, Santa Cruz, Siniloan, Pangil, Pakil, Paete, Kalayaan, Lumban, Pagsanjan, San Pablo, Rizal, Nagcarlan, Liliw, Majayjay, Luisiana, Cavinti, Magdalena, Alaminos, Famy, Santa Maria, and Mabitac), Quezon (Lucena, Tiaong, San Antonio, Dolores, Lucban, Pagbilao, Mauban, Real, Infanta, Sampaloc, Polillo, Patnanungan, Jomalig, Burdeos, and General Nakar), and Rizal (Jala-Jala, Tanay, and Pililla) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Sariaya, Candelaria, and Tayabas) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 18 Oct 2026 23:42:23 +0000</pubDate>
+      <guid isPermaLink="false">a1fd6c84a39328dad0100335a07f5bc8722bf567</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 23:42:23 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 20 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 20 #NCR_PRSD&lt;br /&gt; Issued at: 4:50 AM, 19 October 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (Mabini, Tingloy, Batangas City, Lobo, Bauan, and San Pascual), Laguna (Nagcarlan, Liliw, Majayjay, Magdalena, Santa Cruz, Pagsanjan, Pakil, Pangil, Mabitac, Santa Maria, Siniloan, Famy, Cavinti, Luisiana, San Pablo, Rizal, and Pila), Quezon (Panukulan, Burdeos, Patnanungan, Jomalig, Atimonan, Pagbilao, Tayabas, Lucena, Lucban, Sampaloc, Mauban, Infanta, General Nakar, Dolores, Tiaong, Candelaria, Sariaya, Quezon, Lopez, Guinayangan, Tagkawayan, Gumaca, Plaridel, Padre Burgos, Agdangan, Unisan, and Pitogo), and Rizal (Jala-Jala, Pililla, and Tanay) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Laguna (Lumban, Kalayaan, and Paete) and Quezon (Real, Polillo, Calauag, Perez, and Alabat) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 18 Oct 2026 21:03:34 +0000</pubDate>
       <guid isPermaLink="false">a821c20150552bcd6116764c2854930d55668f7c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 21:03:34 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 21:03:34 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 19 #NCRPRSD</title>
@@ -104,21 +112,13 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 00:03:33 +0000</ns0:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 8 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #NCR_PRSD&lt;br /&gt; Issued at: 6:00 AM, 18 October 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Laguna (Santa Maria, Siniloan, Famy, and Pangil), Quezon (Burdeos, Panukulan, Patnanungan, Jomalig, Quezon, Lopez, San Narciso, Buenavista, Atimonan, Padre Burgos, Agdangan, Unisan, Plaridel, Gumaca, Macalelon, Pitogo, General Nakar, Infanta, Real, and Pagbilao), and Rizal (Tanay) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Tagkawayan, Calauag, Guinayangan, Polillo, Alabat, and Perez) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 17 Oct 2026 23:20:34 +0000</pubDate>
-      <guid isPermaLink="false">dde4c5a2c91797cc005324ffdc25443ff4410e8c</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 17 Oct 2026 23:20:34 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
