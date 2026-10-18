@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 18 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2026 05:58:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:03:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 24 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 24 #SLPRSD&lt;br /&gt; Issued at 01:40 PM 18 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Catanduanes(Caramoran, Bagamanoc, Panganiban, Viga, Gigmoto), #Albay(Malinao, CityOfTabaco, Malilipot, SantoDomingo, LegazpiCity, Manito, Daraga), #NorthernSamar(Mapanas, Gamay, Lapinig, Catubig, Pambujan, SanRoque, SilvinoLobos, LasNavas), #Sorsogon(Barcelona, Bulusan, Casiguran, Gubat, Irosin, Matnog, PrietoDiaz, SantaMagdalena, CityOfSorsogon), #Masbate(Uson, Dimasalang, Palanas, Cataingan, Esperanza, PioV.Corpuz, Placer, Cawayan, Milagros, CityOfMasbate, Mobo, SanFernando, Batuan), #CamarinesSur(Siruma, Tinambac, Lagonoy), #CamarinesNorte(Mercedes, Basud, Daet, Talisay, Vinzons and Paracale) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Catanduanes(Pandan), #CamarinesSur(Caramoan, Garchitorena, Presentacion), #Albay(RapuRapu, Bacacay), #NorthernSamar(Palapag, Laoang, Mondragon, Catarman, LopeDeVega, Bobon, SanJose, Rosario, Lavezares, Allen, Biri, SanAntonio, Victoria, SanIsidro, Capul and SanVicente) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -146,14 +146,6 @@
       <guid isPermaLink="false">5b409bf896323413b94e47a9b7ec147fde867d75</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 17 Oct 2026 09:03:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 11 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 11 #SLPRSD&lt;br /&gt; Issued at 01:30 PM 17 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #NorthernSamar(Allen, Lavezares, Rosario, SanJose, SanRoque, Pambujan), #Catanduanes(Bato, Virac, SanMiguel, Baras), #Romblon(SanFernando, Cajidiocan) and #CamarinesNorte(SantaElena) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NorthernSamar(SanIsidro, Bobon, Victoria, Catarman, LopeDeVega, SilvinoLobos, LasNavas, Mondragon), #CamarinesNorte(JosePanganiban, Capalonga, Labo and Paracale) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 17 Oct 2026 06:03:34 +0000</pubDate>
-      <guid isPermaLink="false">d557439f2bd2fbd386b2c36b3430647d42174b3a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 17 Oct 2026 06:03:34 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
