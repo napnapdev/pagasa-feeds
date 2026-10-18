@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 18 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 18 Oct 2026 14:10:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 17 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 17 #NCR_PRSD&lt;br /&gt; Issued at: 10:15 PM, 18 October 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Calumpit, Plaridel, Baliuag, Pulilan, Hagonoy, Paombong, Malolos, and San Miguel), Nueva Ecija (Cabiao, San Antonio, Gapan, and San Isidro), Pampanga (Apalit, San Simon, San Luis, Macabebe, Masantol, Minalin, Candaba, Arayat, Santa Ana, Sasmuan, Santo Tomas, and Mexico), and Quezon (Panukulan, Polillo, Patnanungan, Jomalig, Tagkawayan, Lopez, Guinayangan, Calauag, Perez, Quezon, Alabat, General Nakar, Infanta, Real, Plaridel, Gumaca, Atimonan, San Francisco, San Andres, and Mulanay) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Burdeos) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 18 Oct 2026 15:03:34 +0000</pubDate>
+      <guid isPermaLink="false">36ff8b2d9f65368b4e6537cdadf1b81a303c6734</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 15:03:34 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 16 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 16 #NCR_PRSD&lt;br /&gt; Issued at: 6:55 PM, 18 October 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Dona Remedios Trinidad and Norzagaray), Laguna (Santa Maria, Siniloan, Famy, Kalayaan, Paete, Pakil, Pangil, Mabitac, Lumban, Los Banos, Calamba, Cabuyao, and Bay), Nueva Ecija (General Tinio), Quezon (Calauag, Guinayangan, Buenavista, Lopez, Jomalig, Patnanungan, Polillo, Burdeos, Panukulan, General Nakar, Infanta, and Real), Rizal (Tanay, Rodriguez, Antipolo, Pililla, Jala-Jala, Cardona, and Binangonan), Tarlac (Mayantoc, Capas, and Santa Ignacia), and Zambales (Masinloc and Cabangan) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Tagkawayan), Tarlac (San Jose), and Zambales (Botolan, Iba, and Palauig) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -102,7 +110,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
