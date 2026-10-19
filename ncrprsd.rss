@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 19 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 21:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 23:45:28 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #NCR_PRSD&lt;br /&gt; Issued at: 6:20 AM, 20 October 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (Infanta, Mauban, Real, Sampaloc, Alabat, Atimonan, Buenavista, Burdeos, Calauag, Guinayangan, Gumaca, Jomalig, Lopez, Panukulan, Patnanungan, Perez, Plaridel, Polillo, Quezon, Tagkawayan, and General Nakar) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 19 Oct 2026 23:45:40 +0000</pubDate>
+      <guid isPermaLink="false">9a495a8c6c3cacacecfc1ccf7b9877691d28e6ba</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 23:45:40 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 PM, 19 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
       <pubDate>Mon, 19 Oct 2026 14:34:15 +0000</pubDate>
       <guid isPermaLink="false">7de56c721928617339b65b364defa9b8ae6fee1c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 14:34:15 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 14:34:15 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 26 #NCRPRSD</title>
@@ -56,21 +64,13 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 01:48:21 +0000</ns0:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 21 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 21 #NCR_PRSD&lt;br /&gt; Issued at: 7:10 AM, 19 October 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (Rosario, San Juan, Nasugbu, Padre Garcia, Lipa, and Santo Tomas), Cavite (Naic, Maragondon, General Emilio Aguinaldo, Magallanes, Alfonso, Ternate, Tanza, Indang, Trece Martires, and Rosario), Laguna (Santa Rosa, Cabuyao, Calamba, Los Banos, Bay, Calauan, Victoria, Pila, Santa Cruz, Siniloan, Pangil, Pakil, Paete, Kalayaan, Lumban, Pagsanjan, San Pablo, Rizal, Nagcarlan, Liliw, Majayjay, Luisiana, Cavinti, Magdalena, Alaminos, Famy, Santa Maria, and Mabitac), Quezon (Lucena, Tiaong, San Antonio, Dolores, Lucban, Pagbilao, Mauban, Real, Infanta, Sampaloc, Polillo, Patnanungan, Jomalig, Burdeos, and General Nakar), and Rizal (Jala-Jala, Tanay, and Pililla) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Sariaya, Candelaria, and Tayabas) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 18 Oct 2026 23:42:23 +0000</pubDate>
-      <guid isPermaLink="false">a1fd6c84a39328dad0100335a07f5bc8722bf567</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 23:42:23 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
