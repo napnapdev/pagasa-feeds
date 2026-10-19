@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 20 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 21:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 21:30:34 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 8 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 8 FINAL #NLPRSD&lt;br /&gt; Issued at 04:56 AM 20 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -54,14 +54,6 @@
       <guid isPermaLink="false">84f180d988609f940b37f22d202d006280acbf20</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 23:42:23 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #NLPRSD&lt;br /&gt; Issued at 05:10 AM 19 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(Pamplona, Abulug, Ballesteros, SanchezMira, Aparri), #Apayao(Luna, SantaMarcela), #Isabela(SanPablo, Cabagan, Tumauini and IlaganCity) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Maconacon and Divilacan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 18 Oct 2026 21:30:49 +0000</pubDate>
-      <guid isPermaLink="false">27eae339c64d122514b12f0bcbc0bd0ae5f818bf</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 21:30:49 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
