@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 19 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 14:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:03:25 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 PM, 19 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">a884455b6bca91117725a1e20376b90dd9674924</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 17:25:02 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 17 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 17 #NCR_PRSD&lt;br /&gt; Issued at: 10:15 PM, 18 October 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Calumpit, Plaridel, Baliuag, Pulilan, Hagonoy, Paombong, Malolos, and San Miguel), Nueva Ecija (Cabiao, San Antonio, Gapan, and San Isidro), Pampanga (Apalit, San Simon, San Luis, Macabebe, Masantol, Minalin, Candaba, Arayat, Santa Ana, Sasmuan, Santo Tomas, and Mexico), and Quezon (Panukulan, Polillo, Patnanungan, Jomalig, Tagkawayan, Lopez, Guinayangan, Calauag, Perez, Quezon, Alabat, General Nakar, Infanta, Real, Plaridel, Gumaca, Atimonan, San Francisco, San Andres, and Mulanay) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Burdeos) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 18 Oct 2026 15:03:34 +0000</pubDate>
-      <guid isPermaLink="false">36ff8b2d9f65368b4e6537cdadf1b81a303c6734</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 15:03:34 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
