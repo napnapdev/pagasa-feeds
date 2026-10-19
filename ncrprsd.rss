@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 19 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 01:48:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 03:03:26 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 22 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 22 #NCR_PRSD&lt;br /&gt; Issued at: 9:20 AM, 19 October 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (San Juan, Rosario, Padre Garcia, Santo Tomas, Tanauan, Malvar, Lipa, Balete, and Mataasnakahoy), Bulacan (Dona Remedios Trinidad and Norzagaray), Quezon (Candelaria, Dolores, San Antonio, Sariaya, Tiaong, General Nakar, Tayabas, Infanta, Lucban, Lucena, Mauban, Pagbilao, Real, Sampaloc, Agdangan, Atimonan, Buenavista, Burdeos, General Luna, Guinayangan, Gumaca, Jomalig, Lopez, Macalelon, Padre Burgos, Panukulan, Patnanungan, Pitogo, Plaridel, Polillo, Tagkawayan, and Unisan), Laguna, and Rizal within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Calauag, Alabat, Quezon, and Perez) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -104,21 +104,13 @@
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 03:30:51 +0000</ns1:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 10 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 10 #NCR_PRSD&lt;br /&gt; Issued at: 9:50 AM, 18 October 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (San Juan, Rosario, Padre Garcia, Lipa, Santo Tomas, Taysan, Ibaan, Lobo, Batangas City, and San Jose), Bulacan (Dona Remedios Trinidad and Norzagaray), Laguna (Alaminos, Bay, Calauan, Liliw, Los Banos, Luisiana, Magdalena, Majayjay, Nagcarlan, Pagsanjan, Pila, Rizal, San Pablo, Santa Cruz, Victoria, Cavinti, Famy, Kalayaan, Lumban, Mabitac, Paete, Pakil, Pangil, Santa Maria, and Siniloan), Quezon (Candelaria, Dolores, San Antonio, Sariaya, Tiaong, General Nakar, Infanta, Lucban, Lucena, Pagbilao, Real, Agdangan, Alabat, Atimonan, Burdeos, Guinayangan, Jomalig, Padre Burgos, Panukulan, Patnanungan, Perez, Polillo, Tagkawayan, Calauag, Quezon, and Plaridel), and Rizal (Antipolo, Rodriguez, San Mateo, Tanay, Baras, Jala-Jala, and Pililla) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Mauban, Tayabas, and Sampaloc) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 18 Oct 2026 03:03:33 +0000</pubDate>
-      <guid isPermaLink="false">cd9a4d0735ef59e64eddc249558971cd26252cc2</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 03:03:33 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>

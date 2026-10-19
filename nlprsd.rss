@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 19 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 01:48:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 03:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 19 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
+      <pubDate>Mon, 19 Oct 2026 03:03:39 +0000</pubDate>
+      <guid isPermaLink="false">570cd1938b0a410a95ff92fac62956a3e9625b95</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 03:03:39 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 6 #NLPRSD&lt;br /&gt; Issued at 08:02 AM 19 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Isabela(Divilacan, SanPablo, Cabagan, Tumauini), #Cagayan(Baggao and TuguegaraoCity) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Maconacon) and #Cagayan(Peñablanca) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Mon, 19 Oct 2026 00:15:42 +0000</pubDate>
       <guid isPermaLink="false">7b1cb41e4a8ed9989d617f91a4144a76c8c0a975</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 00:15:42 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 00:15:42 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #NLPRSD</title>
@@ -62,22 +70,6 @@
       <guid isPermaLink="false">4daf11b5f87d81fdc357470afd001118b172be3e</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 12:03:31 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 18 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cagayan and #IlocosNorte within 12 hours.</description>
-      <pubDate>Sun, 18 Oct 2026 03:03:33 +0000</pubDate>
-      <guid isPermaLink="false">04a33a399cbd50e4ad57ae5531e917b3a3b30cea</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 03:03:33 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 18 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Aurora within 12 hours.</description>
-      <pubDate>Sun, 18 Oct 2026 03:03:32 +0000</pubDate>
-      <guid isPermaLink="false">eb63c5a3de13f0dfd20e9af14aa9847b101b28b0</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 03:03:33 +0000</ns2:seen>
     </item>
   </channel>
 </rss>

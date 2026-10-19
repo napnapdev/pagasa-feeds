@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 19 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 01:48:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 03:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 19 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoOriental, #DavaoOccidental, #DavaoDeOro, #DavaoDelSur, #MisamisOriental, #MisamisOccidental, #LanaoDelNorte, #Camiguin and #Bukidnon within 12 hours.</description>
+      <pubDate>Mon, 19 Oct 2026 03:03:39 +0000</pubDate>
+      <guid isPermaLink="false">3a25212117116553427ab19cacca4042a30f95d0</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 03:03:39 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 9 FINAL #MINPRSD&lt;br /&gt; Issued at 03:00 AM 19 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">e587568cf3c6c418a88c7f133a902ae25b241970</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 05:59:08 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 14 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 14 FINAL #MINPRSD&lt;br /&gt; Issued at 09:20 AM 18 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 18 Oct 2026 03:03:33 +0000</pubDate>
-      <guid isPermaLink="false">ac2daaac3b41b6c14f2166d45558357011cc2c56</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 18 Oct 2026 03:03:33 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
