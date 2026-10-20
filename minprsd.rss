@@ -6,14 +6,30 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 20 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2026 13:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:03:23 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 20 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoOriental, #DavaoOccidental, #DavaoDeOro and #DavaoDelSur within 12 hours.</description>
+      <pubDate>Tue, 20 Oct 2026 15:03:39 +0000</pubDate>
+      <guid isPermaLink="false">d56597db8a682d86d0c44d1c7d890fda79d248ec</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 15:03:39 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Information #MINPRSD&lt;br /&gt; Issued at 10:00 PM 20 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
+      <pubDate>Tue, 20 Oct 2026 15:03:38 +0000</pubDate>
+      <guid isPermaLink="false">00c0474f11dad9fb9081540759a6553963ff6060</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 15:03:39 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 8 FINAL #MINPRSD&lt;br /&gt; Issued at 09:00 PM 20 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 20 Oct 2026 13:02:49 +0000</pubDate>
       <guid isPermaLink="false">af6ab785c0c131d91a63a2c7760b2aa38d1abcea</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 13:02:49 +0000</ns0:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 13:02:49 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
@@ -102,22 +118,6 @@
       <guid isPermaLink="false">233f69785a95527ef4c473e223bcaf1afab276e0</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 18:03:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 19 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoOriental, #DavaoOccidental, #DavaoDeOro and #DavaoDelSur within 12 hours.</description>
-      <pubDate>Mon, 19 Oct 2026 14:34:15 +0000</pubDate>
-      <guid isPermaLink="false">3fda96bd6d789411e991c10bd360b01742b747ff</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 14:34:15 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #MINPRSD&lt;br /&gt; Issued at 09:30 PM 19 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #LanaoDelSur(MarawiCity, Marantao, Saguiaran, Maguing, Bumbaran, Balindong, BacolodKalawi, Madalum, Tugaya, Madamba, Kapatagan, Balabagan, Malabang, Picong, Calanogas, Pualas, Wao, LumbaBayabao, Butig, TagoloanII, BuadiposoBuntong, Mulondo, Taraka, Tamparan, DitsaanRamain, Pagayawan, Ganassi, Bubong, Kapai, Piagapo, Marogong), #Bukidnon(Kalilangan, Dangcagan, Kadingilan, Pangantucan, Kibawe, Talakag, Baungon, Sumilao, Damulog, ImpasugOng), #LanaoDelNorte(Baroy, Salvador, Nunungan, Sapad, Lala, Kapatagan, Pantar, SultanNagaDimaporo, Baloi, Tubod, Magsaysay, Tangcal, Tagoloan, Munai), #NorthCotabato(Banisilan, Arakan, Magpet, Makilala, CityOfKidapawan, PresidentRoxas, Antipas, Carmen, Matalam, Kabacan), #AgusanDelSur(Talacogon, LaPaz, Rosario, SanLuis, Esperanza, Bunawan), #DavaoDelSur(Hagonoy, Bansalan, Matanao, Sulop, Padada), #ZamboangaDelNorte(DipologCity, SergioOsmeñaSr.), #ZamboangaDelSur(Dumingag, Midsalip, Lakewood, Tigbao, SanMiguel, Tabina, Pitogo, Dimataling, Dinas, Guipos), #SurigaoDelSur(Hinatuan), #MisamisOriental(Manticao), #DavaoOriental(Tarragona, Banaybanay and Lupon) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are being experienced in #Bukidnon(CityOfMalaybalay, Lantapan, Cabanglasan, Maramag, DonCarlos, Kitaotao, CityOfValencia, SanFernando, Quezon), #DavaoDeOro, #LanaoDelSur(PoonaBayabao, Binidayan, LumbacaUnayan, SultanDumalondong, Lumbayanague, Masiu, Lumbatan, Bayang, Tubaran), #DavaoDelNorte, #DavaoCity, #AgusanDelSur(Loreto, Veruela, SantaJosefa, Trento), #DavaoOriental(Boston, Cateel, Baganga, Caraga, Manay), #DavaoDelSur(SantaCruz, CityOfDigos), #SurigaoDelSur(Lingig, CityOfBislig) and #MisamisOriental(Lugait) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 19 Oct 2026 14:34:14 +0000</pubDate>
-      <guid isPermaLink="false">959bb0420ea1f357ddf423dcd76e51b1c9d952da</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 14:34:15 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 03:00 PM, 22 October, 2026</title>
