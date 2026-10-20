@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 20 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2026 03:15:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 03:30:34 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 11:10 AM, 20 October 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (Malvar, Tanauan, Lipa, Balete, Mataasnakahoy, Talisay, San Juan, Padre Garcia, Rosario, Alitagtag, Cuenca, Santa Teresita, San Nicolas, Taal, San Luis, Bauan, San Jose, Ibaan, and San Pascual), Cavite (Tagaytay and Silang), Laguna (Majayjay, Luisiana, Cavinti, Lumban, Calamba, Los Banos, Bay, Alaminos, Calauan, Liliw, Cabuyao, Santa Rosa, Binan, Nagcarlan, Rizal, San Pablo, Kalayaan, Paete, Pakil, Pangil, Victoria, Pila, Santa Cruz, Pagsanjan, and Magdalena), and Quezon (Sampaloc, Panukulan, Burdeos, Polillo, Real, Lucena, Sariaya, Agdangan, Unisan, Plaridel, Perez, Alabat, Quezon, Gumaca, Pitogo, Macalelon, General Luna, Lopez, Guinayangan, Buenavista, Catanauan, Tagkawayan, Calauag, Candelaria, Tiaong, San Antonio, Dolores, Mulanay, and San Narciso) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Batangas (Santo Tomas) and Quezon (Mauban, Atimonan, Pagbilao, Tayabas, Lucban, and Padre Burgos) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 20 Oct 2026 03:30:48 +0000</pubDate>
+      <guid isPermaLink="false">d07c97ff9456ee6d626d248d1c240a57f04ebc8c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 03:30:48 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 9:30 AM, 20 October 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Laguna (Majayjay, Nagcarlan, Liliw, Luisiana, Rizal, and San Pablo) and Quezon (Calauag, Perez, Guinayangan, Lopez, Gumaca, Plaridel, Mauban, Sampaloc, Pitogo, Atimonan, Agdangan, Unisan, Padre Burgos, Pagbilao, Lucban, Tayabas, Sariaya, Lucena, Polillo, Dolores, Candelaria, Tiaong, Panukulan, Patnanungan, Burdeos, Buenavista, General Luna, Macalelon, Catanauan, Mulanay, San Narciso, Real, Infanta, and Jomalig) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Alabat, Quezon, and Tagkawayan) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 20 Oct 2026 02:08:56 +0000</pubDate>
       <guid isPermaLink="false">85eff945efb2d99eab2854c170acef74818425fa</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 02:08:56 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 02:08:56 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
@@ -70,7 +78,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
