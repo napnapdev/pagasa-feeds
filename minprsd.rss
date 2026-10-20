@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 20 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2026 12:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:02:36 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 8 FINAL #MINPRSD&lt;br /&gt; Issued at 09:00 PM 20 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 20 Oct 2026 13:02:49 +0000</pubDate>
+      <guid isPermaLink="false">af6ab785c0c131d91a63a2c7760b2aa38d1abcea</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 13:02:49 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 7 #MINPRSD&lt;br /&gt; Issued at 07:00 PM 20 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(CityOfBislig, Lingig, Barobo, Lianga, SanAgustin), #AgusanDelSur(Bunawan, SantaJosefa, LaPaz, Prosperidad, SanLuis, Esperanza, Veruela, Loreto), #DavaoDeOro(Monkayo), #DavaoOriental(Boston), #Bukidnon(ImpasugOng, CityOfMalaybalay, Cabanglasan), #ZamboangaDelSur(Lakewood, Tigbao, PagadianCity, Bayog, Midsalip and Labangan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #AgusanDelSur(Rosario, Trento, Talacogon, SanFrancisco), #SurigaoDelSur(Hinatuan and Tagbina) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 20 Oct 2026 12:03:35 +0000</pubDate>
       <guid isPermaLink="false">4afa23a4d1b775c0430906025b7feb34be5d0827</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 12:03:35 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 12:03:35 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
@@ -53,7 +61,7 @@
       <pubDate>Tue, 20 Oct 2026 02:08:56 +0000</pubDate>
       <guid isPermaLink="false">dc86f933530a1a1fd8b2d01dab3be3c2c3fe5a53</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 02:08:56 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 02:08:56 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
@@ -118,7 +126,7 @@
       <pubDate>Mon, 19 Oct 2026 09:03:39 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast DAVAO CITY- 10192026_1792393264.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 09:03:39 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 09:03:39 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
