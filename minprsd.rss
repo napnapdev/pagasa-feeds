@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 20 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2026 00:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 02:08:43 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 20 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoCity, #DavaoDelNorte, #DavaoOriental, #DavaoOccidental, #DavaoDeOro, #DavaoDelSur, #MisamisOriental, #MisamisOccidental, #LanaoDelNorte, #Camiguin and #Bukidnon within 12 hours.</description>
+      <pubDate>Tue, 20 Oct 2026 02:08:56 +0000</pubDate>
+      <guid isPermaLink="false">dc86f933530a1a1fd8b2d01dab3be3c2c3fe5a53</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 02:08:56 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 09:00 AM 20 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #MaguindanaoDelNorte(Parang, DatuOdinSinsuat, DatuBlahT.Sinsuat, SultanKudarat, SultanMastura, Matanog, Upi), #CotabatoCity, #LanaoDelSur(Kapatagan), #SurigaoDelNorte(SanFrancisco, Malimono), #AgusanDelNorte(Jabonga, Tubay and Santiago) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Camiguin which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 20 Oct 2026 02:08:55 +0000</pubDate>
+      <guid isPermaLink="false">7d87d9b5b647f3d28a76f9e7d62c7f23030a4a64</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 02:08:56 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 07:00 AM 20 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #Camiguin(Mambajao, Catarman, Sagay, Mahinog), #ZamboangaDelNorte(Baliguian, Siocon, Sirawai, Sibuco), #ZamboangaCity, #MaguindanaoDelNorte(SultanMastura, SultanKudarat, Buldon), #LanaoDelSur(Butig, Marogong and Malabang) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MaguindanaoDelNorte(Parang, Matanog, Barira), #LanaoDelSur(Kapatagan and Balabagan) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
