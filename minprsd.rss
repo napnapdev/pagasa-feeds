@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 20 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2026 18:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:30:36 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 02:00 AM 21 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(Cagwait, Marihatag, Bayabas, Lianga, SanAgustin, Hinatuan, Barobo), #Camiguin(Catarman, Guinsiliban, Sagay), #ZamboangaDelNorte(DapitanCity, Sibutad, Rizal), #MisamisOccidental(Baliangao, SapangDalaga and Plaridel) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Camiguin(Mambajao and Mahinog) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 20 Oct 2026 18:30:55 +0000</pubDate>
+      <guid isPermaLink="false">1ff7045af8bc042a030e2c778b74bb2018238926</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 18:30:55 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 12:00 AM 21 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(Bayabas, Tago, SanMiguel, Lianga, SanAgustin, Hinatuan, Barobo, Tagbina, CityOfTandag), #Camiguin, #Bukidnon(Baungon), #ZamboangaDelNorte(DapitanCity, Sibutad, Rizal, DipologCity), #MisamisOccidental(Baliangao and SapangDalaga) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelSur(Cagwait and Marihatag) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 20 Oct 2026 17:54:21 +0000</pubDate>
       <guid isPermaLink="false">5adf182867bd5f316c540548ac3ca2dc4588ecb4</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 17:54:21 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 17:54:21 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Tue, 20 Oct 2026 15:03:39 +0000</pubDate>
       <guid isPermaLink="false">d56597db8a682d86d0c44d1c7d890fda79d248ec</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 15:03:39 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 15:03:39 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Tue, 20 Oct 2026 15:03:38 +0000</pubDate>
       <guid isPermaLink="false">00c0474f11dad9fb9081540759a6553963ff6060</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 15:03:39 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 15:03:39 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
@@ -118,7 +126,7 @@
       <pubDate>Mon, 19 Oct 2026 09:03:39 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast DAVAO CITY- 10192026_1792393264.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 09:03:39 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 09:03:39 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
