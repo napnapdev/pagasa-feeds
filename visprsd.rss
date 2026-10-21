@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 21 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2026 15:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 18:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 12:45 AM 22 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(Tibiao, Libertad), #Aklan(Buruanga, Malay), #Leyte(Palompon, Isabel, Merida, Inopacan, Hindang, Abuyog, Macarthur, Javier, Mahaplag and LaPaz) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(SanRemigio, Sibalom, Patnongon, Belison, Culasi, Pandan, Caluya), #Aklan(Ibajay and Nabas) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Wed, 21 Oct 2026 18:03:35 +0000</pubDate>
+      <guid isPermaLink="false">c5726220914b3848a63765bf512264301358d66d</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 18:03:35 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 30 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 30 #VISPRSD&lt;br /&gt; Issued at 11:54 PM 21 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Mahaplag, Javier, Burauen, OrmocCity) and #OccidentalMindoro(SanJose) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are being experienced in #Cebu(SanFrancisco, Poro, Tudela, Pilar), #Leyte(CityOfBaybay, Albuera) and #OccidentalMindoro(Magsaysay) which may persist within 30 minutes to an hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Wed, 21 Oct 2026 18:03:34 +0000</pubDate>
+      <guid isPermaLink="false">109ab97d9b25bd223234a033e9c3bc60acc76a83</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 18:03:35 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 29 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 29 #VISPRSD&lt;br /&gt; Issued at 09:52 PM 21 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Tudela, Pilar), #Leyte(Javier), #Antique(Libertad), #Aklan(Nabas, Tangalan), #NegrosOriental(CityOfBayawan and SantaCatalina) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are being experienced in #Cebu(SanFrancisco, Poro), #Leyte(CityOfBaybay, Abuyog, Mahaplag), #NegrosOccidental(MoisesPadilla, HinobaAn), #Antique(Pandan) and #Aklan(Ibajay) which may persist within 30 minutes to an hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -238,7 +254,7 @@
       <pubDate>Tue, 20 Oct 2026 21:03:43 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Tagbilaran City, Bohol_10212026_1792529560.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 21:03:43 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 21:03:43 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 22 October, 2026</title>
@@ -247,7 +263,7 @@
       <pubDate>Tue, 20 Oct 2026 21:03:42 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_BUGLASAN FESTIVAL_NegOriental_10212026_1792529543.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 21:03:43 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 21:03:43 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 22 October, 2026</title>
@@ -256,7 +272,7 @@
       <pubDate>Tue, 20 Oct 2026 21:03:41 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10212026_1792529525.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 21:03:43 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 21:03:43 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 22 October, 2026</title>
@@ -265,7 +281,7 @@
       <pubDate>Tue, 20 Oct 2026 21:03:40 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10212026_1792529501.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 21:03:43 +0000</ns6:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 21:03:43 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
