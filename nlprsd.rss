@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 21 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2026 00:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 03:03:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 20 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Aurora and #Cagayan within 12 hours.</description>
-      <pubDate>Tue, 20 Oct 2026 02:08:56 +0000</pubDate>
-      <guid isPermaLink="false">df8859750179bfb0a63a63c50f33350df6fecb38</guid>
+      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 21 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cagayan, #IlocosNorte and #Aurora within 12 hours.</description>
+      <pubDate>Wed, 21 Oct 2026 03:03:35 +0000</pubDate>
+      <guid isPermaLink="false">6026a9af72859f19536de904ddb4f326582403e6</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 02:08:56 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 03:03:35 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
