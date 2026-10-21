@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 21 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2026 21:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:03:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 4 #MINPRSD&lt;br /&gt; Issued at 06:00 AM 21 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(CityOfBislig, Lingig), #MisamisOriental(Balingasag, Jasaan, Villanueva, Tagoloan, Balingoan, Kinoguitan, Talisayan, Sugbongcogon, Binuangan), #Bukidnon(Malitbog, Baungon, Talakag, ManoloFortich, Sumilao), #DavaoCity, #DavaoOriental(Boston, Cateel), #SurigaoDelNorte(SurigaoCity, SanFrancisco, Sison, TaganaAn and Placer) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #TawiTawi(TurtleIslands), #Camiguin, #MisamisOriental(Claveria) and #Bukidnon(ImpasugOng) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 21 Oct 2026 00:03:35 +0000</pubDate>
+      <guid isPermaLink="false">f3dd0528acd026b8919d6ffbec28fbccbdd7fbb1</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 00:03:35 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 3 #MINPRSD&lt;br /&gt; Issued at 04:00 AM 21 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Camiguin(Mahinog, Guinsiliban, Sagay), #SurigaoDelSur(Hinatuan, CityOfBislig, Lingig) and #TawiTawi(TurtleIslands) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Camiguin(Mambajao and Catarman) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">7d87d9b5b647f3d28a76f9e7d62c7f23030a4a64</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 20 Oct 2026 02:08:56 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 07:00 AM 20 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #Camiguin(Mambajao, Catarman, Sagay, Mahinog), #ZamboangaDelNorte(Baliguian, Siocon, Sirawai, Sibuco), #ZamboangaCity, #MaguindanaoDelNorte(SultanMastura, SultanKudarat, Buldon), #LanaoDelSur(Butig, Marogong and Malabang) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MaguindanaoDelNorte(Parang, Matanog, Barira), #LanaoDelSur(Kapatagan and Balabagan) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 19 Oct 2026 23:45:40 +0000</pubDate>
-      <guid isPermaLink="false">8de089c2d4b27ad64c9ba1dfc26b44ab618994e3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 23:45:40 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 03:00 PM, 22 October, 2026</title>
