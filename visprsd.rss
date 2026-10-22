@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 22 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 06:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:30:34 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 19 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 19 #VISPRSD&lt;br /&gt; Issued at 02:24 PM 22 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(Amlan, SanJose, DumagueteCity, Valencia, Bacong, Dauin, Zamboanguita), #Leyte(Abuyog), #SouthernLeyte(Hinundayan, Anahawan, SaintBernard, SanJuan, Libagon, TomasOppus, Bontoc), #Bohol(Inabanga, Danao, Carmen, Ubay, SierraBullones, GarciaHernandez), #Iloilo(BarotacNuevo, Pototan, NewLucena, Pavia, SantaBarbara, Janiuay, Maasin), #Antique(Valderrama), #Aklan(Tangalan), #Capiz(Panitan and MaAyon) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are being experienced in #NegrosOriental(Bindoy, Manjuyod, BaisCity, Mabinay, CityOfBayawan, SantaCatalina, Siaton, Pamplona, Basay, CityOfTanjay, Sibulan), #Antique(TobiasFornier, AniniY, Pandan, SanRemigio), #Guimaras(Sibunag, Jordan), #SouthernLeyte(Sogod, Silago, Hinunangan), #Leyte(Matalom), #Bohol(Sagbayan, Mabini, Clarin, Catigbian, Valencia), #NegrosOccidental(Cauayan, CityOfSipalay), #Aklan(Nabas, Ibajay), #Capiz(Panay, Pontevedra, Dao), #Iloilo(Zarraga, IloiloCity, Leganes, Dumangas), #Cebu(LapuLapuCity, Cordova, MandaueCity), #Palawan(SofronioEspanola and Narra) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Thu, 22 Oct 2026 06:30:48 +0000</pubDate>
+      <guid isPermaLink="false">9bdce80e3c80f53238bba21792b9bbb3be9c371c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 06:30:48 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 18 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 18 #VISPRSD&lt;br /&gt; Issued at 01:56 PM 22 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Pavia, Leganes, SantaBarbara), #Bohol(BienUnido, Talibon) and #NegrosOriental(LaLibertad) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are being experienced in #Iloilo(Oton, IloiloCity), #NegrosOriental(Tayasan, Jimalalud and Ayungon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Thu, 22 Oct 2026 06:07:40 +0000</pubDate>
       <guid isPermaLink="false">d31bb0f969631cc554dd8677c28c239f8256f752</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 06:07:40 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 06:07:40 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 17 #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Thu, 22 Oct 2026 06:03:32 +0000</pubDate>
       <guid isPermaLink="false">458df269de628415e5debbc862c8459529bb867e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 06:03:32 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 06:03:32 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 16 #VISPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Thu, 22 Oct 2026 06:03:31 +0000</pubDate>
       <guid isPermaLink="false">05f94a1340d2b660d592689a6d895e3359d8e4b7</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 06:03:32 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 06:03:32 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
@@ -37,7 +45,7 @@
       <pubDate>Thu, 22 Oct 2026 05:16:57 +0000</pubDate>
       <guid isPermaLink="false">721e05552fab5668ec3b2276f73c0e3dde7bafd6</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 05:16:57 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 05:16:57 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
@@ -45,7 +53,7 @@
       <pubDate>Thu, 22 Oct 2026 05:16:56 +0000</pubDate>
       <guid isPermaLink="false">77e4ff62f66524926ac625b6265ddb1cdbcdaca5</guid>
       <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 05:16:57 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 05:16:57 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
@@ -53,7 +61,7 @@
       <pubDate>Thu, 22 Oct 2026 05:16:55 +0000</pubDate>
       <guid isPermaLink="false">afe2e9e7697c1de83b670eb7198f07d879bf8b46</guid>
       <category>Thunderstorm Advisory</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 05:16:57 +0000</ns5:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 05:16:57 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
