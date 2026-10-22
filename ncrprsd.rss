@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 22 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 06:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:07:24 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 AM, 22 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -78,14 +78,6 @@
       <guid isPermaLink="false">571116c7efae73b3bb998e681339aa5e8dd18739</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 09:03:36 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 12:55 PM, 21 October 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Mariveles, Orion, Bagac, Limay, Pilar, Balanga, Abucay, Samal, Orani, and Morong), Cavite (Cavite City, Ternate, Noveleta, Rosario, Tanza, Naic, and Maragondon), Laguna (Pangil, Pakil, Paete, Kalayaan, Lumban, Cavinti, Luisiana, Majayjay, Siniloan, Famy, Mabitac, and Santa Maria), and Quezon (Real, Atimonan, Sampaloc, Tayabas, Lucban, Pagbilao, Lucena, Infanta, Mulanay, San Narciso, San Francisco, and San Andres) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Mauban) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 21 Oct 2026 06:03:33 +0000</pubDate>
-      <guid isPermaLink="false">dc76b0fcf9bc0e448247579d6aa734ec7d522500</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 06:03:33 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
