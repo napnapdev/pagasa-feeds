@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 22 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 10:16:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:03:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 6 #MINPRSD&lt;br /&gt; Issued at 06:00 PM 22 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelSur(Lakewood, Midsalip, Josefina, Bayog, Sominot, Aurora, RamonMagsaysay, Mahayag, Molave, Tambulig, Kumalarang), #Bukidnon(ManoloFortich, Cabanglasan, CityOfMalaybalay, Lantapan, Libona, Baungon, Malitbog), #LanaoDelNorte(Lala, Baroy, Tubod, Magsaysay), #AgusanDelSur(LaPaz, SanLuis, Talacogon, SanFrancisco, Rosario), #MisamisOccidental(Bonifacio, TangubCity), #ZamboangaDelNorte(Sibuco), #ZamboangaSibugay(Mabuhay, Olutanga, Talusan, Alicia, Malangas, Buug, Imelda, Payao, Diplahan, Siay, Tungawan), #LanaoDelSur(Madamba, Pualas, Calanogas, Ganassi, Malabang, Pagayawan), #DavaoCity, #DavaoDelNorte(CityOfSamal, CityOfPanabo, Carmen, BraulioE.Dujali), #AgusanDelNorte(Buenavista, ButuanCity), #MisamisOriental(GingoogCity, Sugbongcogon, Binuangan, Kinoguitan, Balingoan, Claveria, Talisayan, Medina, Balingasag, Lagonglong, Salay), #SurigaoDelSur(Madrid, Carmen, SanMiguel, CityOfTandag, Tago, Lianga, Marihatag, Cagwait, Bayabas, Barobo, SanAgustin), #Basilan(CityOfIsabela, Lantawan, Maluso and HadjiMuhtamad) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaDelSur(Tabina, Pitogo, VincenzoA.Sagun, Margosatubig, Dinas, SanPablo, SanMiguel, Guipos, Dumalinao, Tigbao, Labangan, PagadianCity, Tukuran, Lapuyan, Dimataling), #Bukidnon(Sumilao, ImpasugOng), #LanaoDelNorte(Kapatagan, SultanNagaDimaporo, Sapad, Salvador, Nunungan), #ZamboangaCity, #LanaoDelSur(Picong), #AgusanDelSur(Esperanza, CityOfBayugan, Sibagat, Prosperidad), #AgusanDelNorte(LasNieves), #SurigaoDelSur(Lanuza and Cortes) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -45,7 +45,7 @@
       <pubDate>Thu, 22 Oct 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="false">b5d08bb7ac8b4f62c1ad4b74333c2cfd0baf359e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 03:03:33 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 03:03:33 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -53,7 +53,7 @@
       <pubDate>Thu, 22 Oct 2026 03:03:32 +0000</pubDate>
       <guid isPermaLink="false">9661d5f6c63244699a474644d3ebd9a8aa4467b4</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 03:03:33 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 03:03:33 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
@@ -94,22 +94,6 @@
       <guid isPermaLink="false">9067e0778233ff03a989fe8c47eae08fd6224407</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 14:36:10 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #MINPRSD&lt;br /&gt; Issued at 07:30 PM 21 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #MisamisOriental(GingoogCity, Lagonglong, Salay, Medina, Sugbongcogon, Kinoguitan, Balingoan, Talisayan, Binuangan, Villanueva, Jasaan, Tagoloan), #AgusanDelSur(LaPaz, Loreto, Veruela, SantaJosefa, Trento, Sibagat, CityOfBayugan), #SurigaoDelSur(Lingig, CityOfBislig, Hinatuan, SanAgustin, Marihatag, SanMiguel, Tago, Bayabas), #AgusanDelNorte(ButuanCity, RemediosT.Romualdez, Magallanes), #ZamboangaDelSur(Pitogo, Tabina, SanPablo, Lapuyan, SanMiguel, Kumalarang), #ZamboangaSibugay(Kabasalan, Naga, Titay, RosellerLim, Ipil, Siay, Malangas, Imelda, Payao, Alicia, Mabuhay, Talusan, Olutanga, Diplahan, Buug), #Bukidnon(ImpasugOng, Malitbog, CityOfMalaybalay and Cabanglasan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MisamisOriental(Balingasag, Claveria), #AgusanDelSur(Esperanza, SanFrancisco, Rosario, Bunawan, Prosperidad, SanLuis, Talacogon), #AgusanDelNorte(Buenavista, LasNieves), #SurigaoDelSur(Tagbina, Barobo, Lianga), #LanaoDelSur(Picong, Malabang), #LanaoDelNorte(SultanNagaDimaporo), #ZamboangaDelSur(VincenzoA.Sagun, Dimataling, Dinas, Margosatubig) and #ZamboangaCity which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 21 Oct 2026 12:03:35 +0000</pubDate>
-      <guid isPermaLink="false">742b303e84ca7d4fc15fcaf77a47dd6f8b1a8e16</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 12:03:35 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 11 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 11 #MINPRSD&lt;br /&gt; Issued at 06:30 PM 21 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over #MisamisOccidental(OzamisCity, TangubCity, Bonifacio), #LanaoDelSur(TagoloanII, Maguing, Kapai, DitsaanRamain, BuadiposoBuntong, Mulondo, Bubong, MarawiCity, Picong, Taraka, Tamparan), #LanaoDelNorte(SultanNagaDimaporo, Baroy, Kapatagan, Sapad, Lala), #Bukidnon(CityOfValencia, Libona, Baungon, Talakag, SanFernando), #ZamboangaDelSur(Tambulig, Aurora, Tukuran, PagadianCity, SanPablo, Dumalinao, RamonMagsaysay, Sominot, Midsalip, Tigbao, Guipos, Kumalarang, SanMiguel, Bayog, Lakewood, Dimataling, Dinas, Lapuyan, Margosatubig, VincenzoA.Sagun, Labangan), #ZamboangaSibugay(Ipil, Kabasalan, Buug, Diplahan, Imelda, Siay, Naga, Malangas, Tungawan, RosellerLim, Alicia, Payao), #AgusanDelSur(Sibagat), #SurigaoDelSur(Cortes, Lanuza, Carmen, Lingig), #MisamisOriental(Claveria, CagayanDeOroCity, Villanueva, Jasaan, GingoogCity, Balingasag), #DavaoOriental(Cateel, Boston), #Basilan(HadjiMohammadAjul, Akbar, Tuburan, AlBarka, TipoTipo), #DavaoDeOro(Laak, Monkayo), #AgusanDelNorte(Buenavista, ButuanCity) and #DavaoDelNorte(Kapalong) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bukidnon(CityOfMalaybalay, ImpasugOng, Sumilao, Lantapan, Cabanglasan, Malitbog, ManoloFortich), #AgusanDelSur(SanLuis, Talacogon, Prosperidad, SanFrancisco, CityOfBayugan, Loreto, LaPaz, Rosario, Bunawan, Esperanza, Veruela, Trento, SantaJosefa), #AgusanDelNorte(LasNieves), #SurigaoDelSur(Barobo, Lianga, SanAgustin, Tagbina, Hinatuan, Marihatag, Tago, Bayabas, Cagwait, SanMiguel, CityOfBislig, CityOfTandag) and #MisamisOriental(Tagoloan) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 21 Oct 2026 12:03:34 +0000</pubDate>
-      <guid isPermaLink="false">86d938a8bdb14a9effc96460cd7d5db62b7e46cf</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 12:03:35 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
