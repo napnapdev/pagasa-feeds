@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 22 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 09:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:16:02 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 1 #NCR_PRSD&lt;br /&gt; Issued at: 2:51 PM, 22 October 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Dinalupihan and Hermosa), Pampanga (Lubao, Sasmuan, and Guagua), and Zambales (Subic, Castillejos, and Olongapo) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Pampanga (Floridablanca) and Zambales (San Marcelino) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -21,7 +21,7 @@
       <pubDate>Thu, 22 Oct 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="false">0c6fe637c150f5a5b02d1343b8012c1a204e184b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 03:03:33 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 03:03:33 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #NCRPRSD</title>
@@ -78,7 +78,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
