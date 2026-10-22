@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 22 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 00:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:30:35 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 08:00 AM 22 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #DavaoDelNorte(CityOfSamal), #Basilan, #Sulu(Banguingui), #TawiTawi(Mapun, TurtleIslands), #DavaoDeOro(Pantukan, Maragusan), #MaguindanaoDelNorte(DatuBlahT.Sinsuat, Buldon), #DavaoOriental(Baganga, Caraga), #NorthCotabato(Pigkawayan, Alamada), #ZamboangaSibugay(Alicia, Payao, Mabuhay, Talusan), #LanaoDelSur(Butig), #ZamboangaCity and #ZamboangaDelNorte(Sibuco) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -102,14 +102,6 @@
       <guid isPermaLink="false">ec5370b436fd63f309e659cc07fbd0fbcbd11c25</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 03:03:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #MINPRSD&lt;br /&gt; Issued at 08:00 AM 21 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Camiguin, #MisamisOriental(Claveria, Kinoguitan, Sugbongcogon, Balingoan, Binuangan), #Bukidnon(Libona, ManoloFortich, Baungon) and #LanaoDelNorte(IliganCity) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #TawiTawi(TurtleIslands) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 21 Oct 2026 00:30:49 +0000</pubDate>
-      <guid isPermaLink="false">0d7404243154251db050dfcc72623cd68c4ee6f3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 00:30:49 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 03:00 PM, 22 October, 2026</title>
