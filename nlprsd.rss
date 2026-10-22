@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 22 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 12:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:30:38 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 9 #NLPRSD</title>
       <description>Rainfall Advisory No. 9 #NLPRSD&lt;br /&gt; Weather System: Typhoon (TY) #RosalPH&lt;br /&gt; Issued at 08:00 PM 22 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Quirino(Maddela), #NuevaVizcaya(DupaxDelNorte, DupaxDelSur), #IlocosSur(Quirino, Cervantes, GregorioDelPilar, Lidlidda, Banayoyo, Burgos, Santiago, SanEsteban, SantaMaria, Narvacan, Nagbukel), #Abra(Boliney, Daguioman, Bucloc), #LaUnion(Burgos, Aringay, Tubao, Agoo, SantoTomas, Pugo, Rosario), #Benguet(Sablan, Mankayan, Tublay, Kabayan, Bokod, LaTrinidad, Buguias, Tuba, BaguioCity, Itogon), #MountainProvince(Besao, Tadian), #Cagayan(Calayan, SantaAna, Gonzaga, SantaTeresita, Buguey, LalLo, Allacapan, Camalaniugan and Aparri) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Batanes, #Aurora(MariaAurora, Dipaculao, Dinalungan, Casiguran, Dilasag), #Quirino(Nagtipunan), #NuevaVizcaya(AlfonsoCastaneda), #LaUnion(CityOfSanFernando, Bauang, Naguilian, Bagulin, SanJuan, Balaoan, Bacnotan, Luna, Bangar, Sudipen, Santol, SanGabriel, Caba), #IlocosSur(Tagudin, SantaCruz, SantaLucia, Salcedo, Suyo, Sigay, Alilem, Sugpon, SanEmilio, Galimuyod, CityOfCandon), #Benguet(Kibungan, Bakun, Kapangan, Atok), #Abra(Tubo, Luba, Manabo, Sallapadan, Bucay, Peñarrubia, SanIsidro, Villaviciosa and Pilar) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -78,14 +78,6 @@
       <guid isPermaLink="false">289c36890efa8228176b6167d9f6aa9f37949ab2</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 14:36:10 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 1 #NLPRSD</title>
-      <description>Rainfall Advisory No. 1 #NLPRSD&lt;br /&gt; Weather System: Super Typhoon (STY) #RosalPH&lt;br /&gt; Issued at 08:00 PM 21 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Batanes and #Cagayan(Calayan) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 21 Oct 2026 12:15:44 +0000</pubDate>
-      <guid isPermaLink="false">bb6ddb824280f5019b20c0002a39229b06018c62</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 12:15:44 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
