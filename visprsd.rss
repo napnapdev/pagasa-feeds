@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 22 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 03:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:15:27 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 10:40 AM 22 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(Isabela, MoisesPadilla, Binalbagan), #Palawan(Rizal, Quezon, Aborlan and Cagayancillo) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(CityOfHimamaylan and CityOfKabankalan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -322,14 +322,6 @@
       <guid isPermaLink="false">1fd28e4630eebc2eb2f7c55493c134672e936e4a</guid>
       <category>Thunderstorm Advisory</category>
       <ns8:seen xmlns:ns8="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 04:31:12 +0000</ns8:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 10:56 AM 21 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(LapuLapuCity, Cordova), #Bohol(Dagohoy, SanMiguel, Batuan, SierraBullones), #Leyte(Javier, Inopacan and Mahaplag) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are being experienced in #Bohol(Clarin, Sagbayan, Carmen, Danao, Anda, Duero, Guindulman) and #Leyte(CityOfBaybay) which may persist within 30 minutes to an hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 21 Oct 2026 03:07:37 +0000</pubDate>
-      <guid isPermaLink="false">2e24fcb66dd35d1d8eda267eca348111ac85bca3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 21 Oct 2026 03:07:37 +0000</ns5:seen>
     </item>
   </channel>
 </rss>
