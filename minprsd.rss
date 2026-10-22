@@ -6,7 +6,31 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 22 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 00:34:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:03:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 10:00 AM 22 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #Sarangani(Maitum, Malungon, Glan), #SouthCotabato(T'Boli, Polomolok), #ZamboangaDelSur(SanMiguel, Guipos, Lapuyan, PagadianCity, Tigbao, Dumalinao, SanPablo, Dinas, Dimataling, Tabina, Margosatubig, VincenzoA.Sagun, Pitogo, Labangan), #Bukidnon(Lantapan, Libona, Maramag, Quezon, SanFernando, Pangantucan, CityOfMalaybalay), #ZamboangaCity, #ZamboangaDelNorte(Sibuco, Sirawai, Siocon, Baliguian), #Sulu(PanglimaEstino, Parang, Luuk, KalingalanCaluang and Omar) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are being experienced in #Sulu(OldPanamao, Indanan, Talipao, Jolo, Patikul, Maimbung) and #Bukidnon(CityOfValencia) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 22 Oct 2026 03:03:33 +0000</pubDate>
+      <guid isPermaLink="false">5e07f9c2a1d49df95019b9de34751013e1263315</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 03:03:33 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 22 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #MisamisOriental, #MisamisOccidental, #LanaoDelNorte, #Camiguin and #Bukidnon within 12 hours.</description>
+      <pubDate>Thu, 22 Oct 2026 03:03:32 +0000</pubDate>
+      <guid isPermaLink="false">b5d08bb7ac8b4f62c1ad4b74333c2cfd0baf359e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 03:03:33 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Information #MINPRSD&lt;br /&gt; Issued at 10:00 AM 22 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
+      <pubDate>Thu, 22 Oct 2026 03:03:31 +0000</pubDate>
+      <guid isPermaLink="false">9661d5f6c63244699a474644d3ebd9a8aa4467b4</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 03:03:33 +0000</ns2:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 08:00 AM 22 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #DavaoDelNorte(CityOfSamal), #Basilan, #Sulu(Banguingui), #TawiTawi(Mapun, TurtleIslands), #DavaoDeOro(Pantukan, Maragusan), #MaguindanaoDelNorte(DatuBlahT.Sinsuat, Buldon), #DavaoOriental(Baganga, Caraga), #NorthCotabato(Pigkawayan, Alamada), #ZamboangaSibugay(Alicia, Payao, Mabuhay, Talusan), #LanaoDelSur(Butig), #ZamboangaCity and #ZamboangaDelNorte(Sibuco) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -110,7 +134,7 @@
       <pubDate>Mon, 19 Oct 2026 09:03:39 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast DAVAO CITY- 10192026_1792393264.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 09:03:39 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 19 Oct 2026 09:03:39 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
