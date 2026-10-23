@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 24 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2026 21:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 22:33:16 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 25 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Sipalay_NegOcc_10242026_1792789643.pdf</link>
@@ -315,22 +315,6 @@
       <guid isPermaLink="false">ab385c43eaed1611d2cc5293046b347d748e15c2</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 00:03:39 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #VISPRSD&lt;br /&gt; Issued at 05:50 AM 23 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Minglanilla, CityOfTalisay, ToledoCity, CityOfNaga), #Antique(Sebaste, Hamtic, AniniY), #Guimaras(Jordan, Buenavista) and #Iloilo(Ajuy) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Guimaras(NuevaValencia), #Antique(TobiasFornier, Libertad, Pandan), #Iloilo(Concepcion, SanJoaquin), #Aklan(Nabas), #Palawan(Cagayancillo, Quezon, Bataraza and Balabac) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Thu, 22 Oct 2026 22:23:26 +0000</pubDate>
-      <guid isPermaLink="false">db4a038ad96ae73286e6b4a8097aa07ab12e3e51</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 22:23:26 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 05:39 AM 23 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(MandaueCity and CebuCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(LapuLapuCity and Cordova) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Thu, 22 Oct 2026 22:23:25 +0000</pubDate>
-      <guid isPermaLink="false">409345cc643bc91be70fe908971795fc17e7dfc2</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 22:23:26 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
