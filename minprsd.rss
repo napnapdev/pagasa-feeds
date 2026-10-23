@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 23 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2026 10:26:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 2 #MINPRSD</title>
+      <description>Rainfall Advisory No. 2 #MINPRSD&lt;br /&gt; Weather System: Trough of TY Rosal&lt;br /&gt; Issued at 08:00 PM 23 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaCity, #ZamboangaDelSur(Aurora, Tukuran, Sominot, RamonMagsaysay, Josefina, Tambulig, Molave, Mahayag, Bayog), #LanaoDelNorte(Kapatagan, Lala, Baroy, Tubod, Kolambugan, Magsaysay), #Basilan, #Sulu, #Camiguin, #MisamisOccidental, #ZamboangaDelNorte(DapitanCity, Sibutad, Rizal, LaLibertad, Mutia, Piñan, Polanco, DipologCity, SergioOsmeñaSr., Godod, Tampilisan), #ZamboangaSibugay(Payao, RosellerLim, Tungawan, Alicia, Talusan, Olutanga, Mabuhay, Diplahan, Imelda, Titay, Malangas and Buug) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #TawiTawi, #ZamboangaSibugay(Kabasalan, Naga, Ipil and Siay) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.</description>
+      <pubDate>Fri, 23 Oct 2026 12:03:37 +0000</pubDate>
+      <guid isPermaLink="false">6360d09e88ec9f8dee3e1cfa884838c396384dff</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 12:03:37 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 1 #MINPRSD</title>
       <description>Rainfall Advisory No. 1 #MINPRSD&lt;br /&gt; Weather System: Trough of TY Rosal&lt;br /&gt; Issued at 06:00 PM 23 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are expected over #ZamboangaDelNorte(Sirawai, Sindangan, Siayan, LeonB.Postigo, Godod, DapitanCity, Sibutad, Rizal, Polanco, Piñan, DipologCity, SergioOsmeñaSr.), #ZamboangaDelSur(Bayog, Midsalip, Lakewood, Aurora, Labangan, Tukuran, Sominot, RamonMagsaysay, Dumingag), #ZamboangaSibugay(Talusan, Olutanga, Mabuhay, Alicia, Payao, Tungawan, Imelda, Siay, Diplahan, Naga, Kabasalan, Malangas, Buug), #LanaoDelNorte(Kapatagan, SultanNagaDimaporo), #MisamisOccidental(Baliangao, Plaridel, Calamba and SapangDalaga) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaCity, #TawiTawi, #Sulu, #Basilan and #ZamboangaDelNorte(Sibuco) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.</description>
       <pubDate>Fri, 23 Oct 2026 10:27:03 +0000</pubDate>
       <guid isPermaLink="false">57534016eebc444eb817f36940c593ecd4412595</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 10:27:03 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 10:27:03 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 19 #MINPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Fri, 23 Oct 2026 10:27:02 +0000</pubDate>
       <guid isPermaLink="false">191964aded602bf4a1c161f76a7c5bd0765a6d8e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 10:27:03 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 10:27:03 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 18 #MINPRSD</title>
