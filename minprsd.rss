@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 23 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2026 12:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:30:36 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 20 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 20 #MINPRSD&lt;br /&gt; Issued at 08:15 PM 23 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #DavaoDeOro(Pantukan, NewBataan, Maragusan, Maco, Mabini, Nabunturan, Compostela, Montevista, Monkayo, Mawab), #AgusanDelNorte(CityOfCabadbaran, Tubay, Magallanes, ButuanCity, Buenavista, Nasipit, Carmen, Santiago, Jabonga, LasNieves), #MisamisOriental(Magsaysay), #AgusanDelSur(SanFrancisco, Prosperidad, LaPaz, SanLuis, Esperanza, CityOfBayugan, Rosario), #SultanKudarat(Lebak, Esperanza, Kalamansig, Palimbang), #MaguindanaoDelSur(SouthUpi), #NorthCotabato(CityOfKidapawan, Makilala, Magpet), #DavaoOccidental(Malita, SantaMaria), #SurigaoDelSur(Lianga, Barobo, SanAgustin), #DavaoDelSur(Malalag, Sulop, Kiblawan, Padada, Hagonoy, Matanao, Magsaysay, Bansalan) and #LanaoDelNorte(IliganCity) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #AgusanDelNorte(RemediosT.Romualdez), #AgusanDelSur(Talacogon), #DavaoCity, #DavaoDelSur(SantaCruz and CityOfDigos) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 23 Oct 2026 12:30:52 +0000</pubDate>
+      <guid isPermaLink="false">89c1f591f2d56abcb949b49e795689188394ceb5</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 12:30:52 +0000</ns2:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 2 #MINPRSD</title>
       <description>Rainfall Advisory No. 2 #MINPRSD&lt;br /&gt; Weather System: Trough of TY Rosal&lt;br /&gt; Issued at 08:00 PM 23 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaCity, #ZamboangaDelSur(Aurora, Tukuran, Sominot, RamonMagsaysay, Josefina, Tambulig, Molave, Mahayag, Bayog), #LanaoDelNorte(Kapatagan, Lala, Baroy, Tubod, Kolambugan, Magsaysay), #Basilan, #Sulu, #Camiguin, #MisamisOccidental, #ZamboangaDelNorte(DapitanCity, Sibutad, Rizal, LaLibertad, Mutia, Piñan, Polanco, DipologCity, SergioOsmeñaSr., Godod, Tampilisan), #ZamboangaSibugay(Payao, RosellerLim, Tungawan, Alicia, Talusan, Olutanga, Mabuhay, Diplahan, Imelda, Titay, Malangas and Buug) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #TawiTawi, #ZamboangaSibugay(Kabasalan, Naga, Ipil and Siay) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.</description>
@@ -29,7 +37,7 @@
       <pubDate>Fri, 23 Oct 2026 10:27:02 +0000</pubDate>
       <guid isPermaLink="false">191964aded602bf4a1c161f76a7c5bd0765a6d8e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 10:27:03 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 10:27:03 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 18 #MINPRSD</title>
@@ -61,7 +69,7 @@
       <pubDate>Fri, 23 Oct 2026 03:03:43 +0000</pubDate>
       <guid isPermaLink="false">2e2140247b513052a8d22f4ad031ae6480f08224</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 03:03:43 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 03:03:43 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 15 #MINPRSD</title>
