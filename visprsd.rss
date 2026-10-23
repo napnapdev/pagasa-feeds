@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 23 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2026 03:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:30:37 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 1 #VISPRSD</title>
+      <description>Rainfall Advisory No. 1 #VISPRSD&lt;br /&gt; Weather System: Trough of TC Rosal&lt;br /&gt; Issued at 11:00 AM 23 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate with occasionally Heavy rains are expected over #NegrosOccidental(CityOfHimamaylan, Binalbagan, Hinigaran, Isabela, MoisesPadilla, LaCastellana, BacolodCity, CityOfTalisay, SilayCity, EnriqueB.Magalona, CityOfVictorias, Manapla, CityOfEscalante, Toboso, Calatrava, SalvadorBenedicto, SanCarlosCity), #Guimaras(Jordan, SanLorenzo, Buenavista), #Siquijor, #Cebu(LapuLapuCity, DanaoCity, Malabuyoc, Alegria, Alcoy, Dalaguete, Moalboal, Alcantara, Ronda, Dumanjug, Barili, Aloguinsan, Pinamungajan, Cordova, Asturias, Carmen, Catmon, Tuburan), #NegrosOriental(CanlaonCity, Vallehermoso, CityOfGuihulngan, LaLibertad, Jimalalud, Tayasan), #Palawan(Balabac, Rizal, Bataraza, Brooke'sPoint, SofronioEspanola, Quezon, Aborlan and Narra) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Cagayancillo), #NegrosOccidental(HinobaAn, CityOfSipalay, Cauayan, Candoni, Ilog, CityOfKabankalan, Pulupandan, BagoCity, Valladolid, SanEnrique, LaCarlotaCity, Pontevedra, Murcia, CadizCity, SagayCity), #Guimaras(NuevaValencia, Sibunag), #NegrosOriental(Ayungon, Bindoy, Mabinay, Manjuyod, BaisCity, CityOfBayawan, Basay, SantaCatalina, Siaton, Zamboanguita, Dauin, Bacong, CityOfTanjay, Valencia, Pamplona, Sibulan, Amlan, SanJose, DumagueteCity), #Cebu(Boljoon, Badian, Argao, Sibonga, CityOfCarcar, SanFernando, CityOfNaga, Minglanilla, CityOfTalisay, CebuCity, ToledoCity, Balamban, Consolacion, Liloan, MandaueCity, Compostela, Oslob, Ginatilan, Samboan and Santander) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
+      <pubDate>Fri, 23 Oct 2026 03:30:52 +0000</pubDate>
+      <guid isPermaLink="false">4153bc148fd35fa046b32e8d92e6ce7152d7b4fe</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 03:30:52 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 10 #VISPRSD&lt;br /&gt; Issued at 10:30 AM 23 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(CityOfCarcar, Moalboal, CebuCity, MandaueCity, Consolacion), #SouthernLeyte(Bontoc and Sogod) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Sibonga, Argao, Dalaguete, Badian, Minglanilla, CityOfNaga, SanFernando, CityOfTalisay, Alcoy, Boljoon), #SouthernLeyte(CityOfMaasin and TomasOppus) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Fri, 23 Oct 2026 03:03:43 +0000</pubDate>
       <guid isPermaLink="false">276ecec60b5c0932a74141b55feaf5e814fd5a0d</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 03:03:43 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 03:03:43 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Fri, 23 Oct 2026 03:03:42 +0000</pubDate>
       <guid isPermaLink="false">5d75557bb5d276751f2920677428d7338b876828</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 03:03:43 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 03:03:43 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Fri, 23 Oct 2026 03:03:41 +0000</pubDate>
       <guid isPermaLink="false">f10a87a5faf1790895fc7a0b3ca154fbac08a92b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 03:03:43 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 03:03:43 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
@@ -78,7 +86,7 @@
       <pubDate>Thu, 22 Oct 2026 21:03:35 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/Camotes_Triathlon_10232026_1792701683.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 21:03:35 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 21:03:35 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 24 October, 2026</title>
@@ -87,7 +95,7 @@
       <pubDate>Thu, 22 Oct 2026 21:03:34 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_BUGLASAN FESTIVAL_NegOriental_10232026_1792701668.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 21:03:35 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 21:03:35 +0000</ns5:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 24 October, 2026</title>
@@ -96,7 +104,7 @@
       <pubDate>Thu, 22 Oct 2026 21:03:33 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10232026_1792701652.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 21:03:35 +0000</ns5:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 21:03:35 +0000</ns6:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 24 October, 2026</title>
@@ -105,7 +113,7 @@
       <pubDate>Thu, 22 Oct 2026 21:03:32 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10223026_1792701632.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 21:03:35 +0000</ns6:seen>
+      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Thu, 22 Oct 2026 21:03:35 +0000</ns7:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
