@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 25 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2026 21:49:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 23:47:13 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 4 #MINPRSD&lt;br /&gt; Issued at 05:45 AM 25 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(Lingig, CityOfBislig, Marihatag, Cagwait) and #DavaoOriental(Manay) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelSur(Lianga and SanAgustin) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 24 Oct 2026 23:47:26 +0000</pubDate>
+      <guid isPermaLink="false">7943d5857d48f384e82ddb8169f064cfa0ea0477</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 24 Oct 2026 23:47:26 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 3 #MINPRSD&lt;br /&gt; Issued at 04:30 AM 25 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelNorte(Malimono, SurigaoCity, SanFrancisco, TaganaAn, Placer, Sison, Mainit), #AgusanDelNorte(Jabonga), #SurigaoDelSur(Lianga, Barobo), #DinagatIslands(Dinagat and SanJose) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DinagatIslands(Libjo and Tubajon) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -53,7 +61,7 @@
       <pubDate>Sat, 24 Oct 2026 15:03:32 +0000</pubDate>
       <guid isPermaLink="false">387d155c51c04f4ba1c5fe1f3d9868fd1679df67</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 24 Oct 2026 15:03:32 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 24 Oct 2026 15:03:32 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 6 #MINPRSD</title>
