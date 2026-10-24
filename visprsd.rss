@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 25 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2026 21:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:30:35 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 03:39 AM 25 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Balabac and Bataraza) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -243,51 +243,6 @@
       <guid isPermaLink="false">7e64bdae65b32f4b8683a99008d1db39331771a0</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 24 Oct 2026 00:03:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 25 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Sipalay_NegOcc_10242026_1792789643.pdf</link>
-      <description>Issued at: 05:00 AM, 24 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 25 October, 2026</description>
-      <pubDate>Fri, 23 Oct 2026 21:15:52 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Sipalay_NegOcc_10242026_1792789643.pdf</guid>
-      <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 21:15:52 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 25 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/Camotes_Triathlon_10242026_1792789619.pdf</link>
-      <description>Issued at: 05:00 AM, 24 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 25 October, 2026</description>
-      <pubDate>Fri, 23 Oct 2026 21:15:51 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/Camotes_Triathlon_10242026_1792789619.pdf</guid>
-      <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 21:15:52 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 25 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_BUGLASAN FESTIVAL_NegOriental_10242026_1792789604.pdf</link>
-      <description>Issued at: 05:00 AM, 24 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 25 October, 2026</description>
-      <pubDate>Fri, 23 Oct 2026 21:15:50 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_BUGLASAN FESTIVAL_NegOriental_10242026_1792789604.pdf</guid>
-      <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 21:15:52 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 25 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10242026_1792789583.pdf</link>
-      <description>Issued at: 05:00 AM, 24 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 25 October, 2026</description>
-      <pubDate>Fri, 23 Oct 2026 21:15:49 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10242026_1792789583.pdf</guid>
-      <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 21:15:52 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 25 October, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10242026_1792789567.pdf</link>
-      <description>Issued at: 05:00 AM, 24 October, 2026&lt;br /&gt;Valid until: 05:00 AM, 25 October, 2026</description>
-      <pubDate>Fri, 23 Oct 2026 21:15:48 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10242026_1792789567.pdf</guid>
-      <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 21:15:52 +0000</ns5:seen>
     </item>
   </channel>
 </rss>
