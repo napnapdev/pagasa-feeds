@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 24 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2026 00:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:30:32 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 8 #VISPRSD</title>
       <description>Rainfall Advisory No. 8 FINAL #VISPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) Rosal&lt;br /&gt; Issued at 08:00 AM 24 October 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
@@ -307,14 +307,6 @@
       <guid isPermaLink="false">f10a87a5faf1790895fc7a0b3ca154fbac08a92b</guid>
       <category>Thunderstorm Advisory</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 03:03:43 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 08:00 AM 23 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(Pulupandan, BagoCity, BacolodCity, Murcia, Manapla, CadizCity), #Palawan(Narra, SofronioEspanola and Brooke'sPoint) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Guimaras(NuevaValencia), #NegrosOccidental(CityOfTalisay, SilayCity, EnriqueB.Magalona, CityOfVictorias), #Palawan(Cagayancillo and Quezon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 23 Oct 2026 00:15:40 +0000</pubDate>
-      <guid isPermaLink="false">bbcd2abacfb4e32c549c9c30d9417b04bdc3ab98</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 00:15:40 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
