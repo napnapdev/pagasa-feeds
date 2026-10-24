@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 25 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2026 21:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 21:07:23 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 24 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
@@ -38,14 +38,6 @@
       <guid isPermaLink="false">0ce278146631c2836655f1cc678a389a1c3ad020</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 24 Oct 2026 03:04:19 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 20 #NLPRSD</title>
-      <description>Rainfall Advisory No. 20 #NLPRSD&lt;br /&gt; Weather System: Typhoon (TY) #RosalPH&lt;br /&gt; Issued at 05:00 AM 24 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Batanes, #Cagayan(Calayan, Aparri, SantaAna, SantaTeresita, Buguey, Gonzaga, Claveria, SantaPraxedes, SanchezMira, Pamplona, Abulug, Ballesteros), #Aurora, #Isabela(Dinapigue, Palanan, SanMariano), #IlocosSur(Bantay, SantaCatalina, CityOfVigan, Caoayan, Santa, Nagbukel, Burgos, SanEsteban, Santiago, SanEmilio, Lidlidda, Banayoyo), #Abra(SanQuintin, Pidigan, SanIsidro, Pilar), #Benguet(Bokod, Itogon), #Pangasinan(SanNicolas, SanQuintin, SanManuel, Natividad, Tayug, Asingan, SantaMaria, Umingan), #IlocosNorte(Bangui, Burgos, Pagudpud, Adams and Dumalneg) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #IlocosSur(Narvacan and SantaMaria) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 23 Oct 2026 21:07:40 +0000</pubDate>
-      <guid isPermaLink="false">cfd427854141c8ee25d24bf1db5c2c646a126058</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 23 Oct 2026 21:07:40 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
