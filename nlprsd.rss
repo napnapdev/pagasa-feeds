@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 25 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2026 03:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 03:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 25 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
@@ -46,22 +46,6 @@
       <guid isPermaLink="false">b76081b95b2a5a6df767625b23e208c4c87292d4</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 24 Oct 2026 09:30:51 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 24 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #IlocosNorte and #Aurora within 12 hours.</description>
-      <pubDate>Sat, 24 Oct 2026 03:04:19 +0000</pubDate>
-      <guid isPermaLink="false">379dc7b98663753395ba40883998dc6ec2f32ec8</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 24 Oct 2026 03:04:19 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 21 #NLPRSD</title>
-      <description>Rainfall Advisory No. 21 FINAL #NLPRSD&lt;br /&gt; Weather System: Typhoon (TY) #RosalPH&lt;br /&gt; Issued at 11:00 AM 24 October 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 24 Oct 2026 03:04:18 +0000</pubDate>
-      <guid isPermaLink="false">0ce278146631c2836655f1cc678a389a1c3ad020</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 24 Oct 2026 03:04:19 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
