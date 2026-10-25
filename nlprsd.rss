@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 25 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2026 00:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:42:36 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 25 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
+      <pubDate>Sun, 25 Oct 2026 01:42:49 +0000</pubDate>
+      <guid isPermaLink="false">43ed32e968037d5778be4a780f083a1e986d5093</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 25 Oct 2026 01:42:49 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 25 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Aurora within 12 hours.</description>
+      <pubDate>Sun, 25 Oct 2026 01:42:48 +0000</pubDate>
+      <guid isPermaLink="false">af3ca84c867860ec7da8a03d382b094efa9aecec</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 25 Oct 2026 01:42:49 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 2 FINAL #NLPRSD&lt;br /&gt; Issued at 05:06 AM 25 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
