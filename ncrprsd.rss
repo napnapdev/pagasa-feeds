@@ -5,15 +5,31 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/ncrprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sun, 25 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2026 06:56:05 +0000</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 4:25 PM, 25 October 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (San Miguel, San Ildefonso, San Rafael, and Norzagaray), Nueva Ecija (General Tinio, Gapan, Penaranda, Lupao, Pantabangan, Munoz, Rizal, Llanera, General Mamerto Natividad, Palayan, Bongabon, Laur, Gabaldon, and Talavera), Quezon (General Nakar), and Rizal (Rodriguez) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bulacan (Dona Remedios Trinidad) and Nueva Ecija (Carranglan and San Jose) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 25 Oct 2026 09:03:33 +0000</pubDate>
+      <guid isPermaLink="false">26c9950f096c088a96fd3faf56a4b2280423b65d</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 25 Oct 2026 09:03:33 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 3:15 PM, 25 October 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Nueva Ecija (Gabaldon, Laur, Palayan, General Mamerto Natividad, Lupao, San Jose, Munoz, Talavera, Llanera, Santo Domingo, and Talugtug) and Quezon (Tagkawayan and Guinayangan) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Nueva Ecija (Carranglan, Pantabangan, Rizal, and Bongabon) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 25 Oct 2026 09:03:32 +0000</pubDate>
+      <guid isPermaLink="false">a8ac4c9dd531a5930cf0f4926dbb5bbc592950f4</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 25 Oct 2026 09:03:33 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 2:25 PM, 25 October 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Nueva Ecija (Carranglan, Lupao, San Jose, Rizal, and Bongabon) and Quezon (Tagkawayan, Guinayangan, Buenavista, San Narciso, San Andres, San Francisco, Mulanay, Lopez, Catanauan, and Calauag) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Nueva Ecija (Pantabangan) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 25 Oct 2026 06:56:20 +0000</pubDate>
       <guid isPermaLink="false">7a77b8ff8160e82652ca69ec1446957c33ee7ae3</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 25 Oct 2026 06:56:20 +0000</ns0:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 25 Oct 2026 06:56:20 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
@@ -29,7 +45,7 @@
       <pubDate>Sun, 25 Oct 2026 03:03:36 +0000</pubDate>
       <guid isPermaLink="false">a48f05a5cfaf13726e84ac191424b2ce1f08b7db</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 25 Oct 2026 03:03:36 +0000</ns1:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 25 Oct 2026 03:03:36 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
@@ -46,7 +62,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
