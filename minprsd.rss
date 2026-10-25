@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 25 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2026 03:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 03:15:29 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 6 #MINPRSD&lt;br /&gt; Issued at 09:45 AM 25 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #Sulu, #TawiTawi, #ZamboangaCity, #SurigaoDelSur(Marihatag, Cagwait, Bayabas, Tago, CityOfTandag and Cortes) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -102,14 +102,6 @@
       <guid isPermaLink="false">2b9b136c7437790d385ad6a8b61e0d0287a5da28</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 24 Oct 2026 06:30:46 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 3 #MINPRSD</title>
-      <description>Rainfall Advisory No. 3 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:00 AM 24 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #SurigaoDelSur(CityOfTandag, Carmen, Lanuza, Madrid, Cortes), #AgusanDelSur(Sibagat), #ZamboangaCity, #Basilan, #ZamboangaSibugay, #MisamisOccidental, #DavaoOriental(GovernorGeneroso, CityOfMati), #MisamisOriental(GingoogCity, Claveria), #Bukidnon(Malitbog, Sumilao, ManoloFortich, Pangantucan, DonCarlos, CityOfValencia), #Camiguin, #ZamboangaDelSur, #ZamboangaDelNorte, #LanaoDelNorte(SultanNagaDimaporo, Kapatagan, Sapad), #LanaoDelSur(Picong, Malabang, Balabagan, Wao), #SultanKudarat(Lebak, Kalamansig), #MaguindanaoDelNorte(DatuBlahT.Sinsuat, Upi) and #AgusanDelNorte within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #SurigaoDelSur(Cantilan, Carrascal), #TawiTawi, #DinagatIslands, #Sulu, #Bukidnon(ImpasugOng) and #SurigaoDelNorte which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
-      <pubDate>Sat, 24 Oct 2026 03:15:43 +0000</pubDate>
-      <guid isPermaLink="false">c23c20e8d3de173180ae7d7847675b6bfb9a423a</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 24 Oct 2026 03:15:43 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
