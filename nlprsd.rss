@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 25 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2026 12:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 15:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 25 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
+      <pubDate>Sun, 25 Oct 2026 15:03:36 +0000</pubDate>
+      <guid isPermaLink="false">24602923372199499f4dc619e751e783e3336770</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 25 Oct 2026 15:03:36 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 4 #NLPRSD&lt;br /&gt; Issued at 06:53 PM 25 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Cagayan(Gattaran, Peñablanca, SantaTeresita, Buguey, Baggao), #Kalinga(Pasil, Balbalan, Pinukpuk), #Isabela(Maconacon), #MountainProvince(Sabangan, Bauko, Sadanga, Bontoc, Tadian, Besao, Sagada), #Ifugao(Hungduan, Tinoc, Asipulo, Lamut), #Benguet(Buguias, Bokod, Kabayan, Atok, Tublay, BaguioCity, LaTrinidad, Kapangan, Sablan), #Abra(Lagayan, SanJuan, Lagangilang, LicuanBaay, Malibcong, Danglas, Daguioman, Boliney, Tubo, Bucloc, Sallapadan), #IlocosNorte(Banna, Marcos, Solsona, Dingras), #Pangasinan(Sison, Binalonan, Asingan, Tayug, SantaMaria), #LaUnion(Pugo, Rosario, Tubao, Aringay, Santol, Sudipen, Bagulin, Burgos), #IlocosSur(Alilem, Cervantes and Quirino) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Gonzaga, LalLo, SantaAna), #Ifugao(Banaue, Kiangan, Lagawe, Mayoyao, Aguinaldo, Hingyon), #Kalinga(Lubuagan, CityOfTabuk, Tanudan, Tinglayan), #MountainProvince(Barlig, Natonin, Paracelis), #Pangasinan(SanNicolas, SanQuintin, Natividad, SanManuel), #Benguet(Tuba, Itogon, Bakun, Kibungan, Mankayan), #IlocosSur(Sugpon), #LaUnion(SanGabriel), #Abra(Tineg, Lacub) and #IlocosNorte(NuevaEra) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">eec1122de711529caca743daba1ed49970f55dd3</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 24 Oct 2026 21:15:43 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 24 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
-      <pubDate>Sat, 24 Oct 2026 15:03:32 +0000</pubDate>
-      <guid isPermaLink="false">0ec7bb77fa935a11233aefc3ff16c57fa47582b0</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 24 Oct 2026 15:03:32 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
