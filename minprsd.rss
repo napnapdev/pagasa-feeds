@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 27 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2026 21:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 21:07:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 29 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 29 FINAL #MINPRSD&lt;br /&gt; Issued at 04:00 AM 27 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -118,14 +118,6 @@
       <guid isPermaLink="false">084f6867b0bc8ea77d489ebc87f39fc3a995ff46</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 25 Oct 2026 23:37:29 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 17 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 17 #MINPRSD&lt;br /&gt; Issued at 05:00 AM 26 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #DavaoOccidental(JoseAbadSantos), #SurigaoDelSur(CityOfBislig, Hinatuan, Tagbina, Tago, CityOfTandag, Cortes, Lanuza), #AgusanDelSur(Bunawan, Loreto, Rosario, Prosperidad, SanFrancisco), #ZamboangaDelNorte(DapitanCity, Sibutad, Gutalac, Baliguian), #DavaoDeOro(Laak, Montevista, Compostela, NewBataan), #Sarangani(Glan), #DavaoOriental(Cateel and Baganga) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DavaoOccidental(Sarangani), #DavaoOriental(Boston), #SurigaoDelSur(Lingig, Barobo, Bayabas, Cagwait, Marihatag, SanAgustin, Lianga), #AgusanDelSur(Trento, Veruela, SantaJosefa), #DavaoDeOro(Monkayo), #TawiTawi(Sibutu and Sitangkai) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 25 Oct 2026 21:07:32 +0000</pubDate>
-      <guid isPermaLink="false">1884c93dc6c418943c9430ce13c0a2502e3c3496</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 25 Oct 2026 21:07:32 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
