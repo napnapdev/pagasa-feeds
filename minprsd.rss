@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 26 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2026 12:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:06:15 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 26 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoOriental, #DavaoDelSur, #DavaoDelNorte, #DavaoCity and #DavaoDeOro within 12 hours.</description>
+      <pubDate>Mon, 26 Oct 2026 14:06:30 +0000</pubDate>
+      <guid isPermaLink="false">b6d4cd503410fdbbced03731f322a49523b609de</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 26 Oct 2026 14:06:30 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 25 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 25 #MINPRSD&lt;br /&gt; Issued at 09:00 PM 26 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #LanaoDelSur(Kapatagan), #MaguindanaoDelNorte(Matanog, Parang) and #LanaoDelNorte(Bacolod) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bukidnon(Libona, Baungon and Talakag) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 26 Oct 2026 14:06:29 +0000</pubDate>
+      <guid isPermaLink="false">28dd193a0563ded8dfce9a7eca6088002fb96c69</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 26 Oct 2026 14:06:30 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 24 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 24 #MINPRSD&lt;br /&gt; Issued at 07:00 PM 26 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #LanaoDelSur(Malabang, Calanogas, Pagayawan, Tubaran, LumbacaUnayan, Masiu, Binidayan, Bayang, BuadiposoBuntong, Mulondo, Taraka, PoonaBayabao, DitsaanRamain, MarawiCity, Wao, Saguiaran), #Bukidnon(Kalilangan, Lantapan, Maramag, Quezon, CityOfValencia, Kadingilan, DonCarlos), #AgusanDelNorte(LasNieves), #MisamisOriental(Balingasag, Medina, Lagonglong, Balingoan, Talisayan, Kinoguitan, Sugbongcogon, Binuangan, Salay, Jasaan, Naawan, Initao, Libertad, Manticao, Lugait, Gitagum, Laguindingan, CagayanDeOroCity, Opol), #AgusanDelSur(SanLuis, LaPaz), #NorthCotabato(Midsayap, Libungan, Aleosan, Pikit, Tulunan, Makilala, Kabacan, Pigkawayan), #ZamboangaDelNorte(Katipunan, Pres.ManuelA.Roxas, DipologCity, Manukan), #DavaoDelSur(SantaCruz, Matanao, Hagonoy), #DavaoCity, #MaguindanaoDelSur(Pagagawan, Pagalungan), #SultanKudarat(Columbio), #MaguindanaoDelNorte(Buldon), #LanaoDelNorte(Tagoloan, Pantar, PantaoRagat, PoonaPiagapo and Kauswagan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #LanaoDelSur(SultanDumalondong, Lumbatan, Lumbayanague, LumbaBayabao, Bubong, Bumbaran, Kapai, TagoloanII, Maguing, Tamparan, Butig, Marogong), #Bukidnon(Talakag, Pangantucan, Malitbog, ImpasugOng, CityOfMalaybalay, Baungon, ManoloFortich, Sumilao, Libona), #MisamisOriental(Claveria, GingoogCity, Villanueva, Tagoloan), #AgusanDelSur(Esperanza), #NorthCotabato(Alamada, Banisilan, Carmen), #DavaoDelSur(Magsaysay, Bansalan, CityOfDigos), #LanaoDelNorte(IliganCity, Linamon, Matungao and Baloi) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -53,7 +69,7 @@
       <pubDate>Mon, 26 Oct 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="false">45dc7184c9c92d741de613c1f550d3b6efe6ab3d</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 26 Oct 2026 03:03:33 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 26 Oct 2026 03:03:33 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 19 #MINPRSD</title>
