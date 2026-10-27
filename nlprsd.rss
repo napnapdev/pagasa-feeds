@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 27 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 08:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:03:17 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #NLPRSD&lt;br /&gt; Issued at 04:06 PM 27 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #IlocosNorte(Piddig, Solsona, Dingras, Sarrat, SanNicolas, CityOfBatac, Paoay, Currimao, Pinili, Badoc, NuevaEra), #Abra(Daguioman, Danglas, Dolores, LaPaz, Lagangilang, Lagayan, Langiden, LicuanBaay, Luba, Pidigan, Pilar, SanIsidro, SanJuan, SanQuintin, Villaviciosa), #MountainProvince(Besao, Sagada, Tadian, Bauko, Sabangan and Bontoc) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #IlocosNorte(Banna, Marcos), #Abra(Bangued, Boliney, Bucay, Bucloc, Manabo, Peñarrubia, Sallapadan, Tayum and Tubo) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 27 Oct 2026 09:03:35 +0000</pubDate>
+      <guid isPermaLink="false">a74dbfad4d67cf670b4e885ebb08a68061647e88</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 09:03:35 +0000</ns1:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 1 #NLPRSD</title>
       <description>Rainfall Advisory No. 1 #NLPRSD&lt;br /&gt; Weather System: Northeasterly Windflow &lt;br /&gt; Issued at 03:40 PM 27 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Cagayan(Peñablanca, Amulung, Iguig, Solana, Enrile, Baggao, Gattaran, LalLo, Gonzaga, SantaAna), #Isabela(Maconacon, SanPablo, Cabagan and Tumauini) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(TuguegaraoCity) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -21,7 +29,7 @@
       <pubDate>Tue, 27 Oct 2026 08:02:12 +0000</pubDate>
       <guid isPermaLink="false">0279021ac231cdfbee62f4ff960d7fb1db9cbc1e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 08:02:13 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 08:02:13 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Tue, 27 Oct 2026 02:22:06 +0000</pubDate>
       <guid isPermaLink="false">7fc222185a9242314822ca2e5e17c836b5cc5765</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 02:22:06 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 02:22:06 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
