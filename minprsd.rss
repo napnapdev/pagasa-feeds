@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 27 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 14:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:03:22 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 8 #MINPRSD&lt;br /&gt; Issued at 11:00 PM 27 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #ZamboangaSibugay(Olutanga, Talusan, Mabuhay, Alicia, Payao), #ZamboangaCity, #ZamboangaDelSur(VincenzoA.Sagun, Pitogo, Dimataling, Tabina and Margosatubig) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 27 Oct 2026 15:03:38 +0000</pubDate>
+      <guid isPermaLink="false">dbdd927850f1237c254e6ee2d6e140216d0eaf11</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 15:03:38 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 27 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoOriental, #DavaoDelSur, #DavaoDelNorte, #DavaoCity and #DavaoDeOro within 12 hours.</description>
       <pubDate>Tue, 27 Oct 2026 14:20:31 +0000</pubDate>
       <guid isPermaLink="false">96961a7189d212a854de9c7049bcbba32f3a2285</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 14:20:31 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 14:20:31 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Tue, 27 Oct 2026 14:20:30 +0000</pubDate>
       <guid isPermaLink="false">0fd0a8aca5cf9c8a189cebbe4f827632994da2ff</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 14:20:31 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 14:20:31 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
