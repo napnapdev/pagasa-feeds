@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 27 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 21:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:07:20 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 4 #NLPRSD</title>
+      <description>Rainfall Advisory No. 4 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Aminhan) / Shearline &lt;br /&gt; Issued at 05:00 AM 28 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Aurora(Baler, Casiguran, Dilasag, Dinalungan, Dipaculao, MariaAurora), #Isabela(Dinapigue, SanGuillermo, Echague, Jones, SanAgustin), #Quirino(Maddela, Nagtipunan, Cabarroguis, Aglipay), #NuevaVizcaya(AlfonsoCastaneda, DupaxDelSur, Kasibu and DupaxDelNorte) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aurora(Dingalan and SanLuis) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 27 Oct 2026 21:07:39 +0000</pubDate>
+      <guid isPermaLink="false">076f490e2655ebd98a314721bdfd78080deb8795</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 21:07:39 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 4 FINAL #NLPRSD&lt;br /&gt; Issued at 04:48 AM 28 October 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 27 Oct 2026 21:03:39 +0000</pubDate>
       <guid isPermaLink="false">0df82139d9a19c1a74131509dc96394872198b71</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 21:03:39 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 21:03:39 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 3 #NLPRSD</title>
@@ -37,7 +45,7 @@
       <pubDate>Tue, 27 Oct 2026 14:20:31 +0000</pubDate>
       <guid isPermaLink="false">2ea4a377bdff249f9b06ed8aea34686ea6f1a65a</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 14:20:31 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 14:20:31 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #NLPRSD</title>
