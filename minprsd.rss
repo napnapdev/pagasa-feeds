@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 27 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 18:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:29:23 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 10 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 10 #MINPRSD&lt;br /&gt; Issued at 03:00 AM 28 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #DavaoDelSur(SantaCruz, CityOfDigos, Matanao, Bansalan, Magsaysay and Hagonoy) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 27 Oct 2026 19:29:40 +0000</pubDate>
+      <guid isPermaLink="false">0fd50203ee24d75bc4b16c3d71bb61c0c484bc19</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 19:29:40 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 9 #MINPRSD&lt;br /&gt; Issued at 01:00 AM 28 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #DavaoCity, #NorthCotabato(Arakan, Magpet, Makilala, Tulunan, Pigkawayan), #Bukidnon(Kibawe), #DavaoDelSur(SantaCruz, CityOfDigos), #MaguindanaoDelSur(Gen.S.K.Pendatun, Ampatuan, SouthUpi, DatuAbdullahSangki), #SultanKudarat(PresidentQuirino, Lambayong, Esperanza, Isulan) and #MaguindanaoDelNorte(NorthernKabuntalan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Tue, 27 Oct 2026 18:03:36 +0000</pubDate>
       <guid isPermaLink="false">96308364aafa328db7679ea346de01a14767e05a</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 18:03:36 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 18:03:36 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Tue, 27 Oct 2026 14:20:31 +0000</pubDate>
       <guid isPermaLink="false">96961a7189d212a854de9c7049bcbba32f3a2285</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 14:20:31 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 14:20:31 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
