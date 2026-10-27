@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 27 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 03:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:03:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 AM, 27 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -46,14 +46,6 @@
       <guid isPermaLink="false">db08dfcb9e413bba7baf1c9ea89ed4cb97db35f2</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 26 Oct 2026 07:02:26 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #NCR_PRSD&lt;br /&gt; Issued at: 1:10 PM, 26 October 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (Lopez, Calauag, Guinayangan, Tagkawayan, Quezon, Polillo, Buenavista, Macalelon, General Luna, and Catanauan) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 26 Oct 2026 06:03:35 +0000</pubDate>
-      <guid isPermaLink="false">f6a7e15cd7393606ecfd6cb3d173c55a146b3087</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 26 Oct 2026 06:03:35 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
