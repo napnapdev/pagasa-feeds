@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 28 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2026 06:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:07:17 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 01:45 PM 28 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(TobiasFornier), #Bohol(Baclayon, Dauis, Panglao), #Leyte(OrmocCity, Leyte, Villaba, MatagOb, Palompon and Tabango) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(Hamtic), #Iloilo(SanJoaquin, Tigbauan, Alimodian), #Bohol(Cortes, Corella, TagbilaranCity), #NegrosOccidental(CityOfSipalay), #Leyte(Kananga, Capoocan) and #Palawan(Kalayaan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -241,38 +241,6 @@
       <guid isPermaLink="false">35b691add623ceceb76c20d4526903a3da8668a2</guid>
       <category>Thunderstorm Advisory</category>
       <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 08:02:13 +0000</ns5:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 14 #VISPRSD&lt;br /&gt; Issued at 01:35 PM 27 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(SanMiguel, Barugo, TaclobanCity, Alangalang and SantaFe) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(CityOfSipalay, HinobaAn, Ilog, CityOfKabankalan) and #Leyte(Babatngon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 27 Oct 2026 06:03:37 +0000</pubDate>
-      <guid isPermaLink="false">e160ce94c378eeb7c8f46a015dd540e16ae3d1ed</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 06:03:37 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 01:22 PM 27 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(SapiAn, Sigma, Mambusao, Panitan, MaAyon, Cuartero, Dumalag, Dumarao), #Iloilo(Sara, SantaBarbara, Leganes, IloiloCity, Pavia, Badiangan, Janiuay, Cabatuan), #EasternSamar(Lawaan), #Samar(Marabut), #Palawan(Narra, SofronioEspanola), #Cebu(Pinamungajan and Dumanjug) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(BarotacNuevo, Dumangas, Mina, NewLucena, Zarraga), #Capiz(Dao, Panay, Pontevedra, RoxasCity, Ivisan, PresidentRoxas), #Samar(CalbayogCity, SantaMargarita, SanJorge, Pagsanghan, Tarangnan, Calbiga, Pinabacdao, Villareal), #EasternSamar(Balangiga), #Palawan(Quezon, SanVicente, Roxas), #Cebu(ToledoCity and Barili) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 27 Oct 2026 06:03:36 +0000</pubDate>
-      <guid isPermaLink="false">9007155fed338fc2cfb6ad24693ee4f1063a5887</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 06:03:37 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #VISPRSD&lt;br /&gt; Issued at 12:20 PM 27 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Samar(Calbiga, Pinabacdao, Villareal, SanJorge, Pagsanghan, Tarangnan, Zumarraga, Talalora, Daram), #Iloilo(Dingle, BarotacNuevo) and #Palawan(Taytay) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(PuertoPrincesaCity, Kalayaan, Brooke'sPoint, Rizal, Bataraza, Balabac, Aborlan, Dumaran, Araceli), #Samar(Paranas, Hinabangan, SanSebastian, CityOfCatbalogan, Jiabong, Motiong, Gandara, SantaRita, Basey), #EasternSamar(Guiuan, CityOfBorongan) and #Iloilo(Anilao) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 27 Oct 2026 06:03:35 +0000</pubDate>
-      <guid isPermaLink="false">463bffc4eba2a5f57af502ab750323f6ae35950a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 06:03:37 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 12:00 PM 27 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(PresidentRoxas, Panay, Pontevedra), #Iloilo(Batad, Anilao, Estancia, Balasan, Mina), #Aklan(Buruanga), #Antique(Libertad), #Samar(SanJoseDeBuan, Calbiga) and #EasternSamar(CityOfBorongan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Carles, Banate, Pototan), #Capiz(Pilar), #Aklan(Malay, Nabas), #Samar(Matuguinao, Hinabangan), #EasternSamar(Sulat and SanJulian) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 27 Oct 2026 06:03:34 +0000</pubDate>
-      <guid isPermaLink="false">3cd310d302f20de8f0a12cb3d31ddbe1221be641</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 06:03:37 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
