@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 28 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2026 15:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:29:34 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 22 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 22 #VISPRSD&lt;br /&gt; Issued at 10:51 PM 28 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(SanCarlosCity, SalvadorBenedicto and SilayCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are being experienced in #NegrosOccidental(EnriqueB.Magalona, CityOfVictorias, Calatrava) and #NegrosOriental(SantaCatalina) which may persist within 30 minutes to an hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -182,7 +182,7 @@
       <pubDate>Tue, 27 Oct 2026 21:30:50 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Sipalay_NegOcc_10282026_1793135712.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 21:30:50 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 21:30:50 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 29 October, 2026</title>
@@ -191,7 +191,7 @@
       <pubDate>Tue, 27 Oct 2026 21:30:49 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10282026_1793135692.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 21:30:50 +0000</ns6:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 21:30:50 +0000</ns5:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 29 October, 2026</title>
@@ -200,7 +200,7 @@
       <pubDate>Tue, 27 Oct 2026 21:30:48 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10282026_1793135663.pdf</guid>
       <category>Special Forecast</category>
-      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 21:30:50 +0000</ns7:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 21:30:50 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
