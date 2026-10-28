@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 28 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2026 02:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:03:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 28 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte and #Aurora within 12 hours.</description>
+      <pubDate>Wed, 28 Oct 2026 03:03:49 +0000</pubDate>
+      <guid isPermaLink="false">2c2894b354074b8494f5304d75a6f5847aa867d0</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 03:03:49 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 5 #NLPRSD</title>
       <description>Rainfall Advisory No. 5 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Aminhan) / Shearline &lt;br /&gt; Issued at 08:00 AM 28 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Isabela(Maconacon, Divilacan, Palanan), #Apayao(Calanasan, Luna), #Cagayan(Pamplona, SanchezMira, Claveria, SantaPraxedes, SantaAna, Gonzaga, Abulug), #IlocosNorte(Pagudpud, Adams), #Quirino(Aglipay, Cabarroguis, Diffun, Saguday, Nagtipunan), #NuevaVizcaya(Kasibu, Quezon, DupaxDelNorte), #Aurora(Dilasag, Casiguran and Dinalungan) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Quirino(Maddela) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -86,14 +94,6 @@
       <guid isPermaLink="false">0279021ac231cdfbee62f4ff960d7fb1db9cbc1e</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 08:02:13 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 27 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte and #Aurora within 12 hours.</description>
-      <pubDate>Tue, 27 Oct 2026 02:22:06 +0000</pubDate>
-      <guid isPermaLink="false">7fc222185a9242314822ca2e5e17c836b5cc5765</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 27 Oct 2026 02:22:06 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
