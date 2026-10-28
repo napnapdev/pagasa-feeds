@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 28 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2026 00:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:07:17 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 3 #NCRPRSD</title>
       <description>Rainfall Advisory No. 3 #NCR_PRSD&lt;br /&gt; Weather System: Shear Line&lt;br /&gt; Issued at: 8:00 AM, 28 October 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Batangas(San Juan, Lobo, Rosario, Taysan, Padre Garcia).&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains affecting Quezon(San Francisco, Mulanay, San Andres, Jomalig, Patnanungan, Burdeos, San Narciso, Panukulan, Catanauan, Lopez, Macalelon, General Luna, Buenavista, Guinayangan, Tagkawayan, Calauag) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -62,7 +62,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
