@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 29 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2026 18:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 18:40:00 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 21 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 21 #MINPRSD&lt;br /&gt; Issued at 12:30 AM 30 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #MisamisOccidental(Sinacaban), #ZamboangaDelNorte(DipologCity, Polanco, Piñan, Mutia), #MisamisOriental(Lugait, Alubijid, Manticao, Naawan, Initao, Libertad, Gitagum, Laguindingan, CityOfElSalvador, Opol, CagayanDeOroCity), #DavaoDelNorte(CityOfSamal), #DavaoCity, #LanaoDelSur(Butig, Bumbaran, LumbaBayabao, Calanogas, Picong, Malabang, Marogong, Balabagan, Kapatagan, Wao), #MaguindanaoDelNorte(Matanog, Barira, Buldon, Kabuntalan, NorthernKabuntalan, DatuBlahT.Sinsuat, Upi, Talitay), #NorthCotabato, #Bukidnon(Kadingilan, Kibawe, Damulog, Kitaotao, Dangcagan), #MaguindanaoDelSur(Talayan, SouthUpi, DatuAnggalMidtimbang, DatuPiang, Pagagawan, Pagalungan, SultanSaBarongis, RajahBuayan, ShariffSaydonaMustapha, Mamasapano, Guindulungan, DatuSalibo, DatuSaudiAmpatuan, DatuUnsay, ShariffAguak, DatuHofferAmpatuan, Gen.S.K.Pendatun), #DavaoDelSur(SantaCruz, Bansalan, CityOfDigos, Hagonoy, Padada, Matanao, Magsaysay), #SurigaoDelNorte(Claver), #SurigaoDelSur(Carrascal, Cantilan, Madrid, Carmen, Lanuza and Cortes) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MaguindanaoDelNorte(Parang, SultanMastura, SultanKudarat, DatuOdinSinsuat), #CotabatoCity, #ZamboangaDelNorte(Sibutad, Rizal, DapitanCity, LaLibertad), #MisamisOccidental(SapangDalaga, Baliangao, Plaridel, Calamba, LopezJaena, OroquietaCity, Aloran, Panaon, Concepcion, Jimenez, DonVictorianoChiongbian) and #Camiguin which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 29 Oct 2026 18:40:16 +0000</pubDate>
+      <guid isPermaLink="false">9bf43f633355806ee9acfce001960688ff303e37</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 18:40:16 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 29 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoOriental, #DavaoDelSur, #DavaoDelNorte, #DavaoCity and #DavaoDeOro within 12 hours.</description>
       <pubDate>Thu, 29 Oct 2026 15:03:39 +0000</pubDate>
       <guid isPermaLink="false">1f9cd139072e97027f266f43664940da66c19e79</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 15:03:39 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 15:03:39 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 10:22 PM, 30 October, 2026</title>
@@ -22,7 +30,7 @@
       <pubDate>Thu, 29 Oct 2026 15:03:38 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-OPOLMISOR-10292026_1793283781.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 15:03:39 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 15:03:39 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 20 #MINPRSD</title>
