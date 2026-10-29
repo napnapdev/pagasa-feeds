@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 29 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2026 03:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 03:07:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 9 #VISPRSD&lt;br /&gt; Issued at 10:36 AM 29 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #EasternSamar(Oras), #Samar(SanJorge, Motiong, Jiabong, Tarangnan, CityOfCatbalogan, Marabut, Villareal, Daram, Zumarraga), #Cebu(Ginatilan, Alcoy, Boljoon, Argao), #NegrosOccidental(Ilog), #NegrosOriental(SantaCatalina, CityOfBayawan), #Aklan(Buruanga), #Antique(Libertad, Pandan, Sebaste, Tibiao, Barbaza, Culasi), #Capiz(Jamindan), #Iloilo(CityOfPassi, SanEnrique, Dingle, BarotacNuevo), #Leyte(Babatngon, TaclobanCity, SanMiguel, Merida, MatagOb, Palompon, Isabel), #Bohol(Carmen, Batuan, Sevilla, Sikatuna, Corella, Tubigon, Catigbian, TagbilaranCity), #Palawan(Rizal and Brooke'sPoint) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Samar(Matuguinao, SanJoseDeBuan, Basey, SantaRita, Pinabacdao, Calbiga, SanSebastian, Paranas, Pagsanghan, SantaMargarita, Gandara, CalbayogCity, Hinabangan), #EasternSamar(Maslog, Dolores, Balangiga, Llorente, Lawaan, CanAvid), #NegrosOccidental(CityOfKabankalan, CityOfHimamaylan, HinobaAn), #Cebu(CityOfCarcar, SanFernando, Barili, Sibonga, Dumanjug, Ronda, Alcantara, Moalboal, Dalaguete, Badian, Alegria, Malabuyoc, Aloguinsan), #Bohol(Loay, Loboc, Lila, Dimiao, Valencia, GarciaHernandez, Jagna, Duero, Pilar, Dagohoy, Buenavista, Clarin, Inabanga, Loon, Alburquerque, Bilar, Guindulman, SierraBullones, SanMiguel, Trinidad, Danao, Sagbayan, Baclayon, Maribojoc, Antequera), #NegrosOriental(Ayungon, Bindoy, Mabinay, Manjuyod, LaLibertad, Basay), #Aklan(Ibajay, Tangalan, Malinao, Makato, Madalag, Banga, Libacao, Malay), #Iloilo(BarotacViejo, Banate, Ajuy, SanRafael, Anilao), #Palawan(Cagayancillo, Kalayaan, Quezon), #Leyte(Kananga, OrmocCity) and #Capiz(Dumarao) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -234,14 +234,6 @@
       <guid isPermaLink="false">534159496cc67d4fc19f442f2f0764a409c2f0d4</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 06:03:32 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 10:07 AM 28 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(CityOfNaga), #Bohol(Sevilla, Sikatuna, Alburquerque, Valencia, Lila and Dimiao) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(CityOfTalisay, Minglanilla, ToledoCity, SanFrancisco), #Bohol(Balilihan, Bilar, Loay, Duero, Jagna, Loboc and GarciaHernandez) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 28 Oct 2026 03:03:49 +0000</pubDate>
-      <guid isPermaLink="false">f093545f86e5779cbee82a20a626c8238a2be31f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 03:03:49 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
