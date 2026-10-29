@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 29 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2026 03:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 03:15:30 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 12 #NCRPRSD</title>
+      <description>Rainfall Advisory No. 12 #NCR_PRSD&lt;br /&gt; Weather System: Shear Line&lt;br /&gt; Issued at: 11:00 AM, 29 October 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Quezon(Tiaong, San Antonio, Dolores, Candelaria, General Nakar, Infanta, Real, Sariaya, Lucena, Tayabas, Pagbilao), Tarlac(La Paz, Concepcion, Victoria, Tarlac City) and Bulacan(San Miguel, Dona Remedios Trinidad, Norzagaray).&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Batangas(San Juan) and Nueva Ecija(General Tinio, Gabaldon, Zaragoza, Licab, Santa Rosa, Penaranda, Laur, Palayan, Quezon, Santo Domingo, Talavera, Aliaga, Cabanatuan) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
+      <pubDate>Thu, 29 Oct 2026 03:15:47 +0000</pubDate>
+      <guid isPermaLink="false">33a86e2702a10803de080467bf81207a677341cd</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 03:15:47 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 11 #NCRPRSD</title>
       <description>Rainfall Advisory No. 11 #NCR_PRSD&lt;br /&gt; Weather System: Shear Line&lt;br /&gt; Issued at: 8:00 AM, 29 October 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Rizal, Metro Manila, Bulacan(San Jose del Monte, Norzagaray, Dona Remedios Trinidad, Angat, Balagtas, Baliuag, Bocaue, Bustos, Meycauayan, Guiguinto, Marilao, Obando, Pandi, San Ildefonso, San Miguel, San Rafael, Santa Maria), Nueva Ecija(General Tinio, Laur, Gabaldon, Palayan, Bongabon, General Mamerto Natividad, Rizal, Pantabangan, Carranglan, Gapan, Penaranda, Santa Rosa, Cabanatuan, Llanera, San Jose) and Cavite(Kawit, Imus, Bacoor, Dasmarinas, Gen. Mariano Alvarez, Rosario, Noveleta, Cavite City, Carmona, General Trias, Tanza, Trece Martires, Amadeo, Silang, Indang, Naic).&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Quezon(Panukulan, Polillo, Burdeos, Patnanungan, Jomalig, Mauban, Real, Lucban, Sampaloc, Tayabas) and Laguna(Paete, Pakil, Pangil, Siniloan, Famy, Kalayaan, Lumban, Luisiana, Cavinti) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -86,7 +94,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>

@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 29 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2026 03:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 03:15:27 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 10 #VISPRSD&lt;br /&gt; Issued at 11:05 AM 29 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Compostela, CebuCity, Minglanilla, CityOfTalisay), #Bohol(Panglao), #Leyte(Bato, Matalom, Leyte, Carigara), #SouthernLeyte(TomasOppus, CityOfMaasin, Libagon, Liloan, SanJuan, Hinunangan and Sogod) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Balamban, ToledoCity, Pinamungajan, CityOfNaga, Carmen, Asturias, DanaoCity), #Leyte(Hilongos, Hindang, Albuera, Capoocan), #SouthernLeyte(Bontoc, SaintBernard), #Bohol(Dauis), #Palawan(Dumaran and Taytay) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Thu, 29 Oct 2026 03:15:47 +0000</pubDate>
+      <guid isPermaLink="false">7feb0374edf1a25eb495a46c4cd2eaf721c8cd8c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 03:15:47 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 9 #VISPRSD&lt;br /&gt; Issued at 10:36 AM 29 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #EasternSamar(Oras), #Samar(SanJorge, Motiong, Jiabong, Tarangnan, CityOfCatbalogan, Marabut, Villareal, Daram, Zumarraga), #Cebu(Ginatilan, Alcoy, Boljoon, Argao), #NegrosOccidental(Ilog), #NegrosOriental(SantaCatalina, CityOfBayawan), #Aklan(Buruanga), #Antique(Libertad, Pandan, Sebaste, Tibiao, Barbaza, Culasi), #Capiz(Jamindan), #Iloilo(CityOfPassi, SanEnrique, Dingle, BarotacNuevo), #Leyte(Babatngon, TaclobanCity, SanMiguel, Merida, MatagOb, Palompon, Isabel), #Bohol(Carmen, Batuan, Sevilla, Sikatuna, Corella, Tubigon, Catigbian, TagbilaranCity), #Palawan(Rizal and Brooke'sPoint) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Samar(Matuguinao, SanJoseDeBuan, Basey, SantaRita, Pinabacdao, Calbiga, SanSebastian, Paranas, Pagsanghan, SantaMargarita, Gandara, CalbayogCity, Hinabangan), #EasternSamar(Maslog, Dolores, Balangiga, Llorente, Lawaan, CanAvid), #NegrosOccidental(CityOfKabankalan, CityOfHimamaylan, HinobaAn), #Cebu(CityOfCarcar, SanFernando, Barili, Sibonga, Dumanjug, Ronda, Alcantara, Moalboal, Dalaguete, Badian, Alegria, Malabuyoc, Aloguinsan), #Bohol(Loay, Loboc, Lila, Dimiao, Valencia, GarciaHernandez, Jagna, Duero, Pilar, Dagohoy, Buenavista, Clarin, Inabanga, Loon, Alburquerque, Bilar, Guindulman, SierraBullones, SanMiguel, Trinidad, Danao, Sagbayan, Baclayon, Maribojoc, Antequera), #NegrosOriental(Ayungon, Bindoy, Mabinay, Manjuyod, LaLibertad, Basay), #Aklan(Ibajay, Tangalan, Malinao, Makato, Madalag, Banga, Libacao, Malay), #Iloilo(BarotacViejo, Banate, Ajuy, SanRafael, Anilao), #Palawan(Cagayancillo, Kalayaan, Quezon), #Leyte(Kananga, OrmocCity) and #Capiz(Dumarao) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Thu, 29 Oct 2026 03:03:40 +0000</pubDate>
       <guid isPermaLink="false">20510e7f47c042f73b559276cd0648b7e4c11605</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 03:03:40 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 03:03:40 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Thu, 29 Oct 2026 03:03:39 +0000</pubDate>
       <guid isPermaLink="false">e0a146223241b948abd266ee5ab713e0cd8774ba</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 03:03:40 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 03:03:40 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Thu, 29 Oct 2026 03:03:38 +0000</pubDate>
       <guid isPermaLink="false">889c7e52ee6cb7e18dde79813b603ade4b56d348</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 03:03:40 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 03:03:40 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
@@ -37,7 +45,7 @@
       <pubDate>Thu, 29 Oct 2026 00:30:54 +0000</pubDate>
       <guid isPermaLink="false">2e23bab2c82ee464c6e3222bcd12d2676cc6f293</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 00:30:54 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 00:30:54 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
@@ -70,7 +78,7 @@
       <pubDate>Wed, 28 Oct 2026 21:07:56 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Bago_NegOcc_10292026_1793221433.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 21:07:56 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 21:07:56 +0000</ns5:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 30 October, 2026</title>
@@ -79,7 +87,7 @@
       <pubDate>Wed, 28 Oct 2026 21:07:55 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Sipalay_NegOcc_10292026_1793221403.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 21:07:56 +0000</ns5:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 21:07:56 +0000</ns6:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 30 October, 2026</title>
@@ -88,7 +96,7 @@
       <pubDate>Wed, 28 Oct 2026 21:07:54 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Neg_Or_HeatIndex_10292026_1793221383.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 21:07:56 +0000</ns6:seen>
+      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 21:07:56 +0000</ns7:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 30 October, 2026</title>
@@ -97,7 +105,7 @@
       <pubDate>Wed, 28 Oct 2026 21:07:53 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_10292026_1793221362.pdf</guid>
       <category>Special Forecast</category>
-      <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 21:07:56 +0000</ns7:seen>
+      <ns8:seen xmlns:ns8="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 21:07:56 +0000</ns8:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
