@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 29 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2026 12:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:15:32 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 21 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 21 #VISPRSD&lt;br /&gt; Issued at 07:41 PM 29 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Bulalacao, Gloria, Naujan, Victoria, Pola, Socorro, Pinamalayan, PuertoGalera, SanTeodoro, Baco, CityOfCalapan), #Aklan(Nabas, Malay, Buruanga, Ibajay, Madalag, Libacao), #Antique(Libertad, Pandan, Sebaste, Culasi), #Capiz(Jamindan and Mambusao) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(SapiAn), #Aklan(NewWashington, Kalibo, Balete, Batan, Malinao, Numancia, Lezo, Makato, Tangalan, Banga, Altavas), #OrientalMindoro(Bansud, Bongabong, Roxas and Mansalay) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -258,14 +258,6 @@
       <guid isPermaLink="false">d8827db7ce0078a4fee221eb57bb7f7976bce433</guid>
       <category>Thunderstorm Advisory</category>
       <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 12:30:56 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 18 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 18 #VISPRSD&lt;br /&gt; Issued at 07:52 PM 28 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(Panay, Pontevedra, RoxasCity, PresidentRoxas, Pilar), #Leyte(Javier and Mahaplag) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOriental(CityOfTanjay, Amlan, Pamplona) and #Leyte(Abuyog) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 28 Oct 2026 12:07:36 +0000</pubDate>
-      <guid isPermaLink="false">e2fa73662dfcef9f9f1616ece4e8091d032dba58</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 28 Oct 2026 12:07:36 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
