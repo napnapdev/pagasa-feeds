@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 29 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 29 Oct 2026 06:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:30:41 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 13 #NCRPRSD</title>
+      <description>Rainfall Advisory No. 13-Final #NCR_PRSD&lt;br /&gt; Weather System: Shear Line&lt;br /&gt; Issued at: 2:00 PM, 29 October 2026(Thursday)&lt;br /&gt; &lt;br /&gt; All Rainfall Advisory over NCR-PRSD forecast area are now TERMINATED.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
+      <pubDate>Thu, 29 Oct 2026 06:30:54 +0000</pubDate>
+      <guid isPermaLink="false">03b8e391e88c5db81608ec8c21c8b0ddfee9f637</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 06:30:54 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 1 #NCR_PRSD&lt;br /&gt; Issued at: 1:15 PM, 29 October 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (Macalelon, San Narciso, Mulanay, Pitogo, Gumaca, Lopez, Guinayangan, and Calauag) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Catanauan, General Luna, and Buenavista) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Thu, 29 Oct 2026 05:55:55 +0000</pubDate>
       <guid isPermaLink="false">73e2e4cdb9c029848c6b4f8c107167889573d2d2</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 05:55:55 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 05:55:55 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 12 #NCRPRSD</title>
@@ -86,7 +94,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
