@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 30 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 09:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:30:37 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 22 #NLPRSD</title>
+      <description>Rainfall Advisory No. 22 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) / Shearline &lt;br /&gt; Issued at 05:00 PM 30 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Pangasinan(Bugallon, Infanta, Bayambang, Urbiztondo, SanCarlosCity, Lingayen), #Benguet(Kibungan, Kapangan, LaTrinidad, Sablan, Kabayan, Bokod), #Aurora(SanLuis, Dipaculao, Dinalungan, Dilasag, Baler) and #NuevaVizcaya(AlfonsoCastaneda) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Pangasinan(Mangatarem, Aguilar), #Benguet(Tublay, Atok), #Aurora(MariaAurora and Casiguran) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 30 Oct 2026 09:30:53 +0000</pubDate>
+      <guid isPermaLink="false">b6d0ac7e459644fe2a810b5963c434efe98b2a7a</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 09:30:53 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 21 #NLPRSD</title>
       <description>Rainfall Advisory No. 21 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) / Shearline &lt;br /&gt; Issued at 02:00 PM 30 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Aurora(Dinalungan, Dipaculao, SanLuis, MariaAurora, Baler, Casiguran, Dilasag), #Quirino(Nagtipunan), #NuevaVizcaya(AlfonsoCastaneda, DupaxDelSur, DupaxDelNorte), #Abra(Boliney), #Pangasinan(Rosales), #Ifugao(Asipulo and Lamut) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aurora(Dingalan), #Quirino(Maddela), #Abra(Daguioman), #Pangasinan(Balungao), #Ifugao(Lagawe and Kiangan) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -29,7 +37,7 @@
       <pubDate>Fri, 30 Oct 2026 02:30:37 +0000</pubDate>
       <guid isPermaLink="false">f882e083891a34cbb05359893c96bce3ccef0714</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 02:30:37 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 02:30:37 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 19 #NLPRSD</title>
@@ -78,14 +86,6 @@
       <guid isPermaLink="false">7146680d6a86017a79c85c2086d7c0af432e88b3</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 12:03:36 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 14 #NLPRSD</title>
-      <description>Rainfall Advisory No. 14 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) / Shearline &lt;br /&gt; Issued at 05:00 PM 29 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Cagayan(Baggao, Peñablanca, SantaAna, Gonzaga, LalLo, Gattaran), #Isabela(Maconacon, IlaganCity, Divilacan, Palanan, SanMariano, Dinapigue), #Aurora(Dilasag and Casiguran) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 29 Oct 2026 09:30:50 +0000</pubDate>
-      <guid isPermaLink="false">a09fd861299f0efdde7f2edab0a0a13fd08ee3fb</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 09:30:50 +0000</ns0:seen>
     </item>
   </channel>
 </rss>

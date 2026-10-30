@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 30 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 09:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:30:37 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 4:00 PM, 30 October 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (Nasugbu, Tuy, Calaca, Agoncillo, Alitagtag, Balete, Batangas City, Bauan, Tanauan, Cuenca, Ibaan, Laurel, Lemery, Lipa, Lobo, Mabini, Malvar, Mataasnakahoy, Padre Garcia, Rosario, San Jose, San Juan, San Luis, San Nicolas, San Pascual, Santa Teresita, Santo Tomas, Taal, Talisay, Taysan, and Tingloy), Bulacan (Hagonoy, Paombong, Malolos, Bulakan, Obando, and Meycauayan), Cavite (Cavite City, Bacoor, Kawit, Noveleta, Imus, Rosario, General Trias, and Tanza), Laguna (Liliw, Luisiana, Magdalena, Majayjay, Nagcarlan, Pagsanjan, Pila, Rizal, Santa Cruz, Victoria, Cavinti, Famy, Kalayaan, Lumban, Mabitac, Paete, Pakil, Pangil, Santa Maria, Siniloan, San Pablo, Alaminos, Calauan, Bay, and Los Banos), Metro Manila (Las Pinas, Taguig, Mandaluyong, San Juan, Quezon City, Caloocan, Navotas, Malabon, and Valenzuela), Pampanga (Macabebe, Masantol, Sasmuan, and Lubao), Quezon (Candelaria, Dolores, San Antonio, Sariaya, Tiaong, General Nakar, Infanta, Real, Alabat, Buenavista, Burdeos, Calauag, Catanauan, General Luna, Guinayangan, Gumaca, Jomalig, Lopez, Macalelon, Mulanay, Panukulan, Patnanungan, Perez, Pitogo, Polillo, Quezon, San Andres, San Francisco, San Narciso, Tagkawayan, Mauban, Sampaloc, and Lucban), Rizal (Tanay, Pililla, and Jala-Jala), Tarlac (Mayantoc and Camiling), Zambales (Subic, Olongapo, San Narciso, San Felipe, Cabangan, Botolan, Candelaria, Santa Cruz, and Masinloc), and Bataan within the next 2 hours.&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are affecting Batangas (Calatagan, Lian, and Balayan), Metro Manila (Pasay, Paranaque, Makati, and Manila), Tarlac (San Clemente), and Zambales (San Marcelino, San Antonio, and Castillejos) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -54,7 +54,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
