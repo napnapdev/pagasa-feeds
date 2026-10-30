@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 30 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 03:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:30:39 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 2 #MINPRSD</title>
+      <description>Rainfall Advisory No. 2 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) / Trough of LPA &lt;br /&gt; Issued at 11:00 AM 30 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaSibugay(Talusan, Olutanga, Mabuhay, Payao, Tungawan, RosellerLim, Siay, Ipil, Titay, Naga, Kabasalan), #LanaoDelNorte(Kolambugan, Tubod, Baroy, Lala, Kapatagan, SultanNagaDimaporo, Magsaysay, Maigo, Tangcal, Linamon, Kauswagan, Baloi, Matungao, PoonaPiagapo, Bacolod, Pantar, PantaoRagat, Sapad, Salvador, Munai, IliganCity), #LanaoDelSur(Saguiaran, Kapatagan, Balabagan, Kapai, Ganassi, Binidayan, Bayang, Madamba, Madalum, BacolodKalawi, Balindong, Tugaya, Piagapo, Marantao, MarawiCity, Mulondo, BuadiposoBuntong, DitsaanRamain, Bumbaran), #CotabatoCity, #MisamisOriental(Lugait, Manticao, CityOfElSalvador, Alubijid, Opol, CagayanDeOroCity, Binuangan, Salay, Lagonglong, Balingasag, GingoogCity, Medina, Jasaan, Villanueva, Tagoloan), #ZamboangaDelSur(SanPablo, Guipos, Dumalinao, Tigbao, Labangan, PagadianCity, Tukuran, Aurora, RamonMagsaysay, Sominot, Midsalip, Tambulig, Mahayag, Dumingag, Molave, Josefina), #ZamboangaDelNorte, #ZamboangaCity, #MisamisOccidental, #MaguindanaoDelNorte(DatuOdinSinsuat, Upi, DatuBlahT.Sinsuat, SultanKudarat, SultanMastura, Parang, Matanog, Barira, Buldon), #Bukidnon(ManoloFortich, Sumilao, ImpasugOng, Kalilangan, Pangantucan and Lantapan) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaSibugay(Alicia, Malangas, Imelda, Buug, Diplahan), #LanaoDelNorte(Tagoloan, Nunungan), #LanaoDelSur(Malabang, Marogong, TagoloanII, Picong, Pualas, Pagayawan, Calanogas, Tubaran, Butig, SultanDumalondong, Masiu, Lumbayanague, PoonaBayabao, Tamparan, Maguing, Taraka, LumbaBayabao, Lumbatan, LumbacaUnayan, Bubong), #ZamboangaDelSur(Tabina, Pitogo, VincenzoA.Sagun, Dimataling, Margosatubig, Dinas, SanMiguel, Kumalarang, Lakewood, Bayog, Lapuyan), #Bukidnon(Talakag, Libona, Baungon, Malitbog) and #MisamisOriental(Claveria) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
+      <pubDate>Fri, 30 Oct 2026 03:30:54 +0000</pubDate>
+      <guid isPermaLink="false">8f8cb8b1989a1e4071d5135f9dbd72b624c0ab04</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 03:30:54 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 30 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoOriental, #DavaoDelSur, #DavaoDelNorte, #DavaoCity, #DavaoDeOro, #LanaoDelNorte, #Bukidnon, #MisamisOccidental, #MisamisOriental and #Camiguin within 12 hours.</description>
       <pubDate>Fri, 30 Oct 2026 02:30:37 +0000</pubDate>
       <guid isPermaLink="false">0926de836fe8a290ea1da924dd84b9f98a483392</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 02:30:37 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 02:30:37 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 1 #MINPRSD</title>
@@ -62,7 +70,7 @@
       <pubDate>Thu, 29 Oct 2026 15:03:39 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-OPOLMISOR-10292026_1793283781.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 15:03:39 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 15:03:39 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>

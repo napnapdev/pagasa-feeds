@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 30 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 03:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:30:36 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 11:00 AM, 30 October 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Metro Manila (Marikina, Pasig, Mandaluyong, San Juan, Quezon City, Makati, Taguig, Pateros, Manila, Pasay, Paranaque, Caloocan, Navotas, Malabon, and Valenzuela), Quezon (General Nakar, Infanta, Real, Atimonan, Alabat, Quezon, Calauag, Guinayangan, Tagkawayan, Lopez, Gumaca, Plaridel, Panukulan, Burdeos, Polillo, Patnanungan, Jomalig, Sampaloc, Lucban, Tayabas, Pagbilao, Padre Burgos, and Lucena), and Rizal (Antipolo, San Mateo, Cainta, and Taytay) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Perez and Mauban) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -46,14 +46,6 @@
       <guid isPermaLink="false">73e2e4cdb9c029848c6b4f8c107167889573d2d2</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 05:55:55 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 12 #NCRPRSD</title>
-      <description>Rainfall Advisory No. 12 #NCR_PRSD&lt;br /&gt; Weather System: Shear Line&lt;br /&gt; Issued at: 11:00 AM, 29 October 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Light to moderate with occasional heavy rains are expected over Quezon(Tiaong, San Antonio, Dolores, Candelaria, General Nakar, Infanta, Real, Sariaya, Lucena, Tayabas, Pagbilao), Tarlac(La Paz, Concepcion, Victoria, Tarlac City) and Bulacan(San Miguel, Dona Remedios Trinidad, Norzagaray).&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Batangas(San Juan) and Nueva Ecija(General Tinio, Gabaldon, Zaragoza, Licab, Santa Rosa, Penaranda, Laur, Palayan, Quezon, Santo Domingo, Talavera, Aliaga, Cabanatuan) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Thu, 29 Oct 2026 03:15:47 +0000</pubDate>
-      <guid isPermaLink="false">33a86e2702a10803de080467bf81207a677341cd</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 03:15:47 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
