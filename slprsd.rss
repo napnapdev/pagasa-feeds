@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 30 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 15:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:07:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 8 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 8 #SLPRSD&lt;br /&gt; Issued at 10:30 PM 30 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Romblon(Cajidiocan, Magdiwang, SanFernando), #NorthernSamar(Catubig, Victoria, Lavezares, Allen, SanJose, Rosario, SanAntonio, Capul, Biri, LasNavas, Lapinig, Gamay, Mapanas), #Masbate(Aroroy, Baleno and Claveria) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -138,14 +138,6 @@
       <guid isPermaLink="false">68cb108d71d4622dcce47d7c3b95ea15c2b096dc</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 18:03:36 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 9 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 9 #SLPRSD&lt;br /&gt; Issued at 09:45 PM 29 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(SanPascual, Claveria, Baleno, Milagros, CityOfMasbate, Monreal, SanJacinto, SanFernando and Batuan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon(Romblon, Magdiwang, Cajidiocan, SanFernando, Alcantara, SantaMaria, SanAgustin, SantaFe, Looc), #Masbate(Mandaon, Aroroy and Balud) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 29 Oct 2026 15:03:40 +0000</pubDate>
-      <guid isPermaLink="false">dd1a988515b30f57e5f400718c68719e0b4c95dd</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 15:03:40 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
