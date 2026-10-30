@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 30 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 02:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:03:17 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 30 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoOriental, #DavaoDelSur, #DavaoDelNorte, #DavaoCity, #DavaoDeOro, #LanaoDelNorte, #Bukidnon, #MisamisOccidental, #MisamisOriental and #Camiguin within 12 hours.</description>
       <pubDate>Fri, 30 Oct 2026 02:30:37 +0000</pubDate>
       <guid isPermaLink="false">0926de836fe8a290ea1da924dd84b9f98a483392</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 02:30:37 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 02:30:37 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 1 #MINPRSD</title>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 29 Oct 2026 15:03:39 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-OPOLMISOR-10292026_1793283781.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 15:03:39 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 15:03:39 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
