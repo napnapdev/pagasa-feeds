@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 30 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 15:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:30:39 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 8 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 8 #SLPRSD&lt;br /&gt; Issued at 10:30 PM 30 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Romblon(Cajidiocan, Magdiwang, SanFernando), #NorthernSamar(Catubig, Victoria, Lavezares, Allen, SanJose, Rosario, SanAntonio, Capul, Biri, LasNavas, Lapinig, Gamay, Mapanas), #Masbate(Aroroy, Baleno and Claveria) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -16,30 +16,30 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 15:03:34 +0000</ns0:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 7 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #SLPRSD&lt;br /&gt; Issued at 08:15 PM 30 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(Cawayan, Placer, Esperanza, PioV.Corpuz, Cataingan, Palanas), #OrientalMindoro(Bongabong, Roxas, Mansalay, Bulalacao, Baco, PuertoGalera, SanTeodoro, Pola, Socorro, Pinamalayan, Gloria, Bansud), #Romblon(Romblon, SantaMaria, Odiongan, Ferrol, Looc, Alcantara, SantaFe, SanJose, Magdiwang, SanFernando, Cajidiocan), #Marinduque(Gasan, Buenavista, Boac), #NorthernSamar(Allen, Victoria, SanIsidro, SanAntonio, Capul, SanVicente, Bobon, LopeDeVega, Catarman, Biri, SanJose, Rosario, Lavezares, Laoang, Palapag, Pambujan, SanRoque, Mondragon), #Sorsogon(Barcelona, Bulusan, SantaMagdalena, Matnog), #CamarinesSur(Siruma, Tinambac, Lagonoy, Garchitorena, Caramoan, Presentacion, Goa and SanJose) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon(Banton, Corcuera, Concepcion, SanAndres, SanAgustin, Calatrava), #OrientalMindoro(Naujan, Victoria and CityOfCalapan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 30 Oct 2026 15:03:33 +0000</pubDate>
-      <guid isPermaLink="false">d3112720c62a0d61b7e164ec3d0f7b7c3c8018a2</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 15:03:34 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: Valid until: 09:00 PM, 31 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_30Oct2026_1793365221.pdf</link>
       <description>Issued at: 09:00 PM, 30 October, 2026&lt;br /&gt;Valid until: 09:00 PM, 31 October, 2026</description>
-      <pubDate>Fri, 30 Oct 2026 15:03:32 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 15:03:33 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_30Oct2026_1793365221.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 15:03:34 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 15:03:34 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 31 October, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_30Oct2026_1793365117.pdf</link>
       <description>Issued at: 09:00 PM, 30 October, 2026&lt;br /&gt;Valid until: 09:00 PM, 31 October, 2026</description>
-      <pubDate>Fri, 30 Oct 2026 15:03:31 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 15:03:32 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_30Oct2026_1793365117.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 15:03:34 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 15:03:34 +0000</ns2:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 7 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 7 #SLPRSD&lt;br /&gt; Issued at 08:15 PM 30 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(Cawayan, Placer, Esperanza, PioV.Corpuz, Cataingan, Palanas), #OrientalMindoro(Bongabong, Roxas, Mansalay, Bulalacao, Baco, PuertoGalera, SanTeodoro, Pola, Socorro, Pinamalayan, Gloria, Bansud), #Romblon(Romblon, SantaMaria, Odiongan, Ferrol, Looc, Alcantara, SantaFe, SanJose, Magdiwang, SanFernando, Cajidiocan), #Marinduque(Gasan, Buenavista, Boac), #NorthernSamar(Allen, Victoria, SanIsidro, SanAntonio, Capul, SanVicente, Bobon, LopeDeVega, Catarman, Biri, SanJose, Rosario, Lavezares, Laoang, Palapag, Pambujan, SanRoque, Mondragon), #Sorsogon(Barcelona, Bulusan, SantaMagdalena, Matnog), #CamarinesSur(Siruma, Tinambac, Lagonoy, Garchitorena, Caramoan, Presentacion, Goa and SanJose) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon(Banton, Corcuera, Concepcion, SanAndres, SanAgustin, Calatrava), #OrientalMindoro(Naujan, Victoria and CityOfCalapan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 30 Oct 2026 15:03:31 +0000</pubDate>
+      <guid isPermaLink="false">d3112720c62a0d61b7e164ec3d0f7b7c3c8018a2</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 15:03:34 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #SLPRSD</title>
@@ -88,7 +88,7 @@
       <pubDate>Fri, 30 Oct 2026 02:30:38 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_30Oct2026_1793322895.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 02:30:38 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 02:30:38 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 31 October, 2026</title>
@@ -97,7 +97,7 @@
       <pubDate>Fri, 30 Oct 2026 02:30:37 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_30Oct2026_1793322859.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 02:30:38 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 02:30:38 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
