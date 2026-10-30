@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 30 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 21:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 23:52:25 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 8 #MINPRSD</title>
+      <description>Rainfall Advisory No. 8 Amendment #MINPRSD&lt;br /&gt; Weather System: Low Pressure Area (LPA) &lt;br /&gt; Issued at 06:30 AM 31 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaDelNorte(Sibuco), #SurigaoDelSur(Cortes, CityOfTandag, Tago, Bayabas, Cagwait, Marihatag, Hinatuan, Barobo, SanAgustin, Lianga, Tagbina), #DavaoOriental(CityOfMati, GovernorGeneroso), #DavaoOccidental(Malita, DonMarcelino, JoseAbadSantos), #Sarangani(Malapatan, Alabel, Glan), #ZamboangaDelSur(Lapuyan, PagadianCity, Tigbao, Lakewood, Kumalarang), #ZamboangaSibugay(Olutanga, Talusan, Mabuhay, Alicia, Payao, Malangas, Imelda, Buug), #SurigaoDelNorte(SiargaoIsland), #MisamisOccidental(OroquietaCity, Aloran, Panaon, Jimenez, Sinacaban, LopezJaena, Plaridel, Calamba, Tudela, Clarin, Baliangao), #LanaoDelNorte(Maigo, Kolambugan, Bacolod, Tangcal, Munai, Kauswagan, PoonaPiagapo, Linamon, Matungao) and #Sulu(Pangutaran) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rains are being experienced in #ZamboangaCity, #ZamboangaDelSur(Pitogo, Dimataling, Tabina, Dinas, SanPablo, Margosatubig, VincenzoA.Sagun, Dumalinao, Guipos, SanMiguel), #Camiguin, #DinagatIslands and #SurigaoDelNorte(SurigaoCity) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
+      <pubDate>Fri, 30 Oct 2026 23:52:38 +0000</pubDate>
+      <guid isPermaLink="false">615206363fde343f80148f126ddee09162c8d9d8</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 23:52:38 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 8 #MINPRSD</title>
       <description>Rainfall Advisory No. 8 #MINPRSD&lt;br /&gt; Weather System: Low Pressure Area (LPA) &lt;br /&gt; Issued at 05:00 AM 31 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaDelNorte(Sibuco), #MisamisOriental(CityOfElSalvador, Gitagum, Alubijid, Laguindingan, Libertad, Initao, Naawan, Manticao, Lugait), #SurigaoDelSur(Cortes, CityOfTandag, Tago, Bayabas, Cagwait, Marihatag, Hinatuan, Barobo, SanAgustin), #DavaoOriental(CityOfMati, GovernorGeneroso), #DavaoOccidental(Malita, DonMarcelino, JoseAbadSantos), #Sarangani(Malapatan, Alabel, Glan), #AgusanDelSur(Esperanza and SanLuis) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rains are being experienced in #ZamboangaCity and #Bukidnon(CityOfValencia) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
       <pubDate>Fri, 30 Oct 2026 21:15:43 +0000</pubDate>
       <guid isPermaLink="false">174d2f2c447f9680f051d4d0110cfe844e1a4c07</guid>
       <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 21:15:43 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 21:15:43 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 7 #MINPRSD</title>
@@ -37,7 +45,7 @@
       <pubDate>Fri, 30 Oct 2026 15:03:34 +0000</pubDate>
       <guid isPermaLink="false">f1c02a3b8d96cd24ae8b594d9682ac4ceff441b5</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 15:03:34 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 15:03:34 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 5 #MINPRSD</title>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">fa6229fd83e361b800846801a1bcfa6ecaf6fc4f</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 00:15:43 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 24 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 24 #MINPRSD&lt;br /&gt; Issued at 06:00 AM 30 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #MaguindanaoDelNorte(Talitay, Upi, DatuBlahT.Sinsuat, Kabuntalan, DatuOdinSinsuat, NorthernKabuntalan, SultanMastura, SultanKudarat, Matanog, Barira, Buldon), #MaguindanaoDelSur, #NorthCotabato(Pikit, Aleosan, Midsayap, Libungan, Pigkawayan), #CotabatoCity, #SultanKudarat(Lebak, Esperanza, Isulan, Lambayong, PresidentQuirino, CityOfTacurong), #MisamisOriental(Gitagum, Laguindingan, Libertad, Alubijid, Initao, Sugbongcogon, Kinoguitan, Salay, Binuangan, Lagonglong, Balingasag, Balingoan, Talisayan, Medina), #MisamisOccidental(OzamisCity, Tudela, Clarin, DonVictorianoChiongbian, LopezJaena, Calamba, Baliangao, SapangDalaga, Concepcion, Plaridel, OroquietaCity, Aloran, Panaon, Jimenez, Sinacaban), #ZamboangaDelNorte(Labason, Gutalac, Baliguian, Kalawit, Tampilisan, Godod, SergioOsmeñaSr.), #ZamboangaSibugay(Titay), #ZamboangaDelSur(Dumingag, Mahayag, Molave, Josefina, Dimataling, Pitogo and Tabina) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #MaguindanaoDelNorte(Parang), #ZamboangaDelNorte(Manukan, JoseDalman, Pres.ManuelA.Roxas, Polanco, Katipunan, DipologCity, Piñan, DapitanCity, Sibutad, Mutia, LaLibertad, Rizal, Sindangan, Siayan, LeonB.Postigo, Salug and Liloy) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 29 Oct 2026 22:59:46 +0000</pubDate>
-      <guid isPermaLink="false">07e733f07b61f859c6d1922110d3e1db3b8daefe</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 22:59:46 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
