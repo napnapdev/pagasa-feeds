@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 30 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 06:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:30:35 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 2:15 PM, 30 October 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Dinalupihan, Morong, and Hermosa), Batangas (Bauan, San Luis, Mabini, Santa Teresita, Taal, Ibaan, Lipa, Rosario, Padre Garcia, Taysan, San Nicolas, Tingloy, Lobo, Mataasnakahoy, Lemery, Agoncillo, Calaca, Balayan, Lian, Calatagan, Tuy, and Nasugbu), Cavite (Silang, Amadeo, General Trias, Indang, Trece Martires, and Mendez), Pampanga (Angeles, Porac, Bacolor, Santa Rita, Guagua, Lubao, Floridablanca, and Sasmuan), Quezon (Lucban, Sampaloc, Tayabas, Pagbilao, General Nakar, Infanta, Real, Lopez, Gumaca, Calauag, Quezon, Alabat, Perez, Plaridel, Unisan, Atimonan, Pitogo, Catanauan, General Luna, Macalelon, Buenavista, Guinayangan, Tagkawayan, Polillo, Burdeos, Panukulan, Jomalig, Patnanungan, Mauban, and Lucena), and Zambales (San Marcelino, San Narciso, Castillejos, San Antonio, San Felipe, Subic, Olongapo, Botolan, and Cabangan) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Batangas (San Pascual, San Jose, Cuenca, Alitagtag, and Batangas City) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 30 Oct 2026 06:30:54 +0000</pubDate>
+      <guid isPermaLink="false">80ea1c0a8ff368184f41c37d3a1fe5d33fd9d1ac</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 06:30:54 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 11:00 AM, 30 October 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Metro Manila (Marikina, Pasig, Mandaluyong, San Juan, Quezon City, Makati, Taguig, Pateros, Manila, Pasay, Paranaque, Caloocan, Navotas, Malabon, and Valenzuela), Quezon (General Nakar, Infanta, Real, Atimonan, Alabat, Quezon, Calauag, Guinayangan, Tagkawayan, Lopez, Gumaca, Plaridel, Panukulan, Burdeos, Polillo, Patnanungan, Jomalig, Sampaloc, Lucban, Tayabas, Pagbilao, Padre Burgos, and Lucena), and Rizal (Antipolo, San Mateo, Cainta, and Taytay) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Perez and Mauban) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -32,21 +40,13 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 15:03:39 +0000</ns0:seen>
     </item>
     <item>
-      <title>Rainfall Advisory No. 13 #NCRPRSD</title>
-      <description>Rainfall Advisory No. 13-Final #NCR_PRSD&lt;br /&gt; Weather System: Shear Line&lt;br /&gt; Issued at: 2:00 PM, 29 October 2026(Thursday)&lt;br /&gt; &lt;br /&gt; All Rainfall Advisory over NCR-PRSD forecast area are now TERMINATED.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Thu, 29 Oct 2026 06:30:54 +0000</pubDate>
-      <guid isPermaLink="false">03b8e391e88c5db81608ec8c21c8b0ddfee9f637</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 29 Oct 2026 06:30:54 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
