@@ -6,7 +6,31 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 30 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2026 00:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 03:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 10 #MINPRSD</title>
+      <description>Rainfall Advisory No. 10 #MINPRSD&lt;br /&gt; Weather System: Low Pressure Area (LPA) &lt;br /&gt; Issued at 11:00 AM 31 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #MisamisOriental(Magsaysay, Talisayan, Balingoan, Kinoguitan, Sugbongcogon, Binuangan, Jasaan, Villanueva, Tagoloan, CagayanDeOroCity), #AgusanDelNorte(Carmen, Nasipit, Magallanes, RemediosT.Romualdez, CityOfCabadbaran, Tubay, Santiago), #Camiguin, #LanaoDelSur(Bubong, BuadiposoBuntong, Mulondo, Taraka, Tamparan, PoonaBayabao, Masiu, Lumbayanague, SultanDumalondong, Lumbatan, Bumbaran, Wao, TagoloanII), #LanaoDelNorte(Munai), #NorthCotabato(Banisilan, Alamada), #MaguindanaoDelNorte(Buldon, Barira), #Bukidnon(Maramag, Quezon, Kitaotao, DonCarlos), #DavaoDeOro(Laak, Montevista), #AgusanDelSur(Loreto, Talacogon, Prosperidad, SanFrancisco, Rosario), #ZamboangaDelNorte(DapitanCity, Sibutad), #SurigaoDelSur(Carmen, Cantilan, Madrid, Lanuza, SanMiguel, Lianga, Barobo), #DavaoDelNorte(Talaingod and Kapalong) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rains are being experienced in #Bukidnon(Talakag, Pangantucan, Kalilangan, ManoloFortich, ImpasugOng, Sumilao, Libona, Baungon, CityOfMalaybalay, Malitbog, Lantapan, CityOfValencia, Cabanglasan, SanFernando), #LanaoDelSur(Maguing, LumbaBayabao, Butig), #AgusanDelSur(SanLuis, LaPaz, Esperanza, Trento, SantaJosefa, Veruela, Bunawan, Sibagat, CityOfBayugan), #MisamisOriental(Claveria, Salay, Lagonglong, Balingasag, GingoogCity, Medina), #AgusanDelNorte(LasNieves, Buenavista, ButuanCity), #DavaoDeOro(Monkayo) and #DavaoOriental(Boston) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
+      <pubDate>Sat, 31 Oct 2026 03:03:34 +0000</pubDate>
+      <guid isPermaLink="false">f6a55c60845825f5dec716cf4a9c3a16d2d2dd08</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 03:03:34 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 AM 31 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte and #DavaoDeOro within 12 hours.</description>
+      <pubDate>Sat, 31 Oct 2026 03:03:33 +0000</pubDate>
+      <guid isPermaLink="false">9142a0f31a5c04bf8cd20501b5746323904db5e3</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 03:03:34 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:00 AM 31 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #LanaoDelNorte, #Camiguin, #MisamisOriental, #MisamisOccidental and #Bukidnon within 12 hours.</description>
+      <pubDate>Sat, 31 Oct 2026 03:03:32 +0000</pubDate>
+      <guid isPermaLink="false">a2038d51634b794f53963656cc711dac9e657bd0</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 03:03:34 +0000</ns2:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 9 #MINPRSD</title>
       <description>Rainfall Advisory No. 9 #MINPRSD&lt;br /&gt; Weather System: Low Pressure Area (LPA) &lt;br /&gt; Issued at 08:00 AM 31 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaDelSur(Dimataling, Pitogo, Tabina), #Camiguin, #SurigaoDelNorte(SiargaoIsland, Socorro), #DinagatIslands, #Sarangani(Malapatan, Glan) and #DavaoOccidental(JoseAbadSantos) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.</description>
@@ -110,14 +134,6 @@
       <guid isPermaLink="false">8f8cb8b1989a1e4071d5135f9dbd72b624c0ab04</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 03:30:54 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 30 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoOriental, #DavaoDelSur, #DavaoDelNorte, #DavaoCity, #DavaoDeOro, #LanaoDelNorte, #Bukidnon, #MisamisOccidental, #MisamisOriental and #Camiguin within 12 hours.</description>
-      <pubDate>Fri, 30 Oct 2026 02:30:37 +0000</pubDate>
-      <guid isPermaLink="false">0926de836fe8a290ea1da924dd84b9f98a483392</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 02:30:37 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
