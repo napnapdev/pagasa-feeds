@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 31 Oct 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2026 12:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:07:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 6:10 PM, 31 October 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (San Francisco, San Andres, San Narciso, Buenavista, Panukulan, Burdeos, Polillo, Patnanungan, Mauban, Real, Infanta, General Luna, Guinayangan, and Lopez) and Zambales (Santa Cruz and Candelaria) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Catanauan and Mulanay) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -38,14 +38,6 @@
       <guid isPermaLink="false">fc627d59e343f15f1de935fb8f16f595a1a15c67</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 03:03:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #NCR_PRSD&lt;br /&gt; Issued at: 6:30 PM, 30 October 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Limay and Morong), Batangas (Nasugbu and Lian), Quezon (Mauban, Perez, Tagkawayan, Guinayangan, Calauag, Alabat, and Real), and Zambales (Subic, San Antonio, San Narciso, Masinloc, Palauig, and Candelaria) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Bataan (Mariveles and Bagac) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 30 Oct 2026 12:03:37 +0000</pubDate>
-      <guid isPermaLink="false">5c0aa95aaba490aa5d0a6dcf60d4d8f63f6f7813</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 12:03:37 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
