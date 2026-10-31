@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 31 Oct 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2026 03:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 03:15:38 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 AM, 31 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -38,14 +38,6 @@
       <guid isPermaLink="false">80ea1c0a8ff368184f41c37d3a1fe5d33fd9d1ac</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 06:30:54 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 11:00 AM, 30 October 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Metro Manila (Marikina, Pasig, Mandaluyong, San Juan, Quezon City, Makati, Taguig, Pateros, Manila, Pasay, Paranaque, Caloocan, Navotas, Malabon, and Valenzuela), Quezon (General Nakar, Infanta, Real, Atimonan, Alabat, Quezon, Calauag, Guinayangan, Tagkawayan, Lopez, Gumaca, Plaridel, Panukulan, Burdeos, Polillo, Patnanungan, Jomalig, Sampaloc, Lucban, Tayabas, Pagbilao, Padre Burgos, and Lucena), and Rizal (Antipolo, San Mateo, Cainta, and Taytay) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Perez and Mauban) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 30 Oct 2026 03:07:47 +0000</pubDate>
-      <guid isPermaLink="false">86b101c95bfe20ab72ee658e2e3eb8189c2e092d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 30 Oct 2026 03:07:47 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
