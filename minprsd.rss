@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 02 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 21:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 22:58:59 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 11 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 11 #MINPRSD&lt;br /&gt; Issued at 05:30 AM 02 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelNorte(SiargaoIsland, Claver), #DinagatIslands(Tubajon, Libjo, Cagdianao), #SurigaoDelSur(Carrascal, Cantilan) and #ZamboangaDelNorte(Sibuco) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DinagatIslands(Loreto) and #ZamboangaCity which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 01 Nov 2026 22:59:11 +0000</pubDate>
+      <guid isPermaLink="false">726af5ae7fea273a07d2dc2ea59cdac9b74c5e97</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 22:59:11 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 10 #MINPRSD&lt;br /&gt; Issued at 04:00 AM 02 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelNorte(SiargaoIsland), #DinagatIslands(Loreto and Tubajon) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelNorte(Socorro) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 01 Nov 2026 21:03:30 +0000</pubDate>
       <guid isPermaLink="false">4026bcbe3463dfbade2b748043d5315221eaf1e8</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 21:03:30 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 21:03:30 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #MINPRSD</title>
@@ -37,7 +45,7 @@
       <pubDate>Sun, 01 Nov 2026 14:56:55 +0000</pubDate>
       <guid isPermaLink="false">cd766e718c45558899b982bf75be7aa0a017754c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 14:56:55 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 14:56:55 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">dc02e1efa011685559ad6caaafd17a610744ee3f</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 03:03:40 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 4 FINAL #MINPRSD&lt;br /&gt; Issued at 06:30 AM 01 November 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 31 Oct 2026 22:52:15 +0000</pubDate>
-      <guid isPermaLink="false">90e1df652d62a599c7e1a3247af846120476d732</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 22:52:15 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
