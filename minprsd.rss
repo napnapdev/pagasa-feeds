@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 01 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 00:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 01:32:14 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 4 FINAL #MINPRSD&lt;br /&gt; Issued at 06:30 AM 01 November 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -53,7 +53,7 @@
       <pubDate>Sat, 31 Oct 2026 15:03:37 +0000</pubDate>
       <guid isPermaLink="false">bcc4835de6c79ccfe900ebb0003d9a7257cd6d71</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 15:03:37 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 15:03:37 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 14 #MINPRSD</title>
