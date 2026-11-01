@@ -5,15 +5,23 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/nlprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sun, 01 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 21:03:18 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:07:18 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 37 #NLPRSD</title>
+      <description>Rainfall Advisory No. 37 FINAL #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) &lt;br /&gt; Issued at 05:00 AM 02 November 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 01 Nov 2026 21:07:35 +0000</pubDate>
+      <guid isPermaLink="false">99e1c79b84455fa8f31c150730f9804714152742</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 21:07:35 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 01 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
       <pubDate>Sun, 01 Nov 2026 21:03:30 +0000</pubDate>
       <guid isPermaLink="false">c67c370daf078a43c4a7f025b3d6b72a0135808c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 21:03:30 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 21:03:30 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 36 #NLPRSD</title>
