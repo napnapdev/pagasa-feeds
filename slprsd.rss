@@ -5,15 +5,23 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/slprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sun, 01 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 08:01:31 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 09:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #SLPRSD&lt;br /&gt; Issued at 04:55 PM 01 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Sorsogon(Irosin, SantaMagdalena, Matnog), #NorthernSamar(Catarman, Bobon, SanJose, Rosario, Biri, SanAntonio and Capul) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sorsogon(Magallanes, Juban, Bulan), #NorthernSamar(Lavezares, Allen, Victoria, SanIsidro and LopeDeVega) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 01 Nov 2026 09:03:33 +0000</pubDate>
+      <guid isPermaLink="false">8a9f0df55a760c177e24ff9f22a10d61d134e001</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 09:03:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 2 #SLPRSD&lt;br /&gt; Issued at 03:15 PM 01 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #NorthernSamar(SanAntonio, Capul), #Masbate(Milagros, Aroroy, CityOfMasbate, Mobo, Uson, Baleno), #Sorsogon(Castilla and Donsol) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NorthernSamar(Bobon, Victoria, SanIsidro) and #Sorsogon(Pilar) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 01 Nov 2026 08:01:42 +0000</pubDate>
       <guid isPermaLink="false">ae65c52ebe7031a3d86ad7bb45dd4376619d3383</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 08:01:42 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 08:01:42 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Sun, 01 Nov 2026 03:03:40 +0000</pubDate>
       <guid isPermaLink="false">b45b3d2ca07f506f55f6d942ada408cda8b55095</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 03:03:40 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 03:03:40 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 2 November, 2026</title>
@@ -38,7 +46,7 @@
       <pubDate>Sun, 01 Nov 2026 03:03:39 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_01Nov2026_1793497608.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 03:03:40 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 03:03:40 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 2 November, 2026</title>
@@ -47,7 +55,7 @@
       <pubDate>Sun, 01 Nov 2026 03:03:38 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_01Novt2026_1793497572.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 03:03:40 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 03:03:40 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 25 #SLPRSD</title>
@@ -96,7 +104,7 @@
       <pubDate>Sat, 31 Oct 2026 15:03:37 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_31Oct2026_1793450424.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 15:03:37 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 15:03:37 +0000</ns5:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 1 November, 2026</title>
@@ -105,7 +113,7 @@
       <pubDate>Sat, 31 Oct 2026 15:03:36 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_31Oct2026_1793450248.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 15:03:37 +0000</ns5:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 15:03:37 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 19 #SLPRSD</title>
