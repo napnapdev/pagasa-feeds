@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 01 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 15:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:30:35 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 3 #SLPRSD&lt;br /&gt; Issued at 04:55 PM 01 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Sorsogon(Irosin, SantaMagdalena, Matnog), #NorthernSamar(Catarman, Bobon, SanJose, Rosario, Biri, SanAntonio and Capul) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sorsogon(Magallanes, Juban, Bulan), #NorthernSamar(Lavezares, Allen, Victoria, SanIsidro and LopeDeVega) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -88,14 +88,6 @@
       <guid isPermaLink="false">7b4dd05d147b221aa31840273dbc88c3df668b4d</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 21:03:37 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 20 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 20 #SLPRSD&lt;br /&gt; Issued at 11:10 PM 31 October 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Catanduanes(Baras, Gigmoto, Viga, Bagamanoc, Caramoran, Panganiban, Pandan), #CamarinesSur(Caramoan), #NorthernSamar(Palapag, Mapanas, Gamay, Lapinig, Catubig, LasNavas), #Romblon(Looc, SantaFe, Alcantara, SanJose), #Masbate(Balud, Milagros, Cawayan, Placer, Esperanza, Batuan, SanFernando), #OrientalMindoro(Bulalacao, Mansalay, Bongabong, Roxas, SanTeodoro, PuertoGalera, Baco, CityOfCalapan), #Marinduque(Buenavista and Torrijos) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 31 Oct 2026 15:30:51 +0000</pubDate>
-      <guid isPermaLink="false">b018bd5fd4bc8f5fc9baeffbd6451ab91c0c3071</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 15:30:51 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
