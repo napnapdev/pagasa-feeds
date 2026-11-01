@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 01 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 03:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:03:16 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 12:30 PM 01 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #SurigaoDelNorte(Sison, Tubod, Bacuag, Gigaquit, Claver), #SurigaoDelSur(Carrascal, Cantilan), #Bukidnon(CityOfMalaybalay, Lantapan, Malitbog), #LanaoDelSur(TagoloanII, Butig, BuadiposoBuntong, Mulondo, Taraka), #NorthCotabato(Arakan, PresidentRoxas, Antipas, Matalam), #Sarangani(Malapatan), #TawiTawi, #MisamisOriental(Binuangan, Salay, Talisayan, Medina, Lagonglong), #LanaoDelNorte(Magsaysay and Tubod) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Basilan, #LanaoDelNorte(Munai, Tangcal, PoonaPiagapo, Nunungan, Salvador), #Bukidnon(ImpasugOng, Sumilao, Libona, ManoloFortich, Baungon, Talakag, CityOfValencia), #MisamisOriental(Claveria, Balingoan, Kinoguitan, Sugbongcogon), #LanaoDelSur(Bubong, Kapai, DitsaanRamain, LumbaBayabao, Masiu, PoonaBayabao, Tamparan, Maguing), #SurigaoDelNorte(Malimono, Mainit, Alegria), #AgusanDelNorte(Kitcharao, Jabonga, Santiago and Tubay) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 01 Nov 2026 06:03:42 +0000</pubDate>
+      <guid isPermaLink="false">def511b4f51578c5b735cfa00c6b602a53d8677c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 06:03:42 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 01 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #Camiguin, #MisamisOccidental, #MisamisOriental, #Bukidnon and #LanaoDelNorte within 12 hours.</description>
       <pubDate>Sun, 01 Nov 2026 03:03:40 +0000</pubDate>
       <guid isPermaLink="false">dc02e1efa011685559ad6caaafd17a610744ee3f</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 03:03:40 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 03:03:40 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">88047e38528b1baa2b603e4f54908f8630898a38</guid>
       <category>Rainfall Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 09:03:44 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 11 #MINPRSD</title>
-      <description>Rainfall Advisory No. 11 #MINPRSD&lt;br /&gt; Weather System: Low Pressure Area (LPA) &lt;br /&gt; Issued at 02:00 PM 31 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #MisamisOriental(Magsaysay, Talisayan, Balingoan, Kinoguitan, Sugbongcogon, Binuangan, Jasaan, Villanueva, Tagoloan, CagayanDeOroCity, Libertad, Alubijid, CityOfElSalvador, Opol, Laguindingan, Gitagum), #AgusanDelNorte(Carmen, Nasipit, Magallanes, RemediosT.Romualdez, CityOfCabadbaran, Tubay, Santiago, Jabonga, Kitcharao), #Camiguin, #LanaoDelSur(Bubong, BuadiposoBuntong, Mulondo, Taraka, Tamparan, PoonaBayabao, Masiu, Lumbayanague, Bumbaran, Wao, TagoloanII, Balabagan, Kapatagan, Binidayan, Bayang, Balindong, Piagapo, Marantao, Tugaya, BacolodKalawi, Saguiaran, MarawiCity, Kapai, DitsaanRamain), #LanaoDelNorte(Munai, Lala, Salvador, Baroy, Tubod, Kolambugan, Magsaysay, Tangcal, Maigo, Bacolod, Kauswagan, Linamon, Baloi, Tagoloan, Matungao, PoonaPiagapo, PantaoRagat, Pantar), #NorthCotabato(Banisilan, PresidentRoxas, Magpet, Arakan, Antipas), #MaguindanaoDelNorte(Buldon, Barira, Matanog, Upi, DatuBlahT.Sinsuat), #Bukidnon(Maramag, Quezon, Kitaotao, DonCarlos, Damulog, Kadingilan, Kibawe, Dangcagan), #DavaoDeOro(Laak, Mawab, Maco, Maragusan, Mabini), #AgusanDelSur(Loreto, Talacogon, Prosperidad, SanFrancisco, Rosario), #ZamboangaDelNorte(DapitanCity, Sibutad, Godod, Tampilisan, Salug, Labason, Kalawit, Liloy, LeonB.Postigo, Sindangan, LaLibertad, Rizal), #SurigaoDelSur(Carmen, Cantilan, Madrid, Lanuza, SanMiguel, Lianga, Barobo, Tagbina), #DavaoDelNorte(Talaingod, Kapalong, SanIsidro, Asuncion, NewCorella, CityOfTagum, Carmen, CityOfPanabo, BraulioE.Dujali, SantoTomas), #ZamboangaDelSur(Dumalinao, PagadianCity, Tigbao, SanPablo, Guipos, Lakewood, Midsalip, Sominot, RamonMagsaysay, Bayog, Kumalarang, Lapuyan, SanMiguel, Dinas, Margosatubig, VincenzoA.Sagun, Dimataling, Pitogo, Tabina, Mahayag, Molave, Tambulig, Josefina), #ZamboangaSibugay(Kabasalan, Naga, Titay, Ipil), #MisamisOccidental(Bonifacio, TangubCity, DonVictorianoChiongbian, SapangDalaga, Concepcion, Tudela, Clarin, OzamisCity), #SurigaoDelNorte(SanFrancisco, Mainit, Alegria, Tubod, Sison, SurigaoCity), #DavaoCity, #Sarangani(Alabel, Malungon), #DavaoDelSur(Kiblawan, Sulop, Malalag), #SultanKudarat(Lebak, Palimbang, Isulan, Esperanza), #MaguindanaoDelSur(Talayan, Ampatuan), #SouthCotabato(Norala, SantoNiño, Surallah and LakeSebu) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rains are being experienced in #Bukidnon(Talakag, Pangantucan, Kalilangan, ManoloFortich, ImpasugOng, Sumilao, Libona, Baungon, CityOfMalaybalay, Malitbog, Lantapan, CityOfValencia, Cabanglasan, SanFernando), #LanaoDelSur(Maguing, LumbaBayabao, Butig, SultanDumalondong, Lumbatan, Picong, Pualas, Calanogas, Madamba, Madalum, Ganassi, Pagayawan, Malabang, Marogong, Tubaran, LumbacaUnayan), #AgusanDelSur(SanLuis, LaPaz, Esperanza, Trento, SantaJosefa, Veruela, Bunawan, Sibagat, CityOfBayugan), #MisamisOriental(Claveria, Salay, Lagonglong, Balingasag, GingoogCity, Medina, Lugait, Manticao, Initao, Naawan), #AgusanDelNorte(LasNieves, Buenavista, ButuanCity), #NorthCotabato(Alamada), #DavaoDeOro(Monkayo, Montevista, Compostela, NewBataan, Nabunturan), #DavaoOriental(Boston), #ZamboangaDelSur(Labangan, Tukuran, Dumingag, Aurora), #Basilan, #ZamboangaCity, #ZamboangaDelNorte(Sibuco, Sirawai, Siocon, Baliguian, Gutalac, Siayan, JoseDalman, Manukan, Pres.ManuelA.Roxas, Katipunan, SergioOsmeñaSr., Mutia, Piñan, Polanco, DipologCity), #ZamboangaSibugay(Tungawan, RosellerLim, Payao, Alicia, Mabuhay, Talusan, Olutanga, Siay, Imelda, Malangas, Buug, Diplahan), #LanaoDelNorte(SultanNagaDimaporo, Kapatagan, IliganCity, Sapad, Nunungan), #MaguindanaoDelSur(SouthUpi), #SultanKudarat(Kalamansig, Sen.NinoyAquino, Bagumbayan) and #SurigaoDelNorte(Malimono) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.</description>
-      <pubDate>Sat, 31 Oct 2026 06:03:36 +0000</pubDate>
-      <guid isPermaLink="false">af7ff35e4a60037d9536f34ebe05d969b9f627f2</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 06:03:36 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
