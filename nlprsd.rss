@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 01 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 01:32:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 03:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 01 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cagayan within 12 hours.</description>
+      <pubDate>Sun, 01 Nov 2026 03:03:40 +0000</pubDate>
+      <guid isPermaLink="false">bd45c95f211aff629f7bae3d16f6d0eff728a93f</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 03:03:40 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 01 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte and #Aurora within 12 hours.</description>
+      <pubDate>Sun, 01 Nov 2026 03:03:39 +0000</pubDate>
+      <guid isPermaLink="false">2c0ca9837825602c894efa53d86063a6329e3269</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 03:03:40 +0000</ns1:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 34 #NLPRSD</title>
       <description>Rainfall Advisory No. 34 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) / Shearline &lt;br /&gt; Issued at 08:00 AM 01 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Cagayan(Ballesteros, Aparri, Camalaniugan, Gonzaga, SantaAna, Pamplona, Abulug, SanchezMira), #Isabela(SantaMaria, Tumauini, DelfinAlbano, SantoTomas, Cabagan, Divilacan, Palanan, IlaganCity, BenitoSoliven, CityOfCauayan, Angadanan, Alicia, CityOfSantiago, SanIsidro, Cordon, Ramon, Quezon, Naguilian, Mallig, Burgos, Quirino, Gamu, Roxas, SanManuel, ReinaMercedes, Luna, Aurora, Cabatuan, SanMateo), #Quirino(Nagtipunan), #Aurora(Dinalungan, Casiguran, Dipaculao, SanLuis, Baler, MariaAurora), #NuevaVizcaya(Kasibu, Diadi, Bagabag, Quezon, Solano, Villaverde, Bayombong, AlfonsoCastaneda, Ambaguio), #Kalinga(Pasil, Lubuagan, Tanudan, Tinglayan), #Apayao(Kabugao, SantaMarcela, Luna, Calanasan), #Abra, #MountainProvince(Paracelis, Sadanga) and #Ifugao(AlfonsoLista) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Baggao, Peñablanca, Gattaran, LalLo, Allacapan, Buguey, SantaTeresita, Lasam, Alcala, Amulung, SantoNiño, Piat, Solana, Iguig, Enrile, TuguegaraoCity, Tuao, Rizal), #Isabela(Maconacon, SanPablo, Jones, SanAgustin, Echague, Dinapigue, SanMariano, SanGuillermo), #Aurora(Dingalan, Dilasag), #Quirino(Aglipay, Cabarroguis, Diffun, Maddela, Saguday), #Apayao(Conner, Pudtol, Flora), #Kalinga(Pinukpuk, CityOfTabuk, Rizal and Balbalan) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -70,22 +86,6 @@
       <guid isPermaLink="false">5daa3f35626fda22f0b0716768560079a6a24298</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 06:07:40 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 31 October 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Aurora and #Cagayan within 12 hours.</description>
-      <pubDate>Sat, 31 Oct 2026 03:03:34 +0000</pubDate>
-      <guid isPermaLink="false">58b15dc7807ac51039b4b4b6d0c4f69a37e44134</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 03:03:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 27 #NLPRSD</title>
-      <description>Rainfall Advisory No. 27 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) / Shearline &lt;br /&gt; Issued at 11:00 AM 31 October 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Isabela(IlaganCity, Divilacan, Palanan, Maconacon, SanPablo, Cabagan, Tumauini, CityOfSantiago, SantoTomas, SantaMaria, Quezon, Mallig, Roxas, SanManuel, Aurora, Cabatuan, Luna, Burgos, Gamu, Quirino, ReinaMercedes, DelfinAlbano, Cordon), #Cagayan(Peñablanca, TuguegaraoCity), #Quirino(Saguday, Aglipay, Diffun, Cabarroguis), #Ifugao(AlfonsoLista, Aguinaldo), #NuevaVizcaya(DupaxDelSur, DupaxDelNorte, Kasibu, Diadi, Quezon), #Aurora(Baler and MariaAurora) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(SanMariano, BenitoSoliven, CityOfCauayan, Naguilian, SanGuillermo, Angadanan, Echague, Jones, SanAgustin, Alicia, SanIsidro, SanMateo, Ramon, Dinapigue), #Aurora(Dilasag, Casiguran, Dinalungan, Dipaculao), #Quirino(Nagtipunan, Maddela) and #NuevaVizcaya(AlfonsoCastaneda) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 31 Oct 2026 03:03:33 +0000</pubDate>
-      <guid isPermaLink="false">28aea302e6f7cb1cd0cd4212ffd6180e14165811</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 03:03:34 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
