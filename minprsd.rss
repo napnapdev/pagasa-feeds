@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 01 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 18:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 18:15:26 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 9 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 9 #MINPRSD&lt;br /&gt; Issued at 02:00 AM 02 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #DinagatIslands(Loreto), #Basilan(Akbar, Tuburan, HadjiMohammadAjul, CityOfLamitan, UngkayaPukan, TipoTipo, AlBarka, Sumisip and CityOfIsabela) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaCity, #ZamboangaDelNorte(Sibuco), #DinagatIslands(Tubajon and Libjo) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -110,14 +110,6 @@
       <guid isPermaLink="false">847505fe2e24695a8f28c814d1075840e8512c7b</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 19:52:08 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 02:00 AM 01 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #DinagatIslands(Loreto, Tubajon, Libjo), #ZamboangaCity, #DavaoOriental(CityOfMati, GovernorGeneroso, SanIsidro), #TawiTawi(Sibutu, Sitangkai) and #SurigaoDelSur(CityOfBislig) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelNorte(SurigaoCity, SanFrancisco) and #TawiTawi(Mapun) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 31 Oct 2026 18:07:35 +0000</pubDate>
-      <guid isPermaLink="false">e5016c00f2857618a94ed6e4dc756c829a9253d0</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 18:07:35 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
