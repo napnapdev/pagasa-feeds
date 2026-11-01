@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 01 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 18:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 18:07:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 25 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 25 #VISPRSD&lt;br /&gt; Issued at 11:52 PM 01 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(LapuLapuCity, Cordova, MandaueCity, Liloan, Consolacion, SanFrancisco, Poro, Tudela, Pilar, DanaoCity, Compostela), #Bohol(BienUnido, Talibon, Getafe, Buenavista, Trinidad), #Leyte(Palompon, Isabel, Merida, MatagOb, Villaba), #Palawan(Busuanga, Culion and Linapacan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Argao, Ronda, Alcantara, Moalboal, Dalaguete, Badian) and #Palawan(Coron) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -225,22 +225,6 @@
       <guid isPermaLink="false">3b7edbfeb06ead4ba8285e262b0789ca2ad92d8e</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 21:03:37 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 12:56 AM 01 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(CebuCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(DanaoCity, Compostela, Liloan, Consolacion and MandaueCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sat, 31 Oct 2026 18:03:46 +0000</pubDate>
-      <guid isPermaLink="false">08ca16d4ac937a2043097c2d65bfcefba3b1ad10</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 18:03:46 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 12:14 AM 01 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Bulalacao, Mansalay, Bongabong, Roxas, SanTeodoro, PuertoGalera, Baco, CityOfCalapan), #OccidentalMindoro(Paluan, AbraDeIlog, Mamburao, SantaCruz), #Palawan(Culion, Dumaran, Taytay, PuertoPrincesaCity, Balabac), #Cebu(Cordova), #NegrosOriental(Valencia, DumagueteCity), #EasternSamar(SanPolicarpo, Arteche, Jipapad, Oras and Dolores) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Siquijor, #NegrosOriental(Zamboanguita, Dauin, Bacong, CityOfGuihulngan) and #Cebu(LapuLapuCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sat, 31 Oct 2026 18:03:45 +0000</pubDate>
-      <guid isPermaLink="false">dcfdeccab37f6a6895fdf0be368e628229fe427d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 31 Oct 2026 18:03:46 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
