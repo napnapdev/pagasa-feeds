@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 02 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2026 03:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 03:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 12 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 12 #MINPRSD&lt;br /&gt; Issued at 07:30 AM 02 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm Advisories in other areas are now terminated.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -102,14 +102,6 @@
       <guid isPermaLink="false">def511b4f51578c5b735cfa00c6b602a53d8677c</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 06:03:42 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 01 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #Camiguin, #MisamisOccidental, #MisamisOriental, #Bukidnon and #LanaoDelNorte within 12 hours.</description>
-      <pubDate>Sun, 01 Nov 2026 03:03:40 +0000</pubDate>
-      <guid isPermaLink="false">dc02e1efa011685559ad6caaafd17a610744ee3f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 03:03:40 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
