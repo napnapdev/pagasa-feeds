@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 02 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2026 18:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 19:44:37 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 02 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #NegrosOccidental, #NegrosOriental, #Cebu, #Bohol, #Siquijor, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -177,14 +177,6 @@
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11022026_1793566957.pdf</guid>
       <category>Special Forecast</category>
       <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 21:07:35 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 02:31 AM 02 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(Manjuyod, Bindoy, Ayungon, BaisCity), #Cebu(Barili, Dumanjug, CityOfBogo, SanRemigio, Tabogon), #Leyte(TaclobanCity, Palo, Alangalang, Tunga, Carigara, Mayorga, LaPaz, SantaFe), #SouthernLeyte(Hinunangan, Hinundayan, Anahawan, SanJuan, Silago), #Bohol(SanIsidro, Calape, Antequera, Balilihan, Sikatuna, Alburquerque), #Siquijor(Maria and Lazi) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(SanFrancisco, Poro, Tudela, Daanbantayan, Medellin, Bantayan, Madridejos, SantaFe, Pilar), #Leyte(Tabontabon, Tanauan, Tolosa, Dulag, Julita, Barugo, SanMiguel, Babatngon, Hilongos, Bato, Matalom, Calubian, SanIsidro, Burauen, Dagami, Pastrana), #Bohol(Dauis, Panglao, Ubay, Mabini, Alicia, Candijay, Anda, Pres.CarlosP.Garcia, BienUnido, Trinidad, SanMiguel, Talibon, Getafe, TagbilaranCity, Baclayon, Cortes, Maribojoc, Loon, Corella), #SouthernLeyte(Macrohon, Malitbog, PadreBurgos, TomasOppus, Bontoc, CityOfMaasin, Pintuyan, SanFrancisco, Liloan, SanRicardo, Libagon, SaintBernard, Sogod), #Siquijor(Larena, EnriqueVillanueva, Siquijor, SanJuan), #NegrosOriental(Zamboanguita, Dauin, Siaton), #Iloilo(Carles, Estancia and Balasan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sun, 01 Nov 2026 19:29:36 +0000</pubDate>
-      <guid isPermaLink="false">522a63946bbcdc4bdf028dddeb367575f3eac730</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 19:29:36 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
