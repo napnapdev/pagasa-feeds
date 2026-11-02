@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 02 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2026 12:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:03:27 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NCRPRSD</title>
+      <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 PM, 02 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
+      <pubDate>Mon, 02 Nov 2026 15:03:45 +0000</pubDate>
+      <guid isPermaLink="false">0f8ce42142d673456fe664681d57e410e85da6af</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 15:03:45 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 AM, 02 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -30,14 +38,6 @@
       <guid isPermaLink="false">64856aa333c735daef97de0722ee3a8e0216e49e</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 18:03:34 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 9 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 9 #NCR_PRSD&lt;br /&gt; Issued at: 9:20 PM, 01 November 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Dona Remedios Trinidad and Norzagaray), Laguna (Cavinti, Lumban, Kalayaan, Pakil, Paete, Pangil, Mabitac, Famy, Santa Maria, and Siniloan), Quezon (General Nakar, Real, Mauban, Sampaloc, Perez, Alabat, Polillo, and Tagkawayan), Rizal (Pililla, Jala-Jala, and Tanay), and Zambales (San Marcelino, Castillejos, and Cabangan) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Zambales (San Antonio, San Felipe, and San Narciso) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 01 Nov 2026 14:56:55 +0000</pubDate>
-      <guid isPermaLink="false">6b8e9a31b48cd97346e29994c4ef7ec2e2000798</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 01 Nov 2026 14:56:55 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
