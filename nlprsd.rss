@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 03 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2026 18:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:07:31 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 PM 03 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
@@ -54,14 +54,6 @@
       <guid isPermaLink="false">fccb32a4b4be8d910d2eb5f0afaffb1e527a3ebd</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 01:50:26 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #NLPRSD&lt;br /&gt; Issued at 01:59 AM 03 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #IlocosNorte(NuevaEra, Pinili, Badoc), #Ifugao(Banaue, Hingyon, Hungduan, Kiangan, Lamut), #MountainProvince(Barlig, Sadanga, Bontoc), #Kalinga(CityOfTabuk, Pinukpuk, Pasil, Tinglayan, Lubuagan, Rizal), #Abra(Boliney, Tubo), #Cagayan(Tuao, Solana), #IlocosSur(Sinait and Cabugao) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Roxas, SanManuel, Quezon, Mallig), #Ifugao(AlfonsoLista, Aguinaldo, Mayoyao, Lagawe), #MountainProvince(Paracelis, Natonin), #Abra(Lagayan, Tineg, Danglas) and #Kalinga(Tanudan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 02 Nov 2026 18:07:54 +0000</pubDate>
-      <guid isPermaLink="false">0eca279a015d72ed0367ee620fe608b1d8611ea5</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 18:07:54 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
