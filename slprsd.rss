@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 03 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2026 21:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #SLPRSD&lt;br /&gt; Issued at 07:40 AM 03 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Sorsogon(Pilar, CityOfSorsogon, Casiguran, Matnog, SantaMagdalena, Bulan, Irosin), #NorthernSamar(Capul, SanVicente and SanAntonio) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sorsogon(Castilla, Juban and Magallanes) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 03 Nov 2026 00:03:42 +0000</pubDate>
+      <guid isPermaLink="false">d69aa263ee27d953429b47444f832068bc78d94c</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 00:03:42 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
       <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 PM 02 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
       <pubDate>Mon, 02 Nov 2026 15:03:45 +0000</pubDate>
       <guid isPermaLink="false">5f7b5d63b1002e7618850995c287bfd3267faff6</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 15:03:45 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 15:03:45 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 3 November, 2026</title>
@@ -22,7 +30,7 @@
       <pubDate>Mon, 02 Nov 2026 15:03:44 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_02Nov2026_1793622807.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 15:03:45 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 15:03:45 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 3 November, 2026</title>
@@ -31,7 +39,7 @@
       <pubDate>Mon, 02 Nov 2026 15:03:43 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_02Nov2026_1793622748.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 15:03:45 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 15:03:45 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 3 November, 2026</title>
@@ -40,7 +48,7 @@
       <pubDate>Mon, 02 Nov 2026 02:18:51 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_02Novt2026_1793579744.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 02:18:51 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 02:18:51 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 3 November, 2026</title>
@@ -49,7 +57,7 @@
       <pubDate>Mon, 02 Nov 2026 02:18:50 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_02Nov2026_1793579726.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 02:18:51 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 02:18:51 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
@@ -58,14 +66,6 @@
       <guid isPermaLink="false">1cf912c02bedd50284831af7a7bd08f2334dadb2</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 02:18:51 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #SLPRSD&lt;br /&gt; Issued at 06:50 AM 02 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #OrientalMindoro(Naujan, Bansud), #Romblon(Magdiwang, Cajidiocan, Romblon and SanFernando) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #OrientalMindoro(Victoria, Socorro, Pola, Pinamalayan and Gloria) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 02 Nov 2026 00:03:35 +0000</pubDate>
-      <guid isPermaLink="false">d8b3015ae3edb763156f96babfbb738a2a8ce3d4</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 00:03:35 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
