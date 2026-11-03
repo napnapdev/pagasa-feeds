@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 03 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2026 00:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:50:14 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 09:15 AM 03 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Palawan(PuertoPrincesaCity, Aborlan and Narra) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Tue, 03 Nov 2026 01:50:27 +0000</pubDate>
+      <guid isPermaLink="false">7fc95fa21ab55dfcf42416ad2e1f6909b9094037</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 01:50:27 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 07:06 AM 03 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Roxas) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Cagayancillo and ElNido) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Tue, 03 Nov 2026 00:03:42 +0000</pubDate>
       <guid isPermaLink="false">cc7462b74e3587089d0a62fc69d045bdbd4c166e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 00:03:42 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 00:03:42 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 4 November, 2026</title>

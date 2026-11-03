@@ -6,7 +6,31 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 03 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2026 00:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:50:12 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 09:37 AM 03 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Aurora within 12 hours.</description>
+      <pubDate>Tue, 03 Nov 2026 01:50:26 +0000</pubDate>
+      <guid isPermaLink="false">cf1f0698ecfae7c3d6c92492bab9018293e4af5f</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 01:50:26 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 03 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte and #Cagayan within 12 hours.</description>
+      <pubDate>Tue, 03 Nov 2026 01:50:25 +0000</pubDate>
+      <guid isPermaLink="false">f219639b90ba8fd1b7af6749eb048eef25d3980e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 01:50:26 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 6 #NLPRSD</title>
+      <description>Thunderstorm Advisory No. 6 FINAL #NLPRSD&lt;br /&gt; Issued at 08:30 AM 03 November 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 03 Nov 2026 01:50:24 +0000</pubDate>
+      <guid isPermaLink="false">fccb32a4b4be8d910d2eb5f0afaffb1e527a3ebd</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 01:50:26 +0000</ns2:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 5 #NLPRSD&lt;br /&gt; Issued at 01:59 AM 03 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #IlocosNorte(NuevaEra, Pinili, Badoc), #Ifugao(Banaue, Hingyon, Hungduan, Kiangan, Lamut), #MountainProvince(Barlig, Sadanga, Bontoc), #Kalinga(CityOfTabuk, Pinukpuk, Pasil, Tinglayan, Lubuagan, Rizal), #Abra(Boliney, Tubo), #Cagayan(Tuao, Solana), #IlocosSur(Sinait and Cabugao) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Roxas, SanManuel, Quezon, Mallig), #Ifugao(AlfonsoLista, Aguinaldo, Mayoyao, Lagawe), #MountainProvince(Paracelis, Natonin), #Abra(Lagayan, Tineg, Danglas) and #Kalinga(Tanudan) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
