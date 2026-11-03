@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 03 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2026 15:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:07:24 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 6 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 6 #NCR_PRSD&lt;br /&gt; Issued at: 9:25 PM, 03 November 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (Tagkawayan, Calauag, Polillo, Burdeos, Panukulan, Patnanungan, Guinayangan, Quezon, Mauban, Real, Infanta, General Nakar, Perez, and Alabat) and Zambales (Masinloc, Iba, Palauig, and Botolan) within the next 3 hours.&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are affecting Zambales (Santa Cruz and Candelaria) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -54,14 +54,6 @@
       <guid isPermaLink="false">f31dcf5031d50c1ce0e8cb5721d01bd9b9a920b1</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 21:03:39 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NCRPRSD</title>
-      <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 PM, 02 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
-      <pubDate>Mon, 02 Nov 2026 15:03:45 +0000</pubDate>
-      <guid isPermaLink="false">0f8ce42142d673456fe664681d57e410e85da6af</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 15:03:45 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
