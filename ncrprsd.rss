@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 03 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2026 09:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 6:19 PM, 03 November 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (Jomalig, Patnanungan, Burdeos, Panukulan, and Polillo), Tarlac (San Clemente), and Zambales (Santa Cruz and Candelaria) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 03 Nov 2026 12:03:41 +0000</pubDate>
+      <guid isPermaLink="false">db6f3463c55dff4c631874b7b2487a86ca8a20bb</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 12:03:41 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 8:40 AM, 03 November 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Dinalupihan, Hermosa, Orani, Samal, Abucay, Balanga, Orion, Pilar, Limay, and Mariveles), Bulacan (Hagonoy and Paombong), Cavite (Noveleta, Cavite City, Tanza, and Rosario), and Pampanga (Floridablanca, Lubao, Sasmuan, Macabebe, and Masantol) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -46,7 +54,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
