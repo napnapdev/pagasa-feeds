@@ -5,8 +5,16 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/ncrprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
-    <pubDate>Tue, 03 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2026 18:30:47 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:03:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 7 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 7 #NCR_PRSD&lt;br /&gt; Issued at: 3:05 AM, 04 November 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (Perez, Alabat, Quezon, Atimonan, Plaridel, Padre Burgos, Lucena, Tayabas, Candelaria, Sariaya, Lucban, Pagbilao, Mauban, Polillo, Jomalig, Patnanungan, Burdeos, Panukulan, Calauag, Gumaca, Sampaloc, Real, Dolores, Agdangan, and Unisan) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 03 Nov 2026 21:03:38 +0000</pubDate>
+      <guid isPermaLink="false">833bb9c044b72e207b00ba1f6d24291285bdccaf</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 21:03:38 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 6 #NCR_PRSD&lt;br /&gt; Issued at: 9:25 PM, 03 November 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (Tagkawayan, Calauag, Polillo, Burdeos, Panukulan, Patnanungan, Guinayangan, Quezon, Mauban, Real, Infanta, General Nakar, Perez, and Alabat) and Zambales (Masinloc, Iba, Palauig, and Botolan) within the next 3 hours.&lt;br /&gt; &lt;br /&gt; Heavy to intense rainshowers with lightning and strong winds are affecting Zambales (Santa Cruz and Candelaria) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -62,7 +70,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
