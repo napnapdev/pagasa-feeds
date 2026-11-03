@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 03 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2026 09:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:07:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 10 #VISPRSD&lt;br /&gt; Issued at 04:37 PM 03 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Guimaras(Sibunag), #NegrosOccidental(Pulupandan, Valladolid, LaCarlotaCity, SanEnrique, Pontevedra, Hinigaran and Binalbagan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -160,30 +160,6 @@
       <guid isPermaLink="false">0889166bdec8931dbba16c47d644df073306526a</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 12:03:34 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 12 #VISPRSD&lt;br /&gt; Issued at 04:35 PM 02 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Palawan(Bataraza, Rizal, Brooke'sPoint, SofronioEspanola, Quezon, Narra, Aborlan, PuertoPrincesaCity), #NegrosOccidental(SanEnrique and Pontevedra) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Mon, 02 Nov 2026 09:03:39 +0000</pubDate>
-      <guid isPermaLink="false">0999bbbce737bc76f47600259c0d302990775bd2</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 09:03:39 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 03:37 PM 02 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Bohol(Antequera, TagbilaranCity, Cortes, Balilihan), #Leyte(Kananga), #NegrosOccidental(Cauayan, Ilog, CityOfKabankalan), #Samar(CityOfCatbalogan, Jiabong, Motiong), #Antique(Belison, SanJose, Hamtic), #Palawan(Brooke'sPoint, Bataraza, PuertoPrincesaCity, SofronioEspanola, Narra and Quezon) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bohol(Maribojoc, SanIsidro), #Leyte(Tabango, Villaba, Leyte, Palompon, MatagOb), #NegrosOccidental(HinobaAn, CityOfSipalay, Candoni, CityOfHimamaylan, Binalbagan), #Samar(Tarangnan, Pagsanghan, SanJorge, SantaMargarita, Gandara), #Antique(Patnongon, Sibalom) and #Palawan(Rizal) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Mon, 02 Nov 2026 09:03:38 +0000</pubDate>
-      <guid isPermaLink="false">b86af1b67d6f49630179abe0ad61e721a8ba3fe8</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 09:03:39 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 10 #VISPRSD&lt;br /&gt; Issued at 02:20 PM 02 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(Valderrama, SanRemigio), #Iloilo(Maasin), #NegrosOccidental(Candoni, CityOfSipalay, Ilog, Hinigaran, Isabela), #Leyte(TaclobanCity, Tabango, Villaba and MatagOb) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(Bugasong), #Iloilo(Lambunao, Janiuay), #NegrosOccidental(HinobaAn, CityOfKabankalan, CityOfHimamaylan, Binalbagan), #Leyte(Leyte, Kananga, Capoocan, Carigara, Barugo, Tunga, SanMiguel, Babatngon, Jaro and Alangalang) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Mon, 02 Nov 2026 09:03:37 +0000</pubDate>
-      <guid isPermaLink="false">e20d50fd49af9d8399db18ef1f03d98b3fc73221</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 02 Nov 2026 09:03:39 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
