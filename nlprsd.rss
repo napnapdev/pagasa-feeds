@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 05 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2026 21:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:48:57 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 PM 04 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #IlocosNorte within 12 hours.</description>
@@ -22,14 +22,6 @@
       <guid isPermaLink="false">494fa346dd7cb11f6398a31f06e5bc7509916ddf</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 02:08:57 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 3 FINAL #NLPRSD&lt;br /&gt; Issued at 05:10 AM 04 November 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 03 Nov 2026 21:31:14 +0000</pubDate>
-      <guid isPermaLink="false">b00ac9c6a7de34bbc328350b9df2dbb39ec20193</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 21:31:14 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
