@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 04 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2026 00:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:07:21 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 5 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SILAY CITY_NegOcc_11042026_1793739518.pdf</link>
@@ -129,14 +129,6 @@
       <guid isPermaLink="false">7fc95fa21ab55dfcf42416ad2e1f6909b9094037</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 01:50:27 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 07:06 AM 03 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Palawan(Roxas) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Cagayancillo and ElNido) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 03 Nov 2026 00:03:42 +0000</pubDate>
-      <guid isPermaLink="false">cc7462b74e3587089d0a62fc69d045bdbd4c166e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 03 Nov 2026 00:03:42 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
