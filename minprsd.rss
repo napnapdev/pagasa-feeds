@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 05 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2026 22:48:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 39 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 39 #MINPRSD&lt;br /&gt; Issued at 08:00 AM 05 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelNorte(Sindangan, Siayan, JoseDalman, Manukan, Pres.ManuelA.Roxas, Katipunan, Rizal, Sibutad, DapitanCity, Polanco, DipologCity, Sibuco, LeonB.Postigo, Salug), #ZamboangaDelSur(Dumingag, Molave, Mahayag, Josefina, Dimataling, Tabina, Pitogo, Dinas, Margosatubig, VincenzoA.Sagun), #MisamisOccidental(Sinacaban, Tudela, Jimenez, Clarin, Aloran, Panaon, OroquietaCity, Plaridel, Baliangao), #ZamboangaCity, #LanaoDelNorte(Bacolod, Maigo, Kauswagan, Linamon, IliganCity, Nunungan), #SurigaoDelSur(Barobo, Tagbina, Hinatuan, Cortes, CityOfTandag, Tago, Bayabas, Cagwait), #DavaoOccidental(Malita, SantaMaria), #ZamboangaSibugay(Alicia, Mabuhay, Talusan, Olutanga), #MaguindanaoDelNorte(DatuBlahT.Sinsuat, Upi, DatuOdinSinsuat, Talitay), #MaguindanaoDelSur(Talayan, SouthUpi, DatuAnggalMidtimbang, Guindulungan) and #LanaoDelSur(Picong) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaDelNorte(Mutia, LaLibertad, Piñan, SergioOsmeñaSr.), #MisamisOccidental(DonVictorianoChiongbian, SapangDalaga, Concepcion, LopezJaena and Calamba) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 05 Nov 2026 00:03:38 +0000</pubDate>
+      <guid isPermaLink="false">55e93ae94eb4a6d0e456aaaba74ba2b5a8e45034</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 00:03:38 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 38 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 38 #MINPRSD&lt;br /&gt; Issued at 06:00 AM 05 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelNorte(Sibuco), #ZamboangaCity, #ZamboangaDelSur(Tabina, Pitogo), #MaguindanaoDelNorte(DatuOdinSinsuat, DatuBlahT.Sinsuat, Upi), #MisamisOccidental(Plaridel, LopezJaena and OroquietaCity) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Wed, 04 Nov 2026 22:49:13 +0000</pubDate>
       <guid isPermaLink="false">c4a912d21bf8fafa2f840123dbf13e7627572e41</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 22:49:13 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 22:49:13 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 37 #MINPRSD</title>
@@ -110,22 +118,6 @@
       <guid isPermaLink="false">bc0f2b6218b7d710494476bcd83b366747a9b66c</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 02:08:57 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 25 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 25 #MINPRSD&lt;br /&gt; Issued at 08:00 AM 04 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #TawiTawi(TurtleIslands, Mapun), #SurigaoDelSur(Tagbina, Hinatuan, CityOfBislig, Barobo, Lingig), #ZamboangaCity, #ZamboangaSibugay(Olutanga, Talusan, Mabuhay), #ZamboangaDelSur(Pitogo, Tabina, Dimataling, VincenzoA.Sagun), #ZamboangaDelNorte(Sibutad, Rizal, LaLibertad, Piñan, Mutia, Katipunan, SergioOsmeñaSr.), #MisamisOccidental(OroquietaCity, DonVictorianoChiongbian), #Basilan(HadjiMohammadAjul), #DinagatIslands(Tubajon, Loreto, Libjo and Cagdianao) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SultanKudarat(Lebak, Kalamansig, Palimbang, Isulan, Bagumbayan, Sen.NinoyAquino), #Sarangani(Maitum), #SouthCotabato(LakeSebu), #MisamisOccidental(Concepcion, LopezJaena, Plaridel, Calamba, Baliangao, SapangDalaga), #ZamboangaDelNorte(DapitanCity, DipologCity and Polanco) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 04 Nov 2026 00:03:35 +0000</pubDate>
-      <guid isPermaLink="false">f3df78b08dc0b56c78c06a7b11485d11b20f2cea</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 00:03:35 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 24 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 24 #MINPRSD&lt;br /&gt; Issued at 06:15 AM 04 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SultanKudarat(Esperanza, Isulan, Kalamansig, Palimbang, Sen.NinoyAquino), #MaguindanaoDelSur(Ampatuan), #Sarangani(Maitum, Kiamba), #SouthCotabato(LakeSebu, T'Boli, Tupi) and #MaguindanaoDelNorte(DatuOdinSinsuat) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SultanKudarat(Lebak, Bagumbayan), #MaguindanaoDelNorte(Upi, DatuBlahT.Sinsuat), #MaguindanaoDelSur(SouthUpi), #SouthCotabato(Surallah, CityOfKoronadal, Norala, SantoNiño, Banga) and #TawiTawi(Mapun) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 04 Nov 2026 00:03:34 +0000</pubDate>
-      <guid isPermaLink="false">aee02eaa6ddd31f1bce47d431a30e189597e6bbd</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 00:03:35 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
