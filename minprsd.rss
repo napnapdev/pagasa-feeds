@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 05 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 12:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:07:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 45 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 45 #MINPRSD&lt;br /&gt; Issued at 08:00 PM 05 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #MisamisOriental(Magsaysay), #AgusanDelNorte(Carmen, Nasipit), #Bukidnon(Libona), #NorthCotabato(Alamada, Banisilan) and #MaguindanaoDelNorte(Parang) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Thu, 05 Nov 2026 12:07:33 +0000</pubDate>
+      <guid isPermaLink="false">e5d90f6a9467dda3651b587a0ca407279f0f879b</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 12:07:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 44 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 44 #MINPRSD&lt;br /&gt; Issued at 06:00 PM 05 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #AgusanDelNorte(Buenavista, Nasipit, Magallanes, ButuanCity, RemediosT.Romualdez, Jabonga, Santiago, Kitcharao), #Bukidnon(Talakag, Malitbog), #LanaoDelSur(Bubong, Kapai, DitsaanRamain, Balindong, Tugaya, BacolodKalawi, Madalum, Piagapo, Saguiaran, Madamba), #LanaoDelNorte(IliganCity, Pantar, Tagoloan, Baloi, PantaoRagat, Tubod, Magsaysay, Salvador, Nunungan, Sapad, Munai, Tangcal), #DavaoDelNorte(CityOfSamal), #DavaoDeOro(Maco), #MisamisOriental(GingoogCity, Kinoguitan, Sugbongcogon, Binuangan, Salay), #DavaoOriental(Banaybanay), #NorthCotabato(Matalam, M'Lang, CityOfKidapawan), #SouthCotabato(Surallah, Banga, CityOfKoronadal, Tampakan, LakeSebu), #Sarangani(Kiamba), #ZamboangaSibugay(Ipil, Titay, RosellerLim), #ZamboangaDelNorte(Baliguian, Siocon, Gutalac, Kalawit and Labason) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #LanaoDelSur(TagoloanII, MarawiCity, Marantao), #MisamisOriental(Claveria, Magsaysay, Medina, Talisayan, Balingoan), #AgusanDelNorte(Carmen, CityOfCabadbaran, Tubay), #DavaoDeOro(Mabini, Pantukan), #SouthCotabato(Tupi, T'Boli and Polomolok) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Thu, 05 Nov 2026 10:41:35 +0000</pubDate>
       <guid isPermaLink="false">a29625b99456d45feb5f8206fb0f9baa412fb62c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 10:41:35 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 10:41:35 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 43 #MINPRSD</title>
@@ -45,7 +53,7 @@
       <pubDate>Thu, 05 Nov 2026 02:52:43 +0000</pubDate>
       <guid isPermaLink="false">a7d619dcb01666b179a54f4482ba63be3dbf9b2b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 02:52:43 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 02:52:43 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 40 #MINPRSD</title>
