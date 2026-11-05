@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 04 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 03:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:07:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 AM 05 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #NegrosOccidental, #NegrosOriental, #Cebu, #Bohol, #Siquijor, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -177,22 +177,6 @@
       <guid isPermaLink="false">aebd4fda27ee2412165420faaafcd309f16b14a6</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 09:03:51 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 AM 04 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #NegrosOccidental, #NegrosOriental, #Cebu, #Bohol, #Siquijor, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
-      <pubDate>Wed, 04 Nov 2026 03:03:35 +0000</pubDate>
-      <guid isPermaLink="false">3a5f7ce407a2736527f583cfda1aaa25d508d8ce</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 03:03:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 10:30 AM 04 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(CebuCity, CityOfTalisay), #Palawan(Rizal and Brooke'sPoint) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Bataraza and ElNido) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 04 Nov 2026 03:03:34 +0000</pubDate>
-      <guid isPermaLink="false">1affff1d087c4d3d3a13cb2f7e805a06bb19425b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 03:03:35 +0000</ns0:seen>
     </item>
   </channel>
 </rss>

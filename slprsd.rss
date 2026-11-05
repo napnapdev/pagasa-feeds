@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 05 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 03:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:07:22 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 6 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_05Nov2026_1793842725.pdf</link>
@@ -74,14 +74,6 @@
       <guid isPermaLink="false">7d58b53df9f0f5c020ed940d37e98e0d9325a846</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 06:03:34 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #SLPRSD</title>
-      <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 AM 04 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
-      <pubDate>Wed, 04 Nov 2026 03:03:35 +0000</pubDate>
-      <guid isPermaLink="false">53a710a55d0ac3b588f9189a574d10ea3ff0ccbc</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 03:03:35 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
