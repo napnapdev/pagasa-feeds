@@ -6,7 +6,31 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 05 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 12:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 15:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 20 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 20 #VISPRSD&lt;br /&gt; Issued at 10:03 PM 05 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Aklan(Nabas, Malay, Ibajay, Tangalan, Malinao, Madalag, Libacao), #Antique(Pandan), #Iloilo(Dumangas, Ajuy, Concepcion, Sara, SanDionisio) and #Palawan(Coron) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #EasternSamar(Mercedes, Guiuan), #Aklan(Makato, Numancia, Lezo, Kalibo, Banga, NewWashington, Batan, Altavas, Balete) and #Capiz(Jamindan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Thu, 05 Nov 2026 15:03:35 +0000</pubDate>
+      <guid isPermaLink="false">f65ee6213b13729390a6b6e2bb025ff883242618</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 15:03:35 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 19 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 19 #VISPRSD&lt;br /&gt; Issued at 09:55 PM 05 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(Sigma, RoxasCity), #Aklan(Libacao, Malinao and Madalag) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Argao, Dalaguete), #Aklan(Altavas, Balete, Banga, Tangalan, Makato, Numancia, Kalibo, Lezo, NewWashington, Batan, Ibajay, Nabas, Malay, Buruanga), #Capiz(Jamindan, SapiAn, Mambusao, Ivisan), #Antique(Pandan and Libertad) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Thu, 05 Nov 2026 15:03:34 +0000</pubDate>
+      <guid isPermaLink="false">3a0d6383f6264d356c7021fb8422be23424ba131</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 15:03:35 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 05 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #OccidentalMindoro, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #NegrosOccidental, #NegrosOriental, #Cebu, #Bohol, #Siquijor, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
+      <pubDate>Thu, 05 Nov 2026 15:03:33 +0000</pubDate>
+      <guid isPermaLink="false">d0abfd2a8139d6fd750151ea233f327f85a0375d</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 15:03:35 +0000</ns2:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 18 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 18 #VISPRSD&lt;br /&gt; Issued at 07:52 PM 05 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Bohol(Inabanga and Clarin) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bohol(Getafe and Buenavista) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -126,7 +150,7 @@
       <pubDate>Wed, 04 Nov 2026 21:03:40 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SILAY CITY_NegOcc_11052026_1793825117.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 21:03:40 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 21:03:40 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 6 November, 2026</title>
@@ -135,7 +159,7 @@
       <pubDate>Wed, 04 Nov 2026 21:03:39 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Bago_NegOcc_11052026_1793825089.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 21:03:40 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 21:03:40 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 6 November, 2026</title>
@@ -144,7 +168,7 @@
       <pubDate>Wed, 04 Nov 2026 21:03:38 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11052026_1793825065.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 21:03:40 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Wed, 04 Nov 2026 21:03:40 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
