@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 06 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 06 Nov 2026 03:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:30:37 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 7 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_06Nov2026_1793927927.pdf</link>
@@ -14,7 +14,7 @@
       <pubDate>Fri, 06 Nov 2026 03:03:32 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_06Nov2026_1793927927.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 06 Nov 2026 03:03:32 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 06 Nov 2026 03:03:32 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 7 November, 2026</title>
@@ -23,7 +23,7 @@
       <pubDate>Fri, 06 Nov 2026 03:03:31 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_06Novt2026_1793927860.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 06 Nov 2026 03:03:32 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 06 Nov 2026 03:03:32 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 05 Nov 2026 12:30:52 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_05Nov2026_1793881432.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 12:30:52 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 12:30:52 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 6 November, 2026</title>
@@ -57,7 +57,7 @@
       <pubDate>Thu, 05 Nov 2026 12:30:51 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_05Nov2026_1793881394.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 12:30:52 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 12:30:52 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
