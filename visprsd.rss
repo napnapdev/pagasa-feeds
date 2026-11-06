@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 06 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 06 Nov 2026 00:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:30:39 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 7 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SILAY CITY_NegOcc_11062026_1793912657.pdf</link>
@@ -169,14 +169,6 @@
       <guid isPermaLink="false">da239f485ca9ba602ce4c2e74c27f23da933286d</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 02:52:43 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 06:53 AM 05 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Palawan(Aborlan), #EasternSamar(Llorente, Balangkayan, Oras, SanPolicarpo) and #Samar(Marabut) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Thu, 05 Nov 2026 00:30:49 +0000</pubDate>
-      <guid isPermaLink="false">65f4206baf954c254731aa2e74b70d1cf2a54599</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 00:30:49 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
