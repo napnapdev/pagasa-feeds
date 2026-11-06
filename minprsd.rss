@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 06 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 06 Nov 2026 12:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:07:22 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 2 #MINPRSD</title>
       <description>Rainfall Advisory No. 2 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 05:00 PM 06 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #LanaoDelSur, #MisamisOriental(GingoogCity, Claveria, Lagonglong, Balingasag, Jasaan, Tagoloan, Villanueva), #MisamisOccidental(Sinacaban, Jimenez, Panaon, SapangDalaga, Concepcion, Aloran, OroquietaCity, LopezJaena, Calamba, Baliangao, Plaridel), #AgusanDelNorte(LasNieves, Buenavista, ButuanCity, Magallanes, RemediosT.Romualdez, CityOfCabadbaran, Santiago, Tubay, Jabonga, Kitcharao), #DavaoDelSur(Malalag, Sulop, Kiblawan, Padada, Hagonoy, Matanao, Magsaysay), #NorthCotabato(Tulunan, M'Lang, Pikit, Midsayap, Aleosan, Kabacan, Antipas, Libungan, Matalam, Pigkawayan, PresidentRoxas, Carmen, Banisilan, Alamada), #AgusanDelSur, #DavaoDelNorte(CityOfPanabo, CityOfSamal, Carmen, Kapalong), #Bukidnon, #ZamboangaDelNorte(Sibuco, Polanco, Katipunan, Mutia, Piñan), #ZamboangaCity, #SouthCotabato(Surallah, Banga, SantoNiño), #SultanKudarat(Bagumbayan), #CotabatoCity, #MaguindanaoDelNorte(SultanKudarat, Buldon, Barira, Matanog, Parang, SultanMastura, NorthernKabuntalan, Kabuntalan), #MaguindanaoDelSur(Pagagawan, Pagalungan), #DavaoOriental(Lupon, SanIsidro, GovernorGeneroso, Banaybanay, Baganga) and #DavaoDeOro(Pantukan) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rains are being experienced in #ZamboangaSibugay, #LanaoDelNorte, #MisamisOriental(Lugait, Manticao, Opol, CagayanDeOroCity, Naawan, Alubijid, CityOfElSalvador, Initao, Libertad, Magsaysay, Medina, Talisayan, Balingoan, Gitagum, Laguindingan, Kinoguitan, Sugbongcogon, Binuangan, Salay), #ZamboangaDelNorte(Sirawai, Siocon, Baliguian, Kalawit, Godod, Siayan, LeonB.Postigo, Sindangan, Gutalac, Labason, Liloy, Tampilisan, Salug, SergioOsmeñaSr.), #MisamisOccidental(DonVictorianoChiongbian, Bonifacio, TangubCity, OzamisCity, Clarin, Tudela), #Camiguin, #ZamboangaDelSur, #AgusanDelNorte(Nasipit, Carmen), #DavaoCity, #DavaoDelSur(CityOfDigos, SantaCruz, Bansalan), #NorthCotabato(Makilala, CityOfKidapawan, Magpet and Arakan) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.</description>
@@ -110,14 +110,6 @@
       <guid isPermaLink="false">db16ca12f37e0b8adc4a0dd44b9de5f668d56ef5</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 15:03:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 45 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 45 #MINPRSD&lt;br /&gt; Issued at 08:00 PM 05 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #MisamisOriental(Magsaysay), #AgusanDelNorte(Carmen, Nasipit), #Bukidnon(Libona), #NorthCotabato(Alamada, Banisilan) and #MaguindanaoDelNorte(Parang) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 05 Nov 2026 12:07:33 +0000</pubDate>
-      <guid isPermaLink="false">e5d90f6a9467dda3651b587a0ca407279f0f879b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 05 Nov 2026 12:07:33 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
