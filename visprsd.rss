@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 07 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 07 Nov 2026 09:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 09:07:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 16 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 16 #VISPRSD&lt;br /&gt; Issued at 04:14 PM 07 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Bohol(Dauis and Panglao) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Asturias, Balamban and ToledoCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -233,14 +233,6 @@
       <guid isPermaLink="false">3229546c218328e99344be48e78ce3bb1485fb8f</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 06 Nov 2026 11:35:03 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 04:33 PM 06 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Jaro, Kananga, OrmocCity), #Bohol(Pres.CarlosP.Garcia, Talibon, BienUnido, Trinidad, Ubay, Alicia and Candijay) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bohol(Mabini) and #Palawan(Brooke'sPoint) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 06 Nov 2026 09:03:42 +0000</pubDate>
-      <guid isPermaLink="false">a09ab2080a8787d472b3c5fe9134f3f9662e572c</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 06 Nov 2026 09:03:42 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
