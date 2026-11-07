@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 07 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 07 Nov 2026 00:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 02:51:42 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 AM 07 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #MisamisOccidental, #LanaoDelNorte, #MisamisOriental, #Bukidnon and #Camiguin within 12 hours.</description>
+      <pubDate>Sat, 07 Nov 2026 02:52:05 +0000</pubDate>
+      <guid isPermaLink="false">97833ef8eecddded75946632d74b8862d0c0cc2e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 02:52:05 +0000</ns1:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 7 #MINPRSD</title>
       <description>Rainfall Advisory No. 7 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 08:00 AM 07 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #DavaoDelNorte(Kapalong, Talaingod, SantoTomas), #Bukidnon(SanFernando, ManoloFortich, CityOfMalaybalay, ImpasugOng, Sumilao, Malitbog), #DavaoCity, #MisamisOriental(Claveria, CagayanDeOroCity, Tagoloan, Opol, Villanueva, Jasaan), #ZamboangaDelNorte(LaLibertad, Sibuco, Sirawai), #SurigaoDelSur(Carmen, Madrid, Cortes, Lianga, SanAgustin, Marihatag, Cagwait, Bayabas, Hinatuan, CityOfBislig, Lingig), #ZamboangaCity, #DavaoDeOro(Nabunturan), #SurigaoDelNorte(SanFrancisco, SurigaoCity, TaganaAn, Sison, Malimono, Placer and Mainit) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are being experienced in #SurigaoDelSur(Lanuza), #TawiTawi(Mapun and TurtleIslands) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.</description>
