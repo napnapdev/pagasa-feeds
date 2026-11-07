@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 07 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 07 Nov 2026 03:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 03:15:26 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 9 #VISPRSD&lt;br /&gt; Issued at 09:58 AM 07 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Bohol(Lila, Bilar, Dimiao, Loboc, SanIsidro, Balilihan, Sevilla, Antequera, Calape, Cortes, Corella, Sikatuna, TagbilaranCity, Baclayon, Alburquerque, Loay), #SouthernLeyte(Bontoc, TomasOppus, Malitbog, PadreBurgos, CityOfMaasin and Macrohon) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bohol(Panglao, Dauis, Maribojoc, Loon, Carmen, Catigbian, Batuan, Dagohoy, SanMiguel, Pilar), #SouthernLeyte(Anahawan, Hinunangan, Hinundayan, Libagon, Liloan, Pintuyan, SaintBernard, SanFrancisco, SanJuan, SanRicardo, Silago, Sogod and Limasawa) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -193,14 +193,6 @@
       <guid isPermaLink="false">af667e45f376dd3cccd0502a6265b86bc80ee03f</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 06 Nov 2026 06:30:53 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #VISPRSD&lt;br /&gt; Issued at 10:58 AM 06 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(TaclobanCity, SanMiguel) and #Palawan(Narra) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(Babatngon), #Palawan(Aborlan and PuertoPrincesaCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 06 Nov 2026 03:07:40 +0000</pubDate>
-      <guid isPermaLink="false">e428719644d875399376469f3805dab663bbe3ba</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 06 Nov 2026 03:07:40 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
