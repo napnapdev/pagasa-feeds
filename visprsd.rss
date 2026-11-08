@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 09 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 21:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 23:48:48 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 10 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SILAY CITY_NegOcc_11092026_1794171264.pdf</link>
@@ -128,14 +128,6 @@
       <guid isPermaLink="false">5771d91dca628d4676ff9cb095a743363bf3951b</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 00:03:35 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 05:57 AM 08 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #SouthernLeyte(Pintuyan, SanFrancisco, SaintBernard, Libagon, Sogod), #Bohol(Calape, Loon, Bilar, Batuan, Valencia, Carmen, Dimiao), #Leyte(Abuyog and Mahaplag) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(CadizCity, SagayCity), #EasternSamar(Guiuan), #SouthernLeyte(Silago, Hinunangan, Hinundayan, SanJuan, Liloan, SanRicardo and Anahawan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sat, 07 Nov 2026 23:06:12 +0000</pubDate>
-      <guid isPermaLink="false">520f0993629409d5e9a0d93bfa6c57ab75c5617d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 23:06:12 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
