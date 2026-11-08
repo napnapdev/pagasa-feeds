@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 08 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 02:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 03:03:16 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 13 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 13 #NCR_PRSD&lt;br /&gt; Issued at: 10:15 AM, 08 November 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (Taysan, Rosario, Padre Garcia, Lipa, Ibaan, San Jose, Cuenca, San Pascual, Alitagtag, Bauan, Mabini, Tingloy, and San Juan), Laguna (San Pablo, Santa Maria, Siniloan, Famy, Mabitac, Pakil, Pangil, Nagcarlan, Rizal, Majayjay, Liliw, Paete, Kalayaan, Cavinti, Luisiana, Magdalena, Pagsanjan, Lumban, Calauan, Alaminos, Santa Cruz, Pila, and Victoria), Quezon (Tiaong, San Antonio, Dolores, General Nakar, Infanta, Real, Sariaya, Tayabas, Lucban, Sampaloc, Mauban, Pagbilao, Lucena, Candelaria, Jomalig, Polillo, and Panukulan), and Rizal (Tanay) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Batangas (Lobo and Batangas City) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 08 Nov 2026 03:03:33 +0000</pubDate>
+      <guid isPermaLink="false">e9bf4da443d37c64f0ebe09eec93d34b370f7754</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 03:03:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 12 #NCR_PRSD&lt;br /&gt; Issued at: 8:05 AM, 08 November 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (Batangas City, Ibaan, San Pascual, Bauan, Mabini, San Jose, Rosario, Lipa, Padre Garcia, Lobo, San Juan, Taysan, Cuenca, Alitagtag, San Luis, and Tingloy), Laguna (Santa Maria, Pakil, Pangil, Siniloan, Famy, and Mabitac), Quezon (General Nakar, Infanta, Tiaong, Candelaria, Dolores, San Antonio, Sariaya, Tayabas, Lucena, Pagbilao, Perez, Alabat, Quezon, Calauag, Real, Atimonan, Mauban, Polillo, Tagkawayan, and Guinayangan), and Rizal (Antipolo, Baras, Teresa, Morong, Tanay, Pililla, Cardona, and Jala-Jala) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 08 Nov 2026 00:15:41 +0000</pubDate>
       <guid isPermaLink="false">dd504ff2e705266df59c962e50c6644c0f4daa56</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 00:15:41 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 00:15:41 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #NCRPRSD</title>
@@ -86,7 +94,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
