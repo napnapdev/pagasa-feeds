@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 08 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 16:01:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:03:24 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 20 #MINPRSD</title>
       <description>Rainfall Advisory No. 20 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 11:00 PM 08 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are expected over #ZamboangaCity, #ZamboangaDelNorte(Sibuco), #Basilan(Lantawan, CityOfIsabela, CityOfLamitan, Akbar, HadjiMohammadAjul, Tuburan), #Sarangani(Maitum, Kiamba, Maasim), #SultanKudarat(Palimbang, Kalamansig, Sen.NinoyAquino), #SouthCotabato(LakeSebu, T'Boli), #SurigaoDelSur(Hinatuan, CityOfBislig, Lingig, Tagbina, Barobo, SanMiguel), #DinagatIslands(Libjo, Tubajon, Loreto), #AgusanDelSur(Prosperidad, SanFrancisco, Trento, Bunawan, Rosario, CityOfBayugan, Sibagat), #SurigaoDelNorte(Alegria, Mainit, Malimono, Sison, SanFrancisco and SiargaoIsland) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelSur(Lanuza, Cortes, CityOfTandag, Tago, Cagwait, Marihatag, Bayabas, SanAgustin, Lianga, Carmen, Carrascal, Cantilan, Madrid), #DinagatIslands(Dinagat, SanJose, Basilisa, Cagdianao), #SurigaoDelNorte(Claver, Gigaquit, Tubod, Bacuag, Placer, TaganaAn, Socorro and SurigaoCity) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
@@ -21,7 +21,7 @@
       <pubDate>Sun, 08 Nov 2026 15:03:31 +0000</pubDate>
       <guid isPermaLink="false">97a2be5b0fe77a075b2c09d0d08bc924ce20d93f</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:31 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:31 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -29,7 +29,7 @@
       <pubDate>Sun, 08 Nov 2026 15:03:30 +0000</pubDate>
       <guid isPermaLink="false">97545270cc70b5ef26f65b2629dfc3f6f4d11c11</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:31 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:31 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 19 #MINPRSD</title>
@@ -110,14 +110,6 @@
       <guid isPermaLink="false">787a278b6ce521e7ab18e7ee09bbc1e8d37a7eba</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 18:07:32 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 12 #MINPRSD</title>
-      <description>Rainfall Advisory No. 12 Amendment #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 12:30 AM 08 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaDelNorte(Sibuco, Sirawai, SergioOsmeñaSr., DapitanCity, Sibutad, Rizal, Katipunan, DipologCity, Polanco), #Basilan(TabuanLasa, AlBarka, TipoTipo, Sumisip, UngkayaPukan, Maluso, Lantawan, HadjiMuhtamad, CityOfIsabela, CityOfLamitan), #SurigaoDelSur(Lianga, SanMiguel, Barobo, Tagbina, Hinatuan), #SurigaoDelNorte(Alegria, Gigaquit, Tubod, Mainit, Bacuag, Malimono, Placer, Sison, TaganaAn, SanFrancisco, SurigaoCity, Socorro), #SultanKudarat(Palimbang, Kalamansig, Lebak), #AgusanDelSur(Sibagat, CityOfBayugan, Esperanza, Prosperidad), #Sulu(Banguingui), #TawiTawi(Sibutu, Simunul, Sitangkai), #ZamboangaSibugay(Tungawan, Siay, Diplahan, Buug), #MisamisOccidental(Baliangao, Jimenez, Aloran, OroquietaCity, SapangDalaga, Calamba, LopezJaena, Plaridel), #ZamboangaDelSur(Josefina, Molave, Mahayag, Tambulig, Kumalarang, Lapuyan, Guipos, Dumalinao, RamonMagsaysay, Aurora, Tukuran, PagadianCity, Labangan, Tigbao, Sominot), #AgusanDelNorte, #CotabatoCity, #MaguindanaoDelNorte, #LanaoDelNorte(Lala, Kapatagan, SultanNagaDimaporo, Baroy and Tubod) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaCity, #Basilan(Tuburan, HadjiMohammadAjul, Akbar), #SurigaoDelSur(SanAgustin, Marihatag, Cagwait, Bayabas, Tago, CityOfTandag, Carmen, Madrid, Cortes, Cantilan, Carrascal, Lanuza), #SurigaoDelNorte(Claver), #ZamboangaSibugay(Olutanga, Talusan, Mabuhay, Alicia, Malangas, Imelda, Payao), #ZamboangaDelSur(VincenzoA.Sagun, Dimataling, Pitogo, Tabina, Margosatubig, Dinas, SanMiguel, SanPablo), #MisamisOccidental(Bonifacio, DonVictorianoChiongbian, Concepcion, TangubCity, OzamisCity, Clarin, Tudela, Sinacaban, Panaon), #ZamboangaDelNorte(Piñan, Mutia, LaLibertad) and #DinagatIslands which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Today.</description>
-      <pubDate>Sat, 07 Nov 2026 18:03:32 +0000</pubDate>
-      <guid isPermaLink="false">b41a5ff2852790e2e54d8f0f603296ef969aa65e</guid>
-      <category>Rainfall Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 18:03:32 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
