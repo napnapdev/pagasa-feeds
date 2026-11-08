@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 08 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 18:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:07:19 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 21 #MINPRSD</title>
+      <description>Rainfall Advisory No. 21 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 02:00 AM 09 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaCity, #Basilan(CityOfLamitan, Akbar, HadjiMohammadAjul, Tuburan), #Sarangani(Maasim), #DinagatIslands(Dinagat, SanJose, Basilisa, Loreto), #SurigaoDelNorte, #DavaoOccidental(JoseAbadSantos, Sarangani), #DavaoOriental(Boston, Cateel, Baganga), #Sulu(Banguingui) and #SurigaoDelSur within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sarangani(Maitum, Glan, Kiamba), #DinagatIslands(Cagdianao, Libjo, Tubajon) and #TawiTawi(Mapun) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.</description>
+      <pubDate>Sun, 08 Nov 2026 18:07:32 +0000</pubDate>
+      <guid isPermaLink="false">76ddf38d6b06ff15ccc1da605056ad74ad1520d8</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 18:07:32 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 20 #MINPRSD</title>
       <description>Rainfall Advisory No. 20 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 11:00 PM 08 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are expected over #ZamboangaCity, #ZamboangaDelNorte(Sibuco), #Basilan(Lantawan, CityOfIsabela, CityOfLamitan, Akbar, HadjiMohammadAjul, Tuburan), #Sarangani(Maitum, Kiamba, Maasim), #SultanKudarat(Palimbang, Kalamansig, Sen.NinoyAquino), #SouthCotabato(LakeSebu, T'Boli), #SurigaoDelSur(Hinatuan, CityOfBislig, Lingig, Tagbina, Barobo, SanMiguel), #DinagatIslands(Libjo, Tubajon, Loreto), #AgusanDelSur(Prosperidad, SanFrancisco, Trento, Bunawan, Rosario, CityOfBayugan, Sibagat), #SurigaoDelNorte(Alegria, Mainit, Malimono, Sison, SanFrancisco and SiargaoIsland) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelSur(Lanuza, Cortes, CityOfTandag, Tago, Cagwait, Marihatag, Bayabas, SanAgustin, Lianga, Carmen, Carrascal, Cantilan, Madrid), #DinagatIslands(Dinagat, SanJose, Basilisa, Cagdianao), #SurigaoDelNorte(Claver, Gigaquit, Tubod, Bacuag, Placer, TaganaAn, Socorro and SurigaoCity) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
@@ -21,7 +29,7 @@
       <pubDate>Sun, 08 Nov 2026 15:03:31 +0000</pubDate>
       <guid isPermaLink="false">97a2be5b0fe77a075b2c09d0d08bc924ce20d93f</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:31 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:31 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Sun, 08 Nov 2026 15:03:30 +0000</pubDate>
       <guid isPermaLink="false">97545270cc70b5ef26f65b2629dfc3f6f4d11c11</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:31 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:31 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 19 #MINPRSD</title>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">c8c3b8a2d3c75e5bb55650c6e3f148caabcc5ad3</guid>
       <category>Rainfall Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 21:07:33 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 13 #MINPRSD</title>
-      <description>Rainfall Advisory No. 13 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 02:00 AM 08 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #SurigaoDelSur(Lingig, CityOfBislig, Tagbina, Lianga, SanMiguel, CityOfTandag, Carmen, Lanuza, Madrid, Cortes, Barobo, Hinatuan), #SurigaoDelNorte(Alegria, Tubod, Mainit, Malimono, Placer, Sison, TaganaAn, SanFrancisco, SurigaoCity, SiargaoIsland), #DinagatIslands(Dinagat, SanJose, Tubajon, Loreto), #DavaoOriental(Cateel, Boston, Baganga), #Sulu(Pangutaran), #Camiguin, #ZamboangaDelNorte(Polanco, DipologCity, DapitanCity, Sibutad, Rizal), #MisamisOccidental(SapangDalaga, Calamba, Baliangao, Plaridel and LopezJaena) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelSur(SanAgustin, Marihatag, Cagwait, Bayabas, Tago, Cantilan, Carrascal), #SurigaoDelNorte(Claver, Gigaquit, Bacuag, Socorro), #DinagatIslands(Basilisa, Cagdianao, Libjo), #ZamboangaCity, #ZamboangaDelNorte(Sibuco, LaLibertad, Piñan and Mutia) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.</description>
-      <pubDate>Sat, 07 Nov 2026 18:07:32 +0000</pubDate>
-      <guid isPermaLink="false">787a278b6ce521e7ab18e7ee09bbc1e8d37a7eba</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 18:07:32 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
