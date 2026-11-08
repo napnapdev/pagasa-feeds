@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 09 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 21:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:15:27 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 10 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SILAY CITY_NegOcc_11092026_1794171264.pdf</link>
@@ -136,33 +136,6 @@
       <guid isPermaLink="false">520f0993629409d5e9a0d93bfa6c57ab75c5617d</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 23:06:12 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 9 November, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SILAY CITY_NegOcc_11082026_1_1794085302.pdf</link>
-      <description>Issued at: 05:00 AM, 8 November, 2026&lt;br /&gt;Valid until: 05:00 AM, 9 November, 2026</description>
-      <pubDate>Sat, 07 Nov 2026 21:07:33 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SILAY CITY_NegOcc_11082026_1_1794085302.pdf</guid>
-      <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 21:07:33 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 9 November, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Bago_NegOcc_11082026_1794085289.pdf</link>
-      <description>Issued at: 05:00 AM, 8 November, 2026&lt;br /&gt;Valid until: 05:00 AM, 9 November, 2026</description>
-      <pubDate>Sat, 07 Nov 2026 21:07:32 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Bago_NegOcc_11082026_1794085289.pdf</guid>
-      <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 21:07:33 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 9 November, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11082026_1794085248.pdf</link>
-      <description>Issued at: 05:00 AM, 8 November, 2026&lt;br /&gt;Valid until: 05:00 AM, 9 November, 2026</description>
-      <pubDate>Sat, 07 Nov 2026 21:07:31 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11082026_1794085248.pdf</guid>
-      <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 21:07:33 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
