@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 08 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 03:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 03:07:17 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 16 #MINPRSD</title>
+      <description>Rainfall Advisory No. 16 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 11:00 AM 08 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #AgusanDelSur(Talacogon, LaPaz), #SurigaoDelSur(Hinatuan, CityOfBislig, Lingig, Cortes, Lanuza, CityOfTandag), #SurigaoDelNorte(TaganaAn, Placer, SanFrancisco, Malimono, Mainit), #Sulu(Patikul, Indanan, Parang, HadjiPanglimaTahil, Pangutaran) and #TawiTawi(Mapun) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelNorte(SurigaoCity, Sison), #AgusanDelSur(Loreto, Esperanza, SanLuis) and #Bukidnon(ImpasugOng) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
+      <pubDate>Sun, 08 Nov 2026 03:07:35 +0000</pubDate>
+      <guid isPermaLink="false">6e2bafe3792b7c0414a5de11a86ac9207a55a5b3</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 03:07:35 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 08 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #MisamisOccidental, #MisamisOriental, #Bukidnon, #Camiguin and #LanaoDelNorte within 12 hours.</description>
       <pubDate>Sun, 08 Nov 2026 03:03:33 +0000</pubDate>
       <guid isPermaLink="false">3939afb05cd46fee5233c1360ccd1b53bdcd174e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 03:03:33 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 03:03:33 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 15 #MINPRSD</title>
