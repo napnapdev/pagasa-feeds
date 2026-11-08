@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 09 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 21:03:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:07:16 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 22 #MINPRSD</title>
+      <description>Rainfall Advisory No. 22 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 05:00 AM 09 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #SurigaoDelNorte(Alegria, Tubod, Mainit, Malimono, Sison, Socorro, SanFrancisco, SiargaoIsland), #SurigaoDelSur(Tagbina, Barobo, Hinatuan), #DavaoOriental(Caraga), #MisamisOccidental(Aloran, Panaon, Jimenez, Plaridel, Baliangao, SapangDalaga, DonVictorianoChiongbian), #ZamboangaDelNorte(Polanco, DipologCity, SergioOsmeñaSr., Katipunan, Sibutad, Rizal, DapitanCity), #Sarangani(Glan), #DavaoOccidental(JoseAbadSantos, Sarangani), #DinagatIslands, #DavaoDeOro(Monkayo, NewBataan, Laak, Mawab), #AgusanDelSur(Bunawan, Veruela, Trento, SantaJosefa), #DavaoDelNorte(SanIsidro, Kapalong, Asuncion and NewCorella) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelNorte(Claver, Gigaquit, Bacuag, Placer, TaganaAn, SurigaoCity), #SurigaoDelSur(Lingig, CityOfBislig), #DavaoOriental(Boston, Cateel, Baganga), #MisamisOccidental(OroquietaCity, LopezJaena, Calamba, Concepcion), #ZamboangaDelNorte(Mutia, Piñan, LaLibertad), #DavaoDeOro(Compostela, Nabunturan and Montevista) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
+      <pubDate>Sun, 08 Nov 2026 21:07:31 +0000</pubDate>
+      <guid isPermaLink="false">f1a5f47352cabdd0b4be536affd39927876e7caa</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 21:07:31 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 21 #MINPRSD</title>
       <description>Rainfall Advisory No. 21 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 02:00 AM 09 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaCity, #Basilan(CityOfLamitan, Akbar, HadjiMohammadAjul, Tuburan), #Sarangani(Maasim), #DinagatIslands(Dinagat, SanJose, Basilisa, Loreto), #SurigaoDelNorte, #DavaoOccidental(JoseAbadSantos, Sarangani), #DavaoOriental(Boston, Cateel, Baganga), #Sulu(Banguingui) and #SurigaoDelSur within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sarangani(Maitum, Glan, Kiamba), #DinagatIslands(Cagdianao, Libjo, Tubajon) and #TawiTawi(Mapun) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.</description>
@@ -29,7 +37,7 @@
       <pubDate>Sun, 08 Nov 2026 15:03:31 +0000</pubDate>
       <guid isPermaLink="false">97a2be5b0fe77a075b2c09d0d08bc924ce20d93f</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:31 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:31 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -37,7 +45,7 @@
       <pubDate>Sun, 08 Nov 2026 15:03:30 +0000</pubDate>
       <guid isPermaLink="false">97545270cc70b5ef26f65b2629dfc3f6f4d11c11</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:31 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:31 +0000</ns2:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 19 #MINPRSD</title>
