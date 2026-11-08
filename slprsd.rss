@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 08 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 03:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 4 #SLPRSD&lt;br /&gt; Issued at 12:55 PM 08 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #CamarinesSur(DelGallego, Ragay, Lupi, Sipocot, Siruma, Tinambac), #Albay(SantoDomingo, LegazpiCity, Manito), #Sorsogon(CityOfSorsogon, Gubat and PrietoDiaz) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #CamarinesNorte(Basud, Mercedes), #CamarinesSur(Goa, Lagonoy, Presentacion, Caramoan, Garchitorena, SanJose), #Catanduanes(Caramoran, SanAndres, Virac, Bato, Baras, SanMiguel), #Albay(Bacacay and RapuRapu) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 08 Nov 2026 06:03:45 +0000</pubDate>
+      <guid isPermaLink="false">318bd55e39341e867509ec2e1802348a25574b51</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 06:03:45 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 3 #SLPRSD&lt;br /&gt; Issued at 11:00 AM 08 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(SanFernando, Batuan), #Catanduanes(Bato, Baras, Gigmoto), #Albay(Jovellar, Daraga, Malilipot), #NorthernSamar(Allen and Lavezares) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sorsogon, #Albay(Bacacay, RapuRapu, SantoDomingo, LegazpiCity, Manito), #Catanduanes(SanAndres, Virac, Caramoran, Viga, Bagamanoc, Panganiban, SanMiguel), #Masbate(Monreal, SanJacinto) and #NorthernSamar(Biri) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -16,30 +24,30 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 03:07:35 +0000</ns0:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #SLPRSD&lt;br /&gt; Issued at 09:15 AM 08 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(Monreal, SanJacinto, Claveria), #CamarinesSur(IrigaCity, Buhi, Baao, Siruma, Minalabac, Bula) and #Albay(Polangui) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Catanduanes, #Sorsogon, #CamarinesSur(Lagonoy, Garchitorena, Caramoan, Presentacion, SanJose, Tigaon, Sagñay, Ocampo, Tinambac, Goa, NagaCity, Pili, Milaor, Canaman, Camaligan, Gainza, Bombon, Magarao, Calabanga), #Albay(Tiwi, Malinao, CityOfTabaco, Malilipot, Bacacay, SantoDomingo, LegazpiCity, Manito, Oas, CityOfLigao, Guinobatan, Camalig, Daraga, Jovellar and PioDuran) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 08 Nov 2026 02:21:05 +0000</pubDate>
-      <guid isPermaLink="false">72db72e16c6102e928fa00e2544baa796b8f51d8</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 02:21:05 +0000</ns1:seen>
-    </item>
-    <item>
       <title>Special Forecast: Valid until: 09:00 AM, 9 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_08Nov2026_1794101437.pdf</link>
       <description>Issued at: 09:00 AM, 8 November, 2026&lt;br /&gt;Valid until: 09:00 AM, 9 November, 2026</description>
-      <pubDate>Sun, 08 Nov 2026 02:21:04 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 02:21:05 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_08Nov2026_1794101437.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 02:21:05 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 02:21:05 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 9 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_08Novt2026_1794101403.pdf</link>
       <description>Issued at: 09:00 AM, 8 November, 2026&lt;br /&gt;Valid until: 09:00 AM, 9 November, 2026</description>
-      <pubDate>Sun, 08 Nov 2026 02:21:03 +0000</pubDate>
+      <pubDate>Sun, 08 Nov 2026 02:21:04 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_08Novt2026_1794101403.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 02:21:05 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 02:21:05 +0000</ns2:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 2 #SLPRSD&lt;br /&gt; Issued at 09:15 AM 08 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(Monreal, SanJacinto, Claveria), #CamarinesSur(IrigaCity, Buhi, Baao, Siruma, Minalabac, Bula) and #Albay(Polangui) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Catanduanes, #Sorsogon, #CamarinesSur(Lagonoy, Garchitorena, Caramoan, Presentacion, SanJose, Tigaon, Sagñay, Ocampo, Tinambac, Goa, NagaCity, Pili, Milaor, Canaman, Camaligan, Gainza, Bombon, Magarao, Calabanga), #Albay(Tiwi, Malinao, CityOfTabaco, Malilipot, Bacacay, SantoDomingo, LegazpiCity, Manito, Oas, CityOfLigao, Guinobatan, Camalig, Daraga, Jovellar and PioDuran) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 08 Nov 2026 02:21:03 +0000</pubDate>
+      <guid isPermaLink="false">72db72e16c6102e928fa00e2544baa796b8f51d8</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 02:21:05 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
@@ -80,7 +88,7 @@
       <pubDate>Sat, 07 Nov 2026 15:03:32 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_07Nov2026_1794057305.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 15:03:32 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 15:03:32 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 8 November, 2026</title>
@@ -89,7 +97,7 @@
       <pubDate>Sat, 07 Nov 2026 15:03:31 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_07Novt2026_1794057249.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 15:03:32 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 15:03:32 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
@@ -106,14 +114,6 @@
       <guid isPermaLink="false">fc19a96669fb2fba32316bdf3180e793bd3405fd</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 12:30:51 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #SLPRSD</title>
-      <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 10:00 AM 07 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
-      <pubDate>Sat, 07 Nov 2026 06:03:34 +0000</pubDate>
-      <guid isPermaLink="false">3ffcfa912be7de5c11d3598f9617a83e66bc39f2</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 07 Nov 2026 06:03:34 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
