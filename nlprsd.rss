@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 09 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2026 03:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 03:30:35 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 11 #NLPRSD</title>
+      <description>Rainfall Advisory No. 11 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) &lt;br /&gt; Issued at 11:00 AM 09 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Isabela(Cabagan, Dinapigue, Divilacan, IlaganCity, Maconacon, DelfinAlbano, Mallig, Palanan, Quezon, Quirino, Roxas, SanPablo, SantaMaria, SantoTomas, Tumauini), #Aurora(Dipaculao, MariaAurora, SanLuis, Dingalan, Baler), #NuevaVizcaya, #Quirino(Nagtipunan, Diffun, Cabarroguis, Saguday), #Cagayan(Peñablanca, Solana, Iguig, Amulung, Enrile, TuguegaraoCity, Tuao, Piat, Rizal, SantoNiño, Alcala), #Kalinga, #Apayao(Conner), #MountainProvince, #Benguet(Mankayan, Bakun, Buguias, Kabayan, Kibungan, Atok, Bokod), #IlocosSur(Cervantes, Suyo, Quirino, Salcedo, SantaCruz, CityOfCandon, GregorioDelPilar, SantaLucia, Sigay, Tagudin, Alilem, Sugpon, Galimuyod, SanEmilio, Lidlidda, Banayoyo, Santiago), #LaUnion(Bangar, Sudipen, Luna, Balaoan, Santol) and #Abra(Tubo) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Alicia, Angadanan, Aurora, BenitoSoliven, Burgos, Cabatuan, CityOfCauayan, Cordon, Echague, Gamu, Jones, Luna, Naguilian, Ramon, ReinaMercedes, SanAgustin, SanGuillermo, SanIsidro, SanManuel, SanMariano, SanMateo, CityOfSantiago), #Aurora(Casiguran, Dilasag, Dinalungan), #Quirino(Maddela, Aglipay) and #Ifugao which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Mon, 09 Nov 2026 03:30:51 +0000</pubDate>
+      <guid isPermaLink="false">30b418dba2225bce398ce8dafdcd4ed2a2c78614</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 03:30:51 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 09 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
       <pubDate>Mon, 09 Nov 2026 03:02:04 +0000</pubDate>
       <guid isPermaLink="false">b64cb42cc6b07f52b6ff62b73633218da2404df1</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 03:02:04 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 03:02:04 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 10 #NLPRSD</title>
