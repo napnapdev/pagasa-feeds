@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 09 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2026 00:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 03:01:46 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 09 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte, #Cagayan and #Aurora within 12 hours.</description>
+      <pubDate>Mon, 09 Nov 2026 03:02:04 +0000</pubDate>
+      <guid isPermaLink="false">b64cb42cc6b07f52b6ff62b73633218da2404df1</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 03:02:04 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 10 #NLPRSD</title>
       <description>Rainfall Advisory No. 10 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) &lt;br /&gt; Issued at 08:00 AM 09 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Aurora(Dingalan, MariaAurora, Baler), #NuevaVizcaya(AlfonsoCastaneda, DupaxDelNorte, DupaxDelSur, SantaFe, Aritao), #MountainProvince(Bauko, Besao, Tadian, Sabangan), #Cagayan(Alcala, Amulung, Baggao, Calayan, Gattaran, Gonzaga, Lasam, Piat, Rizal, SantaAna, SantoNiño, LalLo), #Apayao(Calanasan, Flora, Luna, Pudtol, SantaMarcela), #Abra(Lagayan, Lacub, Sallapadan, LicuanBaay, SanJuan, Dolores, Lagangilang, Bucay, Manabo, Luba, Danglas, LaPaz, Tayum, Bangued, Peñarrubia, Villaviciosa, SanIsidro, Pilar), #IlocosSur(Quirino, Cervantes, SanEmilio, GregorioDelPilar, Sigay, Alilem, Sugpon, Salcedo, CityOfCandon, Galimuyod, SantaLucia), #IlocosNorte(NuevaEra), #Benguet(Kibungan, Atok, Kapangan, Tublay, Sablan, LaTrinidad, Itogon), #LaUnion(Sudipen, Bangar, Balaoan, Luna and Santol) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela, #Quirino, #Aurora(Casiguran, Dilasag, Dinalungan, Dipaculao, SanLuis), #MountainProvince(Barlig, Bontoc, Natonin, Paracelis, Sadanga, Sagada), #Ifugao, #Kalinga, #Cagayan(Enrile, Iguig, Solana, Tuao, TuguegaraoCity, Peñablanca), #Apayao(Kabugao, Conner), #Abra(Tineg, Tubo, Boliney, Malibcong, Bucloc, Daguioman), #Benguet(Kabayan, Bokod, Buguias, Mankayan, Bakun), #NuevaVizcaya(Bagabag, Diadi, Villaverde, Ambaguio, Solano, Bambang, Bayombong, Quezon, Kayapa, Kasibu), #IlocosSur(Suyo, SantaCruz and Tagudin) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -78,38 +86,6 @@
       <guid isPermaLink="false">9a73519411abb91546b06fe72ab3aed1ea5faf9f</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 03:03:33 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 08 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
-      <pubDate>Sun, 08 Nov 2026 02:21:05 +0000</pubDate>
-      <guid isPermaLink="false">97a6d867951ac805e4f090bbf1100a862242eb9d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 02:21:05 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 08 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Aurora within 12 hours.</description>
-      <pubDate>Sun, 08 Nov 2026 02:21:04 +0000</pubDate>
-      <guid isPermaLink="false">9364c19b15ab58c0fad26b4f571bcdc8f6e9147f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 02:21:05 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 08 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Cagayan within 12 hours.</description>
-      <pubDate>Sun, 08 Nov 2026 02:21:03 +0000</pubDate>
-      <guid isPermaLink="false">43822772be6853d771682290923aeff7bb5bc8c7</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 02:21:05 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 2 #NLPRSD</title>
-      <description>Rainfall Advisory No. 2 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) &lt;br /&gt; Issued at 08:00 AM 08 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Cagayan(Allacapan, Camalaniugan, Gonzaga, SantaAna, Aparri, Ballesteros, Abulug), #Apayao(Pudtol, Kabugao, SantaMarcela, Luna, Calanasan, Flora), #Abra(Tineg, Malibcong, Lacub, LicuanBaay, Daguioman, Sallapadan, Bucloc, Boliney, Tubo), #Kalinga(Pasil, Lubuagan, Tinglayan), #MountainProvince(Natonin, Barlig, Sadanga, Bontoc), #Isabela(Gamu, Burgos, SanManuel, Palanan, SanMariano, Naguilian, BenitoSoliven, ReinaMercedes, Aurora, Luna, Cabatuan, Dinapigue, SanGuillermo, Alicia, SanMateo, Angadanan, CityOfCauayan), #Ifugao(AlfonsoLista, Aguinaldo, Mayoyao), #Aurora(Dilasag and Casiguran) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Alcala, Amulung, Baggao, Buguey, Enrile, Gattaran, Iguig, LalLo, Lasam, Peñablanca, Piat, Rizal, SantaTeresita, SantoNiño, Solana, Tuao, TuguegaraoCity), #Isabela(SanPablo, Divilacan, Maconacon, Cabagan, Tumauini, SantaMaria, Quezon, SantoTomas, DelfinAlbano, Mallig, Quirino, Roxas, IlaganCity), #Kalinga(Rizal, CityOfTabuk, Pinukpuk, Tanudan, Balbalan), #Apayao(Conner) and #MountainProvince(Paracelis) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 08 Nov 2026 02:21:02 +0000</pubDate>
-      <guid isPermaLink="false">999922492b4ee8fec689588fb6deafaea394878e</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 02:21:05 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
