@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 09 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2026 06:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 02:41 PM 09 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(Panay, Cuartero, Dumalag, Dumarao), #Aklan(Tangalan, Ibajay, Buruanga), #Antique(Libertad, Tibiao, Barbaza, LauaAn, Bugasong), #Iloilo(Bingawan, CityOfPassi, Sara, Balasan, Carles, SanDionisio, Estancia, Batad, Lemery, Calinog and Lambunao) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(NewWashington, Altavas, Batan, Balete, Malinao, Libacao, Madalag, Banga, Kalibo, Numancia, Lezo, Makato, Nabas, Malay), #Capiz(SapiAn, PresidentRoxas, Sigma, Mambusao, RoxasCity, Ivisan, Jamindan, Dao, Panitan, Pontevedra, MaAyon, Pilar, Tapaz), #Antique(Culasi, Pandan and Sebaste) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Mon, 09 Nov 2026 09:03:37 +0000</pubDate>
+      <guid isPermaLink="false">e2b4f5c24ff9b95c0abc2efcac7132d749cc2a0d</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 09:03:37 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 01:11 PM 09 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Aklan(Nabas, Malay, Malinao, Lezo, Kalibo, Banga, NewWashington, Numancia), #Antique(Pandan), #Capiz(RoxasCity, Panay), #NegrosOccidental(CadizCity and SagayCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Ibajay, Tangalan and Makato) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -29,7 +37,7 @@
       <pubDate>Mon, 09 Nov 2026 03:02:04 +0000</pubDate>
       <guid isPermaLink="false">aba7ed2fc70ab35cb2c6fe546275d20005f3e6d8</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 03:02:04 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 03:02:04 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 10 November, 2026</title>
@@ -38,7 +46,7 @@
       <pubDate>Sun, 08 Nov 2026 21:03:38 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_SILAY CITY_NegOcc_11092026_1794171264.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 21:03:38 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 21:03:38 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 10 November, 2026</title>
@@ -47,7 +55,7 @@
       <pubDate>Sun, 08 Nov 2026 21:03:37 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11092026_1794171233.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 21:03:38 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 21:03:38 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -96,22 +104,6 @@
       <guid isPermaLink="false">969a149ac84d7b53bc4a21e4e4870291d3f42b32</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 12:03:39 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 9 #VISPRSD&lt;br /&gt; Issued at 04:38 PM 08 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Minglanilla, CityOfNaga, Sogod, Tuburan, Pinamungajan, SanFernando), #NegrosOccidental(Toboso, Binalbagan, CityOfHimamaylan, SalvadorBenedicto, CityOfEscalante, SagayCity), #Siquijor(Siquijor, Larena, EnriqueVillanueva, Maria, Lazi), #NegrosOriental(Mabinay, CityOfBayawan, Basay, Dauin, Bacong, DumagueteCity, Vallehermoso and CanlaonCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Liloan, Consolacion, MandaueCity, LapuLapuCity, Cordova, ToledoCity, CityOfTalisay, CebuCity, Balamban, SanRemigio, CityOfBogo, Tabogon, Tabuelan, Borbon, Moalboal, Alcantara, Ronda, Dumanjug), #NegrosOriental(Bindoy, Ayungon, Manjuyod, BaisCity, CityOfTanjay, Pamplona, SanJose, Amlan, Sibulan), #NegrosOccidental(Ilog, CityOfKabankalan, Cauayan, CityOfSipalay, BagoCity, Valladolid, Pulupandan, LaCarlotaCity, SanEnrique, LaCastellana, Pontevedra, Hinigaran, MoisesPadilla, Isabela, Calatrava, SanCarlosCity, Candoni and HinobaAn) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sun, 08 Nov 2026 09:03:32 +0000</pubDate>
-      <guid isPermaLink="false">7f04a45e3389af9d671ceeb3cdee31a2876f21ad</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 09:03:32 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 03:04 PM 08 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOriental(Ayungon), #Siquijor(EnriqueVillanueva, Maria, Larena), #Bohol(Baclayon, Dauis, Panglao), #NegrosOccidental(CityOfHimamaylan, Binalbagan, Isabela, MoisesPadilla), #Cebu(DanaoCity, Liloan, Compostela), #Leyte(Mahaplag), #SouthernLeyte(Sogod and Libagon) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NegrosOccidental(SanCarlosCity), #NegrosOriental(CityOfGuihulngan, LaLibertad, Jimalalud, Tayasan, Valencia, Siaton, SantaCatalina, Zamboanguita, Sibulan), #Cebu(ToledoCity, Balamban, Pinamungajan, Aloguinsan, SanFrancisco), #Bohol(Loboc, Loay, Alburquerque, Bilar, Lila), #Leyte(Abuyog), #SouthernLeyte(Hinunangan, Silago, Hinundayan, SanJuan, SaintBernard and Anahawan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sun, 08 Nov 2026 09:03:31 +0000</pubDate>
-      <guid isPermaLink="false">0736c13429ddd959537d495521ee53a03bbf8608</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 09:03:32 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
