@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 09 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2026 09:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:17:30 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 3 #SLPRSD&lt;br /&gt; Issued at 04:45 PM 09 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Albay(Polangui, Oas, CityOfLigao, Guinobatan, Camalig, Daraga, SantoDomingo, LegazpiCity, Manito), #Romblon(Calatrava, SanAndres, SanAgustin and Corcuera) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Catanduanes(Caramoran, SanAndres, Virac), #Albay(RapuRapu, CityOfTabaco, Malilipot, Bacacay, Malinao) and #Romblon(Romblon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -37,7 +37,7 @@
       <pubDate>Mon, 09 Nov 2026 03:02:04 +0000</pubDate>
       <guid isPermaLink="false">5f31a88903e24c182631f29a938c360c06af5dc0</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 03:02:04 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 03:02:04 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 10 November, 2026</title>
@@ -46,7 +46,7 @@
       <pubDate>Mon, 09 Nov 2026 00:30:51 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_09Novt2026_1794183834.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 00:30:51 +0000</ns3:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 00:30:51 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 10 November, 2026</title>
@@ -55,7 +55,7 @@
       <pubDate>Mon, 09 Nov 2026 00:30:50 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_09Nov2026_1794183816.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 00:30:51 +0000</ns4:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 00:30:51 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 9 November, 2026</title>
@@ -64,7 +64,7 @@
       <pubDate>Sun, 08 Nov 2026 15:03:32 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_08Novt2026_1794142324.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:32 +0000</ns5:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:32 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 9 November, 2026</title>
@@ -73,7 +73,7 @@
       <pubDate>Sun, 08 Nov 2026 15:03:31 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_08Nov2026_1794142300.pdf</guid>
       <category>Special Forecast</category>
-      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:32 +0000</ns6:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Sun, 08 Nov 2026 15:03:32 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
