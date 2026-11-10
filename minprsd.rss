@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 10 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2026 06:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:07:20 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 33 #MINPRSD</title>
       <description>Rainfall Advisory No. 33 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 02:00 PM 10 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #SurigaoDelSur(Hinatuan, Barobo, Lianga, SanAgustin, SanMiguel, Tagbina, CityOfBislig, Lingig), #AgusanDelNorte(Santiago, Tubay, CityOfCabadbaran, RemediosT.Romualdez, ButuanCity, Magallanes), #AgusanDelSur(Sibagat, CityOfBayugan, Prosperidad, SanFrancisco, Rosario, Bunawan, Trento), #DavaoOriental(Baganga, Cateel, Boston), #LanaoDelSur(Lumbatan, MarawiCity, Ganassi, Binidayan, Bayang, Tubaran, Pagayawan, Calanogas, Malabang, Marogong, LumbacaUnayan), #Bukidnon(CityOfMalaybalay, Lantapan, Pangantucan, Malitbog), #MisamisOriental(CagayanDeOroCity, Claveria, Balingoan, Kinoguitan, Sugbongcogon, Binuangan, Villanueva, Tagoloan), #Camiguin, #LanaoDelNorte(Tagoloan, Pantar, IliganCity), #ZamboangaSibugay(Ipil, Naga, Kabasalan, Siay), #Sarangani(Maitum, Kiamba), #SouthCotabato(LakeSebu, T'Boli), #SultanKudarat(Sen.NinoyAquino, Lebak, Isulan, Bagumbayan), #NorthCotabato(CityOfKidapawan, Matalam and M'Lang) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rains are being experienced in #SurigaoDelNorte, #SurigaoDelSur(Carrascal, Cantilan, Madrid, Lanuza, Carmen, Cortes, CityOfTandag, Tago, Bayabas, Cagwait, Marihatag), #AgusanDelNorte(Kitcharao, Jabonga), #TawiTawi(Mapun, TurtleIslands), #Sulu(Pangutaran), #Bukidnon(Kalilangan, Talakag, Libona, Baungon, ManoloFortich, Sumilao, ImpasugOng), #LanaoDelSur(Bumbaran, Maguing, BuadiposoBuntong, Mulondo, Taraka, Tamparan, PoonaBayabao, LumbaBayabao, Masiu, Butig, Lumbayanague, SultanDumalondong, Picong, Pualas, Madamba, Bubong, TagoloanII, Kapai, DitsaanRamain), #LanaoDelNorte(SultanNagaDimaporo, Sapad, Lala, Salvador, Kapatagan, Nunungan, Tubod), #MisamisOriental(Jasaan, Balingasag, Lagonglong, Salay), #SultanKudarat(Palimbang, Kalamansig) and #DinagatIslands which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.</description>
@@ -94,14 +94,6 @@
       <guid isPermaLink="false">fda1c0516104955fd25f755a1cb27f7842b7998b</guid>
       <category>Rainfall Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 09:31:14 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 25 #MINPRSD</title>
-      <description>Rainfall Advisory No. 25 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 02:00 PM 09 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #DavaoDelSur(SantaCruz), #TawiTawi(Mapun, TurtleIslands), #DavaoDelNorte(CityOfSamal, CityOfPanabo, Carmen, CityOfTagum, BraulioE.Dujali, SantoTomas, Kapalong, SanIsidro), #DavaoCity, #DavaoDeOro(Maco, Mabini, Pantukan), #ZamboangaDelNorte(Labason, Gutalac, Liloy, Salug, Godod, Baliguian, Siocon), #ZamboangaSibugay(Titay, Naga, Ipil, Kabasalan, RosellerLim), #NorthCotabato(Makilala and Tulunan) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #DavaoDelNorte(Asuncion, NewCorella), #ZamboangaDelNorte(Tampilisan and Kalawit) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.</description>
-      <pubDate>Mon, 09 Nov 2026 06:07:32 +0000</pubDate>
-      <guid isPermaLink="false">7b95bedc9fc6abe0b279de9e77e7b040e191988f</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 06:07:32 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
