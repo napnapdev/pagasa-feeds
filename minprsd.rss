@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 10 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2026 00:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:03:17 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 AM 10 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #Camiguin, #MisamisOccidental, #MisamisOriental, #LanaoDelNorte and #Bukidnon within 12 hours.</description>
+      <pubDate>Tue, 10 Nov 2026 03:03:31 +0000</pubDate>
+      <guid isPermaLink="false">1c8613b31dc04009a63feb93b445ef2befc81194</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 03:03:31 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 31 #MINPRSD</title>
       <description>Rainfall Advisory No. 31 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 08:00 AM 10 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #SurigaoDelSur(Hinatuan, Barobo, Lianga, SanAgustin, SanMiguel, Tagbina, CityOfBislig, Lingig), #SurigaoDelNorte(Claver, Gigaquit, Alegria), #AgusanDelNorte(Kitcharao, Jabonga, CityOfCabadbaran, Santiago), #AgusanDelSur(Sibagat, CityOfBayugan, Prosperidad, SanFrancisco, Rosario and Bunawan) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to heavy rains are being experienced in #SurigaoDelNorte(SiargaoIsland, Socorro), #SurigaoDelSur(Carrascal, Cantilan, Madrid, Lanuza, Carmen, Cortes, CityOfTandag, Tago, Bayabas, Cagwait, Marihatag), #TawiTawi(Mapun, TurtleIslands) and #Sulu(Pangutaran) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.</description>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">885f584537b6997a817c2514bfe85aa564865b00</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 03:07:37 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 09 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #MisamisOriental, #MisamisOccidental, #Camiguin, #Bukidnon and #LanaoDelNorte within 12 hours.</description>
-      <pubDate>Mon, 09 Nov 2026 03:02:03 +0000</pubDate>
-      <guid isPermaLink="false">a289d5f9c0c84a18e4cf5c7fecb99286c78f6858</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 03:02:03 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
