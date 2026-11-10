@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 10 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2026 15:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:03:21 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 7 #NCRPRSD</title>
+      <description>Rainfall Advisory No. 7 #NCR_PRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan)&lt;br /&gt; Issued at: 2:00 AM, 11 November 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Quezon(Polillo, Burdeos, Patnanungan, Jomalig, Infanta, General Nakar, Real, Panukulan, Mauban, Perez, Calauag, Alabat), Rizal(Tanay, Pililla, Cardona, Binangonan, Morong, Baras, Jala-Jala) and Laguna(Mabitac, Santa Maria, Famy, Pakil, Siniloan, Pangil) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 5:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
+      <pubDate>Tue, 10 Nov 2026 18:03:37 +0000</pubDate>
+      <guid isPermaLink="false">9f2d6a55d6ed7e2c899d0c69a7a982ece9a80b77</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 18:03:37 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 6 #NCRPRSD</title>
       <description>Rainfall Advisory No. 6 #NCR_PRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan)&lt;br /&gt; Issued at: 11:00 PM, 10 November 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Rizal(Tanay, Jala-Jala, Pililla, Cardona, Binangonan, Baras) and Batangas(San Juan).&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Quezon(Perez, Quezon, Calauag, Alabat, Sariaya, Lucena, Tayabas, Mauban, Pagbilao, Atimonan, Padre Burgos, Agdangan, Sampaloc, Lucban, Polillo, Patnanungan, Jomalig) and Laguna(Luisiana, Cavinti) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 2:00 AM tomorrow.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -78,7 +86,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
