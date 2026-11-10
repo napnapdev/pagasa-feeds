@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 10 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2026 00:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:30:35 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 16 #NLPRSD</title>
       <description>Rainfall Advisory No. 16 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) &lt;br /&gt; Issued at 08:00 AM 10 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Cagayan(Aparri, Allacapan, Buguey, Camalaniugan, SantaTeresita, SantaAna, Gonzaga, Peñablanca, Baggao, Gattaran, LalLo, Calayan), #Apayao(Calanasan, Luna, SantaMarcela, Pudtol, Flora), #IlocosNorte(Bangui, Burgos, Adams, Dumalneg) and #Batanes within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cagayan(Ballesteros, Pamplona, Abulug, SanchezMira, Claveria, SantaPraxedes) and #IlocosNorte(Pagudpud) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -62,14 +62,6 @@
       <guid isPermaLink="false">b64cb42cc6b07f52b6ff62b73633218da2404df1</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 03:02:04 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 10 #NLPRSD</title>
-      <description>Rainfall Advisory No. 10 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) &lt;br /&gt; Issued at 08:00 AM 09 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Aurora(Dingalan, MariaAurora, Baler), #NuevaVizcaya(AlfonsoCastaneda, DupaxDelNorte, DupaxDelSur, SantaFe, Aritao), #MountainProvince(Bauko, Besao, Tadian, Sabangan), #Cagayan(Alcala, Amulung, Baggao, Calayan, Gattaran, Gonzaga, Lasam, Piat, Rizal, SantaAna, SantoNiño, LalLo), #Apayao(Calanasan, Flora, Luna, Pudtol, SantaMarcela), #Abra(Lagayan, Lacub, Sallapadan, LicuanBaay, SanJuan, Dolores, Lagangilang, Bucay, Manabo, Luba, Danglas, LaPaz, Tayum, Bangued, Peñarrubia, Villaviciosa, SanIsidro, Pilar), #IlocosSur(Quirino, Cervantes, SanEmilio, GregorioDelPilar, Sigay, Alilem, Sugpon, Salcedo, CityOfCandon, Galimuyod, SantaLucia), #IlocosNorte(NuevaEra), #Benguet(Kibungan, Atok, Kapangan, Tublay, Sablan, LaTrinidad, Itogon), #LaUnion(Sudipen, Bangar, Balaoan, Luna and Santol) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela, #Quirino, #Aurora(Casiguran, Dilasag, Dinalungan, Dipaculao, SanLuis), #MountainProvince(Barlig, Bontoc, Natonin, Paracelis, Sadanga, Sagada), #Ifugao, #Kalinga, #Cagayan(Enrile, Iguig, Solana, Tuao, TuguegaraoCity, Peñablanca), #Apayao(Kabugao, Conner), #Abra(Tineg, Tubo, Boliney, Malibcong, Bucloc, Daguioman), #Benguet(Kabayan, Bokod, Buguias, Mankayan, Bakun), #NuevaVizcaya(Bagabag, Diadi, Villaverde, Ambaguio, Solano, Bambang, Bayombong, Quezon, Kayapa, Kasibu), #IlocosSur(Suyo, SantaCruz and Tagudin) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 09 Nov 2026 00:15:46 +0000</pubDate>
-      <guid isPermaLink="false">b952417c54117b910806085aa7e66b7ca99445ff</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 00:15:46 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
