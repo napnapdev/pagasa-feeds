@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 10 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2026 11:49:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 5 #NCRPRSD</title>
+      <description>Rainfall Advisory No. 5 #NCR_PRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan)&lt;br /&gt; Issued at: 8:00 PM, 10 November 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Rizal(Tanay).&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Quezon(Tagkawayan, Calauag, Quezon, Perez, Alabat, Patnanungan, Jomalig, Polillo, Burdeos, Panukulan, Mauban, Atimonan, Guinayangan, Pagbilao, Tayabas, Lucban, Sampaloc, San Narciso, Mulanay, San Andres, San Francisco, Buenavista) and Laguna(Famy, Santa Maria, Pangil, Siniloan, Pakil, Mabitac) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
+      <pubDate>Tue, 10 Nov 2026 12:03:36 +0000</pubDate>
+      <guid isPermaLink="false">ffaa92b036dbe50e55abe25545d868be9e91a62a</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 12:03:36 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 4 #NCRPRSD</title>
       <description>Rainfall Advisory No. 4 #NCR_PRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan)&lt;br /&gt; Issued at: 5:00 PM, 10 November 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Laguna(Luisiana, Cavinti, Kalayaan, Paete, Lumban, Pakil, Pangil, Siniloan, Santa Maria, Famy, Mabitac, Santa Cruz, Pila, Calauan, Los Banos, Victoria, Nagcarlan, Magdalena, Liliw, Pagsanjan, Bay, Rizal, Majayjay, Calamba, Cabuyao) and Rizal(Tanay, Pililla, Jala-Jala, Cardona, Binangonan).&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Quezon(Tayabas, Mauban, Pagbilao, Real, Perez, Alabat, Plaridel, Atimonan, Gumaca, Calauag, Tagkawayan, Lopez, Quezon, Guinayangan, Polillo, Lucena, Padre Burgos) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 8:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">4f67497e118fec9b63b8b45b951fd28d355d0dca</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 18:03:43 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 7:23 PM, 09 November 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Laguna (Calauan, Nagcarlan, Alaminos, San Pablo, Rizal, Liliw, Majayjay, Luisiana, Magdalena, Pagsanjan, Cavinti, Paete, Pakil, Pangil, Famy, Siniloan, Mabitac, Kalayaan, Lumban, and Santa Maria) and Quezon (Perez, Mauban, Real, Infanta, Candelaria, Dolores, Tiaong, Sampaloc, Lucban, Sariaya, Tayabas, Alabat, Polillo, Panukulan, Burdeos, Atimonan, Lucena, and Pagbilao) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 09 Nov 2026 12:03:32 +0000</pubDate>
-      <guid isPermaLink="false">cb0de98fdff80779a16446cb56ece6e1fa7ceaa1</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 12:03:32 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
