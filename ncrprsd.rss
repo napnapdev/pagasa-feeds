@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 10 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2026 09:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:07:18 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 3 #NCRPRSD</title>
       <description>Rainfall Advisory No. 3 #NCR_PRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan)&lt;br /&gt; Issued at: 2:00 PM, 10 November 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Laguna(Santa Maria, Famy, Siniloan, Mabitac, Pakil, Pangil, Paete, Lumban, Kalayaan, Cavinti, Pagsanjan, Santa Cruz, Luisiana, Majayjay, Magdalena, Liliw, Victoria, Pila, Nagcarlan, Rizal, San Pablo, Calauan, Alaminos) and Rizal(Tanay, Pililla, Jala-Jala, Antipolo, Baras, Teresa, Morong, Cardona, Rodriguez).&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Quezon(Tayabas, Mauban, Pagbilao, Lucena, Perez, Atimonan, Alabat, Quezon, Calauag, Tagkawayan, Guinayangan, Plaridel, Polillo, Real, Lopez, Gumaca) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 5:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -46,22 +46,6 @@
       <guid isPermaLink="false">cb0de98fdff80779a16446cb56ece6e1fa7ceaa1</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 12:03:32 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 5 #NCRPRSD</title>
-      <description>Rainfall Advisory No. 5-Final #NCR_PRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan)&lt;br /&gt; Issued at: 5:00 PM, 09 November 2026(Monday)&lt;br /&gt; &lt;br /&gt; All Rainfall Advisory over NCR-PRSD forecast area are now TERMINATED.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Mon, 09 Nov 2026 09:03:37 +0000</pubDate>
-      <guid isPermaLink="false">61f3f538d206f0947a1cd9210c49cbbaeb824821</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 09:03:37 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 4:50 PM, 09 November 2026(Monday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Norzagaray and Dona Remedios Trinidad), Laguna (Santa Maria, Famy, Siniloan, Pangil, Mabitac, Pakil, Paete, Kalayaan, Lumban, Cavinti, Luisiana, Pagsanjan, and Santa Cruz), Quezon (Polillo, General Nakar, Infanta, Real, Panukulan, Burdeos, Patnanungan, Jomalig, Mauban, and Sampaloc), and Rizal (Tanay, Rodriguez, Antipolo, Baras, Pililla, and Jala-Jala) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 09 Nov 2026 09:03:36 +0000</pubDate>
-      <guid isPermaLink="false">6de8a270bf81b77f53062ee837986cbc2340b6d1</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 09:03:37 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
