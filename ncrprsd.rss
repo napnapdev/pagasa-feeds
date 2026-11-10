@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 10 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2026 18:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:07:18 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 7 #NCRPRSD</title>
       <description>Rainfall Advisory No. 7 #NCR_PRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan)&lt;br /&gt; Issued at: 2:00 AM, 11 November 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains affecting Quezon(Polillo, Burdeos, Patnanungan, Jomalig, Infanta, General Nakar, Real, Panukulan, Mauban, Perez, Calauag, Alabat), Rizal(Tanay, Pililla, Cardona, Binangonan, Morong, Baras, Jala-Jala) and Laguna(Mabitac, Santa Maria, Famy, Pakil, Siniloan, Pangil) and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 5:00 AM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -70,14 +70,6 @@
       <guid isPermaLink="false">2be9732df9dbf0d0454cff09d499e0c165759bb8</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 00:15:45 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 4-Final #NCR_PRSD&lt;br /&gt; Issued at: 12:16 AM, 10 November 2026(Tuesday)&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisory over NCR-PRSD forecast area are now TERMINATED. However, all are still advised to continue monitoring for updates.</description>
-      <pubDate>Mon, 09 Nov 2026 18:03:43 +0000</pubDate>
-      <guid isPermaLink="false">4f67497e118fec9b63b8b45b951fd28d355d0dca</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 09 Nov 2026 18:03:43 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
