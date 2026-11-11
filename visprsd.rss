@@ -6,7 +6,31 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 11 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 12:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:59:55 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 PM 11 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #OccidentalMindoro within 12 hours.</description>
+      <pubDate>Wed, 11 Nov 2026 14:00:12 +0000</pubDate>
+      <guid isPermaLink="false">41491b9f47bb68c0e1554bc837fdc22d778e87ff</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 14:00:12 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 11 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Cebu, #Bohol, #Siquijor, #NegrosOriental, #NegrosOccidental, #Iloilo, #Guimaras, #Capiz, #Antique, #Aklan, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar, #Samar and #Palawan within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
+      <pubDate>Wed, 11 Nov 2026 14:00:11 +0000</pubDate>
+      <guid isPermaLink="false">dd05b4ec97ca2c01260bb11235d6d5a7e1edb1d1</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 14:00:12 +0000</ns2:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 14 #VISPRSD&lt;br /&gt; Issued at 09:18 PM 11 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Dingle, Pototan, Mina, NewLucena, SantaBarbara, Pavia and IloiloCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(BarotacViejo, Banate, Anilao) and #Palawan(Brooke'sPoint) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Wed, 11 Nov 2026 14:00:10 +0000</pubDate>
+      <guid isPermaLink="false">908489cb20c03b44990dfc2ecc34edb0b05f8674</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 14:00:12 +0000</ns3:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 2 #VISPRSD</title>
       <description>Rainfall Advisory No. 2 #VISPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 08:00 PM 11 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate with occasionally Heavy rains are expected over #Palawan(Rizal, Bataraza and Quezon) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Brooke'sPoint, Balabac and SofronioEspanola) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 PM Today.</description>
@@ -16,20 +40,20 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 12:03:34 +0000</ns0:seen>
     </item>
     <item>
+      <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 07:48 PM 11 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Barili), #Guimaras(Buenavista), #Iloilo(BarotacNuevo, Dumangas, Zarraga and Leganes) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(CityOfCarcar, Aloguinsan), #NegrosOccidental(BacolodCity, CityOfTalisay, SilayCity, EnriqueB.Magalona, CityOfVictorias, Manapla, CadizCity, SagayCity, CityOfEscalante, Toboso, Calatrava), #Antique(Sebaste, Pandan), #Aklan(Buruanga, Malay) and #Palawan(Brooke'sPoint) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Wed, 11 Nov 2026 12:03:33 +0000</pubDate>
+      <guid isPermaLink="false">5676e7c5884bed174f1aaea25e4175b25616aa35</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 12:03:34 +0000</ns4:seen>
+    </item>
+    <item>
       <title>Rainfall Advisory No. 1 #VISPRSD</title>
       <description>Rainfall Advisory No. 1 #VISPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 06:30 PM 11 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate with occasionally Heavy rains are expected over #Palawan(Narra, Quezon, SofronioEspanola, Brooke'sPoint, Bataraza, Balabac and Kalayaan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Rizal, Aborlan and PuertoPrincesaCity) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.</description>
-      <pubDate>Wed, 11 Nov 2026 12:03:33 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2026 12:03:32 +0000</pubDate>
       <guid isPermaLink="false">2ad25a1f1aa55b2815ffad1008cdab060427c6f9</guid>
       <category>Rainfall Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 12:03:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 07:48 PM 11 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Barili), #Guimaras(Buenavista), #Iloilo(BarotacNuevo, Dumangas, Zarraga and Leganes) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(CityOfCarcar, Aloguinsan), #NegrosOccidental(BacolodCity, CityOfTalisay, SilayCity, EnriqueB.Magalona, CityOfVictorias, Manapla, CadizCity, SagayCity, CityOfEscalante, Toboso, Calatrava), #Antique(Sebaste, Pandan), #Aklan(Buruanga, Malay) and #Palawan(Brooke'sPoint) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 11 Nov 2026 12:03:32 +0000</pubDate>
-      <guid isPermaLink="false">5676e7c5884bed174f1aaea25e4175b25616aa35</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 12:03:34 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
