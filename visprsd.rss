@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 11 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 15:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:07:28 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 3 #VISPRSD</title>
       <description>Rainfall Advisory No. 3 #VISPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 11:00 PM 11 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate with occasionally Heavy rains are expected over #Palawan(Kalayaan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Brooke'sPoint, Balabac, Rizal, Bataraza, SofronioEspanola and Quezon) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
@@ -209,38 +209,6 @@
       <guid isPermaLink="false">59fc882531f06365558253c6b0824d01dd8c820e</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 15:30:54 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 PM 10 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #OccidentalMindoro within 12 hours.</description>
-      <pubDate>Tue, 10 Nov 2026 15:03:56 +0000</pubDate>
-      <guid isPermaLink="false">377da19dd1274714154001cc4275ffcfedee607f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 15:03:56 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 10 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Cebu, #Bohol, #Siquijor, #NegrosOriental, #NegrosOccidental, #Iloilo, #Guimaras, #Capiz, #Antique, #Aklan, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar, #Samar and #Palawan within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
-      <pubDate>Tue, 10 Nov 2026 15:03:55 +0000</pubDate>
-      <guid isPermaLink="false">8ce953abffcd320d4663286ebc4dc5a60d43125e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 15:03:56 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 17 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 17 #VISPRSD&lt;br /&gt; Issued at 09:20 PM 10 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Samar(Hinabangan), #Aklan(Nabas, Malay, Buruanga), #Antique(Libertad), #NegrosOriental(SantaCatalina, Siaton) and #Cebu(Compostela) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Ibajay, Tangalan, Malinao), #Antique(Pandan, Sebaste), #EasternSamar(Taft, Sulat, SanJulian), #Palawan(Balabac, Taytay), #NegrosOriental(Valencia) and #Cebu(DanaoCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 10 Nov 2026 15:03:54 +0000</pubDate>
-      <guid isPermaLink="false">67e2723576887ef0258280e6dcf1a0378a553ca3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 15:03:56 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 16 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 16 #VISPRSD&lt;br /&gt; Issued at 09:12 PM 10 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Samar(Hinabangan), #Aklan(Nabas, Malay, Buruanga) and #Antique(Libertad) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Ibajay, Tangalan, Malinao), #Antique(Pandan, Sebaste), #EasternSamar(Taft, Sulat, SanJulian), #Palawan(Balabac and Taytay) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 10 Nov 2026 15:03:53 +0000</pubDate>
-      <guid isPermaLink="false">0221b9fa23096f73df0d9bb141c5dbac034e1747</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 15:03:56 +0000</ns4:seen>
     </item>
   </channel>
 </rss>
