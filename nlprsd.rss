@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 11 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 18:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 29 #NLPRSD</title>
+      <description>Rainfall Advisory No. 29 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) &lt;br /&gt; Issued at 05:00 AM 12 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Aurora(Dilasag, Casiguran, Dinalungan, Dipaculao, Baler, MariaAurora) and #Isabela(Dinapigue) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aurora(Dingalan and SanLuis) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Wed, 11 Nov 2026 21:03:47 +0000</pubDate>
+      <guid isPermaLink="false">3b9f4761d5a49e6078d2ceb058e65ebda6dae456</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 21:03:47 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 28 #NLPRSD</title>
       <description>Rainfall Advisory No. 28 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) &lt;br /&gt; Issued at 02:00 AM 12 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Cagayan(SantaPraxedes, Claveria, SanchezMira, Pamplona, Abulug, Ballesteros, Aparri, Buguey, SantaTeresita), #Aurora(Dilasag, Casiguran, Dinalungan, Dipaculao, Baler, SanLuis, MariaAurora), #Isabela(Dinapigue and Palanan) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aurora(Dingalan) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -78,14 +86,6 @@
       <guid isPermaLink="false">a423cc0a87b0813251966f83090e4362c61c3d07</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 00:15:43 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 23 #NLPRSD</title>
-      <description>Rainfall Advisory No. 23 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) &lt;br /&gt; Issued at 05:00 AM 11 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Isabela(Palanan, Maconacon, Divilacan, SanMariano, IlaganCity, SanGuillermo, CityOfCauayan, Naguilian, BenitoSoliven, Angadanan, Jones, Echague), #Quirino(Nagtipunan, Aglipay), #Aurora(Dipaculao, Baler, MariaAurora, SanLuis, Dingalan), #Batanes, #NuevaVizcaya(AlfonsoCastaneda), #Cagayan(SantaAna, Gonzaga, Calayan, Peñablanca, Baggao, LalLo, Gattaran, Abulug, Ballesteros, Aparri, Camalaniugan, Buguey, SantaTeresita, Pamplona, Claveria, SanchezMira and SantaPraxedes) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aurora(Casiguran, Dilasag, Dinalungan), #Isabela(Dinapigue, SanAgustin) and #Quirino(Maddela) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 10 Nov 2026 21:03:37 +0000</pubDate>
-      <guid isPermaLink="false">cb1b0182e6c7a64cd2f28ef6038cfbacc1e00240</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 21:03:37 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
