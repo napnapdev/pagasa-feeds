@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 11 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 15:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:30:40 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 3 #VISPRSD</title>
       <description>Rainfall Advisory No. 3 #VISPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 11:00 PM 11 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate with occasionally Heavy rains are expected over #Palawan(Kalayaan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Brooke'sPoint, Balabac, Rizal, Bataraza, SofronioEspanola and Quezon) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
@@ -201,14 +201,6 @@
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11112026_1794343019.pdf</guid>
       <category>Special Forecast</category>
       <ns7:seen xmlns:ns7="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 21:03:37 +0000</ns7:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 18 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 18 #VISPRSD&lt;br /&gt; Issued at 11:12 PM 10 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #EasternSamar(Llorente, Hernani, GeneralMacarthur, Quinapondan), #Aklan(Lezo, NewWashington, Banga, Malinao, Tangalan, Ibajay, Nabas, Buruanga), #Antique(Pandan and Libertad) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #EasternSamar(Guiuan, Mercedes, Salcedo), #Aklan(Numancia, Makato, Kalibo, Malay) and #Palawan(Balabac) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Tue, 10 Nov 2026 15:30:54 +0000</pubDate>
-      <guid isPermaLink="false">59fc882531f06365558253c6b0824d01dd8c820e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 15:30:54 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
