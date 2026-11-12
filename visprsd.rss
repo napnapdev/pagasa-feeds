@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 12 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2026 18:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 12:16 AM 13 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Guimaras(NuevaValencia), #Capiz(Panitan, Dao, Cuartero and Dumarao) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Samar(Matuguinao, Gandara, SanJorge, SanJoseDeBuan), #Guimaras(Jordan, Sibunag), #Iloilo(Lemery, BarotacViejo, SanRafael, Sara, Concepcion, Carles, Balasan, Estancia, Batad, SanDionisio, Ajuy), #Capiz(Pontevedra, MaAyon, Pilar and PresidentRoxas) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -177,22 +177,6 @@
       <guid isPermaLink="false">648a729ad2d2f96f732ba760e674417f70904dce</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 21:03:47 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 4 #VISPRSD</title>
-      <description>Rainfall Advisory No. 4 FINAL #VISPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 02:00 AM 12 November 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
-      <pubDate>Wed, 11 Nov 2026 18:03:41 +0000</pubDate>
-      <guid isPermaLink="false">730931dbe8535373db627ef9996958d88393e3ee</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 18:03:41 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 12:12 AM 12 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Mahaplag), #SouthernLeyte(Sogod and Libagon) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SouthernLeyte(Silago, Hinunangan) and #Leyte(Abuyog) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 11 Nov 2026 18:03:40 +0000</pubDate>
-      <guid isPermaLink="false">44d496d0537b5cb4e5a15e200e1164efb598d7a0</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 18:03:41 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
