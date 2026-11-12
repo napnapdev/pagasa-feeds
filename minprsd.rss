@@ -5,8 +5,16 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/minprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
-    <pubDate>Wed, 11 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 21:35:46 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 7 #MINPRSD</title>
+      <description>Rainfall Advisory No. 7 FINAL #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 08:00 AM 12 November 2026&lt;br /&gt; &lt;br /&gt; All Rainfall Advisories over forecast areas are now terminated.&lt;br /&gt; &lt;br /&gt; Rainfall Advisories in other areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.</description>
+      <pubDate>Thu, 12 Nov 2026 00:03:34 +0000</pubDate>
+      <guid isPermaLink="false">59bba69a8834f26b8ddda5719cba0ef023e0b263</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 12 Nov 2026 00:03:34 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 6 #MINPRSD</title>
       <description>Rainfall Advisory No. 6 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 05:00 AM 12 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #SurigaoDelNorte(Sison, TaganaAn, SanFrancisco), #SurigaoDelSur(Carmen, Cortes, CityOfTandag), #Camiguin, #DavaoOriental(Baganga) and #Sulu within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelNorte(SurigaoCity) and #SurigaoDelSur(Lanuza) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">9197aa6578f099f65f2bee35b85ea179ad5359f1</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 00:03:38 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 39 #MINPRSD</title>
-      <description>Rainfall Advisory No. 39 #MINPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 08:00 AM 11 November 2026&lt;br /&gt; &lt;br /&gt; Rainfall Advisories in other areas are now terminated.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.</description>
-      <pubDate>Tue, 10 Nov 2026 23:58:50 +0000</pubDate>
-      <guid isPermaLink="false">07e795d052fd39f1ac612fb09416e9e96de92071</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 10 Nov 2026 23:58:50 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
