@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 12 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2026 02:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:03:17 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 30 #NLPRSD</title>
       <description>Rainfall Advisory No. 30 #NLPRSD&lt;br /&gt; Weather System: Northeast Monsoon (Amihan) &lt;br /&gt; Issued at 08:00 AM 12 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #Aurora(Dipaculao, Baler, Dingalan, SanLuis and MariaAurora) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -62,30 +62,6 @@
       <guid isPermaLink="false">e6c81a76246249a4102e0d87a3b9df7892fb3fb0</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 06:03:39 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 11 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Aurora within 12 hours.</description>
-      <pubDate>Wed, 11 Nov 2026 03:03:30 +0000</pubDate>
-      <guid isPermaLink="false">768e80799a20d32adcc33f0207556fbee193386c</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 03:03:30 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 11 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Cagayan within 12 hours.</description>
-      <pubDate>Wed, 11 Nov 2026 03:03:29 +0000</pubDate>
-      <guid isPermaLink="false">441357395fad6a02e19c54811befec67098c2987</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 03:03:30 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 11 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #IlocosNorte within 12 hours.</description>
-      <pubDate>Wed, 11 Nov 2026 03:03:28 +0000</pubDate>
-      <guid isPermaLink="false">62d24a1fe9061ec41904ca109418ef4eddd38770</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 03:03:30 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
