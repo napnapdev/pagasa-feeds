@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 12 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2026 12:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:03:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
       <description>Thunderstorm Advisory No. 1 #NLPRSD&lt;br /&gt; Issued at 04:42 PM 12 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #IlocosSur(Alilem, Tagudin), #LaUnion(Bangar, Luna, Balaoan, Santol), #Benguet(Bakun and Kibungan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #IlocosSur(Sugpon) and #LaUnion(Sudipen) which may persist within 30 mins to 1 hour and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -54,14 +54,6 @@
       <guid isPermaLink="false">91d08a869e17294588219333c788fcd9d1004436</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 15:03:38 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 PM 11 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #IlocosNorte within 12 hours.</description>
-      <pubDate>Wed, 11 Nov 2026 14:00:12 +0000</pubDate>
-      <guid isPermaLink="false">64dc8b10a33d945bf3b298446d2519ba3ea6ae4a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 14:00:12 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
