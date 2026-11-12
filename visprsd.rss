@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 12 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2026 15:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:07:23 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 15 #VISPRSD&lt;br /&gt; Issued at 10:56 PM 12 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(Pilar), #Iloilo(Carles, Balasan, Estancia, Batad, SanDionisio, Concepcion), #Samar(SantoNiño, TagapulAn and Almagro) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Guimaras(Buenavista, SanLorenzo), #NegrosOccidental(BacolodCity, SilayCity, CityOfTalisay, EnriqueB.Magalona, CityOfVictorias, Manapla, CadizCity, SagayCity, CityOfEscalante and Toboso) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -177,22 +177,6 @@
       <guid isPermaLink="false">44d496d0537b5cb4e5a15e200e1164efb598d7a0</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 18:03:41 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 3 #VISPRSD</title>
-      <description>Rainfall Advisory No. 3 #VISPRSD&lt;br /&gt; Weather System: Easterlies &lt;br /&gt; Issued at 11:00 PM 11 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate with occasionally Heavy rains are expected over #Palawan(Kalayaan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Brooke'sPoint, Balabac, Rizal, Bataraza, SofronioEspanola and Quezon) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
-      <pubDate>Wed, 11 Nov 2026 15:03:38 +0000</pubDate>
-      <guid isPermaLink="false">7c59dbcd3f2e762ed344bab39d0a7ceb2cad226c</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 15:03:38 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 15 #VISPRSD&lt;br /&gt; Issued at 10:19 PM 11 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Lambunao, Maasin, Alimodian, Leon, Tubungan), #EasternSamar(Quinapondan, GeneralMacarthur), #Leyte(Abuyog and Javier) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Badiangan, Janiuay, Dueñas, Cabatuan, SanMiguel, Anilao, BarotacNuevo, Dumangas), #EasternSamar(Hernani), #SouthernLeyte(Sogod), #Palawan(Balabac, Bataraza and Rizal) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 11 Nov 2026 15:03:37 +0000</pubDate>
-      <guid isPermaLink="false">c27d97f9b404f31d971ae826555d9b0277842036</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 11 Nov 2026 15:03:38 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
