@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 13 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2026 03:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:07:25 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 14 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_13Nov2026_1794530746.pdf</link>
@@ -75,14 +75,6 @@
       <guid isPermaLink="false">baf21680b3428faa019d348966d7cafe3fe324da</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 12 Nov 2026 06:03:35 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 10 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 10 #SLPRSD&lt;br /&gt; Issued at 10:15 AM 12 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #NorthernSamar(SanJose, Biri, Lavezares, Rosario, Bobon, Catarman, Mondragon, SanRoque), #Catanduanes(SanMiguel, Baras, SanAndres), #CamarinesNorte(Labo, SanLorenzoRuiz, SanVicente), #CamarinesSur(Lupi, Goa, Calabanga, SanJose, Presentacion, Cabusao and Sipocot) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NorthernSamar(Pambujan, Laoang, Palapag), #Catanduanes(Caramoran, Viga, Gigmoto, Pandan, Bagamanoc, Panganiban), #CamarinesNorte(JosePanganiban, Paracale, Capalonga, Vinzons, Talisay, Daet, Mercedes, Basud), #CamarinesSur(Siruma, Tinambac, Lagonoy, Garchitorena and Caramoan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 12 Nov 2026 03:03:37 +0000</pubDate>
-      <guid isPermaLink="false">0651fa3f3d2ce624f14129fa54bcd8c420ec94c3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 12 Nov 2026 03:03:37 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
