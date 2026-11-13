@@ -5,8 +5,16 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/ncrprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
-    <pubDate>Fri, 13 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2026 06:30:36 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:03:27 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #NCR_PRSD&lt;br /&gt; Issued at: 4:35 PM, 13 November 2026(Friday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (San Francisco and San Andres) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 13 Nov 2026 09:03:40 +0000</pubDate>
+      <guid isPermaLink="false">eea3655afa2e45411ce35bfb0482f425931c87b7</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 09:03:40 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 21 #NCRPRSD</title>
       <description>Rainfall Advisory No. 21-Final #NCR_PRSD&lt;br /&gt; Weather System: Easterlies&lt;br /&gt; Issued at: 8:00 PM, 12 November 2026(Thursday)&lt;br /&gt; &lt;br /&gt; All Rainfall Advisory over NCR-PRSD forecast area are now TERMINATED.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -16,21 +24,13 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 12 Nov 2026 12:03:37 +0000</ns0:seen>
     </item>
     <item>
-      <title>Rainfall Advisory No. 20 #NCRPRSD</title>
-      <description>Rainfall Advisory No. 20 #NCR_PRSD&lt;br /&gt; Weather System: Easterlies&lt;br /&gt; Issued at: 5:00 PM, 12 November 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Light to moderate rains are expected over Quezon(Panukulan, Burdeos, Patnanungan, Jomalig, Polillo, Infanta, Mauban, Real, Sampaloc, Alabat, Atimonan, Buenavista, Calauag, Guinayangan, Gumaca, Lopez, Perez, Plaridel, Quezon, Tagkawayan, General Nakar).&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 8:00 PM today.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Thu, 12 Nov 2026 09:03:34 +0000</pubDate>
-      <guid isPermaLink="false">21d0f491630d97f2861f4b4dbf00601d808cf64c</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 12 Nov 2026 09:03:34 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
