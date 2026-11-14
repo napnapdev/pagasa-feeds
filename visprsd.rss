@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 14 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 12:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:23:01 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 09:00 PM 14 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Carmen, DanaoCity, Compostela, Consolacion, MandaueCity, LapuLapuCity, Cordova and CebuCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Liloan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sat, 14 Nov 2026 13:23:21 +0000</pubDate>
+      <guid isPermaLink="false">dd55383882684103e3c08de4f9368ed416372aac</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 13:23:21 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 07:13 PM 14 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Bantayan, Madridejos and SanFrancisco) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(SantaFe, Poro, Pilar) and #Palawan(Brooke'sPoint) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Sat, 14 Nov 2026 12:03:36 +0000</pubDate>
       <guid isPermaLink="false">dc39bade1e646f691130601006feb53df73d87c5</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 12:03:36 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 12:03:36 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
@@ -136,14 +144,6 @@
       <guid isPermaLink="false">ae1ec6859ec456545c9a3859946838d0961d0d92</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 15:03:35 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 08:21 PM 13 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(Dao, MaAyon) and #Iloilo(Sara) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Sigma, Panitan, Pontevedra, PresidentRoxas and Pilar) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 13 Nov 2026 12:31:07 +0000</pubDate>
-      <guid isPermaLink="false">4393a54e8f67e4deef8cc941961e7604050c89f6</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 12:31:07 +0000</ns3:seen>
     </item>
   </channel>
 </rss>

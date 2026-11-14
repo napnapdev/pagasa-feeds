@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 14 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 12:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:23:07 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 5 #MINPRSD&lt;br /&gt; Issued at 08:40 PM 14 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #AgusanDelSur(SanFrancisco, Prosperidad, Talacogon, CityOfBayugan, Esperanza, SanLuis), #ZamboangaSibugay(Naga, Diplahan, Siay), #ZamboangaDelSur(Bayog), #CotabatoCity, #MaguindanaoDelNorte(SultanKudarat, DatuOdinSinsuat, Matanog), #LanaoDelNorte(Kauswagan, PoonaPiagapo, PantaoRagat, Pantar), #LanaoDelSur(Saguiaran, TagoloanII) and #MisamisOriental(Lugait) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #ZamboangaSibugay(Kabasalan), #MaguindanaoDelNorte(Parang, SultanMastura), #LanaoDelNorte(Baloi, Tagoloan, Matungao, IliganCity and Linamon) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 14 Nov 2026 13:23:21 +0000</pubDate>
+      <guid isPermaLink="false">40d588ecfe052f32a7e5158291aee2c6e75869cc</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 13:23:21 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 4 #MINPRSD&lt;br /&gt; Issued at 06:40 PM 14 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #AgusanDelSur(Loreto), #SurigaoDelSur(Hinatuan), #DavaoCity, #DavaoDelSur(CityOfDigos, SantaCruz, Bansalan, Hagonoy, Matanao, Magsaysay), #NorthCotabato(Makilala, Magpet, CityOfKidapawan, Alamada, Banisilan), #ZamboangaSibugay(Kabasalan, Siay, Diplahan, Buug), #ZamboangaDelSur(Bayog), #DavaoOriental(Baganga), #LanaoDelSur(TagoloanII, LumbaBayabao, Taraka, Bumbaran), #LanaoDelNorte(IliganCity), #Bukidnon(Baungon, Pangantucan and Kalilangan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #Bukidnon(Talakag), #LanaoDelSur(Bubong, Maguing, Mulondo, BuadiposoBuntong, DitsaanRamain, MarawiCity and Kapai) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sat, 14 Nov 2026 12:03:36 +0000</pubDate>
       <guid isPermaLink="false">76bb87462524c6cb3cbd2e2f4854631a5b61a902</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 12:03:36 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 12:03:36 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
@@ -45,7 +53,7 @@
       <pubDate>Sat, 14 Nov 2026 03:03:45 +0000</pubDate>
       <guid isPermaLink="false">60cd5f4f62c2b383317659bc6bf156ff4912978b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 03:03:45 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 03:03:45 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
