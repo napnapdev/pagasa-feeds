@@ -5,8 +5,32 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/visprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sat, 14 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 06:30:36 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 5 #VISPRSD&lt;br /&gt; Issued at 04:31 PM 14 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Calubian, SanIsidro, Tabango, Villaba, Mayorga, Macarthur, LaPaz, Javier, Abuyog) and #SouthernLeyte(Silago) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Biliran(Cabucgayan, Biliran, Naval, Almeria) and #Leyte(Leyte) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sat, 14 Nov 2026 09:03:32 +0000</pubDate>
+      <guid isPermaLink="false">cb2598bab0d8a1e2a0766af2af3f105ffc2e9b5e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 09:03:32 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 03:43 PM 14 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Biliran(Cabucgayan, Caibiran) and #Leyte(Carigara) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(SanMiguel, Alangalang, TaclobanCity, Barugo, Capoocan), #Palawan(Balabac, Rizal and Quezon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sat, 14 Nov 2026 09:03:31 +0000</pubDate>
+      <guid isPermaLink="false">be3130ebc0b30a5eec6f08305ef9628149aa5468</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 09:03:32 +0000</ns1:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 02:31 PM 14 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Babatngon, TaclobanCity, SantaFe, Palo, Alangalang and SanMiguel) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Samar(SantaRita and Basey) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sat, 14 Nov 2026 09:03:30 +0000</pubDate>
+      <guid isPermaLink="false">d7212f3f4f3d41609ca14dcdc2f885bd7e628073</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 09:03:32 +0000</ns2:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 12:51 PM 14 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Palawan(SofronioEspanola and Quezon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -29,7 +53,7 @@
       <pubDate>Sat, 14 Nov 2026 03:03:45 +0000</pubDate>
       <guid isPermaLink="false">0dfb9361c9cb5ca5004e72aa1a8adac6a314b039</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 03:03:45 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 03:03:45 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -37,7 +61,7 @@
       <pubDate>Sat, 14 Nov 2026 03:03:44 +0000</pubDate>
       <guid isPermaLink="false">ad152791ee36fd1da93751d1274cb3752aab9c07</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 03:03:45 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 03:03:45 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
@@ -54,7 +78,7 @@
       <pubDate>Fri, 13 Nov 2026 21:03:37 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Lapu-lapu City_11142026_1794603601.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 21:03:37 +0000</ns4:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 21:03:37 +0000</ns5:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 15 November, 2026</title>
@@ -63,7 +87,7 @@
       <pubDate>Fri, 13 Nov 2026 21:03:36 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11142026_1794603577.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 21:03:37 +0000</ns5:seen>
+      <ns6:seen xmlns:ns6="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 21:03:37 +0000</ns6:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
