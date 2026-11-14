@@ -5,8 +5,26 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/visprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sat, 14 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 18:49:36 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 21:03:24 +0000</lastBuildDate>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 16 November, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Lapu-lapu City_11152026_1794687871.pdf</link>
+      <description>Issued at: 05:00 AM, 15 November, 2026&lt;br /&gt;Valid until: 05:00 AM, 16 November, 2026</description>
+      <pubDate>Sat, 14 Nov 2026 21:03:44 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Lapu-lapu City_11152026_1794687871.pdf</guid>
+      <category>Special Forecast</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 21:03:44 +0000</ns2:seen>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 16 November, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11152026_1794687818.pdf</link>
+      <description>Issued at: 05:00 AM, 15 November, 2026&lt;br /&gt;Valid until: 05:00 AM, 16 November, 2026</description>
+      <pubDate>Sat, 14 Nov 2026 21:03:43 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11152026_1794687818.pdf</guid>
+      <category>Special Forecast</category>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 21:03:44 +0000</ns3:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 01:10 AM 15 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(LapuLapuCity), #Guimaras(Jordan, NuevaValencia), #NegrosOriental(Ayungon, Bindoy and Manjuyod) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Dumarao, Cuartero, Mambusao, Dumalag, Dao, Sigma, Ivisan, SapiAn, Jamindan), #Aklan(Libacao, Madalag), #Guimaras(SanLorenzo and Sibunag) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -37,7 +55,7 @@
       <pubDate>Sat, 14 Nov 2026 15:03:37 +0000</pubDate>
       <guid isPermaLink="false">59090bc71f62441844b327d20f60c95a601e5892</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 15:03:37 +0000</ns2:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 15:03:37 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -45,7 +63,7 @@
       <pubDate>Sat, 14 Nov 2026 15:03:36 +0000</pubDate>
       <guid isPermaLink="false">4aefdde1d59bc306c1f5f4270d2c7da2789f4a78</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 15:03:37 +0000</ns3:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 15:03:37 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
@@ -134,24 +152,6 @@
       <guid isPermaLink="false">4d617280b8e76f60f5672e71f582e61748fc7ab6</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 21:08:08 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 15 November, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Lapu-lapu City_11142026_1794603601.pdf</link>
-      <description>Issued at: 05:00 AM, 14 November, 2026&lt;br /&gt;Valid until: 05:00 AM, 15 November, 2026</description>
-      <pubDate>Fri, 13 Nov 2026 21:03:37 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Lapu-lapu City_11142026_1794603601.pdf</guid>
-      <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 21:03:37 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 05:00 AM, 15 November, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11142026_1794603577.pdf</link>
-      <description>Issued at: 05:00 AM, 14 November, 2026&lt;br /&gt;Valid until: 05:00 AM, 15 November, 2026</description>
-      <pubDate>Fri, 13 Nov 2026 21:03:36 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11142026_1794603577.pdf</guid>
-      <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 21:03:37 +0000</ns5:seen>
     </item>
   </channel>
 </rss>
