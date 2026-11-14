@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 14 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 09:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:07:20 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 15 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_14Nov2026_1794645079.pdf</link>
@@ -114,22 +114,6 @@
       <guid isPermaLink="false">5a267dae3e9734ff25cac7d13ae778a140b4550a</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 11:37:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 3 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 3 #SLPRSD&lt;br /&gt; Issued at 04:35 PM 13 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(Mobo, CityOfMasbate, Baleno), #Romblon(Romblon, Magdiwang, SanFernando and Cajidiocan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(Batuan, SanFernando and SanJacinto) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 13 Nov 2026 09:03:40 +0000</pubDate>
-      <guid isPermaLink="false">a7ff55d638247532855f9a25204f878bb80387df</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 09:03:40 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #SLPRSD&lt;br /&gt; Issued at 03:10 PM 13 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Sorsogon(Irosin, Barcelona, Bulan), #Masbate(Batuan, SanFernando, SanJacinto and Monreal) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sorsogon(SantaMagdalena, Matnog, Bulusan), #NorthernSamar(Lavezares, Allen, SanAntonio, Victoria, SanIsidro and Capul) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 13 Nov 2026 09:03:39 +0000</pubDate>
-      <guid isPermaLink="false">4b8d92a74da30e0a47ddefff5bf80a170c77010e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 13 Nov 2026 09:03:40 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
