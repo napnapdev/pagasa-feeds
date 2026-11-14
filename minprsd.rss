@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 14 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 15:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:15:32 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 6 #MINPRSD&lt;br /&gt; Issued at 11:00 PM 14 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #AgusanDelSur(SanFrancisco, Rosario, Bunawan), #SurigaoDelSur(Barobo, Tagbina), #CotabatoCity, #MaguindanaoDelNorte, #LanaoDelSur(Kapatagan, Balabagan, Malabang) and #ZamboangaSibugay(Payao) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #DavaoOriental(Cateel and Baganga) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 14 Nov 2026 15:15:48 +0000</pubDate>
+      <guid isPermaLink="false">0a86fcbaea48e92a7e803c5caf88f79b30f15836</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 15:15:48 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 PM 14 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
       <pubDate>Sat, 14 Nov 2026 15:03:37 +0000</pubDate>
       <guid isPermaLink="false">8b6ec846b0ea2e8d0b6726dae18e1dbf333a1de7</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 15:03:37 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 15:03:37 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Sat, 14 Nov 2026 13:23:21 +0000</pubDate>
       <guid isPermaLink="false">40d588ecfe052f32a7e5158291aee2c6e75869cc</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 13:23:21 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 14 Nov 2026 13:23:21 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #MINPRSD</title>
