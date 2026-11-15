@@ -5,15 +5,41 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/visprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sun, 15 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2026 18:30:37 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:03:24 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 04:12 AM 16 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate with occasionally Heavy rainshowers with lightning and strong winds are expected over #Guimaras(Jordan, Sibunag), #Iloilo(Carles, Estancia, Bingawan, BarotacViejo, SanEnrique), #Capiz(Dumalag, Sigma, Ivisan and RoxasCity) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Panay, Pontevedra, Panitan, Dao, Cuartero, Dumarao, MaAyon, PresidentRoxas, Pilar), #Iloilo(CityOfPassi, Lemery, SanRafael, Sara, Balasan, SanDionisio, Ajuy, Concepcion, Batad), #Guimaras(SanLorenzo and Buenavista) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Sun, 15 Nov 2026 21:03:42 +0000</pubDate>
+      <guid isPermaLink="false">e3a77dc9565bc41fc16de125f0edde52300e21f4</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 15 Nov 2026 21:03:42 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 17 November, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Lapu-lapu City_11162026_1794775472.pdf</link>
+      <description>Issued at: 05:00 AM, 16 November, 2026&lt;br /&gt;Valid until: 05:00 AM, 17 November, 2026</description>
+      <pubDate>Sun, 15 Nov 2026 21:03:41 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Lapu-lapu City_11162026_1794775472.pdf</guid>
+      <category>Special Forecast</category>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 15 Nov 2026 21:03:42 +0000</ns2:seen>
+    </item>
+    <item>
+      <title>Special Forecast: Valid until: 05:00 AM, 17 November, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11162026_1794775455.pdf</link>
+      <description>Issued at: 05:00 AM, 16 November, 2026&lt;br /&gt;Valid until: 05:00 AM, 17 November, 2026</description>
+      <pubDate>Sun, 15 Nov 2026 21:03:40 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11162026_1794775455.pdf</guid>
+      <category>Special Forecast</category>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sun, 15 Nov 2026 21:03:42 +0000</ns3:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 PM 15 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cebu, #Bohol, #Siquijor, #NegrosOriental, #NegrosOccidental, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar, #Samar, #Palawan and #OccidentalMindoro within 12 hours.</description>
       <pubDate>Sun, 15 Nov 2026 15:03:42 +0000</pubDate>
       <guid isPermaLink="false">9b879a4abb623ae911a787e3794a997feb764610</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 15 Nov 2026 15:03:42 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 15 Nov 2026 15:03:42 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #VISPRSD</title>
