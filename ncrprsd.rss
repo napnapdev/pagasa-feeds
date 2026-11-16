@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 16 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2026 01:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 03:03:23 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NCRPRSD</title>
+      <description>Thunderstorm Information #NCR_PRSD&lt;br /&gt; Issued at: 10:00 AM, 16 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
+      <pubDate>Mon, 16 Nov 2026 03:03:55 +0000</pubDate>
+      <guid isPermaLink="false">22b54ec931f65c8fd933910c6671baa1b0a104bd</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 03:03:55 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Information #NCR_PRSD&lt;br /&gt; Issued at: 10:00 PM, 15 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -14,14 +22,6 @@
       <guid isPermaLink="false">4a4cd9d05459d2f1a25aa4e5d8f8d965d3edaa44</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 15 Nov 2026 15:03:42 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NCRPRSD</title>
-      <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 AM, 15 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
-      <pubDate>Sun, 15 Nov 2026 02:10:35 +0000</pubDate>
-      <guid isPermaLink="false">4bee36a18dfbf0fc6439fd47d14235037795e4a4</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 15 Nov 2026 02:10:35 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
