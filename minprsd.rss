@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 17 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2026 21:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:30:40 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 29 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 29 FINAL #MINPRSD&lt;br /&gt; Issued at 09:00 PM 16 November 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -70,14 +70,6 @@
       <guid isPermaLink="false">7be3b30b84d930b376595ac865cbd443d44fe5ac</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 00:04:47 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 21 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 21 #MINPRSD&lt;br /&gt; Issued at 05:10 AM 16 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelNorte(Sibuco), #ZamboangaCity, #ZamboangaDelSur(Dimataling, Tabina, Pitogo), #DavaoDelNorte(Kapalong, SanIsidro, Asuncion), #SurigaoDelSur(Hinatuan, Tagbina, CityOfBislig, Lingig, Barobo), #AgusanDelSur(Trento, Rosario, Bunawan, SantaJosefa, Veruela, Loreto, LaPaz, SanFrancisco), #DavaoDeOro(Montevista and Compostela) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #DavaoDeOro(Laak, Monkayo), #DavaoOriental(Boston, Cateel and Baganga) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 15 Nov 2026 21:30:59 +0000</pubDate>
-      <guid isPermaLink="false">f8d42ad305f53e24d5a785654bb56bb1e533877f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 15 Nov 2026 21:30:59 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
