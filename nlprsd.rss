@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 17 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2026 01:53:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 03:03:17 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 16 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte and #Aurora within 12 hours.</description>
-      <pubDate>Mon, 16 Nov 2026 03:03:55 +0000</pubDate>
-      <guid isPermaLink="false">c47d4da6291a782d9e24754ab4d886dc3680cb05</guid>
+      <description>Thunderstorm Information #NLPRSD&lt;br /&gt; Issued at 10:00 AM 17 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Aurora within 12 hours.</description>
+      <pubDate>Tue, 17 Nov 2026 03:03:59 +0000</pubDate>
+      <guid isPermaLink="false">3fd0b2948ef72ca3585ea3c175b15778c2a41c1a</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 03:03:55 +0000</ns0:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 17 Nov 2026 03:03:59 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #NLPRSD</title>
+      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 17 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #IlocosNorte within 12 hours.</description>
+      <pubDate>Tue, 17 Nov 2026 03:03:58 +0000</pubDate>
+      <guid isPermaLink="false">026040dfbfcf56e3aea8b5cc3199c474fefb49ad</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 17 Nov 2026 03:03:59 +0000</ns1:seen>
     </item>
   </channel>
 </rss>

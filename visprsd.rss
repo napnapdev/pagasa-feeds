@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 17 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2026 01:53:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 03:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 AM 17 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cebu, #Bohol, #Siquijor, #NegrosOriental, #NegrosOccidental, #Biliran, #Iloilo, #Guimaras, #Antique, #Aklan, #Capiz, #Leyte, #SouthernLeyte, #EasternSamar, #Samar, #Palawan, #OccidentalMindoro and #OrientalMindoro within 12 hours.</description>
+      <pubDate>Tue, 17 Nov 2026 03:03:59 +0000</pubDate>
+      <guid isPermaLink="false">08219934bcceaaf60e945cddcfea6c3195958af8</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 17 Nov 2026 03:03:59 +0000</ns0:seen>
+    </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 18 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Lapu-lapu City_11172026_1794861119.pdf</link>
@@ -14,7 +22,7 @@
       <pubDate>Mon, 16 Nov 2026 21:03:50 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Lapu-lapu City_11172026_1794861119.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 21:03:50 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 21:03:50 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 18 November, 2026</title>
@@ -23,7 +31,7 @@
       <pubDate>Mon, 16 Nov 2026 21:03:49 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11172026_1794861101.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 21:03:50 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 21:03:50 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
@@ -32,14 +40,6 @@
       <guid isPermaLink="false">25645a67c4a057081e5975bd38ffd69f1ee6e2ab</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 15:03:39 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 AM 16 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cebu, #Bohol, #Siquijor, #NegrosOriental, #NegrosOccidental, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar, #Samar, #Palawan and #OccidentalMindoro within 12 hours.</description>
-      <pubDate>Mon, 16 Nov 2026 03:03:55 +0000</pubDate>
-      <guid isPermaLink="false">6c5c4920a35f85ea24059bb43648632a18ebacbc</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 03:03:55 +0000</ns0:seen>
     </item>
   </channel>
 </rss>

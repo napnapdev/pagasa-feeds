@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 17 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2026 01:53:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 03:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 17 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #MisamisOccidental, #MisamisOriental, #Camiguin, #LanaoDelNorte and #Bukidnon within 12 hours.</description>
+      <pubDate>Tue, 17 Nov 2026 03:03:59 +0000</pubDate>
+      <guid isPermaLink="false">79626864afcfd77a314618c579e05f3e663f8ba2</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 17 Nov 2026 03:03:59 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 29 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 29 FINAL #MINPRSD&lt;br /&gt; Issued at 09:00 PM 16 November 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">1fc6a379de63b62b5e03668a1200caa1dae1e9c5</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 03:07:51 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 23 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 23 #MINPRSD&lt;br /&gt; Issued at 09:00 AM 16 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #DavaoOriental(Baganga, Caraga, Boston, Cateel, Manay, Banaybanay, Lupon), #SurigaoDelSur(Hinatuan, Tagbina, Lingig), #AgusanDelSur(Trento, Rosario, Bunawan, SantaJosefa, Veruela), #DavaoDeOro, #DavaoDelNorte(SanIsidro, CityOfTagum, Kapalong, SantoTomas, BraulioE.Dujali, Carmen, CityOfPanabo), #Bukidnon(Cabanglasan, ManoloFortich, Libona), #DavaoCity, #DavaoDelSur(SantaCruz), #TawiTawi(Mapun, SouthUbian, TurtleIslands) and #NorthCotabato(Matalam) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DavaoDelNorte(Asuncion, NewCorella, CityOfSamal) and #SurigaoDelSur(CityOfBislig) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Mon, 16 Nov 2026 03:03:55 +0000</pubDate>
-      <guid isPermaLink="false">c31a7c4cbd688e163cf116fa866438917e76d1c6</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 03:03:55 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
