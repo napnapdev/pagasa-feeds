@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 17 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2026 12:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 PM 17 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cebu, #Bohol, #Siquijor, #NegrosOriental, #NegrosOccidental, #Iloilo, #Guimaras, #Antique, #Aklan, #Capiz, #Palawan and #OccidentalMindoro within 12 hours.</description>
+      <pubDate>Tue, 17 Nov 2026 15:03:52 +0000</pubDate>
+      <guid isPermaLink="false">e1a9249f459dd4a66c36302a8ece2b58f4e540ed</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 17 Nov 2026 15:03:52 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 17 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Leyte, #SouthernLeyte, #Biliran, #EasternSamar and #Samar within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
+      <pubDate>Tue, 17 Nov 2026 15:03:51 +0000</pubDate>
+      <guid isPermaLink="false">20655dd5f2c10242611982c1ecafaebbddb0ca74</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 17 Nov 2026 15:03:52 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 AM 17 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cebu, #Bohol, #Siquijor, #NegrosOriental, #NegrosOccidental, #Biliran, #Iloilo, #Guimaras, #Antique, #Aklan, #Capiz, #Leyte, #SouthernLeyte, #EasternSamar, #Samar, #Palawan, #OccidentalMindoro and #OrientalMindoro within 12 hours.</description>
@@ -22,7 +38,7 @@
       <pubDate>Mon, 16 Nov 2026 21:03:50 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Lapu-lapu City_11172026_1794861119.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 21:03:50 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 21:03:50 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 18 November, 2026</title>
@@ -31,15 +47,7 @@
       <pubDate>Mon, 16 Nov 2026 21:03:49 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11172026_1794861101.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 21:03:50 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 PM 16 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #Cebu, #Bohol, #Siquijor, #NegrosOriental, #NegrosOccidental, #Biliran, #Iloilo, #Guimaras, #Antique, #Aklan, #Capiz, #Leyte, #SouthernLeyte, #EasternSamar, #Samar, #Palawan, #OccidentalMindoro and #OrientalMindoro within 12 hours.</description>
-      <pubDate>Mon, 16 Nov 2026 15:03:39 +0000</pubDate>
-      <guid isPermaLink="false">25645a67c4a057081e5975bd38ffd69f1ee6e2ab</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 15:03:39 +0000</ns0:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 16 Nov 2026 21:03:50 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
