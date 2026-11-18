@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 18 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2026 15:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:03:17 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
       <description>Thunderstorm Information #SLPRSD&lt;br /&gt; Issued at 10:00 PM 18 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #BicolRegion within 12 hours.</description>
@@ -82,14 +82,6 @@
       <guid isPermaLink="false">dbe6050a1b12fe26f59832d1fc4ca9969247eb0e</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 17 Nov 2026 21:03:36 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #SLPRSD&lt;br /&gt; Issued at 12:15 AM 18 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Albay(SantoDomingo, LegazpiCity), #Catanduanes(SanAndres, Virac, Bato), #CamarinesNorte(Capalonga, Labo, Vinzons, SanVicente, Talisay, Daet, SanLorenzoRuiz, Basud and Mercedes) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Albay(Bacacay), #Sorsogon(CityOfSorsogon, PrietoDiaz, Gubat), #Catanduanes(Viga, Gigmoto, Baras, SanMiguel), #CamarinesSur(Siruma, Tinambac, Lagonoy, Garchitorena, Goa), #CamarinesNorte(Paracale and JosePanganiban) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 17 Nov 2026 18:03:43 +0000</pubDate>
-      <guid isPermaLink="false">a09538cb77b0ff42866e039f7910441212d31c34</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 17 Nov 2026 18:03:43 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
