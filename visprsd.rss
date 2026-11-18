@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 18 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2026 06:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:15:29 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 01:46 PM 18 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Antique(Culasi), #Aklan(Madalag, Libacao), #Capiz(Jamindan), #Iloilo(Calinog and Lambunao) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Tapaz) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -37,7 +37,7 @@
       <pubDate>Wed, 18 Nov 2026 03:04:00 +0000</pubDate>
       <guid isPermaLink="false">9ee7e93e34e0e61329332f88c46ad321817dcebf</guid>
       <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 03:04:00 +0000</ns3:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 03:04:00 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 19 November, 2026</title>
@@ -46,7 +46,7 @@
       <pubDate>Tue, 17 Nov 2026 21:03:36 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Lapu-lapu City_11182026_1794948511.pdf</guid>
       <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Tue, 17 Nov 2026 21:03:36 +0000</ns4:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Tue, 17 Nov 2026 21:03:36 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 19 November, 2026</title>
@@ -55,7 +55,7 @@
       <pubDate>Tue, 17 Nov 2026 21:03:35 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_11182026_1794948493.pdf</guid>
       <category>Special Forecast</category>
-      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Tue, 17 Nov 2026 21:03:36 +0000</ns5:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Tue, 17 Nov 2026 21:03:36 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
