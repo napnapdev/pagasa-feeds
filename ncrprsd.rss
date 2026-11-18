@@ -5,8 +5,8 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/ncrprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
-    <pubDate>Wed, 18 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2026 18:30:53 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 05:00:00 +0800</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:03:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 5 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 5-Final #NCR_PRSD&lt;br /&gt; Issued at: 11:54 PM, 18 November 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisory over NCR-PRSD forecast area are now TERMINATED. However, all are still advised to continue monitoring for updates.</description>
@@ -21,7 +21,7 @@
       <pubDate>Wed, 18 Nov 2026 15:03:48 +0000</pubDate>
       <guid isPermaLink="false">86c6eeae1ee99ecf6168275cbe50dcbd5e27443b</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 15:03:48 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 15:03:48 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
@@ -62,7 +62,7 @@
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
