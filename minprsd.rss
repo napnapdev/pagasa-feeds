@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 19 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2026 21:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:15:28 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 9 #MINPRSD</title>
+      <description>Rainfall Advisory No. 9 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 05:00 AM 19 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #Bukidnon(Baungon, Sumilao, Lantapan, CityOfMalaybalay), #MisamisOriental(Claveria, GingoogCity, Magsaysay), #AgusanDelNorte(Buenavista, CityOfCabadbaran, Tubay, Santiago, Jabonga, ButuanCity, LasNieves, Carmen, Nasipit), #SurigaoDelNorte(Malimono, SanFrancisco), #DinagatIslands, #DavaoOriental(Baganga, Caraga, CityOfMati, SanIsidro, GovernorGeneroso), #AgusanDelSur(Sibagat, Esperanza, SanLuis, LaPaz), #LanaoDelSur(TagoloanII, Bubong), #Sarangani(Maasim, Kiamba, Maitum), #SouthCotabato(LakeSebu, Surallah, SantoNiño, Banga, Norala, Tantangan, T'Boli), #SultanKudarat(Bagumbayan) and #ZamboangaDelNorte(DipologCity) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelNorte(SurigaoCity), #AgusanDelNorte(RemediosT.Romualdez, Magallanes), #Bukidnon(Libona, Talakag, Malitbog, ManoloFortich, ImpasugOng, Cabanglasan, CityOfValencia), #MisamisOriental(CagayanDeOroCity) and #AgusanDelSur(Loreto) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.</description>
+      <pubDate>Wed, 18 Nov 2026 21:15:46 +0000</pubDate>
+      <guid isPermaLink="false">340346a849a91ebf1f847eb9fa662525c1f729c3</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 21:15:46 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 18 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
       <pubDate>Wed, 18 Nov 2026 15:03:48 +0000</pubDate>
       <guid isPermaLink="false">d05d902ea1cfaa37abae5655528e2ce13179a46c</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 15:03:48 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 15:03:48 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 7 #MINPRSD</title>
