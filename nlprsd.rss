@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 19 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2026 09:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:03:18 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 6 #NLPRSD</title>
       <description>Rainfall Advisory No. 6 #NLPRSD&lt;br /&gt; Weather System: Shear Line / NE Monsoon &lt;br /&gt; Issued at 05:00 PM 19 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Isabela(CityOfSantiago, SanMariano, Angadanan, Dinapigue, Palanan, CityOfCauayan, BenitoSoliven, Alicia, SanIsidro), #Quirino(Saguday, Aglipay, Maddela, Nagtipunan), #Aurora(Dipaculao, Dinalungan, Casiguran, Dilasag, MariaAurora, Baler), #NuevaVizcaya(AlfonsoCastaneda), #Batanes(Basco, Ivana, Mahatao, Sabtang and Uyugan) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Jones, SanAgustin, Echague, SanGuillermo), #Cagayan(Calayan) and #Batanes(Itbayat) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -21,7 +21,7 @@
       <pubDate>Thu, 19 Nov 2026 03:03:29 +0000</pubDate>
       <guid isPermaLink="false">0a46f8941e9ff8e251218590823efdf47bca8ed9</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 19 Nov 2026 03:03:29 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 19 Nov 2026 03:03:29 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
@@ -29,7 +29,7 @@
       <pubDate>Thu, 19 Nov 2026 03:03:28 +0000</pubDate>
       <guid isPermaLink="false">87276b0771dbbf8e21b4ef3d2fb4ee09113761ea</guid>
       <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 19 Nov 2026 03:03:29 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 19 Nov 2026 03:03:29 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 4 #NLPRSD</title>
