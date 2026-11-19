@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 19 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2026 18:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 01:13 AM 20 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(DanaoCity, Cordova, MandaueCity, CebuCity), #Bohol(Danao, Inabanga, SanMiguel, Dagohoy), #EasternSamar(Llorente, GeneralMacarthur, Quinapondan, Giporlos, Balangiga and Lawaan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(LapuLapuCity, Liloan, Consolacion, Compostela), #Bohol(Getafe, Talibon, Buenavista, Trinidad, BienUnido), #EasternSamar(Hernani, Salcedo, Mercedes and Guiuan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -153,22 +153,6 @@
       <guid isPermaLink="false">fed782812c7d98acf0267c890791322b3a8b19ff</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 21:03:35 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 01:28 AM 19 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(CebuCity, Cordova, CityOfTalisay, Consolacion, Daanbantayan, Medellin, Santander, Oslob and Samboan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(LapuLapuCity, MandaueCity and Liloan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 18 Nov 2026 18:03:48 +0000</pubDate>
-      <guid isPermaLink="false">7b51e22253fb9a51e83c61a5bc47c5af0ed22f24</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 18:03:48 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #VISPRSD&lt;br /&gt; Issued at 12:35 AM 19 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(MatagOb, Palompon, Isabel), #Siquijor(Larena, Lazi, Siquijor, SanJuan), #NegrosOriental(Bindoy, Sibulan, SanJose, Mabinay), #Capiz(Tapaz), #Antique(Culasi, Sebaste), #Guimaras(NuevaValencia), #Cebu(Dalaguete and Argao) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(OrmocCity, Kananga, Jaro, Villaba, Merida), #Siquijor(Maria, EnriqueVillanueva), #NegrosOriental(Ayungon), #Capiz(Cuartero, Dumarao, Dumalag, Jamindan), #Iloilo(Bingawan), #Aklan(Madalag, Libacao, Banga) and #Guimaras(Sibunag) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 18 Nov 2026 18:03:47 +0000</pubDate>
-      <guid isPermaLink="false">48aa38055f8c3c17736e9d910e4b567d62179737</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 18:03:48 +0000</ns1:seen>
     </item>
   </channel>
 </rss>

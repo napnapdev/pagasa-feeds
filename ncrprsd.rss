@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 19 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2026 18:03:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:07:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 12:30 PM, 19 November 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Laguna (Paete, Kalayaan, Lumban, Cavinti, and Luisiana) and Quezon (Mauban, Sampaloc, Real, Infanta, General Nakar, Polillo, Burdeos, Panukulan, Patnanungan, and Jomalig) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -22,14 +22,6 @@
       <guid isPermaLink="false">c08f0720e8a7ed13ac445f3aeced92e73c36e8d1</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 19 Nov 2026 00:03:45 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 5-Final #NCR_PRSD&lt;br /&gt; Issued at: 11:54 PM, 18 November 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisory over NCR-PRSD forecast area are now TERMINATED. However, all are still advised to continue monitoring for updates.</description>
-      <pubDate>Wed, 18 Nov 2026 18:03:47 +0000</pubDate>
-      <guid isPermaLink="false">77dc0d9426f5c2903d1bc148add27b875f1ee18d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 18:03:47 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
