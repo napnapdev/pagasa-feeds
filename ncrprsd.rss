@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 19 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2026 06:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:07:17 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 12:30 PM, 19 November 2026(Thursday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Laguna (Paete, Kalayaan, Lumban, Cavinti, and Luisiana) and Quezon (Mauban, Sampaloc, Real, Infanta, General Nakar, Polillo, Burdeos, Panukulan, Patnanungan, and Jomalig) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -38,14 +38,6 @@
       <guid isPermaLink="false">86c6eeae1ee99ecf6168275cbe50dcbd5e27443b</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 15:03:48 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #NCR_PRSD&lt;br /&gt; Issued at: 2:00 PM, 18 November 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (Nasugbu, Lian, Balayan, Tuy, and Calatagan), Bulacan (San Jose del Monte, Norzagaray, and Dona Remedios Trinidad), Metro Manila (Caloocan, Malabon, Navotas, Valenzuela, Quezon City, Makati, Mandaluyong, Pasig, San Juan, Pateros, Marikina, Manila, Taguig, and Pasay), Quezon (General Nakar, Lopez, Calauag, Macalelon, Gumaca, Pitogo, General Luna, Catanauan, Unisan, Plaridel, Panukulan, Burdeos, Polillo, Jomalig, and Patnanungan), and Rizal (Rodriguez, San Mateo, Cainta, and Antipolo) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 18 Nov 2026 06:03:43 +0000</pubDate>
-      <guid isPermaLink="false">ffbd85f8f2e9c334d94dcb20a97b832cd29ca621</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 18 Nov 2026 06:03:43 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
