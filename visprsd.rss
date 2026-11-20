@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 20 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2026 18:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:07:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #VISPRSD&lt;br /&gt; Issued at 02:02 AM 21 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Bohol(Anda, Candijay, Mabini, Duero, Guindulman, Jagna, GarciaHernandez, SierraBullones, Pilar), #SouthernLeyte(SanRicardo and Pintuyan) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Fri, 20 Nov 2026 18:07:38 +0000</pubDate>
+      <guid isPermaLink="false">5d7c586f95ca2d8e7f13aed8af390b84d63b8c86</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 18:07:38 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 2 #VISPRSD&lt;br /&gt; Issued at 01:19 AM 21 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Aklan(Malinao), #Antique(Sebaste), #Leyte(SanIsidro and Villaba) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(Culasi), #Aklan(Madalag, Libacao), #Capiz(Jamindan, Tapaz, Mambusao, Sigma) and #Leyte(Leyte) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
       <pubDate>Fri, 20 Nov 2026 18:03:48 +0000</pubDate>
       <guid isPermaLink="false">7e17ba70c51e6f0fcc732a9290b6739bf6d5358e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 18:03:48 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 18:03:48 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #VISPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Fri, 20 Nov 2026 18:03:47 +0000</pubDate>
       <guid isPermaLink="false">be34794f8e7531a6360bab89f65212c3edce8d68</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 18:03:48 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 18:03:48 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 19 #VISPRSD</title>
