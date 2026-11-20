@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 20 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2026 18:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:45:39 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 9 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 9 FINAL #SLPRSD&lt;br /&gt; Issued at 04:30 AM 21 November 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 20 Nov 2026 20:45:57 +0000</pubDate>
+      <guid isPermaLink="false">c5c4581bb296cce2a580c85ea4b040f8fd227c2e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 20:45:57 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 8 #SLPRSD</title>
+      <description>Thunderstorm Advisory No. 8 #SLPRSD&lt;br /&gt; Issued at 02:25 AM 21 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(CityOfMasbate, Dimasalang, Baleno, Monreal, SanJacinto), #NorthernSamar(Bobon, Catarman, Mondragon, SanRoque, Pambujan and Laoang) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Masbate(Batuan, SanFernando, Mobo, Uson), #Sorsogon(Matnog, Bulan, SantaMagdalena, Bulusan, Irosin), #NorthernSamar(SanVicente, Capul, SanAntonio, Allen, Lavezares, Biri, Rosario, Victoria, SanIsidro and SanJose) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 20 Nov 2026 20:45:56 +0000</pubDate>
+      <guid isPermaLink="false">a33467fd513dce684d7978bd76275509bdfe034e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 20:45:57 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 7 #SLPRSD</title>
       <description>Thunderstorm Advisory No. 7 #SLPRSD&lt;br /&gt; Issued at 11:20 PM 20 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Romblon(Romblon, Corcuera, Concepcion, Banton, Odiongan, SantaMaria), #Sorsogon(PrietoDiaz, CityOfSorsogon, Gubat, Barcelona, Casiguran, Castilla, Pilar, Bulusan, Juban), #Albay(RapuRapu, Manito, LegazpiCity), #NorthernSamar(Capul, SanAntonio, Allen, Lavezares, Rosario, SanJose, Bobon, SanIsidro, Victoria, Catarman, Mondragon, SanRoque), #OrientalMindoro(Gloria, Pinamalayan, Pola, Socorro, Victoria, Bansud), #Marinduque(Gasan, Boac, Mogpog), #Catanduanes(Virac, Bato and Baras) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Romblon(Calatrava, SanAgustin and SanAndres) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -22,7 +38,7 @@
       <pubDate>Fri, 20 Nov 2026 15:03:44 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_20Nov2026_1795180452.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 15:03:44 +0000</ns0:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 15:03:44 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 21 November, 2026</title>
@@ -31,7 +47,7 @@
       <pubDate>Fri, 20 Nov 2026 15:03:43 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_20Nov2026_1795180410.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 15:03:44 +0000</ns1:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 15:03:44 +0000</ns3:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #SLPRSD</title>
@@ -72,7 +88,7 @@
       <pubDate>Fri, 20 Nov 2026 03:03:32 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_20Nov2026_1795135777.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 03:03:32 +0000</ns2:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 03:03:32 +0000</ns4:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 21 November, 2026</title>
@@ -81,7 +97,7 @@
       <pubDate>Fri, 20 Nov 2026 03:03:31 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_20Nov2026_1795135735.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 03:03:32 +0000</ns3:seen>
+      <ns5:seen xmlns:ns5="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 03:03:32 +0000</ns5:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
