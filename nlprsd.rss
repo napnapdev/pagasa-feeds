@@ -6,14 +6,14 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 20 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2026 03:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:30:38 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 20 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Aurora and #IlocosNorte within 12 hours.</description>
       <pubDate>Fri, 20 Nov 2026 03:03:32 +0000</pubDate>
       <guid isPermaLink="false">25191783a0f7969caad61e03636a464d8841dd5a</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 03:03:32 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 03:03:32 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 11 #NLPRSD</title>
