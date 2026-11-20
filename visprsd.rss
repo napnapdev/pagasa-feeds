@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 20 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2026 15:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 18 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 18 #VISPRSD&lt;br /&gt; Issued at 10:42 PM 20 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #NegrosOccidental(SilayCity), #Antique(Bugasong), #Iloilo(BarotacViejo and Ajuy) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Malay, Buruanga, Malinao, Madalag, Libacao), #Antique(Libertad, Sebaste, Culasi, Tibiao, Barbaza, LauaAn), #Capiz(Jamindan, Tapaz, Sigma, Dao, Dumalag), #Iloilo(Calinog, Lambunao), #NegrosOccidental(CityOfVictorias, Manapla, CadizCity, SagayCity and EnriqueB.Magalona) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -218,14 +218,6 @@
       <guid isPermaLink="false">e9a08232d8d83a9fb6e61f00eeca72c989605d8b</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 19 Nov 2026 15:31:26 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 13 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 13 #VISPRSD&lt;br /&gt; Issued at 11:00 PM 19 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Liloan, Consolacion, MandaueCity, CebuCity, Ronda), #Bohol(Getafe) and #Leyte(Albuera) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(DanaoCity, Compostela, Cordova, Sibonga, Dumanjug), #Bohol(Talibon) and #Leyte(Burauen) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Thu, 19 Nov 2026 15:07:48 +0000</pubDate>
-      <guid isPermaLink="false">c0766307b4611aac1d7fec3658421100b2315d63</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 19 Nov 2026 15:07:48 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
