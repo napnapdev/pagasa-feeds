@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 20 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2026 18:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:15:33 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 22 #MINPRSD</title>
       <description>Rainfall Advisory No. 22 Amendment #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:11 PM 20 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaDelSur(Dimataling, Tabina, Pitogo, Dinas, SanMiguel, Lapuyan, Margosatubig, VincenzoA.Sagun), #ZamboangaSibugay(RosellerLim, Tungawan), #MisamisOccidental(DonVictorianoChiongbian, Concepcion, SapangDalaga), #ZamboangaDelNorte(LaLibertad, DapitanCity, Polanco, DipologCity, Katipunan, SergioOsmeñaSr.), #DavaoDeOro(Mabini and Pantukan) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #ZamboangaDelNorte(Piñan and Mutia) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
@@ -70,14 +70,6 @@
       <guid isPermaLink="false">b4d25234073e20b7c8ab181fba3522121a119899</guid>
       <category>Rainfall Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 19 Nov 2026 21:03:51 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 16 #MINPRSD</title>
-      <description>Rainfall Advisory No. 16 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 02:00 AM 20 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #AgusanDelNorte(Nasipit, Buenavista, Carmen), #SurigaoDelNorte(SiargaoIsland), #NorthCotabato(Midsayap, Aleosan, Libungan, Pigkawayan, Banisilan, Alamada, Pikit), #DavaoOriental(GovernorGeneroso, SanIsidro, CityOfMati, Tarragona, Banaybanay, Lupon, Manay, Caraga), #DavaoDeOro(Pantukan, Mabini, Maragusan, Maco, Mawab, NewBataan), #DavaoDelNorte(CityOfSamal, Carmen, CityOfPanabo, BraulioE.Dujali, CityOfTagum, SantoTomas, Asuncion, SanIsidro, NewCorella), #Bukidnon(Damulog, Kibawe, Kadingilan, Dangcagan, Kitaotao, DonCarlos, Quezon, Maramag, Kalilangan, Pangantucan, CityOfValencia, Lantapan, Talakag, Sumilao, Baungon, Libona, ManoloFortich), #MaguindanaoDelSur, #MaguindanaoDelNorte, #CotabatoCity, #SultanKudarat(Lebak, Kalamansig, Palimbang, Sen.NinoyAquino, Isulan, Esperanza, Lambayong, PresidentQuirino, CityOfTacurong, Lutayan, Columbio), #SouthCotabato(Tantangan, CityOfKoronadal, Tampakan), #Sarangani(Malungon), #DavaoOccidental(SantaMaria, Malita, DonMarcelino, JoseAbadSantos), #MisamisOriental(Tagoloan, Villanueva, Jasaan, Balingasag, Lagonglong, Salay, Magsaysay), #Camiguin, #LanaoDelSur(Wao) and #Sulu within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #AgusanDelSur, #SurigaoDelSur, #AgusanDelNorte(LasNieves, ButuanCity, Magallanes, RemediosT.Romualdez, CityOfCabadbaran, Santiago, Tubay, Jabonga, Kitcharao), #SurigaoDelNorte(Alegria, Claver, Gigaquit, Tubod, Mainit, Bacuag, Malimono, Placer, Sison, TaganaAn, Socorro, SanFrancisco, SurigaoCity), #DinagatIslands, #DavaoCity, #DavaoDelSur, #NorthCotabato(Tulunan, Makilala, M'Lang, CityOfKidapawan, Magpet, Kabacan, Antipas, Matalam, PresidentRoxas, Carmen, Arakan), #DavaoOriental(Baganga, Cateel, Boston), #DavaoDeOro(Nabunturan, Compostela, Montevista, Monkayo, Laak), #DavaoDelNorte(Talaingod, Kapalong), #Bukidnon(SanFernando, Cabanglasan, CityOfMalaybalay, Malitbog, ImpasugOng), #MisamisOriental(Binuangan, Sugbongcogon, Kinoguitan, Balingoan, Talisayan, Medina, GingoogCity, Claveria) and #TawiTawi which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 AM Today.</description>
-      <pubDate>Thu, 19 Nov 2026 18:15:49 +0000</pubDate>
-      <guid isPermaLink="false">813efebaa38e8d4b7bd14a868c5759eda2bbf684</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 19 Nov 2026 18:15:49 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
