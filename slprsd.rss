@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 21 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 21 Nov 2026 01:47:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:30:48 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #SLPRSD</title>
+      <description>Thunderstorm Information #SLPRSD&lt;br /&gt; Issued at 10:00 AM 21 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #BicolRegion within 12 hours.</description>
+      <pubDate>Sat, 21 Nov 2026 03:31:01 +0000</pubDate>
+      <guid isPermaLink="false">84279e9b731ea7c7a9c561070e93a71915095fda</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 03:31:01 +0000</ns0:seen>
+    </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 22 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_21Nov2026_1795222204.pdf</link>
@@ -14,7 +22,7 @@
       <pubDate>Sat, 21 Nov 2026 01:47:37 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_21Nov2026_1795222204.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 01:47:37 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 01:47:37 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 22 November, 2026</title>
@@ -23,7 +31,7 @@
       <pubDate>Sat, 21 Nov 2026 01:47:36 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_21Nov2026_1795222158.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 01:47:37 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 01:47:37 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 9 #SLPRSD</title>
@@ -56,7 +64,7 @@
       <pubDate>Fri, 20 Nov 2026 15:03:44 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_20Nov2026_1795180452.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 15:03:44 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 15:03:44 +0000</ns3:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 PM, 21 November, 2026</title>
@@ -65,7 +73,7 @@
       <pubDate>Fri, 20 Nov 2026 15:03:43 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_20Nov2026_1795180410.pdf</guid>
       <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 15:03:44 +0000</ns3:seen>
+      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 15:03:44 +0000</ns4:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #SLPRSD</title>
@@ -98,32 +106,6 @@
       <guid isPermaLink="false">b577b52b9aaf0bc05464262a697bc91075abecab</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 06:03:31 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 AM, 21 November, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_20Nov2026_1795135777.pdf</link>
-      <description>Issued at: 09:00 AM, 20 November, 2026&lt;br /&gt;Valid until: 09:00 AM, 21 November, 2026</description>
-      <pubDate>Fri, 20 Nov 2026 03:03:32 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_20Nov2026_1795135777.pdf</guid>
-      <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 03:03:32 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 AM, 21 November, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_20Nov2026_1795135735.pdf</link>
-      <description>Issued at: 09:00 AM, 20 November, 2026&lt;br /&gt;Valid until: 09:00 AM, 21 November, 2026</description>
-      <pubDate>Fri, 20 Nov 2026 03:03:31 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_20Nov2026_1795135735.pdf</guid>
-      <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 03:03:32 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #SLPRSD&lt;br /&gt; Issued at 09:00 AM 20 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #NorthernSamar(Gamay, Mapanas, Palapag, Pambujan, SilvinoLobos and Laoang) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #NorthernSamar(Lapinig, LasNavas and Catubig) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 20 Nov 2026 03:03:30 +0000</pubDate>
-      <guid isPermaLink="false">cd03d166382ed29b15ea75b35df3ee6dd0a1b76d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 03:03:32 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
