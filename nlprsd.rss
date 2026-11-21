@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 21 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 21 Nov 2026 03:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:03:19 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 20 #NLPRSD</title>
       <description>Rainfall Advisory No. 20 #NLPRSD&lt;br /&gt; Weather System: Shear Line / NE Monsoon &lt;br /&gt; Issued at 11:00 AM 21 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Aurora(Dipaculao, MariaAurora, Dinalungan), #Isabela(Divilacan, IlaganCity, BenitoSoliven, CityOfCauayan, Angadanan, SanGuillermo, Naguilian, Jones, SanAgustin, Echague, SanPablo, Maconacon, Cabagan, Tumauini, SantaMaria, SantoTomas, DelfinAlbano, Quirino, Gamu, Burgos, ReinaMercedes, Luna, Alicia, SanIsidro), #Quirino(Maddela, Nagtipunan), #NuevaVizcaya(AlfonsoCastaneda), #Cagayan(Peñablanca, TuguegaraoCity, SantaAna, Gonzaga, LalLo, Gattaran, Baggao and Iguig) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aurora(Casiguran, Dilasag), #Isabela(Palanan, Dinapigue and SanMariano) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -21,7 +21,7 @@
       <pubDate>Sat, 21 Nov 2026 01:47:37 +0000</pubDate>
       <guid isPermaLink="false">d032785fd44f355c5bca67644ecf48245e77bf43</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 01:47:37 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 01:47:37 +0000</ns0:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 19 #NLPRSD</title>
@@ -62,14 +62,6 @@
       <guid isPermaLink="false">422b41406560fa6cb99adf5ebc0946f1b6fe0ab9</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 12:15:42 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 12 #NLPRSD</title>
-      <description>Rainfall Advisory No. 12 #NLPRSD&lt;br /&gt; Weather System: Shear Line / NE Monsoon &lt;br /&gt; Issued at 11:00 AM 20 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Aurora(Baler, MariaAurora, Dipaculao, Dinalungan, Casiguran, Dilasag), #NuevaVizcaya(AlfonsoCastaneda), #Quirino(Nagtipunan, Maddela), #Isabela(Maconacon, Tumauini, Cabagan, SanPablo, Divilacan, IlaganCity, SanMariano, Palanan, Dinapigue), #Cagayan(Peñablanca, Baggao, TuguegaraoCity, SantaAna, Gonzaga, Gattaran, LalLo, Abulug, Ballesteros), #Apayao(Flora, Kabugao, Pudtol and SantaMarcela) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aurora(Dingalan, SanLuis), #Cagayan(Claveria, SantaPraxedes, SanchezMira, Pamplona), #Apayao(Calanasan and Luna) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 20 Nov 2026 04:00:37 +0000</pubDate>
-      <guid isPermaLink="false">553aaef2feaccfb09f1061863e2995f2f8979eab</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 20 Nov 2026 04:00:37 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
