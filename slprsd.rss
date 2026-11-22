@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 22 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2026 12:30:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:03:27 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
       <description>Thunderstorm Information #SLPRSD&lt;br /&gt; Issued at 10:00 AM 22 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #BicolRegion within 12 hours.</description>
@@ -22,7 +22,7 @@
       <pubDate>Sun, 22 Nov 2026 01:41:32 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_22Nov2026_1795309245.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 01:41:32 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 01:41:32 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 23 November, 2026</title>
@@ -31,7 +31,7 @@
       <pubDate>Sun, 22 Nov 2026 01:41:31 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_22Nov2026_1795309222.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 01:41:32 +0000</ns2:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 01:41:32 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 4 #SLPRSD</title>
@@ -81,15 +81,6 @@
       <guid isPermaLink="false">7cb9870f61d3f09f79b443251fa855c49532d73a</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 16:26:13 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 PM, 22 November, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_21Nov2026_1795267027.pdf</link>
-      <description>Issued at: 09:00 PM, 21 November, 2026&lt;br /&gt;Valid until: 09:00 PM, 22 November, 2026</description>
-      <pubDate>Sat, 21 Nov 2026 15:03:37 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_21Nov2026_1795267027.pdf</guid>
-      <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 15:03:37 +0000</ns4:seen>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 22 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2026 12:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #NCRPRSD</title>
+      <description>Thunderstorm Information #NCR_PRSD&lt;br /&gt; Issued at: 10:00 PM, 22 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
+      <pubDate>Sun, 22 Nov 2026 15:03:39 +0000</pubDate>
+      <guid isPermaLink="false">393f9fb95c321a032ff3aa20e67e32cc7bdc0fe2</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 15:03:39 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 4:50 PM, 22 November 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Dona Remedios Trinidad and Norzagaray), Nueva Ecija (General Tinio), and Quezon (General Nakar) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -54,30 +62,6 @@
       <guid isPermaLink="false">ecb955f23f2c43f7087f214c0d97909190b56e61</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 18:03:34 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #NCR_PRSD&lt;br /&gt; Issued at: 10:42 PM, 21 November 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Morong), Batangas (Cuenca, Alitagtag, San Jose, Lipa, Mataasnakahoy, and Santa Teresita), Bulacan (Norzagaray), Quezon (Jomalig, Polillo, Panukulan, Perez, Calauag, Quezon, Alabat, General Nakar, and Mauban), Rizal (Rodriguez), and Zambales (San Antonio, Subic, and Olongapo) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Patnanungan and Burdeos) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 21 Nov 2026 15:03:36 +0000</pubDate>
-      <guid isPermaLink="false">deb58e2427b0635db03c8f5d244d4ec45f5662d8</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 15:03:36 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #NCR_PRSD&lt;br /&gt; Issued at: 8:35 PM, 21 November 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Pampanga (Mabalacat, Porac, Angeles, and Floridablanca), Quezon (Patnanungan, Jomalig, Calauag, Burdeos, Panukulan, and General Nakar), and Zambales (San Antonio, Castillejos, San Marcelino, San Narciso, Subic, Palauig, Iba, and San Felipe) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 21 Nov 2026 15:03:35 +0000</pubDate>
-      <guid isPermaLink="false">f02dd5d5124ad62a5e43c75d902bc1e28530ab4f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 15:03:36 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #NCR_PRSD&lt;br /&gt; Issued at: 8:35 PM, 21 November 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Metro Manila (Las Pinas), Pampanga (Mabalacat, Porac, Angeles, and Floridablanca), Quezon (Patnanungan, Jomalig, Calauag, Burdeos, Panukulan, and General Nakar), and Zambales (San Antonio, Castillejos, San Marcelino, San Narciso, Subic, Palauig, Iba, and San Felipe) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 21 Nov 2026 15:03:34 +0000</pubDate>
-      <guid isPermaLink="false">332750bff2f48a7d815441c58123ad4fadcab25e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 15:03:36 +0000</ns2:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
