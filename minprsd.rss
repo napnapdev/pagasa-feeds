@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 22 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2026 03:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:30:37 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 7 #MINPRSD&lt;br /&gt; Issued at 10:40 AM 22 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(Hinatuan, CityOfBislig, Lingig, Carrascal, SanAgustin), #AgusanDelSur(Trento, Bunawan, Veruela, SantaJosefa), #DavaoOriental(Boston, Cateel) and #SurigaoDelNorte(Claver) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DavaoOriental(Baganga) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -110,14 +110,6 @@
       <guid isPermaLink="false">680667bc7a85868275da0e5eb8338784335f950f</guid>
       <category>Rainfall Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 06:03:47 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 26 #MINPRSD</title>
-      <description>Rainfall Advisory No. 26 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:00 AM 21 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaDelNorte(Katipunan, Polanco, Piñan, DapitanCity, Sibutad, Rizal, Mutia, SergioOsmeñaSr.), #MisamisOccidental(SapangDalaga, Concepcion), #DavaoCity and #DavaoOccidental(Sarangani) within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #ZamboangaDelNorte(LaLibertad and DipologCity) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
-      <pubDate>Sat, 21 Nov 2026 03:16:00 +0000</pubDate>
-      <guid isPermaLink="false">c85e790bfbd7b2c4f08a711309e7802bbbb9f8f9</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 03:16:00 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
