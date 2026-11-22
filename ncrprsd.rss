@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 22 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2026 08:53:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:03:21 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 3 #NCRPRSD</title>
+      <description>Thunderstorm Advisory No. 3 #NCR_PRSD&lt;br /&gt; Issued at: 4:50 PM, 22 November 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Dona Remedios Trinidad and Norzagaray), Nueva Ecija (General Tinio), and Quezon (General Nakar) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sun, 22 Nov 2026 09:03:37 +0000</pubDate>
+      <guid isPermaLink="false">e118ad5b4746622e18b704ee6a53c717da41116e</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 09:03:37 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 2:50 PM, 22 November 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (Jomalig, Patnanungan, General Nakar, Infanta, Real, Mauban, and Perez) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Quezon (Polillo, Panukulan, and Burdeos) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Sun, 22 Nov 2026 08:53:38 +0000</pubDate>
       <guid isPermaLink="false">b207f5d7473c3918194525e76e8efcc800fa5ec1</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 08:53:38 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 08:53:38 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
@@ -29,7 +37,7 @@
       <pubDate>Sun, 22 Nov 2026 01:41:32 +0000</pubDate>
       <guid isPermaLink="false">f56b1bd0db7da14e77e0059baf540f0d669e35b7</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 01:41:32 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 01:41:32 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 10 #NCRPRSD</title>
@@ -80,21 +88,13 @@
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 12:03:40 +0000</ns0:seen>
     </item>
     <item>
-      <title>Thunderstorm Advisory No. 5 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #NCR_PRSD&lt;br /&gt; Issued at: 4:53 PM, 21 November 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bataan (Limay and Mariveles), Bulacan (Norzagaray), Cavite (Bacoor, Imus, Cavite City, Kawit, Maragondon, Ternate, General Trias, Rosario, and Noveleta), Laguna (Santa Maria, Siniloan, Famy, Pangil, Mabitac, and Pakil), Metro Manila (Muntinlupa, Pasay, and Taguig), Quezon (Tagkawayan, Guinayangan, and Polillo), Rizal (Tanay, Pililla, and Rodriguez), and Tarlac (Santa Ignacia, Mayantoc, and Bamban) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Cavite (Tanza and Naic) and Metro Manila (Las Pinas and Paranaque) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 21 Nov 2026 09:03:34 +0000</pubDate>
-      <guid isPermaLink="false">e5b6bf6efaf2600fe0dbdeec497c12dd05ace519</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 09:03:34 +0000</ns0:seen>
-    </item>
-    <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
       <link>http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</link>
       <description>SPECIAL FORECAST FOR TAAL VOLCANO</description>
       <pubDate>Sun, 07 May 2000 02:38:27 +0000</pubDate>
       <guid isPermaLink="true">http://src.panahon.gov.ph/pubfiles/prsd/national-capital-region/special_forecast.pdf</guid>
       <category>Special Forecast</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns2:seen>
+      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 07 Sep 2026 18:08:10 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
