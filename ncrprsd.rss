@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 22 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2026 00:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:30:38 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 10 #NCRPRSD</title>
       <description>Thunderstorm Advisory No. 10 #NCR_PRSD&lt;br /&gt; Issued at: 3:10 AM, 22 November 2026(Sunday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Quezon (Panukulan, Burdeos, Polillo, Patnanungan, Jomalig, Tagkawayan, Guinayangan, Calauag, Quezon, Lopez, Gumaca, Perez, Alabat, Atimonan, Plaridel, Mauban, Real, Pagbilao, Padre Burgos, Agdangan, and Unisan) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">5fa0f5bbb72222c8d10bf031ce8c290739715e11</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 06:03:47 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #NCR_PRSD&lt;br /&gt; Issued at: 8:05 AM, 21 November 2026(Saturday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Bulacan (Norzagaray and Dona Remedios Trinidad), Laguna (Santa Maria, Siniloan, Famy, Mabitac, Pangil, Paete, Pakil, Kalayaan, Lumban, Cavinti, Luisiana, Majayjay, Magdalena, Pagsanjan, and Santa Cruz), Nueva Ecija (General Tinio), Quezon (General Nakar, Infanta, Panukulan, Burdeos, Polillo, Patnanungan, Jomalig, Real, Mauban, Sampaloc, Atimonan, Padre Burgos, Pagbilao, Tayabas, Lucban, Perez, Alabat, Quezon, Calauag, Guinayangan, Tagkawayan, Lopez, Gumaca, Plaridel, and Lucena), and Rizal (Tanay, Rodriguez, Antipolo, Baras, Pililla, and Jala-Jala) within the next 3 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 21 Nov 2026 00:15:52 +0000</pubDate>
-      <guid isPermaLink="false">c496fb75540f9c8ddbbca9e984c1c9058870ace4</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 00:15:52 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
