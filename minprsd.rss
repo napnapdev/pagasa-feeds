@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 22 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2026 17:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:03:18 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 1 #MINPRSD</title>
       <description>Rainfall Advisory No. 1 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:00 PM 22 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #SurigaoDelNorte(Alegria, Tubod, Mainit, Malimono), #AgusanDelNorte(LasNieves, Nasipit, Buenavista, Magallanes, RemediosT.Romualdez, Kitcharao, ButuanCity, Carmen), #AgusanDelSur(Esperanza, SanLuis, Talacogon, LaPaz, Loreto), #Bukidnon(SanFernando), #DavaoDelNorte(Talaingod, Kapalong, SantoTomas, Carmen, BraulioE.Dujali, CityOfPanabo, CityOfSamal), #DavaoDeOro(NewBataan, Nabunturan, Mawab, Maragusan, Pantukan), #DavaoOriental(Banaybanay, Lupon, CityOfMati, SanIsidro, GovernorGeneroso) and #Camiguin within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #SurigaoDelSur, #DinagatIslands, #SurigaoDelNorte(Claver, Gigaquit, Bacuag, Placer, Sison, TaganaAn, Socorro, SanFrancisco, SurigaoCity, SiargaoIsland), #AgusanDelNorte(CityOfCabadbaran, Santiago, Tubay, Jabonga), #AgusanDelSur(Sibagat, CityOfBayugan, Prosperidad, SanFrancisco, Rosario, Bunawan, Trento, Veruela, SantaJosefa), #DavaoOriental(Tarragona, Manay, Caraga, Baganga, Cateel, Boston), #DavaoDelNorte(Asuncion, SanIsidro, NewCorella, CityOfTagum), #DavaoDeOro(Laak, Monkayo, Montevista, Compostela, Maco and Mabini) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 AM Tomorrow.</description>
@@ -21,7 +21,7 @@
       <pubDate>Sun, 22 Nov 2026 15:03:39 +0000</pubDate>
       <guid isPermaLink="false">5ec525ca035d0510a67db7cecfb6d5e78819575d</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 15:03:39 +0000</ns1:seen>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 15:03:39 +0000</ns0:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 13 #MINPRSD</title>
@@ -110,14 +110,6 @@
       <guid isPermaLink="false">5e11bcb67e25ce48c0b27b78338ad613285871f8</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 21:03:41 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 12:30 AM 22 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #DinagatIslands(Basilisa, SanJose, Dinagat, Loreto), #SurigaoDelSur(CityOfTandag, Cortes, Madrid, Cagwait, Marihatag, Bayabas, Lanuza, Carmen, Tago), #SurigaoDelNorte(Socorro, SurigaoCity, Mainit, Tubod, Alegria, SanFrancisco, Malimono), #ZamboangaSibugay(Olutanga, Payao, Alicia), #MisamisOccidental(LopezJaena, OroquietaCity, Aloran, Panaon, Jimenez, Sinacaban, Plaridel, Baliangao, TangubCity, Bonifacio), #Sulu(Luuk, Omar, KalingalanCaluang), #ZamboangaDelNorte(DipologCity, Polanco, Piñan, Mutia, DapitanCity, LaLibertad, Rizal, Sibutad), #DavaoOccidental(Malita and DonMarcelino) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DinagatIslands(Libjo, Cagdianao, Tubajon), #SurigaoDelSur(Carrascal, Cantilan), #SurigaoDelNorte(Claver, Bacuag, Gigaquit, TaganaAn, Placer, Sison), #ZamboangaSibugay(Mabuhay, Talusan), #MisamisOccidental(OzamisCity, Clarin, Tudela, DonVictorianoChiongbian, Concepcion, Calamba, SapangDalaga), #Sulu(OldPanamao and PanglimaEstino) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sat, 21 Nov 2026 18:03:34 +0000</pubDate>
-      <guid isPermaLink="false">486969a2083bffbbd461d7abbbb2daaeec05d9cf</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 18:03:34 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
