@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sun, 22 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sun, 22 Nov 2026 03:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:07:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 AM 22 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Leyte, #SouthernLeyte, #Biliran, #EasternSamar, #Samar, #Cebu, #Bohol, #NegrosOriental, #NegrosOccidental, #Siquijor, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan and #OccidentalMindoro within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -169,22 +169,6 @@
       <guid isPermaLink="false">77279ff8a544faed51ab8ad8801a890c87a5cfe6</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 06:03:47 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 AM 21 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #OccidentalMindoro within 12 hours.</description>
-      <pubDate>Sat, 21 Nov 2026 03:07:40 +0000</pubDate>
-      <guid isPermaLink="false">2294895270816f0d960a7f8c793303dd58cb4c5e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 03:07:40 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 AM 21 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Leyte, #SouthernLeyte, #Biliran, #EasternSamar, #Samar, #Cebu, #Bohol, #NegrosOriental, #NegrosOccidental, #Siquijor, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz and #Aklan within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
-      <pubDate>Sat, 21 Nov 2026 03:07:39 +0000</pubDate>
-      <guid isPermaLink="false">e9c0c5f1acb19ce70b02723112653a8877bfd8ec</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Sat, 21 Nov 2026 03:07:40 +0000</ns3:seen>
     </item>
   </channel>
 </rss>
