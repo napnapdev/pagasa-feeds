@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 23 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 23 Nov 2026 15:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:15:39 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 14 #VISPRSD&lt;br /&gt; Issued at 09:50 PM 23 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Dalaguete, Badian, Moalboal, Alcantara, Ronda), #Samar(Motiong, Jiabong, CityOfCatbalogan, SantaRita, Gandara, SanJorge), #Leyte(TaclobanCity and Babatngon) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(Argao, Sibonga), #Samar(Paranas, Hinabangan, Basey, SanJoseDeBuan, Matuguinao, Marabut), #EasternSamar(CityOfBorongan), #NegrosOccidental(SalvadorBenedicto, SanCarlosCity and Calatrava) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -153,14 +153,6 @@
       <guid isPermaLink="false">515b6c86734f95f313154ae32740dbe52a4d3660</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 17:02:37 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 15 #VISPRSD&lt;br /&gt; Issued at 11:08 PM 22 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Aklan(Kalibo, Numancia), #Capiz(Dao, Pilar), #Iloilo(Sara), #Palawan(Balabac and Bataraza) within the next 30 minutes to an hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Tangalan, Ibajay, Makato, Banga, Lezo, NewWashington, Malinao, Balete), #Capiz(MaAyon, Pontevedra, Panitan, PresidentRoxas and Cuartero) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Sun, 22 Nov 2026 15:15:51 +0000</pubDate>
-      <guid isPermaLink="false">0bc5dde1b9f90b6926132cd8ef68923345b0729b</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 15:15:51 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
