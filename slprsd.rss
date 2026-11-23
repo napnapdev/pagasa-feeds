@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 23 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 23 Nov 2026 15:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:03:21 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
       <description>Thunderstorm Information #SLPRSD&lt;br /&gt; Issued at 09:20 PM 23 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #BicolRegion within 12 hours.</description>
@@ -90,22 +90,6 @@
       <guid isPermaLink="false">6aa8db813a0248496a1e306a58bd6674b5e12b72</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 21:03:39 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #SLPRSD&lt;br /&gt; Issued at 11:55 PM 22 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Masbate(Claveria, Monreal, SanFernando, SanJacinto and Batuan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sorsogon(Castilla, Pilar, Donsol, Magallanes, Bulan), #Albay(PioDuran and Jovellar) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 22 Nov 2026 17:02:37 +0000</pubDate>
-      <guid isPermaLink="false">b687172e80cdcdf13d4e5fcc7b3e9259424d5adc</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 17:02:37 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #SLPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #SLPRSD&lt;br /&gt; Issued at 10:45 PM 22 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #Sorsogon(PrietoDiaz, Gubat, Barcelona, Bulusan) and #Albay(RapuRapu) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sorsogon(Casiguran, Juban, CityOfSorsogon and Magallanes) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 22 Nov 2026 17:02:36 +0000</pubDate>
-      <guid isPermaLink="false">2a0d3eed56dc0a07cff1ca3c98d4137ccee98d0d</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 17:02:37 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
