@@ -5,8 +5,16 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/slprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
-    <pubDate>Mon, 23 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 23 Nov 2026 06:30:39 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 1 #SLPRSD</title>
+      <description>Rainfall Advisory No. 1 #SLPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 04:15 PM 23 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are expected over #Romblon and #Catanduanes within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Albay(Malilipot, Bacacay, RapuRapu, SantoDomingo, LegazpiCity, Daraga, Camalig, Manito), #Sorsogon, #NorthernSamar, #Masbate, #CamarinesSur(Siruma, Tinambac, Lagonoy, Garchitorena, Goa, Caramoan and Presentacion) which may persist within 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 05:00 PM Today.</description>
+      <pubDate>Mon, 23 Nov 2026 09:03:34 +0000</pubDate>
+      <guid isPermaLink="false">dacc81cf2649047b08a369d367f9f279cebd2f7e</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 09:03:34 +0000</ns0:seen>
+    </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 24 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_23Nov2026_1795393150.pdf</link>
@@ -14,7 +22,7 @@
       <pubDate>Mon, 23 Nov 2026 00:30:58 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09AM_23Nov2026_1795393150.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 00:30:58 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 00:30:58 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 09:00 AM, 24 November, 2026</title>
@@ -23,7 +31,7 @@
       <pubDate>Mon, 23 Nov 2026 00:30:57 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09AM_23Nov2026_1795393128.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 00:30:58 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 00:30:58 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 5 #SLPRSD</title>
