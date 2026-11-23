@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Mon, 23 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 23 Nov 2026 03:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:07:20 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 5 #MINPRSD</title>
+      <description>Rainfall Advisory No. 5 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 11:00 AM 23 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rains are expected over #SurigaoDelNorte(SiargaoIsland), #AgusanDelNorte(Nasipit, Magallanes, RemediosT.Romualdez, Carmen, CityOfCabadbaran, Santiago, Tubay, Jabonga, Kitcharao), #DavaoDelSur, #Bukidnon(ImpasugOng, CityOfMalaybalay, Cabanglasan, SanFernando, Malitbog, Lantapan, CityOfValencia, Sumilao, ManoloFortich, Maramag, Quezon, DonCarlos, Kitaotao, Dangcagan, Kibawe, Damulog, Talakag, Libona, Baungon, Kadingilan), #SurigaoDelSur(Lingig, CityOfBislig, Tagbina, CityOfTandag, Lanuza, Cortes, Barobo, Hinatuan), #AgusanDelSur(SantaJosefa, Veruela, Trento, Loreto, Bunawan, LaPaz, Rosario, CityOfBayugan, Esperanza, SanLuis, Talacogon, Prosperidad, SanFrancisco), #MisamisOriental(GingoogCity, Claveria, Magsaysay, Balingasag, Jasaan, Lagonglong, Salay, CagayanDeOroCity, Medina, Talisayan, Balingoan, Kinoguitan, Sugbongcogon, Binuangan, Villanueva, Tagoloan, Opol), #DavaoOccidental(DonMarcelino, Malita, SantaMaria), #Sarangani(Malungon, Alabel, Malapatan, Kiamba, Maasim, Maitum), #DavaoOriental, #LanaoDelSur(MarawiCity, Marantao, DitsaanRamain, Balindong, Piagapo, Saguiaran), #LanaoDelNorte(Pantar, Baloi, PantaoRagat), #Camiguin, #DavaoDelNorte, #DavaoDeOro, #SouthCotabato(Polomolok, GeneralSantosCity, T'Boli), #Sulu(Pandami, Siasi, Lugus, Tapul, Pata, KalingalanCaluang, Maimbung, Parang, Omar, PanglimaEstino, Talipao, Luuk, OldPanamao, Indanan, Jolo, Patikul, HadjiPanglimaTahil, Pangutaran), #TawiTawi(SouthUbian), #ZamboangaSibugay(Naga, Ipil, Titay, Kabasalan, Siay, RosellerLim), #ZamboangaDelNorte(Baliguian, Gutalac, Kalawit, Siocon, JoseDalman, Sindangan), #CotabatoCity, #MaguindanaoDelNorte, #MaguindanaoDelSur, #NorthCotabato(Pikit, Midsayap, Aleosan, Libungan, Pigkawayan, Carmen, Banisilan, Alamada) and #DavaoCity within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rains are being experienced in #DinagatIslands, #SurigaoDelNorte(Alegria, Claver, Gigaquit, Tubod, Mainit, Bacuag, Malimono, Placer, Sison, TaganaAn, Socorro, SanFrancisco, SurigaoCity), #AgusanDelNorte(LasNieves, Buenavista, ButuanCity), #SurigaoDelSur(Lianga, SanAgustin, Marihatag, Cagwait, Bayabas, SanMiguel, Tago, Carmen, Madrid, Cantilan, Carrascal), #AgusanDelSur(Sibagat), #DavaoOccidental(Sarangani, JoseAbadSantos) and #Sarangani(Glan) which may persist within 2-3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.</description>
+      <pubDate>Mon, 23 Nov 2026 03:07:35 +0000</pubDate>
+      <guid isPermaLink="false">49bd11d5ed7a1470544f97fa823dd3c4b2fa7b5c</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 03:07:35 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 23 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #MisamisOccidental, #MisamisOriental, #Camiguin, #LanaoDelNorte and #Bukidnon within 12 hours.</description>
       <pubDate>Mon, 23 Nov 2026 03:01:40 +0000</pubDate>
       <guid isPermaLink="false">1805760864bd9a38167f469b51eb2c59d2cd314e</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 03:01:40 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 03:01:40 +0000</ns1:seen>
     </item>
     <item>
       <title>Rainfall Advisory No. 4 #MINPRSD</title>
@@ -94,22 +102,6 @@
       <guid isPermaLink="false">1c13507280009f35da6398707e3c5c2769bb9846</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 06:03:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:25 AM 22 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #MisamisOccidental, #MisamisOriental, #Camiguin, #LanaoDelNorte and #Bukidnon within 12 hours.</description>
-      <pubDate>Sun, 22 Nov 2026 03:03:40 +0000</pubDate>
-      <guid isPermaLink="false">ac27b675bff83a113da9d9d51ae1da788c24277e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 03:03:40 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 7 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 7 #MINPRSD&lt;br /&gt; Issued at 10:40 AM 22 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(Hinatuan, CityOfBislig, Lingig, Carrascal, SanAgustin), #AgusanDelSur(Trento, Bunawan, Veruela, SantaJosefa), #DavaoOriental(Boston, Cateel) and #SurigaoDelNorte(Claver) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DavaoOriental(Baganga) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Sun, 22 Nov 2026 03:03:39 +0000</pubDate>
-      <guid isPermaLink="false">276c2e0661d583d1aa75fbbcaf30b3cd4907aea3</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sun, 22 Nov 2026 03:03:40 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
