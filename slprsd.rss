@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA SLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 24 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 24 Nov 2026 15:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:07:37 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #SLPRSD</title>
       <description>Thunderstorm Watch #SLPRSD&lt;br /&gt; Issued at 09:00 PM 24 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #BicolRegion within 12 hours.&lt;br /&gt; &lt;br /&gt; The public is advised to continue monitoring for updates.</description>
@@ -74,32 +74,6 @@
       <guid isPermaLink="false">fe83d83f4d9675f1a6f1320a89d6e388c93d1d55</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 21:03:36 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 PM, 24 November, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_23Nov2026_1795437018.pdf</link>
-      <description>Issued at: 09:00 PM, 23 November, 2026&lt;br /&gt;Valid until: 09:00 PM, 24 November, 2026</description>
-      <pubDate>Mon, 23 Nov 2026 15:03:48 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Bulusan_09PM_23Nov2026_1795437018.pdf</guid>
-      <category>Special Forecast</category>
-      <ns3:seen xmlns:ns3="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 15:03:48 +0000</ns3:seen>
-    </item>
-    <item>
-      <title>Special Forecast: Valid until: 09:00 PM, 24 November, 2026</title>
-      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_23Nov2026_1795436961.pdf</link>
-      <description>Issued at: 09:00 PM, 23 November, 2026&lt;br /&gt;Valid until: 09:00 PM, 24 November, 2026</description>
-      <pubDate>Mon, 23 Nov 2026 15:03:47 +0000</pubDate>
-      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/southern-luzon/special-forecasts/WF for Mayon_09PM_23Nov2026_1795436961.pdf</guid>
-      <category>Special Forecast</category>
-      <ns4:seen xmlns:ns4="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 15:03:48 +0000</ns4:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #SLPRSD</title>
-      <description>Thunderstorm Information #SLPRSD&lt;br /&gt; Issued at 09:20 PM 23 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #BicolRegion within 12 hours.</description>
-      <pubDate>Mon, 23 Nov 2026 15:03:46 +0000</pubDate>
-      <guid isPermaLink="false">304735e110ea8a721aab9c73b88c28cca133e215</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 15:03:48 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
