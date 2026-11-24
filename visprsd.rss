@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 24 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 24 Nov 2026 06:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:07:20 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 AM 24 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Leyte, #SouthernLeyte, #Biliran, #EasternSamar, #Samar, #Cebu, #Bohol, #NegrosOriental, #NegrosOccidental, #Siquijor, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan and #OccidentalMindoro within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -121,14 +121,6 @@
       <guid isPermaLink="false">2e699c1e1ffe93f8c341dd3172deab8da19e8f24</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 09:03:34 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 8 #VISPRSD&lt;br /&gt; Issued at 11:33 AM 23 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Medellin, Daanbantayan, Pilar, Tudela, Poro, SanFrancisco, CityOfBogo, Tabogon and SanRemigio) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(Inopacan, CityOfBaybay, Hindang, Merida, Villaba, Isabel, OrmocCity, Palompon, Tabango, Albuera, Hilongos, Burauen and MatagOb) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Mon, 23 Nov 2026 06:03:45 +0000</pubDate>
-      <guid isPermaLink="false">028805d02a6cf25080dd4790b12e1dc819ccbe2a</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 06:03:45 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
