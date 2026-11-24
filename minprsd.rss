@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 24 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 24 Nov 2026 00:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:03:20 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 24 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #MisamisOccidental, #MisamisOriental, #Camiguin, #LanaoDelNorte and #Bukidnon within 12 hours.</description>
+      <pubDate>Tue, 24 Nov 2026 03:03:33 +0000</pubDate>
+      <guid isPermaLink="false">25193e30defc7e5fdab9763abbf502cde2cd9e61</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 24 Nov 2026 03:03:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 12 #MINPRSD</title>
       <description>Rainfall Advisory No. 12 #MINPRSD&lt;br /&gt; Weather System: Intertropical Convergence Zone (ITCZ) &lt;br /&gt; Issued at 08:00 AM 24 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rains are expected over #ZamboangaDelNorte(Sibuco), #Sulu, #TawiTawi, #Basilan and #ZamboangaCity within the next 2-3 hours.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.</description>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">49bd11d5ed7a1470544f97fa823dd3c4b2fa7b5c</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 03:07:35 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 AM 23 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #MisamisOccidental, #MisamisOriental, #Camiguin, #LanaoDelNorte and #Bukidnon within 12 hours.</description>
-      <pubDate>Mon, 23 Nov 2026 03:01:40 +0000</pubDate>
-      <guid isPermaLink="false">1805760864bd9a38167f469b51eb2c59d2cd314e</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 03:01:40 +0000</ns1:seen>
     </item>
   </channel>
 </rss>

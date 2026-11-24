@@ -6,7 +6,15 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 24 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Tue, 24 Nov 2026 00:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:03:19 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 44 #NLPRSD</title>
+      <description>Rainfall Advisory No. 44 #NLPRSD&lt;br /&gt; Weather System: Shear Line / NE Monsoon &lt;br /&gt; Issued at 11:00 AM 24 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Cagayan(Peñablanca, Baggao, Gattaran, LalLo, Gonzaga, SantaAna, SantaTeresita, TuguegaraoCity, Iguig, Calayan), #Isabela(Angadanan, BenitoSoliven, Cabagan, Divilacan, IlaganCity, Maconacon, Naguilian, SanGuillermo, SanPablo, Tumauini, CityOfCauayan, Gamu, SantaMaria, SantoTomas, DelfinAlbano, Mallig, Quirino, Roxas, Burgos, Luna, ReinaMercedes, SanManuel, Aurora, Cabatuan), #Aurora(Casiguran and Dilasag) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Dinapigue, Palanan, SanMariano and Quezon) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 02:00 PM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Tue, 24 Nov 2026 03:03:33 +0000</pubDate>
+      <guid isPermaLink="false">9b1de97d4a5cfeb23ddcc5ebdfa2f57a266d3488</guid>
+      <category>Rainfall Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 24 Nov 2026 03:03:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Rainfall Advisory No. 43 #NLPRSD</title>
       <description>Rainfall Advisory No. 43 #NLPRSD&lt;br /&gt; Weather System: Shear Line / NE Monsoon &lt;br /&gt; Issued at 08:00 AM 24 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to at times Heavy rains are expected over #Cagayan(Peñablanca, Baggao, Gattaran, LalLo, SantaAna, Gonzaga, TuguegaraoCity, Iguig, Enrile, Amulung, Piat, Solana, Tuao, Calayan, SantaTeresita, Buguey), #Isabela(BenitoSoliven, Cabagan, Cordon, Divilacan, Echague, Gamu, IlaganCity, Maconacon, DelfinAlbano, Mallig, Naguilian, Quezon, Quirino, Ramon, SanAgustin, SanGuillermo, SanIsidro, SanMariano, SanPablo, SantaMaria, CityOfSantiago, SantoTomas, Tumauini, Jones), #NuevaVizcaya(Bagabag, Diadi, Ambaguio, Solano, Villaverde), #Ifugao(Banaue, Hungduan, Kiangan, Lagawe, Mayoyao, AlfonsoLista, Aguinaldo, Hingyon), #MountainProvince, #Benguet(Kabayan, Mankayan, Bakun, Kibungan, Atok, Kapangan), #Kalinga, #Apayao(Conner), #Abra(Malibcong, Lacub, LicuanBaay, Daguioman, Tineg), #Aurora(Dilasag, Casiguran, Dingalan), #Quirino(Maddela, Diffun, Saguday, Aglipay and Cabarroguis) within the next 2 to 3 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Isabela(Alicia, Angadanan, Aurora, Burgos, Cabatuan, CityOfCauayan, Dinapigue, Luna, Palanan, Roxas, SanManuel, SanMateo, ReinaMercedes), #Ifugao(Lamut, Tinoc, Asipulo) and #Benguet(Buguias) which may persist within 2 to 3 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 11:00 AM Today.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides, mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
@@ -71,14 +79,6 @@
       <guid isPermaLink="false">573cb8b43b0c6b8452b8aaadc7307a80173ce810</guid>
       <category>Rainfall Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 06:15:46 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #NLPRSD</title>
-      <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 23 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Aurora and #IlocosNorte within 12 hours.</description>
-      <pubDate>Mon, 23 Nov 2026 03:01:40 +0000</pubDate>
-      <guid isPermaLink="false">a873c4821a05ea93e7499d2d366762640006eb2c</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 03:01:40 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
