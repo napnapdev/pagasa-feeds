@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Tue, 24 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Mon, 23 Nov 2026 23:58:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:03:19 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 05:00 AM, 25 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_Alegria_Cebu_11242026_1795466513.pdf</link>
@@ -137,14 +137,6 @@
       <guid isPermaLink="false">4623a70aead18f4c4685ab53720c7756fde828f2</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 03:01:41 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 07:32 AM 23 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(SanDionisio, Ajuy), #Bohol(Bilar and Valencia) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Iloilo(Concepcion), #SouthernLeyte(Limasawa), #Bohol(Loboc, Lila, Dimiao and Sevilla) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Mon, 23 Nov 2026 00:03:32 +0000</pubDate>
-      <guid isPermaLink="false">2fac68aa6f056fdd3972beed0fc5275d7c4f23e2</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Mon, 23 Nov 2026 00:03:32 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
