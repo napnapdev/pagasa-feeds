@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 25 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 25 Nov 2026 03:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 03:07:19 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory #MINPRSD</title>
+      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 11:00 AM 25 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #MisamisOccidental, #MisamisOriental, #Camiguin, #LanaoDelNorte and #Bukidnon within 12 hours.</description>
+      <pubDate>Wed, 25 Nov 2026 03:07:33 +0000</pubDate>
+      <guid isPermaLink="false">47cfc9727490f1c89de532fb2fa3c691f9642c19</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 03:07:33 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 3 #MINPRSD</title>
       <description>Thunderstorm Advisory No. 3 #MINPRSD&lt;br /&gt; Issued at 10:30 AM 25 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #SurigaoDelSur(Barobo, Tagbina, Cortes, CityOfTandag, Carrascal, Cantilan, Madrid, Lianga, SanMiguel), #SurigaoDelNorte(Malimono, Mainit, Tubod, Bacuag, Alegria, Gigaquit, Claver, Socorro), #DinagatIslands(SanJose, Basilisa, Cagdianao, Dinagat), #AgusanDelSur(Sibagat, CityOfBayugan, SanFrancisco, Rosario, Prosperidad) and #DavaoOriental(Boston) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DavaoOriental(Cateel), #SurigaoDelNorte(SurigaoCity, TaganaAn, Placer, SanFrancisco, Sison, SiargaoIsland), #DinagatIslands(Libjo, Tubajon, Loreto), #SurigaoDelSur(Lanuza and Carmen) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
       <pubDate>Wed, 25 Nov 2026 03:03:41 +0000</pubDate>
       <guid isPermaLink="false">b9fd8959068a02a05b24e8b75ce6edb8ff3cc88f</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 03:03:41 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 03:03:41 +0000</ns1:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
@@ -21,7 +29,7 @@
       <pubDate>Wed, 25 Nov 2026 03:03:40 +0000</pubDate>
       <guid isPermaLink="false">3c0e93bc00240bf73a2f67e93c36395ef36b94c3</guid>
       <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 03:03:41 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 03:03:41 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
