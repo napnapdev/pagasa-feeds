@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Wed, 25 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Wed, 25 Nov 2026 15:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:30:51 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 25 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
@@ -110,14 +110,6 @@
       <guid isPermaLink="false">402893672e4950b5cd6281e1a3b7127beb433148</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Tue, 24 Nov 2026 18:03:48 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 6 #MINPRSD&lt;br /&gt; Issued at 11:30 PM 24 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #ZamboangaDelNorte(Sibuco, Sirawai, Siocon), #ZamboangaCity and #ZamboangaSibugay(Tungawan) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Tue, 24 Nov 2026 15:31:02 +0000</pubDate>
-      <guid isPermaLink="false">b9b9ce63bb74355222ec83bfaed4380802d950dc</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Tue, 24 Nov 2026 15:31:02 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
