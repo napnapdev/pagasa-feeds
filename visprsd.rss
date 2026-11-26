@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 26 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2026 12:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:15:38 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 12 #VISPRSD&lt;br /&gt; Issued at 04:11 PM 26 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #NegrosOccidental(CityOfSipalay) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -186,14 +186,6 @@
       <guid isPermaLink="false">18bc2cb5125863bb0f5223eef1edbbb3c7e42ea4</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 13:35:03 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 16 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 16 #VISPRSD&lt;br /&gt; Issued at 07:15 PM 25 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(RoxasCity, Panitan and PresidentRoxas) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Capiz(Panay, Pontevedra), #NegrosOccidental(Calatrava, SalvadorBenedicto and SanCarlosCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 25 Nov 2026 12:15:52 +0000</pubDate>
-      <guid isPermaLink="false">6847af98d05f7ad517b3ceca84e7968aceca09c5</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 12:15:52 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
