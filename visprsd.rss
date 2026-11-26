@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 26 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2026 12:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:07:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 12 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 12 #VISPRSD&lt;br /&gt; Issued at 04:11 PM 26 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #NegrosOccidental(CityOfSipalay) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -194,22 +194,6 @@
       <guid isPermaLink="false">6847af98d05f7ad517b3ceca84e7968aceca09c5</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 12:15:52 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 15 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 15 #VISPRSD&lt;br /&gt; Issued at 07:10 PM 25 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(SanRemigio, Tabuelan, Borbon), #NegrosOccidental(Ilog) and #Iloilo(SanJoaquin) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Cebu(CityOfBogo, Tabogon), #NegrosOccidental(SagayCity, BagoCity, Pulupandan, Valladolid, Hinigaran, Binalbagan, CityOfHimamaylan, CityOfKabankalan, Cauayan), #Iloilo(Miagao, Cabatuan, SantaBarbara, SanMiguel and Oton) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 25 Nov 2026 12:03:44 +0000</pubDate>
-      <guid isPermaLink="false">11df76aa35cd75e6e2ca225fd8578548e161f162</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 12:03:44 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 14 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 14 #VISPRSD&lt;br /&gt; Issued at 05:21 PM 25 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Capiz(Jamindan), #Iloilo(Pavia and IloiloCity) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Antique(Culasi), #Aklan(Madalag, Libacao), #Iloilo(SantaBarbara, Leganes), #NegrosOccidental(CityOfSipalay and HinobaAn) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 25 Nov 2026 12:03:43 +0000</pubDate>
-      <guid isPermaLink="false">170e4388bc2a6561c6b8648db7e8de397d55795f</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 12:03:44 +0000</ns2:seen>
     </item>
   </channel>
 </rss>

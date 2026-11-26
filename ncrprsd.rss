@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 26 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2026 12:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:07:29 +0000</lastBuildDate>
     <item>
       <title>Rainfall Advisory No. 4 #NCRPRSD</title>
       <description>Rainfall Advisory No. 4-Final #NCR_PRSD&lt;br /&gt; Weather System: Easterlies&lt;br /&gt; Issued at: 8:00 PM, 26 November 2026(Thursday)&lt;br /&gt; &lt;br /&gt; All Rainfall Advisory over NCR-PRSD forecast area are now TERMINATED.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
@@ -62,14 +62,6 @@
       <guid isPermaLink="false">aa2da8cc7cc6ca77d6043efd8b097787e92d6a2a</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 13:35:03 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #NCRPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #NCR_PRSD&lt;br /&gt; Issued at: 6:40 PM, 25 November 2026(Wednesday)&lt;br /&gt; &lt;br /&gt; Moderate to heavy rainshowers with lightning and strong winds are expected over Batangas (Tingloy, Mabini, Bauan, San Luis, Taal, Lemery, Calaca, Balayan, Lian, San Pascual, Alitagtag, Santa Teresita, San Nicolas, Agoncillo, Tuy, and Nasugbu) within the next 2 hours.&lt;br /&gt; &lt;br /&gt; The above condition is affecting Batangas (Calatagan) which may persist within 2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 25 Nov 2026 12:03:44 +0000</pubDate>
-      <guid isPermaLink="false">6bc45394089f8b56c957ab12f440cf3b5e434deb</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 12:03:44 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>
