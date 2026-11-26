@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 26 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2026 14:17:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:03:18 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Information #MINPRSD&lt;br /&gt; Issued at 10:00 PM 26 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 6 hours.</description>
@@ -94,22 +94,6 @@
       <guid isPermaLink="false">9ddb1ebcaf1a546b8f5e6814e1ec67d530f1a1da</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 18:03:38 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #MINPRSD</title>
-      <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 10:00 PM 25 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
-      <pubDate>Wed, 25 Nov 2026 15:03:36 +0000</pubDate>
-      <guid isPermaLink="false">4895a8cc961c79f98469b25edcd633133cf7d476</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 15:03:36 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 10 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 10 #MINPRSD&lt;br /&gt; Issued at 10:00 PM 25 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #TawiTawi(TurtleIslands), #MisamisOccidental(Bonifacio, DonVictorianoChiongbian, Concepcion, TangubCity, OzamisCity, Clarin, Tudela, Sinacaban, Jimenez, Aloran, Panaon), #ZamboangaDelNorte(Mutia, LaLibertad, DipologCity, Polanco, Piñan, SergioOsmeñaSr., Katipunan), #DavaoCity, #SurigaoDelNorte(Sison), #ZamboangaDelSur(Josefina, Molave, Mahayag, Tambulig), #LanaoDelNorte(Maigo, Kolambugan, Tubod, Baroy, Magsaysay, Tangcal, Munai, Salvador, Bacolod, Kauswagan, PoonaPiagapo and Lala) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Wed, 25 Nov 2026 15:03:35 +0000</pubDate>
-      <guid isPermaLink="false">626e9c95297d5b1134fcab87fb920b3abf5687db</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 15:03:36 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
