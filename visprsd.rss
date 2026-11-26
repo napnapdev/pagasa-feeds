@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Thu, 26 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2026 06:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:07:17 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory No. 11 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 11 #VISPRSD&lt;br /&gt; Issued at 01:22 PM 26 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Samar(CalbayogCity) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -226,22 +226,6 @@
       <guid isPermaLink="false">696f2b5e14c279603522629179c722c34d4f44b9</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 09:03:53 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 10 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 10 #VISPRSD&lt;br /&gt; Issued at 12:35 PM 25 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Bohol(Dauis, Loay, Loboc, Balilihan, Batuan, Alburquerque, Baclayon, Tubigon, Calape, Loon, Antequera, SanIsidro, Catigbian and Clarin) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Bohol(Maribojoc, Cortes, TagbilaranCity, Corella, Sikatuna, Sevilla, Bilar, Carmen, Sagbayan) and #Cebu(Aloguinsan) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 25 Nov 2026 06:03:47 +0000</pubDate>
-      <guid isPermaLink="false">2dd437cbf89c73b5372baa3042a950bb6aafc793</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 06:03:47 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 9 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 9 #VISPRSD&lt;br /&gt; Issued at 12:10 PM 25 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are being experienced in #Palawan(Quezon, SofronioEspanola, Balabac, Bataraza, Rizal and Brooke'sPoint) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Wed, 25 Nov 2026 06:03:46 +0000</pubDate>
-      <guid isPermaLink="false">0293475cca65fadb0aeb829de8a55bc1637b4374</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Wed, 25 Nov 2026 06:03:47 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
