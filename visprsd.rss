@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 27 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 27 Nov 2026 12:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:53:12 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 7 #VISPRSD</title>
+      <description>Thunderstorm Advisory No. 7 #VISPRSD&lt;br /&gt; Issued at 10:22 PM 27 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Leyte(Javier, CityOfBaybay, Albuera), #Aklan(Batan, Altavas), #Capiz(Jamindan, Dumalag, Tapaz) and #Iloilo(Bingawan) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Leyte(Burauen, LaPaz, Macarthur), #SouthernLeyte(Libagon, SaintBernard), #EasternSamar(Salcedo, Llorente, CityOfBorongan), #Capiz(Panay, RoxasCity, Ivisan, SapiAn, Sigma, Mambusao, Dao, Panitan, Cuartero, Dumarao, MaAyon, Pontevedra) and #Iloilo(CityOfPassi) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
+      <pubDate>Fri, 27 Nov 2026 14:53:44 +0000</pubDate>
+      <guid isPermaLink="false">abe79c308f06ca8d5daf68c0083e0bc24ae0220d</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 27 Nov 2026 14:53:44 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 PM 27 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #OccidentalMindoro, #Cebu, #Bohol, #Siquijor, #NegrosOriental, #NegrosOccidental, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar, #Samar and #Palawan within 12 hours.</description>
+      <pubDate>Fri, 27 Nov 2026 14:53:43 +0000</pubDate>
+      <guid isPermaLink="false">ae122f63b83cff2d50aa93bbf67c646333c17624</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 27 Nov 2026 14:53:44 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory No. 6 #VISPRSD</title>
       <description>Thunderstorm Advisory No. 6 #VISPRSD&lt;br /&gt; Issued at 04:48 PM 27 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Cebu(Daanbantayan and Medellin) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Palawan(Quezon) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
@@ -114,14 +130,6 @@
       <guid isPermaLink="false">ea7292ddc5c8615a3fbbd66aa6d9d7846db074c6</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 15:31:01 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory #VISPRSD</title>
-      <description>Thunderstorm Watch #VISPRSD&lt;br /&gt; Issued at 10:00 PM 26 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Leyte, #SouthernLeyte, #Biliran, #EasternSamar, #Samar, #Cebu, #Bohol, #NegrosOriental, #NegrosOccidental, #Siquijor, #Palawan, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan and #OccidentalMindoro within 12 hours.&lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
-      <pubDate>Thu, 26 Nov 2026 14:17:33 +0000</pubDate>
-      <guid isPermaLink="false">37cae3fe8441d1351c3715360c21063ba7997c32</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 14:17:33 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
