@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NCRPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 27 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 27 Nov 2026 09:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:03:23 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NCRPRSD</title>
       <description>Thunderstorm Watch #NCR_PRSD&lt;br /&gt; Issued at: 10:00 AM, 27 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over Greater Metro Manila Area(Metro Manila, Bulacan, Rizal, Laguna and Cavite) within 12 hours. &lt;br /&gt; &lt;br /&gt; All are advised to continue monitoring for updates.</description>
@@ -22,14 +22,6 @@
       <guid isPermaLink="false">254ed478c677f818410bfdb39d3238d8684e299d</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 14:17:33 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Rainfall Advisory No. 4 #NCRPRSD</title>
-      <description>Rainfall Advisory No. 4-Final #NCR_PRSD&lt;br /&gt; Weather System: Easterlies&lt;br /&gt; Issued at: 8:00 PM, 26 November 2026(Thursday)&lt;br /&gt; &lt;br /&gt; All Rainfall Advisory over NCR-PRSD forecast area are now TERMINATED.&lt;br /&gt; The public and the Disaster Risk Reduction and Management Offices concerned are still advised to MONITOR the weather condition.&lt;br /&gt; For more information and queries, please call telephone numbers 8927-1335 and 8927-2877 or log on to www.pagasa.dost.gov.ph.</description>
-      <pubDate>Thu, 26 Nov 2026 12:03:38 +0000</pubDate>
-      <guid isPermaLink="false">06cfcb51b72869d613e78535d89fe0c17b48af28</guid>
-      <category>Rainfall Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 12:03:38 +0000</ns0:seen>
     </item>
     <item>
       <title>Special Forecast: SPECIAL FORECAST FOR TAAL VOLCANO</title>

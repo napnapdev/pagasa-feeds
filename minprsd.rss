@@ -6,7 +6,23 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 27 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 27 Nov 2026 09:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 2 FINAL #MINPRSD&lt;br /&gt; Issued at 07:45 PM 27 November 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 27 Nov 2026 12:03:42 +0000</pubDate>
+      <guid isPermaLink="false">432c8713eb1b50aad961913be26e19a6653a94e7</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 27 Nov 2026 12:03:42 +0000</ns0:seen>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 05:45 PM 27 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #MisamisOriental(Salay, Kinoguitan, Binuangan, Sugbongcogon, Balingoan, Talisayan, Medina, GingoogCity, Claveria, Lagonglong, Balingasag, Magsaysay), #Camiguin(Sagay, Guinsiliban, Mahinog), #DavaoOriental(SanIsidro, CityOfMati, Lupon, Banaybanay and Tarragona) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are being experienced in #DavaoCity which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Fri, 27 Nov 2026 12:03:41 +0000</pubDate>
+      <guid isPermaLink="false">9ff5b626b6aa12ab19846e546f6473eec2af70d8</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 27 Nov 2026 12:03:42 +0000</ns1:seen>
+    </item>
     <item>
       <title>Special Forecast: Valid until: 03:52 PM, 28 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LILOY-11272026_1795766021.pdf</link>
@@ -14,7 +30,7 @@
       <pubDate>Fri, 27 Nov 2026 09:03:42 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LILOY-11272026_1795766021.pdf</guid>
       <category>Special Forecast</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 27 Nov 2026 09:03:42 +0000</ns0:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 27 Nov 2026 09:03:42 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
@@ -31,14 +47,6 @@
       <guid isPermaLink="false">b522059677f5d1537923409dac275fc28260e0cd</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 14:17:33 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 8 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 8 FINAL #MINPRSD&lt;br /&gt; Issued at 06:00 PM 26 November 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 26 Nov 2026 12:03:38 +0000</pubDate>
-      <guid isPermaLink="false">604c68397190be9926d636e327004342c7a97311</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 12:03:38 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
