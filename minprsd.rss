@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 27 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 27 Nov 2026 06:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:07:17 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Information #MINPRSD&lt;br /&gt; Issued at 10:00 AM 27 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #MisamisOccidental, #MisamisOriental, #Bukidnon, #Camiguin and #LanaoDelNorte within 6 hours.</description>
@@ -38,22 +38,6 @@
       <guid isPermaLink="false">4b187b38da73cc559d91db9b7fa7e6a2ab75e76f</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 09:03:42 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 6 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 6 #MINPRSD&lt;br /&gt; Issued at 01:45 PM 26 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are expected over #ZamboangaSibugay(Titay, Payao), #ZamboangaDelNorte(Tampilisan, Sindangan, Sibuco), #Sulu(Patikul, Talipao), #TawiTawi(Languyan, PanglimaSugala, Bongao, SapaSapa), #SultanKudarat(Kalamansig, Palimbang), #LanaoDelSur(Picong, Malabang, Balabagan, Kapatagan, Marogong and Calanogas) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #ZamboangaSibugay(Kabasalan, Ipil, Naga), #Sulu(Indanan, Parang, Jolo, Maimbung), #ZamboangaCity and #TawiTawi(Tandubas) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 26 Nov 2026 06:03:36 +0000</pubDate>
-      <guid isPermaLink="false">6ae1582f69fb3567a6d87fe230643528465f08a7</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 06:03:36 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 5 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 5 #MINPRSD&lt;br /&gt; Issued at 12:38 PM 26 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #ZamboangaSibugay(Kabasalan, Ipil, Naga, Titay), #ZamboangaDelNorte(Tampilisan, Sindangan), #Sulu(Patikul, Talipao), #TawiTawi(PanglimaSugala and Bongao) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Sulu(Indanan, Parang, Jolo, Maimbung) and #TawiTawi(Languyan) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 26 Nov 2026 06:03:35 +0000</pubDate>
-      <guid isPermaLink="false">9238803af857d1fb7c6cbbc56b00db5373563c23</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 06:03:36 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
