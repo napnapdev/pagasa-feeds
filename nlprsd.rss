@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA NLPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 27 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Fri, 27 Nov 2026 06:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:30:39 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #NLPRSD</title>
       <description>Thunderstorm Watch #NLPRSD&lt;br /&gt; Issued at 10:00 AM 27 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #Aurora, #IlocosNorte and #Cagayan within 12 hours.</description>
@@ -38,14 +38,6 @@
       <guid isPermaLink="false">b20a131bf16400f6cad8922923c8a272bf0a04ba</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 09:03:42 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #NLPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #NLPRSD&lt;br /&gt; Issued at 02:06 PM 26 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to occasionally Heavy rainshowers with lightning and strong winds are expected over #Benguet(Atok, Bakun, Buguias, Kabayan, Kapangan, Kibungan, Mankayan, Sablan, BaguioCity), #IlocosSur(Cervantes, Quirino, Sugpon, Alilem), #MountainProvince(Sabangan, Bauko, Tadian, Besao, Sagada, Bontoc, Sadanga) and #Abra(Tubo) within the next 30 mins to 1 hour.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Benguet(Tublay and LaTrinidad) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards. Residents along mountain slope are advised for possible landslides mudslides, rockslides and flash flood.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 26 Nov 2026 06:30:53 +0000</pubDate>
-      <guid isPermaLink="false">552facf43f0c26aeb46dd14617e32027c34a44a5</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 06:30:53 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
