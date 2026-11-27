@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Fri, 27 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2026 23:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:03:19 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Information #MINPRSD&lt;br /&gt; Issued at 10:00 PM 26 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 6 hours.</description>
@@ -70,14 +70,6 @@
       <guid isPermaLink="false">a81dda7a25520de3b24c914fe137437b784b5b73</guid>
       <category>Thunderstorm Advisory</category>
       <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 03:03:38 +0000</ns2:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 2 #MINPRSD&lt;br /&gt; Issued at 07:00 AM 26 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are expected over #MisamisOccidental(Plaridel, LopezJaena, OroquietaCity, Aloran, Panaon, Jimenez, Sinacaban, Tudela, Clarin, OzamisCity), #SurigaoDelNorte(Alegria, Claver, Gigaquit, Tubod, Mainit, Bacuag, Malimono, Placer, Sison, Socorro, SanFrancisco), #ZamboangaSibugay(Mabuhay, Talusan, Olutanga), #Basilan(Akbar, Tuburan, HadjiMohammadAjul) and #Camiguin within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Moderate to occasionally heavy rainshowers with lightning and strong winds are being experienced in #ZamboangaDelNorte(Polanco, Piñan, DapitanCity, Sibutad, Rizal, LaLibertad, Mutia, DipologCity, Katipunan, Pres.ManuelA.Roxas), #MisamisOccidental(Calamba, Baliangao, SapangDalaga, Concepcion), #DinagatIslands, #SurigaoDelNorte(TaganaAn, SurigaoCity, SiargaoIsland), #SurigaoDelSur(Cantilan, Carrascal and Madrid) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Thu, 26 Nov 2026 00:03:33 +0000</pubDate>
-      <guid isPermaLink="false">3cfb9c1a4f584bc7f64a872d7485cacf97324d76</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Thu, 26 Nov 2026 00:03:33 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
