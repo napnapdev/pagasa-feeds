@@ -6,7 +6,16 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 28 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 28 Nov 2026 03:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:46:30 +0000</lastBuildDate>
+    <item>
+      <title>Special Forecast: Valid until: 11:36 AM, 29 November, 2026</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-TAGOLOAN-11282026_1795837039.pdf</link>
+      <description>Issued at: 11:36 AM, 28 November, 2026&lt;br /&gt;Valid until: 11:36 AM, 29 November, 2026</description>
+      <pubDate>Sat, 28 Nov 2026 04:46:41 +0000</pubDate>
+      <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-TAGOLOAN-11282026_1795837039.pdf</guid>
+      <category>Special Forecast</category>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 28 Nov 2026 04:46:41 +0000</ns1:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:25 AM 28 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro, #DavaoCity, #MisamisOccidental, #MisamisOriental, #Camiguin, #Bukidnon and #LanaoDelNorte within 12 hours.</description>
@@ -38,7 +47,7 @@
       <pubDate>Fri, 27 Nov 2026 09:03:42 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-LILOY-11272026_1795766021.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 27 Nov 2026 09:03:42 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Fri, 27 Nov 2026 09:03:42 +0000</ns2:seen>
     </item>
   </channel>
 </rss>
