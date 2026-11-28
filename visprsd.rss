@@ -6,7 +6,7 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 28 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 28 Nov 2026 06:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:15:28 +0000</lastBuildDate>
     <item>
       <title>Thunderstorm Advisory #VISPRSD</title>
       <description>Thunderstorm Information #VISPRSD&lt;br /&gt; Issued at 10:00 AM 28 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is LESS LIKELY to develop over #OccidentalMindoro, #Cebu, #Bohol, #Siquijor, #NegrosOriental, #NegrosOccidental, #Iloilo, #Guimaras, #Antique, #Capiz, #Aklan, #Leyte, #SouthernLeyte, #Biliran, #EasternSamar, #Samar and #Palawan within 12 hours.</description>
@@ -123,14 +123,6 @@
       <guid isPermaLink="false">42ece7759ecaa2ae4b752755b2085095846aef4b</guid>
       <category>Thunderstorm Advisory</category>
       <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 27 Nov 2026 09:03:42 +0000</ns1:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 4 #VISPRSD</title>
-      <description>Thunderstorm Advisory No. 4 #VISPRSD&lt;br /&gt; Issued at 02:01 PM 27 November 2026&lt;br /&gt; &lt;br /&gt; Moderate to Heavy rainshowers with lightning and strong winds are expected over #Iloilo(Bingawan, Calinog, Lambunao), #Antique(LauaAn, Barbaza, Tibiao and Culasi) within the next 1 to 2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #Aklan(Madalag, Libacao), #Capiz(Jamindan and Tapaz) which may persist within 1 to 2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides. Keep monitoring for updates.</description>
-      <pubDate>Fri, 27 Nov 2026 06:07:41 +0000</pubDate>
-      <guid isPermaLink="false">9ee9ca5d4b9bbd6e83bd44266e9a6d12299c32cb</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 27 Nov 2026 06:07:41 +0000</ns0:seen>
     </item>
   </channel>
 </rss>
