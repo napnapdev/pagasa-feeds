@@ -5,8 +5,8 @@
     <link>https://www.pagasa.dost.gov.ph/regional-forecast/minprsd</link>
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
-    <pubDate>Sat, 28 Nov 2026 05:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 28 Nov 2026 09:30:51 +0000</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 17:00:00 +0800</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:03:20 +0000</lastBuildDate>
     <item>
       <title>Special Forecast: Valid until: 11:36 AM, 29 November, 2026</title>
       <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-TAGOLOAN-11282026_1795837039.pdf</link>
@@ -23,22 +23,6 @@
       <guid isPermaLink="false">e0e76840566bfdd23625b9581523b5aeeecf4be7</guid>
       <category>Thunderstorm Advisory</category>
       <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 28 Nov 2026 03:03:38 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 2 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 2 FINAL #MINPRSD&lt;br /&gt; Issued at 07:45 PM 27 November 2026&lt;br /&gt; &lt;br /&gt; All Thunderstorm Advisories over forecast areas are now terminated. However, all are still advised to continue monitoring for updates.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 27 Nov 2026 12:03:42 +0000</pubDate>
-      <guid isPermaLink="false">432c8713eb1b50aad961913be26e19a6653a94e7</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Fri, 27 Nov 2026 12:03:42 +0000</ns0:seen>
-    </item>
-    <item>
-      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
-      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 05:45 PM 27 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #MisamisOriental(Salay, Kinoguitan, Binuangan, Sugbongcogon, Balingoan, Talisayan, Medina, GingoogCity, Claveria, Lagonglong, Balingasag, Magsaysay), #Camiguin(Sagay, Guinsiliban, Mahinog), #DavaoOriental(SanIsidro, CityOfMati, Lupon, Banaybanay and Tarragona) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; Light to Moderate to Occasionally Heavy rainshowers with lightning and strong winds are being experienced in #DavaoCity which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
-      <pubDate>Fri, 27 Nov 2026 12:03:41 +0000</pubDate>
-      <guid isPermaLink="false">9ff5b626b6aa12ab19846e546f6473eec2af70d8</guid>
-      <category>Thunderstorm Advisory</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Fri, 27 Nov 2026 12:03:42 +0000</ns1:seen>
     </item>
   </channel>
 </rss>
