@@ -6,14 +6,22 @@
     <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA MINPRSD</description>
     <language>en-ph</language>
     <pubDate>Sat, 28 Nov 2026 17:00:00 +0800</pubDate>
-    <lastBuildDate>Sat, 28 Nov 2026 13:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 15:03:18 +0000</lastBuildDate>
+    <item>
+      <title>Thunderstorm Advisory No. 1 #MINPRSD</title>
+      <description>Thunderstorm Advisory No. 1 #MINPRSD&lt;br /&gt; Issued at 10:30 PM 28 November 2026&lt;br /&gt; &lt;br /&gt; Light to Moderate rainshowers with lightning and strong winds are expected over #LanaoDelNorte(Kauswagan, IliganCity), #DinagatIslands(Cagdianao, Basilisa, SanJose, Dinagat, Loreto), #SurigaoDelNorte(Claver, Socorro, Gigaquit, Bacuag, Tubod, Mainit), #SurigaoDelSur(Carrascal, Cantilan, Cagwait, Marihatag, SanAgustin, Bayabas, Cortes, CityOfTandag and Tago) within the next 1-2 hours.&lt;br /&gt; &lt;br /&gt; The above conditions are being experienced in #DinagatIslands(Libjo, Tubajon), #SurigaoDelNorte(SurigaoCity, Sison, TaganaAn, Placer), #SurigaoDelSur(Lanuza, Carmen, Madrid) and #LanaoDelNorte(Linamon) which may persist within 1-2 hours and may affect nearby areas.&lt;br /&gt; &lt;br /&gt; All are advised to take precautionary measures against the impacts associated with these hazards which include flash floods and landslides.&lt;br /&gt; &lt;br /&gt; Keep monitoring for updates.</description>
+      <pubDate>Sat, 28 Nov 2026 15:03:36 +0000</pubDate>
+      <guid isPermaLink="false">95e7309e224d6d239cc8bf69d22a0decc3e9ce85</guid>
+      <category>Thunderstorm Advisory</category>
+      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 28 Nov 2026 15:03:36 +0000</ns0:seen>
+    </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
       <description>Thunderstorm Watch #MINPRSD&lt;br /&gt; Issued at 09:30 PM 28 November 2026&lt;br /&gt; &lt;br /&gt; Thunderstorm is MORE LIKELY to develop over #DavaoOccidental, #DavaoDelSur, #DavaoOriental, #DavaoDelNorte, #DavaoDeOro and #DavaoCity within 12 hours.</description>
       <pubDate>Sat, 28 Nov 2026 13:41:12 +0000</pubDate>
       <guid isPermaLink="false">d27df2f0b3afe71420b9a461e08c1bc38ed19202</guid>
       <category>Thunderstorm Advisory</category>
-      <ns0:seen xmlns:ns0="https://pagasa-feeds.local/ns">Sat, 28 Nov 2026 13:41:12 +0000</ns0:seen>
+      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 28 Nov 2026 13:41:12 +0000</ns1:seen>
     </item>
     <item>
       <title>Special Forecast: Valid until: 11:36 AM, 29 November, 2026</title>
@@ -22,7 +30,7 @@
       <pubDate>Sat, 28 Nov 2026 04:46:41 +0000</pubDate>
       <guid isPermaLink="true">https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/mindanao/special-forecasts/Special-Weather-Forecast-TAGOLOAN-11282026_1795837039.pdf</guid>
       <category>Special Forecast</category>
-      <ns1:seen xmlns:ns1="https://pagasa-feeds.local/ns">Sat, 28 Nov 2026 04:46:41 +0000</ns1:seen>
+      <ns2:seen xmlns:ns2="https://pagasa-feeds.local/ns">Sat, 28 Nov 2026 04:46:41 +0000</ns2:seen>
     </item>
     <item>
       <title>Thunderstorm Advisory #MINPRSD</title>
